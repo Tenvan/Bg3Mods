@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h8be32911gd9ddg47b1g97e7g3310cf161482" version="1">This item grows at LvL 6,11.</content> 
+  <content contentuid="h4646fd24g43a5g4bc8gbdb5gdda5ba4c0da1" version="1">Infernal Shar Dress</content>
+<content contentuid="h0130bed2g0452g446fgb7cagb2b8879fe0ff" version="1">Infernal Enchantment - Armor</content>
+<content contentuid="hf2b4d1f5g250ag440egb308g0b501fafad91" version="1">This armor power grows with your &lt;b&gt;&lt;LSTag Tooltip="test"&gt;level&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+10% Maximum Health.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 to All Stats, +2 AC. Fear Immunity passive.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 11:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+3 AC, &lt;b&gt;&lt;LSTag Tooltip="test"&gt;CHA modifier&lt;/LSTag&gt;&lt;/b&gt; as bonus &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Damage&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Infernal Plate&lt;/LSTag&gt;&lt;/b&gt; passive.&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Blade Ward&lt;/LSTag&gt;&lt;/b&gt; passive.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 to All Stats.</content>
+<content contentuid="h2c8bd0a4g531cg4b4agb65fg03ec37050346" version="1">Blade Ward</content>
+<content contentuid="h3f34a5dag91b0g4100g9bb0g7628ab687b16" version="1">Gives resistance to all weapons</content>
+<content contentuid="h0f80d014gbacdg427cg979ag2e184424c48d" version="1">Blade Ward</content>
+<content contentuid="h09d449d2g32b2g4b7bg84dfg89a89e5e5ce8" version="1">Gives resistance to All weapons</content>
+<content contentuid="h819da960ge757g4272ga9fcg50ed53b5bb72" version="1">Fear Immunity</content>
+<content contentuid="hce9b11e9g464cg4cf4gb219gc03900350a98" version="1">You can't be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, and cannot be afflicted with other emotion-altering conditions.</content>
+<content contentuid="h84520562ga025g4a0bg8ef2g39194abf1a5f" version="1">Infernal Plate</content>
+<content contentuid="h6f6e1a63g5d9bg4c10gb29egef169640aecf" version="1">You have &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Fire damage and cannot be &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burned&lt;/LSTag&gt;. You take 3 less damage from all sources.</content>
+<content contentuid="hd6611ef0gea89g421bgbbf2g596a7c376a0a" version="1">Hell Rogue</content>
+<content contentuid="hd49e557cg3c2fg4575ga3d2g9a804a9a1b0b" version="1">The wearer has a +2 bonus to Initiative Rolls and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+<content contentuid="h850df066g5774g4326g9b06g73df80c4edda" version="1">Infernal Rich Dress</content>
+<content contentuid="h275b661bge112g4c51g82adg71ca8c48247c" version="1">This item grows at LvL 6,11.</content>
+<content contentuid="hec2e2a27gb350g43a2ga519g3d1f77fa68fe" version="1">Infernal Enchantment - Helmet</content>
+<content contentuid="h5cfac7d8gfb3ag4f6dg9542g4605be6c3bfe" version="1">This helmet power grows with your &lt;b&gt;&lt;LSTag Tooltip="test"&gt;level&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;You can see &lt;b&gt;&lt;LSTag Tooltip="test"&gt;invisible&lt;/LSTag&gt;&lt;/b&gt; in 9m radius.&lt;br&gt;+3 Maximum Health.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;Increased weapon and unarmed attacks with [1].&lt;br&gt;Infernal Sight passive. Saving trows +2.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 11:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+ 1 WIS, +1 INT.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;Increased weapon and unarmed attacks with [2].</content>
+
+<content contentuid="h9a047383g25ecg4264g97fcg88a221996a97" version="1">Infernal Sight</content>
+<content contentuid="h4b303dc7gf539g4437ga9c3g4b9a00ccc96c" version="1">You can see normally in &lt;b&gt;&lt;LSTag Tooltip="test"&gt;darkness&lt;/LSTag&gt;&lt;/b&gt;, both magical and non-magical, to a distance of &lt;b&gt;&lt;LSTag&gt;24 m&lt;/LSTag&gt;&lt;/b&gt;.You cannot be &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Blinded&lt;/LSTag&gt;&lt;/b&gt;.</content>
+<content contentuid="h378497b7gfd42g42abg9a99gf5dbbc19fde5" version="1">Infernal Enchantment - Boots</content>
+<content contentuid="h311a8995g0ff3g4122g863dg6a537f00bc6c" version="1">This boots power grows with your &lt;b&gt;&lt;LSTag Tooltip="test"&gt;level&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 AC.&lt;br&gt;Infernal boots that allow the wearer &lt;b&gt;&lt;LSTag Tooltip="test"&gt;great mobility&lt;/LSTag&gt;&lt;/b&gt; and an &lt;b&gt;&lt;LSTag Tooltip="test"&gt;unwavering stance&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;Unlocks Infernal crawler teleport.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LVL 11:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+ 1 CHA, CON, AC.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+ 1 VI Spell Slot.</content>
+<content contentuid="hb23de0b2g9fa4g47c3gb15cg45ed2d880af5" version="1">Infernal Crawler</content>
+<content contentuid="hdb15adaag3325g4680gbf7egdf92d4872a69" version="1">Infernal Hands</content>
+<content contentuid="h297ae6aeg0f80g4dddg8fa4ga37f1f2349c8" version="1">Gives 1-4 bonus weapon and unarmed fire damage.</content>
+<content contentuid="hcc79c339g1b12g4bd6g90d2gf3332a422c5c" version="1">Lesser Arming Enchantment</content>
+<content contentuid="h1605824fga5c2g43bbgbbecgd48d95552f4c" version="1">Gain a +1 bonus to attack rolls with weapons, cantrips and spells.</content>
+<content contentuid="he0bdfe8eg1d0eg4b5bg972age20db257b5a5" version="1">Infernal Enchantment - Gloves</content>
+<content contentuid="h61715edfg2e51g41a7gab5dg738288d1cbf5" version="1">This gloves power grows with your &lt;b&gt;&lt;LSTag Tooltip="test"&gt;level&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+3 Maximum Health.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;Additional +1 bonus to attack rolls with weapons, cantrips and spells.&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;INT modifier&lt;/LSTag&gt;&lt;/b&gt; as bonus &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Fire Damage&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 11:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 STR, DEX, AC.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 VI Spell Slot.</content>
+<content contentuid="h85245c06gb721g46f1ga4a2g69d2578fd206" version="1">Infernal Enchantment - Cloak</content>
+<content contentuid="h525d2d1eg0ccbg4937g8dfeg3fc162634879" version="1">This cloak power grows with your &lt;b&gt;&lt;LSTag Tooltip="test"&gt;level&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+15 to all &lt;b&gt;&lt;LSTag Tooltip="test"&gt;INT, WIS, CHA&lt;/LSTag&gt;&lt;/b&gt; skills.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 to all &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Stats&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;Unlocks &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Greater Invisible&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 11:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 to all &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Stats&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 to all &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Stats&lt;/LSTag&gt;&lt;/b&gt;.</content>
+<content contentuid="hcf8bca4bg4f46g4156g8fd9g2063d815bf23" version="1">Infernal Rich Footwear</content>
+<content contentuid="h5185a0d4g9de6g41a1g8b1eg8aab370f444c" version="1">This item grows at LvL 6,11.</content>
+<content contentuid="hb5215b42g9beag4af7g81c5gd3bc9ef0809d" version="1">Infernal Purelover Footwear</content>
+<content contentuid="hac0c0ddfgd5cag429dga5ccga8c79ca0a1c9" version="1">This item grows at LvL 6,11.</content>
+<content contentuid="h2878fe02g9911g4738ga049gcfb9b8d5437e" version="1">Infernal Infernal Hands</content>
+<content contentuid="hedbad2b7gce6eg41b5g9926gb1bfc255c6e8" version="1">This item grows at LvL 6,11.</content>
+<content contentuid="heef5920egb124g43a0gba43g4937f0eab2ef" version="1">Infernal Nightsong Amulet Cloak</content>
+<content contentuid="h7a5c889bgdc2eg4455g9253g4b2f2ab332f4" version="1">This item grows at LvL 6,11.</content>
+<content contentuid="h42c9f5a7geb7fg45cdg995fgd86ed0a93c22" version="1">Infernal Nightsong Amulet Cloak Silv</content>
+<content contentuid="hcbd806d7gf7afg428fgb542gcedd181eb94b" version="1">This item grows at LvL 6,11.</content>
+<content contentuid="h1f10f878g0d1ag4427g9600gfbfa78f3db50" version="1">Infernal Shar Statute</content>
+<content contentuid="h7b9696d5g54f4g4b31gaed0gb7d4bd4d4967" version="1">Infernal Eyes</content>
+<content contentuid="h1a889b34gaca0g44c8gb56eg799fd6e71638" version="1">Gives III spell slot</content>
+<content contentuid="h236361c2g1c7dg400ag9eecge9b8a1596b57" version="1">Stop Eye Glow</content>
+<content contentuid="ha62a33dcg70ebg402fgbb47g5be6b3fafc4d" version="1">Your eyes won't glow anymore and you lost bonus III spellslot</content>
+<content contentuid="h283b5b78g2a71g4684g9e0eg28b2e9be89fb" version="1">Stop Infernal Hands</content>
+<content contentuid="h67eb9264g27dfg4969g8acbg772c24b6c4f4" version="1">Your hands won't burn anymore and you lost bonus damage</content>
+<content contentuid="h1cf28772g0171g46b7g8d0bg15ea2078c323" version="1">Infernal ShadowHearts outfit</content>
+<content contentuid="h826f44f5gfa2dg4031g88f4g9116033eaaad" version="1">This item grows at LvL 6,11.</content>
+<content contentuid="h44318e94g92d7g449bg856bgc8715851f8d9" version="1">Infernal Pantless Elven Chainmail</content>
+<content contentuid="ElvenNN" version="1">This item grows at LvL 6,11.</content>
+<content contentuid="h82578aa3gb5edg4dfeg98d8g96cb23d4054a" version="1">Infernal Pantsless Karlah Outfit</content>
+<content contentuid="h17262835g4daag4f09g8d9bg23f2a93df076" version="1">This item grows at LvL 6,11.</content>
+<content contentuid="h8d42f9b7g058fg4b8egb0b6g7d01b91c5f43" version="1">Infernal Death Knight Boots</content>
+<content contentuid="h5fcd9cb6g467ag4002ga0c2g28c9d960aa10" version="1">Infernal Death Knight Armor</content>
+<content contentuid="h4478d6aegd8f2g44b0gb4ceg38ab22b9decb" version="1">Infernal Gortash Gloves</content>
+<content contentuid="ha4a11686g800dg4767g846cg970d0104da34" version="1">Infernal Gortash Robe</content>
+<content contentuid="hbe8fbd18g91f4g4fcaga94cg030758a67abf" version="1">Infernal Mizora Dress</content>
+<content contentuid="h2036da8dg973eg4e99gaf20gc0c5b7d27539" version="1">Infernal Nymph Dress</content>
+<content contentuid="he9ac39d3g937fg41c5gb68cg15df36580469" version="1">Infernal Mizora Cloak</content>
+<content contentuid="h9ad32ae4g3280g4b40g8b2eg995d90c34dfc" version="1">Infernal Wizard Robe</content>
+<content contentuid="h5452037bg0b83g48c3gb9d2g801f8de047ce" version="1">Infernal Black Leather Armor</content>
+<content contentuid="h7f16ec7bgf64bg4b95g8855g59defab9077c" version="1">Infernal ocean Queen Dress</content>
+</contentList>

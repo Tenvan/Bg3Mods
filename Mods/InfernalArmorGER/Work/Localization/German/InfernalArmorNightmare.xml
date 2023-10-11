@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h8be32911gd9ddg47b1g97e7g3310cf161482" version="1">Dieser Gegenstand wächst mit LvL 6,11.</content>
+  <content contentuid="h4646fd24g43a5g4bc8gbdb5gdda5ba4c0da1" version="1">Höllisches Shar-Kleid</content>
+  <content contentuid="h0130bed2g0452g446fgb7cagb2b8879fe0ff" version="1">Höllische Verzauberung - Rüstung</content>
+  <content contentuid="hf2b4d1f5g250ag440egb308g0b501fafad91" version="1">Diese Rüstungsstärke wächst mit Ihrem &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Level&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt; +10 % maximale Gesundheit.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 auf alle Werte, +2 AC. Angstimmunität passiv.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 11:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+3 AC, &lt;b&gt;&lt;LSTag Tooltip="test"&gt;CHA-Modifikator&lt;/LSTag&gt;&lt;/ b&gt; als Bonus &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Schaden&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Höllenplatte&lt;/LSTag&gt;&lt;/b&gt; passiv .&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Klingenschutz&lt;/LSTag&gt;&lt;/b&gt; passiv.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt; +1 auf alle Statistiken.</content>
+  <content contentuid="h2c8bd0a4g531cg4b4agb65fg03ec37050346" version="1">Klingenwarte</content>
+  <content contentuid="h3f34a5dag91b0g4100g9bb0g7628ab687b16" version="1">Verleiht Resistenz gegen alle Waffen</content>
+  <content contentuid="h0f80d014gbacdg427cg979ag2e184424c48d" version="1">Klingenwarte</content>
+  <content contentuid="h09d449d2g32b2g4b7bg84dfg89a89e5e5ce8" version="1">Verleiht Widerstand gegen alle Waffen</content>
+  <content contentuid="h819da960ge757g4272ga9fcg50ed53b5bb72" version="1">Immunität gegen Furcht</content>
+  <content contentuid="hce9b11e9g464cg4cf4gb219gc03900350a98" version="1">Du kannst nicht &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;erschrocken&lt;/LSTag&gt; sein und kannst auch nicht von anderen emotionsverändernden Zuständen befallen sein.</content>
+  <content contentuid="h84520562ga025g4a0bg8ef2g39194abf1a5f" version="1">Höllische Platte</content>
+  <content contentuid="h6f6e1a63g5d9bg4c10gb29egef169640aecf" version="1">Du hast &lt;LSTag Tooltip="Resistant" &gt;Resistenz&lt;/LSTag&gt; gegen Feuerschaden und kannst nicht &lt;LSTag Type="Status" Tooltip="BURNING"&gt;verbrannt&lt;/LSTag&gt; werden. Du erleidest 3 weniger Schaden aus allen Quellen.</content>
+  <content contentuid="hd6611ef0gea89g421bgbbf2g596a7c376a0a" version="1">Höllenschurke</content>
+  <content contentuid="hd49e557cg3c2fg4575ga3d2g9a804a9a1b0b" version="1">Der Träger hat einen Bonus von +2 auf Initiativwürfe und &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Geschicklichkeit &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="h850df066g5774g4326g9b06g73df80c4edda" version="1">Höllisch reiches Kleid</content>
+  <content contentuid="h275b661bge112g4c51g82adg71ca8c48247c" version="1">Dieser Gegenstand wächst mit LvL 6,11.</content>
+  <content contentuid="hec2e2a27gb350g43a2ga519g3d1f77fa68fe" version="1">Höllische Verzauberung - Helm</content>
+  <content contentuid="h5cfac7d8gfb3ag4f6dg9542g4605be6c3bfe" version="1">Diese Helmstärke wächst mit deinem &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Level&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt; Du kannst &lt;b&gt;&lt;LSTag Tooltip="test"&gt;unsichtbar&lt;/LSTag&gt;&lt;/b&gt; in einem Radius von 9 m sehen.&lt;br&gt;+3 Maximale Gesundheit.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag &gt;&lt;/b&gt;&lt;br&gt;Verstärkte Waffen- und unbewaffnete Angriffe mit [1].&lt;br&gt;Höllensicht passiv. Rettungswürfe +2.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 11:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+ 1 WIS, +1 INT.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/ LSTag&gt;&lt;/b&gt;&lt;br&gt;Erhöhte Waffen- und unbewaffnete Angriffe mit [2].</content>
+  <content contentuid="h9a047383g25ecg4264g97fcg88a221996a97" version="1">Höllischer Ausblick</content>
+  <content contentuid="h4b303dc7gf539g4437ga9c3g4b9a00ccc96c" version="1">Du kannst in &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Dunkelheit&lt;/LSTag&gt;&lt;/b&gt; sowohl magisch als auch nicht magisch bis zu einer Entfernung von &lt;b&gt;&lt;LSTag&gt;24 m&lt;/LSTag&gt;&lt; normal sehen /b&gt;.Du kannst nicht &lt;b&gt;&lt;LSTag Tooltip="test"&gt;geblendet&lt;/LSTag&gt;&lt;/b&gt; sein.</content>
+  <content contentuid="h378497b7gfd42g42abg9a99gf5dbbc19fde5" version="1">Höllische Verzauberung - Stiefel</content>
+  <content contentuid="h311a8995g0ff3g4122g863dg6a537f00bc6c" version="1">Diese Stiefelstärke wächst mit deinem &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Level&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt; +1 AC.&lt;br&gt;Höllenstiefel, die dem Träger &lt;b&gt;&lt;LSTag Tooltip="test"&gt;große Beweglichkeit&lt;/LSTag&gt;&lt;/b&gt; und eine &lt;b&gt;&lt;LSTag Tooltip="test"&gt;unerschütterliche Haltung&lt; ermöglichen /LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;Schaltet den Telepor des Höllenkriechers frei.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LVL 11:&lt;/ LSTag&gt;&lt;/b&gt;&lt;br&gt;+ 1 CHA, CON, AC.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+ 1 VI-Zauberslot.</content>
+  <content contentuid="hb23de0b2g9fa4g47c3gb15cg45ed2d880af5" version="1">Höllischer Kriecher</content>
+  <content contentuid="hdb15adaag3325g4680gbf7egdf92d4872a69" version="1">Höllische Hände</content>
+  <content contentuid="h297ae6aeg0f80g4dddg8fa4ga37f1f2349c8" version="1">Gewährt einen 1-4 Bonus auf Waffen- und unbewaffneten Feuerschaden.</content>
+  <content contentuid="hcc79c339g1b12g4bd6g90d2gf3332a422c5c" version="1">Geringere Rüstungsverzauberung</content>
+  <content contentuid="h1605824fga5c2g43bbgbbecgd48d95552f4c" version="1">Erhalte einen Bonus von +1 auf Angriffswürfe mit Waffen, Zaubersprüchen und Zaubersprüchen.</content>
+  <content contentuid="he0bdfe8eg1d0eg4b5bg972age20db257b5a5" version="1">Höllische Verzauberung - Handschuhe</content>
+  <content contentuid="h61715edfg2e51g41a7gab5dg738288d1cbf5" version="1">Die Kraft dieser Handschuhe wächst mit deinem &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Level&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt; +3 maximale Gesundheit.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;Zusätzlicher Bonus von +1 auf Angriffswürfe mit Waffen, Zaubertricks und Zaubersprüchen.&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;INT-Modifikator&lt;/LSTag&gt;&lt;/b&gt; als Bonus &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Feuerschaden&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 11:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 STR, DEX, AC.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 VI-Zauberslot.</content>
+  <content contentuid="h85245c06gb721g46f1ga4a2g69d2578fd206" version="1">Höllische Verzauberung - Umhang</content>
+  <content contentuid="h525d2d1eg0ccbg4937g8dfeg3fc162634879" version="1">Diese Tarnkraft wächst mit deinem &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Level&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt; +15 auf alle &lt;b&gt;&lt;LSTag Tooltip="test"&gt;INT, WIS, CHA&lt;/LSTag&gt;&lt;/b&gt; Fertigkeiten.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag&gt;&lt;/b&gt; &lt;br&gt;+1 für alle &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Statistiken&lt;/LSTag&gt;&lt;/b&gt;.&lt;br&gt;Schaltet &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Größeres Unsichtbares&lt;/LSTag&gt;&lt; frei /b&gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 11:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 für alle &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Statistiken&lt;/LSTag&gt;&lt;/b &gt;.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 für alle &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Statistiken&lt;/LSTag&gt;&lt;/b&gt;.</content>
+  <content contentuid="hcf8bca4bg4f46g4156g8fd9g2063d815bf23" version="1">Höllisch reiche Schuhe</content>
+  <content contentuid="h5185a0d4g9de6g41a1g8b1eg8aab370f444c" version="1">Dieser Gegenstand wächst mit LvL 6,11.</content>
+  <content contentuid="hb5215b42g9beag4af7g81c5gd3bc9ef0809d" version="1">Höllische Purelover-Schuhe</content>
+  <content contentuid="hac0c0ddfgd5cag429dga5ccga8c79ca0a1c9" version="1">Dieser Gegenstand wächst mit LvL 6,11.</content>
+  <content contentuid="h2878fe02g9911g4738ga049gcfb9b8d5437e" version="1">Höllische Höllenhände</content>
+  <content contentuid="hedbad2b7gce6eg41b5g9926gb1bfc255c6e8" version="1">Dieser Gegenstand wächst mit LvL 6,11.</content>
+  <content contentuid="heef5920egb124g43a0gba43g4937f0eab2ef" version="1">Höllischer Nachtgesang Amulettumhang</content>
+  <content contentuid="h7a5c889bgdc2eg4455g9253g4b2f2ab332f4" version="1">Dieser Gegenstand wächst mit LvL 6,11.</content>
+  <content contentuid="h42c9f5a7geb7fg45cdg995fgd86ed0a93c22" version="1">Höllischer Nachtgesang Amulettumhang Silber</content>
+  <content contentuid="hcbd806d7gf7afg428fgb542gcedd181eb94b" version="1">Dieser Gegenstand wächst mit LvL 6,11.</content>
+  <content contentuid="h1f10f878g0d1ag4427g9600gfbfa78f3db50" version="1">Höllisches Shar Gesetz</content>
+  <content contentuid="h7b9696d5g54f4g4b31gaed0gb7d4bd4d4967" version="1">Höllische Augen</content>
+  <content contentuid="h1a889b34gaca0g44c8gb56eg799fd6e71638" version="1">Gewährt 3 Zauberslots</content>
+  <content contentuid="h236361c2g1c7dg400ag9eecge9b8a1596b57" version="1">Augenglühen beenden</content>
+  <content contentuid="ha62a33dcg70ebg402fgbb47g5be6b3fafc4d" version="1">Deine Augen leuchten nicht mehr und du hast den Bonus auf 3 Zauberlots verloren.</content>
+  <content contentuid="h283b5b78g2a71g4684g9e0eg28b2e9be89fb" version="1">Höllische Hände stoppen</content>
+  <content contentuid="h67eb9264g27dfg4969g8acbg772c24b6c4f4" version="1">Deine Hände brennen nicht mehr und du hast den Bonusschaden verloren.</content>
+  <content contentuid="h1cf28772g0171g46b7g8d0bg15ea2078c323" version="1">Höllisches SchattenHerz-Outfit</content>
+  <content contentuid="h826f44f5gfa2dg4031g88f4g9116033eaaad" version="1">Dieser Gegenstand wächst mit LvL 6,11.</content>
+  <content contentuid="h44318e94g92d7g449bg856bgc8715851f8d9" version="1">Höllisches hosenloses Elfenkettenhemd</content>
+  <content contentuid="ElvenNN" version="1">Dieser Gegenstand wächst mit LvL 6,11.</content>
+  <content contentuid="h82578aa3gb5edg4dfeg98d8g96cb23d4054a" version="1">Höllisches hosenloses Karlah Outfit</content>
+  <content contentuid="h17262835g4daag4f09g8d9bg23f2a93df076" version="1">Dieser Gegenstand wächst mit LvL 6,11.</content>
+  <content contentuid="h8d42f9b7g058fg4b8egb0b6g7d01b91c5f43" version="1">Höllische Todesritter-Stiefel</content>
+  <content contentuid="h5fcd9cb6g467ag4002ga0c2g28c9d960aa10" version="1">Höllische Todesritter-Rüstung</content>
+  <content contentuid="h4478d6aegd8f2g44b0gb4ceg38ab22b9decb" version="1">Höllische Gortash-Handschuhe</content>
+  <content contentuid="ha4a11686g800dg4767g846cg970d0104da34" version="1">Höllische Gortash-Robe</content>
+  <content contentuid="hbe8fbd18g91f4g4fcaga94cg030758a67abf" version="1">Höllisches Mizora-Kleid</content>
+  <content contentuid="h2036da8dg973eg4e99gaf20gc0c5b7d27539" version="1">Höllisches Nymphenkleid</content>
+  <content contentuid="he9ac39d3g937fg41c5gb68cg15df36580469" version="1">Höllischer Mizora Umhang</content>
+  <content contentuid="h9ad32ae4g3280g4b40g8b2eg995d90c34dfc" version="1">Höllische Zauberer Robe</content>
+  <content contentuid="h5452037bg0b83g48c3gb9d2g801f8de047ce" version="1">Höllische schwarze Lederrüstung</content>
+  <content contentuid="h7f16ec7bgf64bg4b95g8855g59defab9077c" version="1">Höllisches Ozeanköniginnenkleid</content>
+  <content contentuid="h85bf3c38g6f0fg47cfg9eb0gd8cc114f2d3f" version="1">Siehe Unsichtbares</content>
+  <content contentuid="h438e7365gb6c1g4789g9130g621572bea5c4" version="3">Kann &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;unsichtbare&lt;/LSTag&gt; Kreaturen innerhalb von [1] sehen. Kreaturen müssen einen Geschicklichkeits-&lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; bestehen, sonst verlieren sie ihre Unsichtbarkeit.</content>
+  <content contentuid="h0ac61fa2g27cdg489fga7edgab73175672a3" version="1">Höllischer Orin-Kopf</content>
+  <content contentuid="hb488ab82g849fg4de9g929agb82e75a4ff0c" version="1">INFERNAL ARMOR PACK NIGHTMARE</content>
+  <content contentuid="h518bf107g6985g40b7ga356g843a4551e0ad" version="1">Höllische Orin-Rüstung</content>
+  <content contentuid="hd5739a7eg944eg4085ga2dfg50a26ae0eef1" version="1">Höllische Orin-Handschuhe</content>
+  <content contentuid="h0c147e34gcb15g45c8ga5f4g5c5ff05d206a" version="1">Höllische Orin-Stiefel</content>
+</contentList>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h2834bfccge335g497cgb08eg919367bba864" version="1">Verbündete haben einen Bonus von 1W6 auf Angriffswürfe und Rettungswürfe für Charisma, Weisheit und Intelligenz.</content>
+  <content contentuid="hg434bfccge335g497cgb08eg919367bba890" version="1">Betroffene Gegner haben einen Malus von 1W10 auf Charisma-, Weisheits- und Intelligenz-Rettungswürfe. Sie erleiden außerdem zusätzlich 1–8 nekrotischen Schaden.</content>
+  <content contentuid="h8b6f7afag3ad4g40bcgbf85g4dd940204cfb" version="1">Uralter Funke</content>
+  <content contentuid="hd9014363ge687g40d8gab36g6f499ebfbe16" version="1">Ein legendäres Wissen verleiht dir +10 auf alle Geschicklichkeits-, Intelligenz-, Weisheits- und Charisma-Fähigkeiten</content>
+  <content contentuid="h8b6f7afag3ad4g40bcgbf85g4dd940204cfb" version="1">Infinity Test Sooka</content>
+  <content contentuid="hf51e2278g6704g44begbb0cg5d01d730b7b4" version="1">Bluyad testen</content>
+  <content contentuid="he66817c5gabb1g4804gbd99g464a8b2af0a6" version="1">Unendlichkeitsstrahl</content>
+  <content contentuid="hab5addaeg7cc9g4acdgb4b9gbc766c7dfb6a" version="1">Unendlichkeitsstrahl umformen</content>
+  <content contentuid="hea6f2af7g6251g4fddgb2d3g5e67d954e1c0" version="1">Unendliche Blitzbombe</content>
+  <content contentuid="h54649d6egdfeeg4313ga418gf4f6de0a2fa9" version="1">Unendlicher Blitzpfeil</content>
+  <content contentuid="h2b8d3a0dgdf74g4cb2gac72gd6e18debb6c0" version="1">Unendlicher strahlender Pfeil</content>
+  <content contentuid="h669519dbg8277g4835ga6d0gbd871821f0ab" version="1">Verursacht [1] und explodiert in einem Strahl strahlender Energie. Von diesem Bolzen getroffene Ziele erleiden möglicherweise zusätzlich [2] und erhalten den Strahlenkugel-Debuff.</content>
+  <content contentuid="hdaeb723egac4bg4803gb4ccg45a5f7abfd7a" version="1">Unendlicher Feuerpfeil</content>
+  <content contentuid="haad49d58g1adag4a4fg8312g293fe8894627" version="1">Riesige Unendlichkeitswaffe</content>
+  <content contentuid="h21cadd91g1129g46adgb3c4gea481a8d29f0" version="1">Die riesige Unendlichkeitswaffe ist ein echter &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Schild&lt;/LSTag&gt;&lt;/b&gt; und schützt den Weilder.&lt;br&gt;
+&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b &gt;&lt;br&gt;+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;STR, CON.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 4:&lt;/LSTag&gt;&lt;/b&gt;&lt; br&gt;
+Zusätzlich [1].&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;5 %&lt;/LSTag&gt;&lt;/b&gt; Max. HP.&lt;br&gt;
+&lt;b&gt;&lt;LSTag&gt;LvL 8:&lt;/LSTag&gt; &lt;/b&gt;&lt;br&gt;+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;STR, CON.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Psychischer Schadenswiderstand. &lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;5 %&lt;/LSTag&gt;&lt;/b&gt; Max. HP.&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Alle Schadensreduzierung 3.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag Tooltip="test"&gt;5 %&lt;/ LSTag&gt;&lt;/b&gt; Max. HP.&lt;br&gt;+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;VI-Zauberslot.&lt;/LSTag&gt;&lt;/b&gt;</content>
+  <content contentuid="hd115bf87g859dg4ec7g9137g65abf39449df" version="1">Zweihand-Unendlichkeits-Fernkampfwaffe</content>
+  <content contentuid="h0c651f9cg7245g4c15ga826ge18da8eba860" version="1">Die doppelhändige Infinity-Fernkampfwaffe steigt mit deinem Fortschritt.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;DEX, INT.&lt; /LSTag&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 4:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 Rollbonus auf &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Angriff und Zauber. &lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+2 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;III Zauberslot.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 8:&lt;/ LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;DEX, INT.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt; Kritische Chance.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+2 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;VI-Zauberslot .&lt;/LSTag&gt;&lt;/b&gt;</content>
+  <content contentuid="hffc0aa59gb469g4e17g8df4gda3a17bf0115" version="1">Einhändige Infinity-Fernkampfwaffe</content>
+  <content contentuid="hf994a8b8g3c45g46b3gb946g9104c2fb7815" version="1">Die einhändige Infinity-Fernkampfwaffe steigt mit deinem Fortschritt.&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;DEX.&lt;/LSTag &gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 4:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Kritische Chance.&lt;/LSTag&gt;&lt;/ b&gt;&lt;br&gt;+2 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;III Zauberslot.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 8:&lt;/LSTag&gt;&lt;/b&gt; &lt;br&gt;+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;WIS.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 Rollbonus auf &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Angriff und Zauber.&lt; /LSTag&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;VI-Zauberslot.&lt;/LSTag &gt;&lt;/b&gt;</content>
+  <content contentuid="hc263b868g5b02g48cegb232g3d4b2505ab9e" version="1">Unendliche Handarmbrust</content>
+  <content contentuid="ha606c26dg5662g440dg960fgd1b93abd928f" version="1">Unendlichkeit Mael Langbogen</content>
+  <content contentuid="h399c78d0ge330g417aga6cbgd641a051cafe" version="1">Unendlichkeitsbogen</content>
+  <content contentuid="hacc4ccdegff46g4368gb31dgfe34bbb25274" version="1">Unendliche riesige Armbrust</content>
+  <content contentuid="h3cc04efdg5c41g4b0dg90c9g20a70cb0d65e" version="1">Unendlichkeitsarmbrust</content>
+  <content contentuid="hf8905888g1bb7g43b1gabffgf30cf9c6c0b4" version="1">Kann einen &lt;LSTag Type="Spell" Tooltip="Infinity_SunbeamShot_Recreate"&gt;Unendlichkeitsstrahl&lt;/LSTag&gt; abfeuern.</content>
+  <content contentuid="h534220b5g941eg45f2ga573g061f37e87128" version="3">Unendlichkeitsstrahl</content>
+  <content contentuid="he66817c5gabb1g4804gbd99g464a8b2af0a6" version="1">Infinity Ray</content>
+  <content contentuid="he66817c5gabb1g4804gbd99g464a8b2af0a6" version="1">Infinity Ray</content>
+  <content contentuid="he66817c5gabb1g4804gbd99g464a8b2af0a6" version="1">Infinity Ray</content>
+</contentList>

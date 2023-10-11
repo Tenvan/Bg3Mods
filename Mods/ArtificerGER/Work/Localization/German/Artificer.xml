@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h777777777777777777777777777777777777" version="1">Debug (GER)</content>
+  <content contentuid="h777777777777777777777777777777777778" version="1">Debug [1] (GER)</content>
+  <content contentuid="h177777777777777777777777777777777777" version="1">Debug: BOOST Aura des Handwerkers</content>
+  <content contentuid="h277777777777777777777777777777777777" version="1">Debug: BOOST Aura des Handwerkers - Passive (Technisch)</content>
+  <content contentuid="h377777777777777777777777777777777777" version="1">Debug: BOOST Aura des Handwerkers - Passive</content>
+  <content contentuid="h477777777777777777777777777777777777" version="1">Debug: Passive Aura des Handwerker - Technisch</content>
+  <content contentuid="h577777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck (GER)</content>
+  <content contentuid="h677777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck L10 (GER)</content>
+  <content contentuid="h877777777777777777777777777777777777" version="1">Debug: Passive Aura des Handwerker - Passive (Technisch) - Self</content>
+  <content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Robuste Rüstung</content>
+  <content contentuid="heecbcd55ged1dg4a44gaf30g3614ba7c5788" version="1">Arbeiter Rüstung</content>
+  <content contentuid="h463018ecgbd05g4002g9584gcfc750efe37a" version="1">Eine robuste Rüstung, die sowohl zum Kämpfen als auch zum Bauen geeignet ist.</content>
+  <content contentuid="66523fb3deaa14de1766304e0911fbc49ae66" version="1">Handwerker</content>
+  <content contentuid="77523fb3deaa14de1766304e0911fbc49ae77" version="1">Als meisterhafte Erfinder nutzen Handwerker Einfallsreichtum und Magie, um außergewöhnliche Fähigkeiten in Gegenständen freizusetzen. Sie betrachten Magie als ein komplexes System, das darauf wartet, entschlüsselt und für ihre Zaubersprüche und Erfindungen genutzt zu werden. In den folgenden Abschnitten findest du alles, was du brauchst, um einen dieser Meistererfinder zu spielen.</content>
+  <content contentuid="12344fb3deaa14de1766304e0911fbc49ae66" version="1">Fachwissen in Sachen Fingerfertigkeit</content>
+  <content contentuid="12345fb3deaa14de1766304e0911fbc49ae66" version="1">Du erhältst Übung und Fachwissen in Fingerfertigkeit Prüfungen.</content>
+  <content contentuid="77877fb3deaa14de1766304e0911fbc49ae66" version="1">Aufgerundete Zauberer-Stufe</content>
+  <content contentuid="77899fb3deaa14de1766304e0911fbc49ae66" version="1">Die Stufen des Handwerkers geben zusätzliche Zauberslots im Vergleich zu anderen Halbzauberern, wenn sie eine Multiklasse bilden.</content>
+  <content contentuid="34523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchimist</content>
+  <content contentuid="35523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemisten Zaubersprüche</content>
+  <content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">Du hast immer einige Zauber vorbereitet, nachdem du bestimmte Stufen in dieser Klasse erreicht hast. Diese Zauber zählen für dich als Handwerkszauber, aber sie zählen nicht für die Anzahl der Handwerkszauber, die du vorbereitest.</content>
+  <content contentuid="45523fb3deaa14de1766304e0911fbc49ae44" version="1">Ein Alchemist ist ein Experte in der Kombination von Reagenzien, um mystische Wirkungen zu erzielen. Alchemisten nutzen ihre Kreationen, um Leben zu spenden und zu entziehen. Die Alchemie ist die älteste Handwerkstradition und ihre Vielseitigkeit wird seit jeher in Kriegs- und Friedenszeiten geschätzt.</content>
+  <content contentuid="h4e69aa0dg1091g4fb8g827egc7228b21984d" version="1">Experimentelles Elixier der Heilung</content>
+  <content contentuid="h1169aa0dg1091g4fb8g827egc7228b21984d" version="1">Verbessertes experimentelles Elixier der Heilung</content>
+  <content contentuid="hbafa6e42g496cg44cagb46ag60d89c53a1e2" version="1">Ein rotes Elixier, das ein warmes Licht erzeugt.</content>
+  <content contentuid="haf811b28g702fg4789g95ddg409e97013f15" version="1">Der Trinkende erhält einen Trefferpunkt zurück.</content>
+  <content contentuid="h881a9a60g86efg4d27g938bg44ccdfa66007" version="1">Experimentelles Elixier der Schnelligkeit</content>
+  <content contentuid="h88119a60g86efg4d27g938bg44ccdfa66007" version="1">Verbessertes experimentelles Elixier der Schnelligkeit</content>
+  <content contentuid="h69116960g86efg4d27g938bg44ccdfa66007" version="1">Die Bewegungsgeschwindigkeit der Kreatur wird verdoppelt.</content>
+  <content contentuid="h89a59cebg1b81g4c2dg85cbg901a50053f27" version="1">Ein grünes Elixier, das flackerndes Licht erzeugt.</content>
+  <content contentuid="h471f3f69g5ee6g40f3g9e6egfe82bcf335a9" version="1">Die Gehgeschwindigkeit des Trinkenden erhöht sich.</content>
+  <content contentuid="he840f63fgd75eg459egbaa0gd40813a27ad1" version="1">Experimentelles Elixier der Resilienz</content>
+  <content contentuid="h1140f63fgd75eg459egbaa0gd40813a27ad1" version="1">Verbessertes experimentelles Elixier der Resilienz</content>
+  <content contentuid="h08b69ae1gf738g45f0g8390gba1932d4d0da" version="1">Ein violettes Elixier, das ein beruhigendes Licht erzeugt.</content>
+  <content contentuid="hc54f8986ge0e9g4129g9641ga485f5688c75" version="1">Der Trinkende erhält einen Bonus auf AC.</content>
+  <content contentuid="hdf075fecg7f0bg4c71gb53cge98be513a083" version="1">Experimentelles Elixier des Mutes</content>
+  <content contentuid="h11075fecg7f0bg4c71gb53cge98be513a083" version="1">Verbessertes experimentelles Elixier des Mutes</content>
+  <content contentuid="he260c9deg7786g4fe1gba1cg78ffb2b44c90" version="1">Ein rosa Elixier, das ein beruhigendes Licht erzeugt.</content>
+  <content contentuid="h1c005ea1g2c9dg4796g8997g2fd5ca6f03d2" version="1">Der Trinkende erhält einen vorübergehenden Bonus auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; und &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="h0cf06693gf819g4d28g9a80g335e3824f691" version="1">Experimentelles Flugelixier</content>
+  <content contentuid="h11f06693gf819g4d28g9a80g335e3824f691" version="1">Verbessertes experimentelles Flugelixier</content>
+  <content contentuid="hc624c03eg6925g4a0dg8955gd270d880ca11" version="1">Ein blaues Elixier, das ein traumhaftes Licht erzeugt.</content>
+  <content contentuid="he767a3ddg1ae5g4e7dg8fa9g7644692426ce" version="1">Der Trinkende kann für einen begrenzten Zeitraum fliegen.</content>
+  <content contentuid="h6b8d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Experimentelles Elixier herstellen</content>
+  <content contentuid="h778d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Du kannst auf magische Weise experimentelle Tränke mit Zufallseffekten herstellen. Die Anzahl, die du pro &lt;LSTag Tooltip="LongRest"&gt;Lange Pause&lt;/LSTag&gt; herstellen kannst, steigt mit deiner Stufe in der Klasse. Du kannst zusätzliche experimentelle Elixiere herstellen, indem du einen Zauberplatz verbrauchst. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Die nicht verbrauchten Elixiere verschwinden nach einer &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt;.</content>
+  <content contentuid="h888d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Stelle eines deiner täglichen Elixiere her.</content>
+  <content contentuid="h998d2cb7gfd36g4898g8074gbf56c0aec633" version="1">Stelle ein Elixier her, das einen Zauberplatz verbraucht.</content>
+  <content contentuid="hb307c069g06b7g4eaegb066g013a76c23c20" version="1">Alchemistischer Gelehrter</content>
+  <content contentuid="h317ab036g8f28g42d7g8702g90eb320c94ae" version="1">Du hast einen meisterhaften Umgang mit magischen Chemikalien entwickelt, der deine Heilung und deinen Schaden verbessert. Jedes Mal, wenn du einen Zauber wirkst, der deine Alchemistenvorräte als Zauberfokus verwendet, erhältst du einen Bonus auf einen Wurf des Zaubers. Dieser Wurf muss Trefferpunkte wiederherstellen oder ein Schadenswurf sein, der Säure-, Feuer-, Nekrosen- oder Giftschaden verursacht, und der Bonus entspricht deinem Intelligenzmodifikator (mindestens +1).</content>
+  <content contentuid="h34ded68cgc442g458cg9191g8dd06177d917" version="1">Reagenzien für die Wiederherstellung</content>
+  <content contentuid="h4f43af6cg103fg4363g804dgcdca618719a6" version="1">Du hast gelernt, in einige deiner Werke wiederherstellende Reagenzien einzubauen: Jedes Mal, wenn eine Kreatur ein experimentelles Elixier von dir trinkt, erhält sie vorübergehend 2W6 Lebenspunkte. Du kannst "Geringere Wiederherstellung" wirken, ohne einen Zauberplatz zu verbrauchen und ohne den Zauber vorzubereiten.</content>
+  <content contentuid="h54d102a8gfda8g4f9bgbdd1g2ce47f04414c" version="1">Alchemistische Meisterschaft</content>
+  <content contentuid="hba71604eg9edag4681ga518g2ec7758d0ba5" version="1">Du hast gelernt, wie man mithilfe der Alchemie aus Grundelementen einige magische Zutaten gewinnt. Mit den gewonnenen Elementen kannst du eine Vielzahl von Grundzutaten für alchemistische Rezepte herstellen.</content>
+  <content contentuid="h26b4462cgbbf1g416agaf36g0ea23f27eaa0" version="1">Experimental Elixier Ladungen</content>
+  <content contentuid="h8f96469eg7359g4588gbaefg3f444b9d6895" version="1">Du hast gelernt, auf magische Weise Experimentelle Elixiere herzustellen. Diese haben eine zufällige Wirkung und halten bis zu einer &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt;</content>
+  <content contentuid="h8b5a15a5g7e3dg43afg9bb4g017394ad88aa" version="1">Kosten für Wiederherstellungsreagenzien</content>
+  <content contentuid="ha703390agfa66g4267gbb32g9185b1ad2410" version="1">Du kannst "Geringere Wiederherstellung" wirken, ohne einen Zauberslot zu verbrauchen und ohne den Zauber so oft vorzubereiten, wie es deinem Intelligenzmodifikator entspricht (mindestens einmal).</content>
+  <content contentuid="36523fb3deaa14de1766304e0911fbc49ae33" version="1">Rüstungsschmied</content>
+  <content contentuid="37523fb3deaa14de1766304e0911fbc49ae33" version="1">Rüstungsschmied Zaubersprüche</content>
+  <content contentuid="37523773deaa14de1766304e0911fbc49ae33" version="1">Du hast immer bestimmte Zauber vorbereitet, nachdem du bestimmte Stufen in dieser Klasse erreicht hast. Diese Zauber zählen für dich als Handwerkszauber, aber sie werden nicht auf die Anzahl der Handwerkszauber angerechnet, die du vorbereitest.</content>
+  <content contentuid="47523fb3deaa14de1766304e0911fbc49ae44" version="1">Ein Handwerker, der sich auf die Herstellung von Rüstungen spezialisiert hat, verändert eine Rüstung so, dass sie fast wie eine zweite Haut wirkt. Die Rüstung wird so verbessert, dass sie die Magie des Handwerkers verfeinert, mächtige Angriffe ermöglicht und eine beeindruckende Verteidigung bietet. Der Handwerker verbindet sich mit der Rüstung und wird eins mit ihr, während er mit ihr experimentiert und ihre magischen Fähigkeiten verfeinert.</content>
+  <content contentuid="38523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist</content>
+  <content contentuid="39523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist Zaubersprüche</content>
+  <content contentuid="39523773deaa14de1766304e0911fbc49ae33" version="1">Du hast immer bestimmte Zauber vorbereitet, nachdem du bestimmte Stufen in dieser Klasse erreicht hast. Diese Zauber zählen für dich als Handwerkszauber, aber sie werden nicht auf die Anzahl der Handwerkszauber angerechnet, die du vorbereitest.</content>
+  <content contentuid="49523fb3deaa14de1766304e0911fbc49ae44" version="1">Ein Artillerist ist darauf spezialisiert, mithilfe von Magie Energie, Geschosse und Explosionen auf das Schlachtfeld zu schleudern. Diese zerstörerische Kraft wird von Armeen in Kriegen auf vielen verschiedenen Welten geschätzt. Und wenn der Krieg vorbei ist, versuchen einige Mitglieder dieser Spezialisierung, eine friedlichere Welt zu schaffen, indem sie ihre Kräfte einsetzen, um das Wiederaufflammen von Unruhen zu bekämpfen.</content>
+  <content contentuid="7726e61e8g9b89g4f30gb649gb3a97346a443" version="1">Eldritchkanone</content>
+  <content contentuid="7727e61e8g9b89g4f30gb649gb3a97346a443" version="1">Eldritchkanone - klein</content>
+  <content contentuid="7736e61e8g9b89g4f30gb649gb3a97346a443" version="1">Du hast gelernt, wie man eine magische Kanone herstellt. Mit den Werkzeugen eines Holzschnitzers oder Schmieds kannst du eine Aktion ausführen, um eine kleine oder winzige Eldritchkanone in einem freien Raum auf einer horizontalen Fläche im Umkreis von 5 Fuß von dir zu erschaffen. Eine kleine Eldritchkanone kann in einer Hand gehalten werden.</content>
+  <content contentuid="1126e61e8g9b89g4f30gb649gb3a97346a443" version="1">Flammenwerfer</content>
+  <content contentuid="1136e61e8g9b89g4f30gb649gb3a97346a443" version="1">Die Kanone spuckt Feuer in einen von dir bestimmten Kegel. Jede Kreatur in diesem Bereich muss einen Geschicklichkeitswurf &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; gegen deinen Zauberspruchschutz &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt; werfen und erleidet 2W8 Feuerschaden, wenn der Schutz misslingt, oder die Hälfte davon, wenn er gelingt. Das Feuer entzündet alle nicht getragenen brennbaren Gegenstände in der Umgebung.</content>
+  <content contentuid="2226e61e8g9b89g4f30gb649gb3a97346a443" version="1">Mächtige Ballista</content>
+  <content contentuid="2226e61e8g9b89g4f30gb649gb3a97346a444" version="1">Mächtige Ballista Freihändig</content>
+  <content contentuid="2236e61e8g9b89g4f30gb649gb3a97346a443" version="1">Führt einen Fernzauberangriff mit der Kanone auf eine Kreatur oder ein Objekt in Reichweite aus. Bei einem Treffer erleidet das Ziel Schaden und wird bis zur Entfernung der Kanone weggeschleudert.</content>
+  <content contentuid="3326e61e8g9b89g4f30gb649gb3a97346a443" version="1">Beschützer</content>
+  <content contentuid="3336e61e8g9b89g4f30gb649gb3a97346a443" version="1">Die Kanone sendet einen positiven Energiestrahl aus, der ihr und einer Kreatur ihrer Wahl vorübergehend eine bestimmte Anzahl Trefferpunkte verleiht.</content>
+  <content contentuid="h4d740fa9g3b35g4011ga4d0g6a00e076ca21" version="1">Arkane Feuerwaffe</content>
+  <content contentuid="h99fef735gf7bcg4fa4gbec8g8a8500cd5f69" version="1">Du weißt, wie man einen Zauberstab, einen Stab oder eine Stange in eine arkane Waffe verwandelt. Damit kannst du zerstörerische Zauber wirken. Wenn du einen Zauber wirkst, kannst du 1W8 zu einem Schadenswurf addieren.</content>
+  <content contentuid="h7750c3cfg334bg448dgad59g079e7e0a2b46" version="1">Sprengkanone</content>
+  <content contentuid="h776b31c4g0908g4b94g872ag9e61113a5b65" version="1">Alle Schadenswürfe der Kanone werden um 1W8 erhöht. Du kannst der Kanone befehlen zu explodieren. Wenn du das tust, wird die Kanone zerstört und jede Kreatur in Reichweite muss einen Geschicklichkeits &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; machen.</content>
+  <content contentuid="h3250c3cfg334bg448dgad59g079e7e0a2b46" version="1">Selbstzerstörung</content>
+  <content contentuid="he26b31c4g0908g4b94g872ag9e61113a5b65" version="1">Befiehlt der Kanone, die gesamte gespeicherte Energie in einer gewaltigen Explosion freizusetzen. Betroffene Kreaturen müssen einen &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; bestehen, um nicht den vollen Schaden zu erleiden.</content>
+  <content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Kampfschmied</content>
+  <content contentuid="34623fb3deaa14de1766304e0911fbc49ae33" version="1">Kampfschmied Zaubersprüche</content>
+  <content contentuid="34623773deaa14de1766304e0911fbc49ae33" version="1">Du hast immer einige Zauber vorbereitet, nachdem du bestimmte Stufen in dieser Klasse erreicht hast. Diese Zauber zählen für dich als Handwerkszauber, aber sie zählen nicht für die Anzahl der Handwerkszauber, die du vorbereitest.</content>
+  <content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armeen brauchen Schutz und jemand muss die Dinge wieder in Ordnung bringen, wenn die Verteidigung versagt. Als eine Kombination aus Beschützer und Sanitäter ist der Kampfschmied ein Experte darin, andere zu verteidigen und sowohl Material als auch Personal zu reparieren. Zur Unterstützung ihrer Arbeit werden die Kampfschmiede von einem Stahlverteidiger begleitet, einem von ihnen selbst geschaffenen Schutzbegleiter. Viele Soldaten erzählen, dass sie fast gestorben wären, bevor sie von einem Kampfschmied und einem Stahlverteidiger gerettet wurden.</content>
+  <content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">Die &lt;LSTag Tooltip="ArmourClass"&gt;Rüstungsklasse&lt;/LSTag&gt; und der Schaden dieses Begleiters erhöhen sich um den &lt;LSTag Tooltip="ProficiencyBonus"&gt;Übungsbonus&lt;/LSTag&gt; seines Handwerkers.</content>
+  <content contentuid="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Verteidiger aus Stahl</content>
+  <content contentuid="999f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Deine Tüftelei hat dir einen treuen Begleiter beschert, einen stählernen Verteidiger. Du kannst ihn frei beschwören und ihm im Kampf Befehle erteilen.</content>
+  <content contentuid="77062bb49gc270g4353gb6ebgf4c2248ea879" version="1">Kraftverstärktes Zerreißen</content>
+  <content contentuid="77bf1636cgabfcg4312gbf40g99c410daea86" version="2">Verursacht Kraftschaden am Ziel.</content>
+  <content contentuid="he53dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Kampfbereit</content>
+  <content contentuid="h5af41faag16e8g4399g8efbgc2af8304f248" version="1">Wenn du mit einer magischen Waffe angreifst, benutzt du deine Intelligenz für deine Angriffs- und Schadenswürfe anstelle von Stärke oder Geschicklichkeit.</content>
+  <content contentuid="7773dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arkaner Ruck</content>
+  <content contentuid="778f41faag16e8g4399g8efbgc2af8304f248" version="1">Du hast neue Wege gelernt, arkane Energie zu kanalisieren, um zu heilen oder zu schaden. Wenn du ein Ziel mit einem magischen Waffenangriff triffst, kannst du magische Energie durch den Treffer kanalisieren, um dem Ziel 2W6 zusätzlichen Kraftschaden zuzufügen oder einer Kreatur oder einem Konstrukt, die du sehen kannst, 2W6 &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; wiederherzustellen.</content>
+  <content contentuid="8883dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arkaner Ruck Anwendungen</content>
+  <content contentuid="889f41faag16e8g4399g8efbgc2af8304f248" version="1">Du kannst diese Energie so oft einsetzen, wie es deinem Intelligenzmodifikator plus deinem Geschicklichkeitsbonus entspricht. Du erhältst alle verbrauchten Einsätze zurück, wenn du eine &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; absolvierst.</content>
+  <content contentuid="6969dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arkaner Ruck (Schaden)</content>
+  <content contentuid="697741faag16e8g4399g8efbgc2af8304f248" version="1">Du kannst einem Ziel, das du in diesem Zug getroffen hast, Kraft-Schaden zufügen. &lt;br&gt;LSTag Type="Image" Info="SoftWarning"/&gt; verbraucht 1 Einsatz von Arkaner Ruck.</content>
+  <content contentuid="6669dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Arkaner Ruck (Heilung)</content>
+  <content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Wähle eine Kreatur oder einen Gegenstand, den du sehen kannst. Heilende Energie fließt in den gewählten Empfänger und stellt seine &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; Lebenspunkte wieder her. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; verbraucht 1 Einsatz von Arkaner Ruck.</content>
+  <content contentuid="2222222c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Angriff ablenken</content>
+  <content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">Der stählerne Verteidiger kann &lt;LSTag Tooltip=" Disadvantage"&gt; Nachteil&lt;/LSTag&gt; auf den Angriffswurf einer Kreatur in seiner Nähe legen, die er sehen kann, vorausgesetzt der Angriffswurf ist gegen eine andere Kreatur als den stählernen Verteidiger gerichtet und das Ziel befindet sich innerhalb von [1].</content>
+  <content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Alchemistischer Experte</content>
+  <content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">Du hast ein tiefes Verständnis für die Verwendung und Herstellung von Verbrauchsgegenständen, die im Kampf nützlich sind. Du bist in der Lage, geborgene Elemente für die Herstellung dieser Gegenstände zu verwenden.</content>
+  <content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Bergungselemente</content>
+  <content contentuid="011112faag16e8g4399g8efbgc2af8304f248" version="1">Extrahiere auf magische Weise nützliche alchemistische Elemente, um mit deiner Magie als alchemistischer Experte oder Meister verbrauchbare Gegenstände für den Kampf oder seltene Zutaten herzustellen. Für die Herstellung einiger Gegenstände werden möglicherweise mehr Einheiten benötigt.</content>
+  <content contentuid="1111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Gesammelte Elemente</content>
+  <content contentuid="111112faag16e8g4399g8efbgc2af8304f248" version="1">Sie haben auf magische Weise nützliche Elemente gewonnen, um verbrauchbare Gegenstände und Zutaten herzustellen. Für die Herstellung mancher Gegenstände werden mehr Einheiten benötigt.</content>
+  <content contentuid="h27112faag16e8g4399g8efbgc2af8304f248" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; erfordert 2 Einheiten zurückgewonnener Elemente</content>
+  <content contentuid="2111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Extrahierte Elemente</content>
+  <content contentuid="211112faag16e8g4399g8efbgc2af8304f248" version="1">Nützliche Elemente wurden entfernt. Kann zu gesundheitlichen Problemen oder strukturellen Schäden führen.</content>
+  <content contentuid="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Zauberspeichernder Gegenstand</content>
+  <content contentuid="hf3234g16e8321g4399g8efbgc2af8304f248" version="1">Du hast gelernt, Zaubersprüche auf Schriftrollen zu speichern. Die Magie hält bis zu einer &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt; und du kannst so viele Schriftrollen herstellen, wie es deinem Intelligenzmodifikator entspricht.</content>
+  <content contentuid="h863423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Ladungen für zauberspeichernde Gegenstände</content>
+  <content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusionsplätze</content>
+  <content contentuid="88623fb3deaa14de1766304e0911fbc49ae88" version="1">Infusionen</content>
+  <content contentuid="33523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusionsplätze: [3]</content>
+  <content contentuid="h779d4496g788ag4a57gb9degb99532438188" version="1">Infusionsplätze (Out)</content>
+  <content contentuid="99523fb3deaa14de1766304e0911fbc49ae99" version="1">Du hast die Fähigkeit erworben, weltliche Gegenstände mit bestimmten magischen Infusionen zu durchtränken, die sie in magische Gegenstände verwandeln.</content>
+  <content contentuid="11523fb3deaa14de1766304e0911fbc49ae11" version="1">Magische Bastelei</content>
+  <content contentuid="22523fb3deaa14de1766304e0911fbc49ae22" version="1">Du hast gelernt, wie man Alltagsgegenständen einen Funken Magie einhaucht.</content>
+  <content contentuid="11888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Geistesblitz</content>
+  <content contentuid="12888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Geistesblitz</content>
+  <content contentuid="22888f820e5gfdf7g4cc2g9309gb90acd0d2f" version="1">Du hast die Fähigkeit erworben, unter Druck Lösungen zu finden. Wenn du oder eine andere Kreatur, die du sehen kannst, eine &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsprobe&lt;/LSTag&gt; oder einen &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; macht, kannst du mit deiner Reaktion einen Bonus auf den Wurf geben.</content>
+  <content contentuid="h77795291g7885g4073gae09ge965b053adee" version="1">Zauberplatz erstellen</content>
+  <content contentuid="h777b555eg9c5fg4a37gb370g47cab9a77bf3" version="1">Gib Infusionsplätze aus, um einen &lt;LSTag Tooltip="SpellSlot"&gt; Zauberplatz&lt;/LSTag&gt; freizuschalten.</content>
+  <content contentuid="h9efaa994g1470g4e9fgb79eg5b65ca0eabab" version="1">Das richtige Werkzeug für den Job</content>
+  <content contentuid="h8a9b92f5g7834g4c30gbeaag4063ee1c94e8" version="1">Du hast gelernt, wie man genau das Werkzeug herstellt, das man braucht: Du kannst Diebeswerkzeuge, ein Fallenentschärfungsset oder eine Schaufel zaubern.</content>
+  <content contentuid="hde264abbg9d67g4000gb383g12ce2ac80341" version="1">Herstellung: Diebswerkzeug</content>
+  <content contentuid="hd0f27fc2gffb5g4e11ga18dg0b0634fb3ac7" version="1">Herstellen: Fallenentschärfungsset</content>
+  <content contentuid="h95a73c80ga7a2g4049g8329g92e1048cf2eb" version="1">Herstellung: Schaufel</content>
+  <content contentuid="h4b087c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Verbesserte Verteidigung</content>
+  <content contentuid="h11087c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Verbesserte Verteidigung (Rüstung)</content>
+  <content contentuid="h22087c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Verbesserte Verteidigung (Schield)</content>
+  <content contentuid="h57787c50g9efdg4c02g928dg551847b111f0" version="1">Infusion: Ausrüstung erhöhte Verteidigung</content>
+  <content contentuid="h39958a9dg4375g4b4egb042ga1ad0cfd6907" version="1">Diese Infusion gibt einen Bonus von +1 auf die Rüstungsklasse einer Rüstung oder eines Schildes. Der Bonus erhöht sich auf +2, wenn du die 10. Stufe in dieser Klasse erreichst.</content>
+  <content contentuid="hacae19c9gd05cg4e61ga0b9gdcc364c0ae32" version="1">Infusion: Verbesserter arkaner Fokus</content>
+  <content contentuid="h60cef40bg0029g48d8ga8eeg9c64c231b614" version="1">Die Zielkreatur erhält einen Bonus von +1 auf Zauber &lt;LSTag Tooltip="AttackRoll"&gt; Angriffswürfe&lt;/LSTag&gt; und Zauber &lt;LSTag Tooltip="SavingThrow"&gt; Rettungswürfe&lt;/LSTag&gt; &lt;LSTag Tooltip="DifficultyClass"&gt;DCs&lt;/LSTag&gt;. Der Bonus erhöht sich auf +2, wenn du die 10. Stufe in dieser Klasse erreichst.</content>
+  <content contentuid="h74c2b6ddg453cg4554ga247g3c7e9847b8bd" version="1">Infusion: Verbesserte Waffe</content>
+  <content contentuid="haaeb23b5g8c4eg421dgba6cg788a69febd7e" version="1">Die Zielwaffe wird magisch und gewährt einen Bonus von +1 auf Angriffs- und Schadenswürfe, die mit ihr durchgeführt werden. Der Bonus erhöht sich auf +2, wenn du die 10. Stufe in dieser Klasse erreichst.</content>
+  <content contentuid="he90dc261g9bf3g4b67gbf1eg3f728c2cdf7c" version="1">Infusion: Rüstung der magischen Stärke</content>
+  <content contentuid="hb4c39b3dgd96dg4076g8bdcg302e2029ba5f" version="1">Infusion: Stiefel des gewundenen Pfades</content>
+  <content contentuid="h22f3c61276f345b7af738e62c34e8f8defef" version="1">Du kannst ein Paar Stiefel infundieren, die es dem Träger erlauben, seine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um [1] zu erhöhen und keine &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt; zu provozieren.</content>
+  <content contentuid="hca0258e6g810eg49adga6c2gf721366b6d9c" version="1">Infusion: Helm des Aufmerksamkeit</content>
+  <content contentuid="he89f91cagc783g4f8dg9ac7gbba426757c6e" version="1">Infusion: Scharfer Verstand</content>
+  <content contentuid="h5bb0aa44gdd6dg475cgb896g1ee6e25f808a" version="1">Infusion: Strahlende Waffe</content>
+  <content contentuid="h78612d52g9edeg471eg9c3fg2e0bf8c4d057" version="1">Die Zielwaffe wird magisch und gewährt einen Bonus von +1 auf Angriffs- und Schadenswürfe, die mit ihr durchgeführt werden. Sie strahlt ein helles Licht aus.</content>
+  <content contentuid="h5660aa44gdd6dg475cgb896g1ee6e25f8066" version="1">Infusion: Wiederkehrende Waffe</content>
+  <content contentuid="h7760aa44gdd6dg477cgb896g1ee6e25f8077" version="1">Du kannst eine Waffe durchtränken, um einen Bonus von +1 auf Angriffs- und Schadenswürfe zu erhalten, und sie kehrt sofort in die Hand des Anwenders zurück, nachdem sie für einen Fernkampfangriff benutzt wurde.</content>
+  <content contentuid="h9960aa4499d6dg477cgb896g1ee6e25f8997" version="1">Durchtränkt eine Waffe mit Magie und gewährt einen Bonus von + 1 auf Angriffs- und Schadenswürfe, die mit der Waffe durchgeführt werden. Die Waffe kehrt sofort in die Hand des Anwenders zurück, nachdem sie für einen Fernkampfangriff benutzt wurde.</content>
+  <content contentuid="h35a784f2gfef9g4d32g909dgb2596a0f2baa" version="1">Infusion: Wiederholter Schuss</content>
+  <content contentuid="had7f84f2gfef9g4d32g909dgb2596a0f2ccc" version="1">Durchtränke eine Armbrust oder Feuerwaffe mit Magie und gewähre einen Bonus von +1 auf Angriffs- und Schadenswürfe, wenn du damit einen Fernkampfangriff ausführst. Wenn du sie in deiner Haupthand ausrüstest und keine Munition in die Waffe lädst, produziert sie ihre eigene und erzeugt automatisch ein Stück magische Munition, wenn du einen Fernkampfangriff mit ihr ausführst, wodurch du einmal pro Runde zwei Ziele angreifen kannst. Die Angriffe werden schneller, wenn du die 10. Stufe in dieser Klasse erreichst, und erfordern keine Bonusaktion.</content>
+  <content contentuid="hc0f7ac54391a4420688e6f814692e99a8ccc" version="1">Infusion: Widerstandsfähige Rüstung</content>
+  <content contentuid="hc6bbc38e41b25457cb813aa8a4c96b313ccc" version="1">Während eine Kreatur diese Rüstung trägt, ist sie resistenter gegen eine der folgenden Schadensarten, die du auswählst, wenn du den Gegenstand infundierst: Säure, Kälte, Feuer, Kraft, Blitz, Nekrotisch, Gift, Psychisch, Strahlend oder Donner.</content>
+  <content contentuid="hc4ad6526d19724cf98e69fb6fa0d7818accc" version="1">Infusion: Widerstandsfähige Rüstung (Säure)</content>
+  <content contentuid="hc62d5b1e0ead24bfb906f25805193eeeaccc" version="1">Infusion: Widerstandsfähige Rüstung (Kälte)</content>
+  <content contentuid="hcc9e8619064b840daae4249fb7177c7caccc" version="1">Infusion: Widerstandsfähige Rüstung (Feuer)</content>
+  <content contentuid="hce3ac2645372e48769b076e38e72977c5ccc" version="1">Infusion: Widerstandsfähige Rüstung (Kraft)</content>
+  <content contentuid="hca53abab6abbc40f4b435a8c028d32b1accc" version="1">Infusion: Widerstandsfähige Rüstung (Blitz)</content>
+  <content contentuid="hcd403f76bc97c4d16bfbefb19fb065071ccc" version="1">Infusion: Widerstandsfähige Rüstung (Nekrotisch)</content>
+  <content contentuid="hc54fb99874318412c9b0baecf0e2cc8aaccc" version="1">Infusion: Widerstandsfähige Rüstung (Gift)</content>
+  <content contentuid="hc8c916b9bb524451aaa3adc087b2c424dccc" version="1">Infusion: Widerstandsfähige Rüstung (Psychisch)</content>
+  <content contentuid="hc7dd67db436c64dd4a8ff9dec8751431bccc" version="1">Infusion: Widerstandsfähige Rüstung (Strahlend)</content>
+  <content contentuid="hcd3f25c1aacdd4847a4d77b4e16fdd2b6ccc" version="1">Infusion: Widerstandsfähige Rüstung (Donner)</content>
+  <content contentuid="hcec2b945d6c0649a6949bb647334bdd66ccc" version="1">Infusion: Wiederholter Schuss</content>
+  <content contentuid="hca760a388a7eb4633a6af4092572fa8efccc" version="1">Du bist &lt;LSTag Tooltip="Resistant"&gt;resistent&lt;/LSTag&gt; gegen Säureschaden.</content>
+  <content contentuid="hc0afdae880960456fb4d2bf44ffff43f6ccc" version="1">Du bist &lt;LSTag Tooltip="Resistant"&gt;resistent&lt;/LSTag&gt; gegen Kälteschaden.</content>
+  <content contentuid="hcdf653a5dd3cb4aaea3e3d6b5fc195200ccc" version="1">Du bist &lt;LSTag Tooltip="Resistant"&gt;resistent&lt;/LSTag&gt; gegen Feuerschaden.</content>
+  <content contentuid="hc291f57d788e34ab2889e27d8b9e1aaf1ccc" version="1">Du bist &lt;LSTag Tooltip="Resistant"&gt;resistent&lt;/LSTag&gt; gegen Kraftschaden.</content>
+  <content contentuid="hc6ceab6e1359243a1ae80ec83b51bbb4bccc" version="1">Du bist &lt;LSTag Tooltip="Resistant"&gt;resistent&lt;/LSTag&gt; gegen Blitzschaden.</content>
+  <content contentuid="hc660fd1836327452694bcd112c6b11bc3ccc" version="1">Du bist &lt;LSTag Tooltip="Resistant"&gt;resistent&lt;/LSTag&gt; gegen Nekrotischer Schaden.</content>
+  <content contentuid="hc49935aa1569f4e5f909749cc8767c56cccc" version="1">Du bist &lt;LSTag Tooltip="Resistant"&gt;resistent&lt;/LSTag&gt; gegen Giftschaden.</content>
+  <content contentuid="hca072064f56274e069a4a9445a80c288dccc" version="1">Du bist &lt;LSTag Tooltip="Resistant"&gt;resistent&lt;/LSTag&gt; gegen psychischen Schaden.</content>
+  <content contentuid="hc2ddb2c559adf4f55b86e68aa120bf0f1ccc" version="1">Du bist &lt;LSTag Tooltip="Resistant"&gt;resistent&lt;/LSTag&gt; gegen strahlenden Schaden.</content>
+  <content contentuid="hc59fddbd239e841a8bcbff79706acce0dccc" version="1">Du bist &lt;LSTag Tooltip="Resistant"&gt;resistent&lt;/LSTag&gt; gegen Donnerschaden.</content>
+  <content contentuid="hc3e7d9c3012254b64ade461c1fd99f581ccc" version="1">Während eine Kreatur diese Rüstung trägt, hat sie &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Säureschaden.</content>
+  <content contentuid="hc8172ad159b9f4da3aa19338a69c54830ccc" version="1">Während eine Kreatur diese Rüstung trägt, hat sie &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Kälteschaden.</content>
+  <content contentuid="hcf3dd50c9796c41d58af39e9916f7e93cccc" version="1">Während eine Kreatur diese Rüstung trägt, hat sie &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Feuerschaden.</content>
+  <content contentuid="hc69d85df14b9648c39fef35677442e74bccc" version="1">Während eine Kreatur diese Rüstung trägt, hat sie &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Kraftschaden.</content>
+  <content contentuid="hc816b6cf9b38a4517b98413cad0a13bd4ccc" version="1">Während eine Kreatur diese Rüstung trägt, hat sie &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Blitzschaden.</content>
+  <content contentuid="hcd39e633ce7b24d6e8eca3d167535895accc" version="1">Während eine Kreatur diese Rüstung trägt, hat sie &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Nekrotischer Schaden.</content>
+  <content contentuid="hcf8df4d6d1a4a41b2b060bded89db3f39ccc" version="1">Während eine Kreatur diese Rüstung trägt, hat sie &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Giftschaden.</content>
+  <content contentuid="hc7d2e818798044bd492f7a5150b9c91c5ccc" version="1">Während eine Kreatur diese Rüstung trägt, hat sie &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen psychischen Schaden.</content>
+  <content contentuid="hc5e87b2a8f9bc4046902b677a3a3143a8ccc" version="1">Während eine Kreatur diese Rüstung trägt, hat sie &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen strahlenden Schaden.</content>
+  <content contentuid="hc328b59e9ad994d0fa282fc6f7d8fa65accc" version="1">Während eine Kreatur diese Rüstung trägt, hat sie &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Donnerschaden.</content>
+  <content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfa9" version="1">Infusion: Aufbewahrungstasche</content>
+  <content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfaa" version="1">Infusion: Aufbewahrungstasche - Deaktiviert</content>
+  <content contentuid="h8c58452eg9761g4385gae6fg12d286bfdfab" version="1">Die Verbindung zur Astralebene funktioniert nicht, wenn man sich in der Astralebene befindet.</content>
+  <content contentuid="777463d7fg404cg4825g8dedgdeebc97b9914" version="1">&lt;LSTag Type="Image" Info=" Warning"/&gt; zweimaliges Benutzen erzeugt ein kurzes Portal zur Astralebene.</content>
+  <content contentuid="hcc921844g2288g4c8dg9663gc53d74cf0c28" version="1">Du hast gelernt, deinen Rucksack mit magischer Energie zu füllen, um ihn in eine "Aufbewahrungstasche" zu verwandeln, die es dir ermöglicht, Gegenstände in einem extradimensionalen Raum zu platzieren, die Menge der Gegenstände, die er tragen kann, zu erhöhen und sein Gewicht zu vernachlässigen. Die Aufbewahrungstasche funktioniert nicht in der Astralebene. Wenn du diese Infusion zweimal verwendest oder den Aufbewahrungsbeutel in einem anderen extradimensionalen Raum platzierst, werden beide Gegenstände sofort zerstört und ein Tor zur Astralebene geöffnet. Das Tor entsteht an der Stelle, an der der eine Gegenstand in den anderen gelegt wurde. Jede Kreatur, die sich im Umkreis von 10 Fuß um das Tor befindet, wird durch das Tor an einen zufälligen Ort in der Astralebene gesaugt. Dann schließt sich das Tor. Das Tor ist nur in eine Richtung offen und kann nicht wieder geöffnet werden.</content>
+  <content contentuid="h77821844g2288g4c8dg9663gc53d74456c29" version="1">Wiederholter Schuss</content>
+  <content contentuid="h8358452eg4441g4385gae6fg12d286bfd567" version="1">Sie können mit Ihrer Fernkampfwaffe zweimal auf dasselbe Ziel schießen.</content>
+  <content contentuid="h42f3f78bg17bdg4a51g9e7dg7e26feeef846" version="1">Infusion: Homunkulus-Diener</content>
+  <content contentuid="h399ba2a0g7772g4072g944dgbcd0e11c885a" version="1">Du erlernst komplizierte Methoden zur magischen Erschaffung eines speziellen Homunkulus, der dir dient. Du bestimmst das Aussehen des Homunkulus. Der Homunkulus ist freundlich zu dir und deinen Begleitern und gehorcht deinen Befehlen.</content>
+  <content contentuid="77715041bga873g4f1cgb45eg7774bac4a109" version="1">Homunkulus-Form: Katze</content>
+  <content contentuid="777633996g3e8ag4cb8ga616g141d6dad37af" version="3">Beschwört einen katzenartigen Homunkulus, der &lt;LSTag Type="Spell" Tooltip="Shout_Distract_Cat_Summon"&gt;miauen&lt;/LSTag&gt; kann, um eure Feinde abzulenken.</content>
+  <content contentuid="777b7d430gea4ag42abg92c0gf2f646e967f1" version="1">Homunkulus-Form: Krabbe</content>
+  <content contentuid="77785d10bg98d0g4722gba69g69b592c53677" version="3">Beschwört einen krabbenförmigen Homunkulus, der Gegner mit seinem &lt;LSTag Type="Spell" Tooltip="Target_CripplingPinch_Crab_Summon" &gt;Lähmenden Kneifer&lt;/LSTag&gt; verlangsamen kann.</content>
+  <content contentuid="777e6ae06g0e2eg43cfga2feg7a59d317dca8" version="1">Homunculus-Form: Frosch</content>
+  <content contentuid="77735e6e7g2d4dg43b4ga7e6gcc1852abb392" version="4">Ruft einen froschförmigen Homunkulus herbei, der sein &lt;LSTag Type="Spell" Tooltip="Target_Bufotoxin_Frog_Summon"&gt;Bufotoxin&lt;/LSTag&gt; an Feinde verteilen kann.</content>
+  <content contentuid="777f2a45bg24ebg4a3ega2b1gc157a1b738d2" version="1">Homunkulus-Form: Ratte</content>
+  <content contentuid="777547a2fg2225g4052g86c9g1a7a03f6c207" version="3">Beschwört einen rattenförmigen Homunkulus mit einem &lt;LSTag Type="Spell" Tooltip="Target_Bite_Rat_Summon"&gt;infektiösen Biss&lt;/LSTag&gt;.</content>
+  <content contentuid="777341008gfad0g4868g817eg856bada1bff8" version="1">Homunkulus-Form: Rabe</content>
+  <content contentuid="77721bdf5g81ebg495fg864ag4f6686879bcb" version="4">Beschwört einen rabenförmigen Homunkulus, der &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Gegner mit seinem Schnabel blendet&lt;/LSTag&gt;.</content>
+  <content contentuid="7775497e1g3067g4b9egb505ge1ee8e3f7aab" version="1">Homunkulus-Form: Spinne</content>
+  <content contentuid="777f10276g7415g42b3g9b15g056514104f5f" version="3">Beschwöre einen spinnenförmigen Homunkulus mit einem giftigen &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;Biss&lt;/LSTag&gt;.</content>
+  <content contentuid="h1234564ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Magischen Gegenstand replizieren</content>
+  <content contentuid="h7891014ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Mit dieser Infusion kannst du einen bestimmten magischen Gegenstand replizieren. Jeder Gegenstand verbraucht einen Infusionsplatz und verschwindet bei &lt;LSTag Tooltip="LongRest" &gt;Langer Rast&lt;/LSTag&gt;.</content>
+  <content contentuid="h777cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Nachbildung: Reif des Gedankenlesens</content>
+  <content contentuid="h777550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">Dieser magische Armreif ermöglicht es seinem Träger, Gedanken zu lesen. Schaltet die Fähigkeit frei, Gedanken zu lesen und die nächsten Schritte vorherzusagen.</content>
+  <content contentuid="h888cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Nachbildung: Flugstiefel</content>
+  <content contentuid="h888550edg6d54g4113gbbdcge6d99b8b2a2f" version="1">Diese Stiefel ermöglichen ihrem Träger das Fliegen. Fliege schnell. Fliege sicher.</content>
+  <content contentuid="hfff13be0g55d1g413dg93b9g2f0b17780151" version="1">Nachbildung: Ring des Kryptalords</content>
+  <content contentuid="hfff60a15geebfg4c4dga6a1g741690720575" version="1">Replik: Amulett der Gesundheit</content>
+  <content contentuid="hfff574eagad02g478bga5b9gff638f0f278e" version="1">Replik: Panzerhandschuhe der Riesenstärke</content>
+  <content contentuid="h459b895bg4564g4064g800cge118219eec17" version="1">Infusion: Arkane Antriebsrüstung</content>
+  <content contentuid="h61fad7f4g7b21g4f4fgac8fg3223752b38e3" version="1">Du lernst, wie du deine Rüstung mit arkaner Magie durchtränken kannst, so dass ihr Träger sich schneller bewegen und Machtangriffe einsetzen kann. Einmal pro Runde kannst du mit Machtstößen und Flächenangriffen angreifen, und alle deine Waffenangriffe verursachen zusätzlichen Machtschaden.</content>
+  <content contentuid="hb87b8cc5g3c9bg4690g8100g8aee4432cf18" version="1">Arkane Impulsladung</content>
+  <content contentuid="h11e4951cg210dg4143g9306g1d6c7733a5c1" version="1">Du nutzt den Impuls deiner Rüstung, um mit deiner Waffe einen verheerenden Angriff auszuführen.</content>
+  <content contentuid="h797aa447g66e8g4c92g90f8g084aa97c9e1e" version="1">Arkane Antriebssprengung</content>
+  <content contentuid="hae87f8d1g52e7g4011g9858gdbed01f13c2c" version="1">Du kannst Magie durch deine beiden Stulpen kanalisieren und Kraftgeschosse abfeuern.</content>
+  <content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Arkane Rüstung</content>
+  <content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Dein Streben nach Metallurgie hat dazu geführt, dass du deine Rüstung zu einem Kanal für deine Magie gemacht hast. Als Aktion kannst du eine Rüstung, die du trägst, in eine Arkane Rüstung verwandeln.</content>
+  <content contentuid="h12038142g6632g489cg9caeg5e2f719edf9b" version="1">Du erhältst &lt;LSTag Tooltip="ArmourProficiency" &gt;Übung&lt;/LSTag&gt; mit schwerer Rüstung.</content>
+  <content contentuid="h5dd62355g3b68g457aga31dg36e1b81ae6f3" version="1">Rüstungsmodell: Wächter</content>
+  <content contentuid="h77d62355g3b68g457aga31dg36e1b81ae6f3" version="1">Rüstungsmodell: Wächter – Perfektioniert</content>
+  <content contentuid="he76d1b71g575fg459fg84b3geb09d829dec0" version="1">Sie entwerfen Ihre Rüstung so, dass sie an vorderster Front im Konflikt steht</content>
+  <content contentuid="h83fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Rüstungsmodell: Infiltrator</content>
+  <content contentuid="h77fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Rüstungsmodell: Infiltrator – Perfektioniert</content>
+  <content contentuid="ha81b99e3gdfebg41b3gbef7gecc642f765c5" version="1">Du passt deine Rüstung für heikle Vorhaben an.</content>
+  <content contentuid="habe83eaag7ea6g4b29ga470g909b8380079d" version="1">Perfektionierte Rüstung</content>
+  <content contentuid="hd5df559eg3214g4772g9085gce3dcff90a4d" version="1">Deine Arkane Rüstung erhält zusätzliche Vorteile, die auf ihrem Modell basieren. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Wiederaufbau nach Levelup</content>
+  <content contentuid="h5dd044bcg3365g4812ga6a5gb0fa92c75165" version="1">Wächter: Wenn eine Kreatur, die du sehen kannst, einen Verbündeten in der Nähe angreift, kannst du deine Reaktion nutzen, um die Kreatur auf magische Weise dazu zu zwingen, einen Stärke-&lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; gegen deinen Zauberschutz-&lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt; zu machen, indem du die Kreatur zu dir in einen unbesetzten Raum ziehst und dabei Schaden verursachst. &lt;br&gt;Infiltrator: Jede Kreatur, die Blitzschaden durch deinen Blitzwerfer erleidet, schimmert bis zum Beginn deines nächsten Zuges in magischem Licht. Sie hat Nachteil bei Angriffswürfen gegen dich und erleidet zusätzlich 1d6 Blitzschaden durch deine Angriffe.</content>
+  <content contentuid="h1111159eg3214g4772g9085gce3dcff90a4d" version="1">Donnerhandschuhe</content>
+  <content contentuid="ha111159eg3214g4772g9085gce3dcff90a4d" version="1">Dein rechter Handschuh ist voller Energie.</content>
+  <content contentuid="h111114bcg3365g4812ga6a5gb0fa92c75165" version="1">Jeder Handschuh der Rüstung zählt als einfache Nahkampfwaffe, solange du nichts darin hältst, und verursacht bei einem Treffer Donnerschaden. Eine Kreatur, die vom Handschuh getroffen wird, hat bis zum Beginn deines nächsten Zuges einen Nachteil bei Angriffswürfen gegen andere Ziele als dich selbst, da die Rüstung einen magischen Ablenkungsimpuls aussendet, wenn die Kreatur eine andere Person angreift.</content>
+  <content contentuid="h1111259eg3214g4772g9085gce3dcff90a4d" version="1">Nebenhand-Donnerstulpen</content>
+  <content contentuid="ha111259eg3214g4772g9085gce3dcff90a4d" version="1">Dein linker Handschuh ist voller Energie.</content>
+  <content contentuid="h111124bcg3365g4812ga6a5gb0fa92c75165" version="1">Jeder Handschuh der Rüstung zählt als einfache Nahkampfwaffe, solange du nichts darin hältst, und verursacht bei einem Treffer Donnerschaden. Eine Kreatur, die vom Handschuh getroffen wird, hat bis zum Beginn deines nächsten Zuges einen Nachteil bei Angriffswürfen gegen andere Ziele als dich selbst, da die Rüstung einen magischen Ablenkungsimpuls aussendet, wenn die Kreatur eine andere Person angreift.</content>
+  <content contentuid="h7766559eg3214g4772g9085gce3dcff90a4d" version="1">Donnerstrahler</content>
+  <content contentuid="h7866559eg3214g4772g9085gce3dcff90a4d" version="1">Nebenhand-Donnersender</content>
+  <content contentuid="h7966559eg3214g4772g9085gce3dcff90a4d" version="1">Dieses Gerät kann an den Handschuhen (oder den bloßen Händen) angebracht werden, um Donnerhandschuhe herzustellen. Jeder von ihnen zählt als einfache Nahkampfwaffe, solange nichts anderes in der Hand gehalten wird.</content>
+  <content contentuid="h2111159eg3214g4772g9085gce3dcff90a4d" version="1">Verteidigungsfeld</content>
+  <content contentuid="h211114bcg3365g4812ga6a5gb0fa92c75165" version="1">Als Bonusaktion kannst du temporäre Trefferpunkte erhalten.</content>
+  <content contentuid="h1222259eg3214g4772g9085gce3dcff90a4d" version="1">Blitzwerfer</content>
+  <content contentuid="h1333259eg3214g4772g9085gce3dcff90a4d" version="1">Nebenhand-Blitzwerfer</content>
+  <content contentuid="h1c22259eg3214g4772g9085gce3dcff90a4d" version="1">Auf der Brust montierter Blitzwerfer</content>
+  <content contentuid="hc966559eg3214g4772g9085gce3dcff90a4d" version="1">Dieses Gerät kann an Handschuhen (oder bloßen Händen) befestigt werden, um Blitzschleudern zu bilden.  Jedes dieser Geräte zählt als Fernkampfwaffe, solange nichts anderes in der Hand gehalten wird.</content>
+  <content contentuid="h222224bcg3365g4812ga6a5gb0fa92c75165" version="1">Du kannst Blitze aus deinen Händen schießen. Einmal in jedem deiner Züge, wenn du eine Kreatur damit triffst, kannst du diesem Ziel einen zusätzlichen Blitzschaden zufügen.</content>
+  <content contentuid="hc22224bcg3365g4812ga6a5gb0fa92c75165" version="1">Du kannst Blitze aus deiner Brust schleudern. Einmal in jedem deiner Züge, wenn du damit eine Kreatur triffst, kannst du diesem Ziel zusätzlichen Blitzschaden zufügen.</content>
+  <content contentuid="h2222259eg3214g4772g9085gce3dcff90a4d" version="1">Angetriebene Schritte</content>
+  <content contentuid="h322224bcg3365g4812ga6a5gb0fa92c75165" version="1">Deine Gehgeschwindigkeit steigt um 1,5 Meter.</content>
+  <content contentuid="h4222259eg3214g4772g9085gce3dcff90a4d" version="1">Dämpfungsfeld</content>
+  <content contentuid="h522224bcg3365g4812ga6a5gb0fa92c75165" version="1">Du hast einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei Tarnung&lt;LSTag Tooltip="AbilityCheck" &gt;Prüfungen&lt;/LSTag&gt;. Wenn die Rüstung normalerweise einen Nachteil bei solchen Proben verursacht, heben sich Vorteil und Nachteil wie üblich gegenseitig auf.</content>
+  <content contentuid="h6222259eg3214g4772g9085gce3dcff90a4d" version="1">Perfektionierte Rüstung: Wächter</content>
+  <content contentuid="h722224bcg3365g4812ga6a5gb0fa92c75165" version="1">Du kannst eine Kreatur, die einen Verbündeten in der Nähe angreift, mit einer Reaktion anlocken, um diesen Angriff zu verhindern.</content>
+  <content contentuid="h8222259eg3214g4772g9085gce3dcff90a4d" version="1">Perfektionierte Rüstung: Infiltrator</content>
+  <content contentuid="h922224bcg3365g4812ga6a5gb0fa92c75165" version="1">Kreaturen, die du mit dem Blitzwerfer triffst, schimmern in magischem Licht und haben einen Nachteil bei Angriffswürfen und erleiden zusätzlichen Schaden durch deinen Blitzwerfer.</content>
+  <content contentuid="h922224ccg3365g4812ga6a5gb0fa92c75165" version="1">Kreaturen, die du mit dem Blitzwerfer triffst, erstrahlen in magischem Licht und haben Nachteile bei Angriffswürfen und erleiden zusätzlichen Schaden durch den Blitzwerfer. Du erhältst einen zusätzlichen Vorteil gegen sie.</content>
+  <content contentuid="h7777f09fg3063g4abbg9332gf089e61d313e" version="1">Experte für magische Gegenstände</content>
+  <content contentuid="h7778f09fg3063g4abbg9332gf089e61d313e" version="1">Erhalte +1 Schadensbonus, wenn du mit einer magischen Waffe angreifst oder zauberst.</content>
+  <content contentuid="h3854f09fg3063g4abbg9332gf089e61d313e" version="1">Magischer Item-Experte</content>
+  <content contentuid="h4854f09fg3063g4abbg9332gf089e61d313e" version="1">Wenn du mit einer magischen Waffe angreifst oder zauberst, erhältst du einen Schadensbonus von +1. Du ignorierst alle Klassen- und Rassenanforderungen, wenn du einen Gegenstand benutzt.</content>
+  <content contentuid="h5854f09fg3063g4abbg9332gf089e61d313e" version="1">Meister magischer Gegenstände</content>
+  <content contentuid="h6854f09fg3063g4abbg9332gf089e61d313e" version="1">Erhalte einen Bonus von +2 auf Schaden, wenn du angreifst oder einen Zauber wirkst, während du eine magische Waffe hältst.</content>
+  <content contentuid="h7854f09fg3063g4abbg9332gf089e61d313e" version="1">Künstlerseele</content>
+  <content contentuid="h8854f09fg3063g4abbg9332gf089e61d313e" version="1">Du erhältst einen Bonus von +1 auf &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswürfe&lt;/LSTag&gt;, wenn du eine magische oder durchdrungene Waffe in der Hand hältst. Wenn du einen replizierten magischen Gegenstand besitzt, kannst du, wenn du auf 0 Lebenspunkte reduziert, aber nicht direkt getötet wirst, deine Reaktion einsetzen, die dich auf 1 Lebenspunkt statt auf 0 Lebenspunkte fallen lässt.</content>
+  <content contentuid="hf370db3cg613dg4943gafe8ge316307ce44e" version="1">Chemische Meisterschaft</content>
+  <content contentuid="h9dab0330gd89ag4b76g87d8gfbcfdfcd8c3c" version="1">Du warst so vielen Chemikalien ausgesetzt, dass sie kaum noch ein Risiko für dich darstellen, und du kannst sie benutzen, um bestimmte Leiden schnell zu beenden. Einmal pro &lt;LSTag Tooltip=" LongRest"&gt;Lange Rast&lt;/LSTag&gt; kannst du "Große Wiederherstellung" und "Heilung" wirken, ohne einen Zauberplatz zu verbrauchen. Außerdem erhältst du Resistenz gegen Gift- und Säureschaden und Immunität gegen Vergiftungen.</content>
+  <content contentuid="h0e497d40g28b2g47c5g8947g915af0c1bfd5" version="1">Perfektionierte Rüstung MkII</content>
+  <content contentuid="hb53d6847g7d5cg463cg91d9g1d296d25b2c5" version="1">Die Vorteile, die du durch deine perfektionierte Rüstung erhältst, werden weiter verbessert:&lt;br&gt;Deine Wächterreaktion verursacht nun zusätzlichen Schaden, während dein Blitzwerfer nun 1W6 zusätzlichen Schaden verursacht und dir einen Vorteil gegen die getroffene Kreatur verschafft.</content>
+  <content contentuid="h91e92732g0969g4c2egb478gfdf53e2fd6e4" version="1">Befestigte Position</content>
+  <content contentuid="h0258e5e2gbdb4g4005gbb9cg95d489be1871" version="1">Du bist ein Meister im Bau von gut verteidigten Stellungen mit der Eldritschkanone:&lt;br&gt;Jetzt kannst du mit einer Aktion gleich zwei beschwören.</content>
+  <content contentuid="hd44d7d4ag0cefg4e26g9519g1a311c277e91" version="1">Verbesserter Verteidiger</content>
+  <content contentuid="h0bcbee6ag0e91g4054g85f8g86814bbf0198" version="1">Dein Arkaner Stoß und dein stählerner Verteidiger werden mächtiger:&lt;br&gt;Der zusätzliche Schaden und die Heilung deines Arkanen Stoßes werden beide auf 4W6 erhöht. Jjedes Mal, wenn dein stählerner Verteidiger einen Angriff abwehrt, erleidet der Angreifer Kraftschaden.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c70000001" version="1">Rüstung aus arkanen Feuerwaffen</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c71000001" version="1">Der erste Prototyp dieser Rüstung wurde um 1369 von Jan Jansen entworfen und erlangte Berühmtheit, weil er in den Schlachten eingesetzt wurde, die zum Sieg über den wahnsinnigen Zauberer Irenicus führten. Später wurde sie von einem Erfinder aus Lantan perfektioniert, der sie bei einem Würfelspiel gewann. Sie kam erst sechzig Jahre später auf den Markt, gilt aber heute als Standardausrüstung eines jeden geschickten Artilleriehandwerkers.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c72000001" version="1">Eldritch-Kanone MkII</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c73000001" version="1">Die in die Rüstung eingewobene Magie ermöglicht es dem Träger, anstelle der normalen eine stärkere kleine Eldritch-Kanone zu bauen.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c74000001" version="1">Eldritch-Kanone Overdrive</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c75000001" version="1">Füllt eure kleine Eldritchkanone mit Blitzmagie, um ihr einen Bonus auf Angriffe und neue Fähigkeiten zu geben.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c76000001" version="1">Durchdrungen von Blitzmagie, die einen Bonus auf Angriffe und neue Fähigkeiten gewährt.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c70000002" version="1">Rüstung des arkanen Sturms</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c71000002" version="1">Diese Rüstung ist eine Nachbildung ihres Namensvetters und wurde von den gondianischen Handwerkern des Tempels der Wunderbringer in Tilverton hergestellt. Sie wurden für die Handwerker hergestellt, die für die Verteidigung der Stadt zuständig waren. Im Jahr 1372 verschwand Tilverton durch eine Katastrophe, die von der Schattenenklave verursacht wurde, und mit ihr diese Artefakte. Im Jahr 1409 fand eine Gruppe von Abenteurern, die das Loch erforschten, das die Stadt hinterlassen hatte, einige Seiten mit Bauplänen. Offenbar handelte es sich um die Originalpläne der verschwundenen Rüstungen. Niemand konnte die Originale rekonstruieren, und die heute im Umlauf befindlichen sind die besten Reproduktionen.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c72000002" version="1">Klangloses Metall</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c73000002" version="1">Wenn ein Modell mit Arkaner Rüstung aktiv ist, erhält der Träger keinen Nachteil bei &lt;LSTag Tooltip="AbilityCheck" &gt;Checks auf Tarnung&lt;/LSTag&gt;.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c74000002" version="1">Stürmische Rüstungen</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c75000002" version="1">Wenn der Träger Donner- oder Blitzschaden erleidet, erhält er eine Barriere. Bei einem Nahkampfangriff explodiert die Barriere und verursacht Schaden.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c76000002" version="1">Bei einem Nahkampfangriff explodiert die Barriere und verursacht Schaden.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c70000003" version="1">Roben des Alchemisten</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c71000003" version="1">Der Ursprung dieser Gewänder lässt sich bis ins ferne Cormanthor zurückverfolgen. Sie wurden von den Alchemisten des Hauses Jaerle, einem vhaerunitischen Drow-Haus, verwendet. Wie alle Ausrüstungsgegenstände der Drow sind sie effizient und praktisch. Sie verbreiteten sich in ganz Faerûn, als es einem Abenteurer gelang, ein solches Kleidungsstück von der Leiche eines Drow zu stehlen, der bei einem Überfall getötet worden war. Als sie nach Schattental zurückkehrten, beauftragten sie einen Gerber, das Kleidungsstück so zu verändern, dass es weniger böse wirkte. Der Schneider nahm die Arbeit zum Anlass, ein Muster zu entwerfen und neue herzustellen. Eines davon gelangte in die Hände eines Kunsthandwerkers, und der Rest ist Geschichte.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c72000003" version="1">Ätzende Rüstung</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c73000003" version="1">Wenn der Träger Schaden durch Säure oder Gift erleidet, erhält er eine Barriere. Bei einem Nahkampfangriff explodiert die Barriere und verursacht nekrotischen Schaden.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c74000003" version="1">Bei einem Nahkampfangriff explodiert die Barriere und verursacht nekrotischen Schaden.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c75000003" version="1">Schlamm beschwören</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c76000003" version="1">Beschwört einen Schlamm, der an eurer Seite kämpft und Säureangriffe verursacht.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c70000005" version="1">Erfindungen der Schlachtrüstung</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c71000005" version="1">Diese Rüstung ist das Vermächtnis eines Abenteurers, der 1372 die Schwertküste bereiste. Sie wurde entwickelt, um in jeder Situation effizient und funktionell zu sein, und ist mit einem arkanen Energiekondensator ausgestattet, um die Leistung des Stahlwächters zu verbessern. Es wird erzählt, dass das erste Exemplar aus Schrottteilen von Trödlern gefertigt wurde. Als die Abenteurer berühmt wurden, schufen sie einen genaueren Prototyp einer solchen Rüstung und teilten später ihr Wissen mit den Priestern von Gond, um es an Erfinder in ganz Faerûn weiterzugeben.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c72000005" version="1">Aufgeladener arkaner Stoß</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c73000005" version="1">Fügt zusätzlichen Blitzschaden oder zusätzliche Heilung zu „Arkaner Stoß“ hinzu.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c74000005" version="1">Stahlverteidiger Overdrive</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c75000005" version="1">Durchtränke deinen Stahlverteidiger mit Blitzmagie, die dir einen Extra-Angriff, einen Schadensbonus und neue Fähigkeiten verleiht.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c76000005" version="1">Durchdrungen von Blitzmagie, die einen zusätzlichen Angriff, einen Schadensbonus und neue Fähigkeiten verleiht.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c70000004" version="1">Der Dekonstrukteur</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c71000004" version="1">Die Jahre, die ein Kunsthandwerker in seine Arbeit investiert, dienen oft dazu, Wunder zu schaffen. Aber manchmal ist die Schöpfung ein wenig zu gut und muss schnell wieder abgebaut werden, um das Gesicht und die Versicherungsprämien zu wahren. Zu viele Explosionen rufen die Ordnungshüter auf den Plan, also ist es vielleicht am besten, sie wieder abzubauen, bevor zu viele Augen sie sehen... Auch gut für die Beseitigung von Hindernissen.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c72000004" version="1">Dekonstruktion</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c73000004" version="1">Waffenangriffe verursachen verheerenden Schaden an Gegenständen und Konstrukten.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c74000004" version="1">Stromschlag</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c75000004" version="1">Waffenangriffe verursachen zusätzlichen Blitzschaden.</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c76000004" version="1">Drakonischer Dekonstrukteur</content>
+  <content contentuid="h7d80071bga99bg463ag8d37gcc4c77000004" version="1">Es ist unklar, ob der Dekonstrukteur ursprünglich ein Versuch war, dieses Wunder zu reproduzieren, oder ob ein mächtiger Drache eines Tages einfach beschloss, seine Gabe einem gut gemachten Hammer zu schenken. Es ist auch möglich, dass es sich um das Ergebnis einer Zusammenarbeit zwischen talentierten Handwerkern und Geistlichen handelt. Wir wissen nur, dass diese Waffe genauso gut ist wie ihre gewöhnliche Version, aber einen mächtigen Segen in sich trägt.</content>
+  <content contentuid="h778820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Baupläne des Stahlwächters</content>
+  <content contentuid="h778920e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Detaillierte Anweisungen für den inneren Mechanismus eines stählernen Wächters. Es scheint, dass der ursprüngliche Name des Projekts "Gondischer Autowächter" war.</content>
+  <content contentuid="h997820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Deine Bastelei hat dir einen treuen Gefährten beschert, einen stählernen Verteidiger, der dank des Projekts des gondianischen Auto-Wächters modifiziert wurde. Dieser kleinere Stahlwächter kann von einem erfahrenen Kampfschmied frei beschworen werden.</content>
+  <content contentuid="h77770ee8g980fg4327ga0e9g46dd7368310e" version="1">Mit diesem Hammer kannst du deine Arbeiterrüstung verbessern, aber du brauchst ein seltenes Metall.</content>
+  <content contentuid="h12310ee8g980fg4327ga0e9g46dd7368310e" version="1">Dunkelsichtmonokel</content>
+  <content contentuid="h12315ee8g980fg4327ga0e9g46dd7368310e" version="1">Ein seltsames Monokel githyankischen Ursprungs. Es ermöglicht dem Träger, in magischer Dunkelheit zu sehen.</content>
+  <content contentuid="haeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Steinschlosspistole</content>
+  <content contentuid="hbeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Feuerwaffen werden in Faerûn immer weiter verbreitet, da die lantanischen Priester von Gond dem Wundermacher sie herstellen und in den Reichen verbreiten. Die Lantanesen beherrschen die Herstellung von Steinschlosswaffen und können regelmäßig hochwertige Pistolen herstellen.</content>
+  <content contentuid="heeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Feuerwaffe</content>
+  <content contentuid="heeeefee8g980fg4327ga0e9g46dd7368310e" version="1">Mechanismus, der durch die Kraft des Schießpulvers Geschosse verschießt.</content>
+  <content contentuid="haccceee8g980fg4327ga0e9g46dd7368310e" version="1">Steinschlossmuskete</content>
+  <content contentuid="hbccceee8g980fg4327ga0e9g46dd7368310e" version="1">Feuerwaffen werden in Faerûn immer weiter verbreitet, da die lantanischen Priester von Gond dem Wundermacher sie herstellen und in den Reichen verbreiten. Die Lantanesen beherrschen die Herstellung von Steinschlosswaffen und können regelmäßig hochwertige Musketen herstellen.</content>
+  <content contentuid="h000f7c68ge983g4735g979eg25c197ee9962" version="1">Fernkampfangriff (Feuerwaffe)</content>
+  <content contentuid="h001f7c68ge983g4735g979eg25c197ee9962" version="1">Führen Sie mit Ihrer Feuerwaffe einen Fernangriff durch.</content>
+  <content contentuid="h010f7c68ge983g4735g979eg25c197ee9962" version="1">Fernkampfangriff mit der Nebenhand (Schusswaffe)</content>
+  <content contentuid="h011f7c68ge983g4735g979eg25c197ee9962" version="1">Führen Sie mit Ihrer Nebenhandfeuerwaffe einen Fernkampfangriff durch.</content>
+  <content contentuid="h9cd08861g50cfg4a67gb598gdbe47fbce245" version="1">Feuerwaffe</content>
+  <content contentuid="hc5bd4565g187cg49e2ga99eg43b33c5b8142" version="1">Schusswaffen</content>
+</contentList>
