@@ -15,7 +15,7 @@
   <content contentuid="h26754820gc704g4f96g82a0g409b91e46bfa" version="1">Die satten Sussur-Wurzeln erstrecken sich über diesen großen Knüppels. Es sehnt sich danach, Magie zu trinken und bringt jede Kreatur, die es trifft, zum Schweigen.</content>
   <content contentuid="h030cdbdcgc56fg4622g9ff1g87b4a6ebe736" version="1">Gesättigter Sussur Großer Knüppel</content>
   <content contentuid="h6b35e159g084fg4574gaaa6g30234aea4836" version="1">Satte Sussur-Wurzeln erstrecken sich vom Schaft dieses Speers bis in die Spitze. Es sehnt sich danach, Magie zu trinken und bringt jede Kreatur, die es trifft, zum Schweigen.</content>
-  <content contentuid="h3d204c17g42c4g4309g81e3g04feac30ec70" version="1">Gesättigter Sussur-Speer</content>
+  <content contentuid="h3d204c17g42c4g4309g81e3g04feac30ec70" version="1">Gesättigter Sussur-Wurfspeer</content>
   <content contentuid="haa9c1f96gf18fg4542ga388g78306bf766e1" version="1">Satte Sussur-Wurzeln erstrecken sich vom Griff dieses Hammers bis in den Kopf selbst. Es sehnt sich danach, Magie zu trinken und bringt jede Kreatur, die es trifft, zum Schweigen.</content>
   <content contentuid="h8e6aaa0dg4c0cg4950g99a0g12b10dd28003" version="1">Gesättigter Sussur Hammer des Lichts</content>
   <content contentuid="hfb5d86b8g5de7g4230gb538g6b3e05142e47" version="1">Satte Sussur-Wurzeln erstrecken sich vom Griff dieses Schwertes bis in die Klinge selbst. Es sehnt sich danach, Magie zu trinken und bringt jede Kreatur, die es trifft, zum Schweigen.</content>
@@ -26,8 +26,8 @@
   <content contentuid="h03fd5fc9g9e7fg4edfgabd6gd4b7b83d60dc" version="1">Gesättigter Sussur-Streithammer</content>
   <content contentuid="hcf747e52g5cb2g44c0gb3bfg901470b611f5" version="1">Gesättigte Sussur-Wurzeln erstrecken sich vom Stiel dieses Morgensterns bis in die Ähren selbst. Es sehnt sich danach, Magie zu trinken und bringt jede Kreatur, die es trifft, zum Schweigen.</content>
   <content contentuid="h5a71dc3ag7924g4970ga421g6e2b0f05bb8a" version="1">Satter Sussur Morgenstern</content>
-  <content contentuid="h030bcc58g8496g4ea5g96f1gcff1e4ccae30" version="1">Gesättigte Sussur-Wurzeln reichen vom Griff dieses Spiesses bis in die Spitze selbst. Er sehnt sich danach, Magie zu trinken und jede Kreatur, die er trifft, zum Schweigen zu bringen.</content>
-  <content contentuid="haf742f27gbb0ag49bdga5b6ge3eeb756e75d" version="1">Sated Sussur Spieß</content>
+  <content contentuid="h030bcc58g8496g4ea5g96f1gcff1e4ccae30" version="1">Gesättigte Sussur-Wurzeln reichen vom Griff dieses Spießes bis in die Spitze selbst. Er sehnt sich danach, Magie zu trinken und jede Kreatur, die er trifft, zum Schweigen zu bringen.</content>
+  <content contentuid="haf742f27gbb0ag49bdga5b6ge3eeb756e75d" version="1">Gesättigter Sussur Spieß</content>
   <content contentuid="h4e106420g39d2g4145g9fbdg13404ccf0ff2" version="1">Satte Sussur-Wurzeln erstrecken sich durch diesen Kampfstabs. Es sehnt sich danach, Magie zu trinken und bringt jede Kreatur, die es trifft, zum Schweigen.</content>
   <content contentuid="he67b3553g031cg4a86g9c87g218fb854d16c" version="1">Satter Sussur-Kampfstab</content>
   <content contentuid="habd972b8g0b23g42eag9d6eg79080a1a73e4" version="1">Satte Sussur-Wurzeln erstrecken sich vom Griff dieses Rapiers bis in die Klinge selbst. Es sehnt sich danach, Magie zu trinken und bringt jede Kreatur, die es trifft, zum Schweigen.</content>
@@ -44,94 +44,94 @@
   <content contentuid="h1ef6c789g5dc0g4b0ag9fffg5dfb2595780b" version="1">Gesättigte Sussur Kriegshacke</content>
   <content contentuid="h73e66d37ga707g4576ga7b5g7159aff1c4b9" version="1">Satte Sussur-Wurzeln erstrecken sich vom Schaft dieses Kriegshammers bis in den Kopf selbst. Es sehnt sich danach, Magie zu trinken und bringt jede Kreatur, die es trifft, zum Schweigen.</content>
   <content contentuid="h3a94f364g0e3dg4ae3gb37fge4c370f0eaa4" version="1">Gesättigter Sussur-Kriegshammer</content>
-  <content contentuid="a7bcef1c-3cc3-4ac9-aefd-aa75c9ec8bb0" version="1">Thirsting Sussur roots extend from this battleaxe's handle into the axe head itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h9ebbf05fg5b96g4e71g822fga969cfc77db6" version="1">Thirsting Sussur Battleaxe</content>
-  <content contentuid="h2121917cg0a21g46efgbe4egc471da8ab6c4" version="1">Thirsting Sussur roots extend from this dagger's shaft into the head itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h8c342378g6e3bg41b4ga7d5g4df97fcad07a" version="1">Thirsting Sussur Dagger</content>
-  <content contentuid="h40f5fdcagee46g4096g9f59g1d50668f2c35" version="1">Thirsting Sussur roots extend throughout this flail into the striking head. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="hfda1983eg7256g4134g89afgc8e5c5f8556b" version="1">Thirsting Sussur Flail</content>
-  <content contentuid="h0089e1c0g18ebg4917ga78bg5aa878057bc7" version="1">Thirsting Sussur roots extend from this glaive's handle into the blade itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="hcbea2debgf201g44e7ga860g2a8a230920c1" version="1">Thirsting Sussur Glaive</content>
-  <content contentuid="h75b0eac8g35cag45cfg9c48g5ef92ae49afb" version="1">Thirsting Sussur roots extend from this handle's shaft into the axe head itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h13898b42g3c9fg4fbbgad24g87c6927cb06d" version="1">Thirsting Sussur Greataxe</content>
-  <content contentuid="h2ef29fb6gb6f3g468agbf72gb9a4cea4d78e" version="1">Thirsting Sussur roots extend from this halberd's shaft into the blade itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="hca0fe266gb491g401egb271g86190ac8f2fa" version="1">Thirsting Sussur Halberd</content>
-  <content contentuid="h1e34afb4gc22eg4667g8f47ga9af2a0f56ed" version="1">Thirsting Sussur roots extend throughout this greatclub. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="hf6f409edg16bdg4428gb89cgae8c6c911ad5" version="1">Thirsting Sussur Greatclub</content>
-  <content contentuid="heffd08ecgb803g4854gbc45g4e7aed765b60" version="1">Thirsting Sussur roots extend from this javelin's shaft into the tip itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="hdd8b5fb2g0cafg48f6gb086g500e131abb67" version="1">Thirsting Sussur Javelin</content>
-  <content contentuid="h120a328egd40ag43ffg936bg102bb75e5ce1" version="1">Thirsting Sussur roots extend from this hammer's handle into the head itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h7285c7d1ge098g4d9dg9e78g7512ebf1d9b8" version="1">Thirsting Sussur Light Hammer</content>
-  <content contentuid="h5871eacdgdde3g43a0gbbdcg84f50e1b1cd8" version="1">Thirsting Sussur roots extend from this sword's hilt into the blade itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h363578a2g46c5g44b2ga62fg5177895d11f6" version="1">Thirsting Sussur Longsword</content>
-  <content contentuid="hf7f63479ga947g41aagb61fg2a82f2344be8" version="1">Thirsting Sussur roots extend from this mace's handle into the mace head itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h78c15270gc33dg43f5g9cd4g584ac3428445" version="1">Thirsting Sussur Mace</content>
-  <content contentuid="h671572e6g97c0g4084g9d55ge3630a1ec38f" version="1">Thirsting Sussur roots extend from this maul's handle into the wedge-shaped head itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="hb9e11596ga6e8g4ce1g8d10g6be8856d311a" version="1">Thirsting Sussur Maul</content>
-  <content contentuid="h359926d2g6f6fg4c83gb653g7e7c054e12b6" version="1">Thirsting Sussur roots extend from this morningstar's handle into the spikes themselves. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h21fbbc00g8b81g4ec8ga25eg53e163200138" version="1">Thirsting Sussur Morningstar</content>
-  <content contentuid="h499826aag29acg4a63ga242gd377fb23a955" version="1">Thirsting Sussur roots extend from this pike's handle into the tip itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h0bc1a727g0e0eg45d7gab68g009cef77f849" version="1">Thirsting Sussur Pike</content>
-  <content contentuid="he89db350gc4b7g479agb864g346da745a144" version="1">Thirsting Sussur roots extend throughout this quarterstaff. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h9b41c2c0gaab6g4614g80ccg1289418ddd67" version="1">Thirsting Sussur Quarterstaff</content>
-  <content contentuid="h2be34ce1gfc25g4745gb144ga9673ac0a8f5" version="1">Thirsting Sussur roots extend from this rapier's hilt into the blade itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="hd7896200g237fg4d08gb9abg6a7021743fbf" version="1">Thirsting Sussur Rapier</content>
-  <content contentuid="hbb81a837g3a87g4853g85f3gbdae2eb15d63" version="1">Thirsting Sussur roots extend from this scimitar's hilt into the blade itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h12589acdgf9d6g4600gb4e2g61bbebd1ff9c" version="1">Thirsting Sussur Scimitar</content>
-  <content contentuid="h70efedb7g7f36g437fg8149g0b05f58e0686" version="1">Thirsting Sussur roots extend from this shortsword's hilt into the blade itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h833eb13bg0073g4096gb13fgcb13ff786e52" version="1">Thirsting Sussur Shortsword</content>
-  <content contentuid="h6d5f489fgae6cg4e8ag882ag3cfd2bf1a49c" version="1">Thirsting Sussur roots extend from this spear's shaft into the tip itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="he2722002g46cdg452bg836egd9ee2771c6ab" version="1">Thirsting Sussur Spear</content>
-  <content contentuid="h4aca47b8g50ecg447dgaddagaaa50f5ed7cd" version="1">Thirsting Sussur roots extend from this trident's shaft into the pokers themselves. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="hbc19098ag3c77g4e86gbe6cg80866d9b3c9d" version="1">Thirsting Sussur Trident</content>
-  <content contentuid="h5159d75dgc8a0g4e14gb882ge74a6ebbffaf" version="1">Thirsting Sussur roots extend from this war pick's shaft into the point itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h3b359e4bg420ag4c42ga4f8ge4de45ea0d6a" version="1">Thirsting Sussur War Pick</content>
-  <content contentuid="he135d181ga4d7g4e8fg8022gdc1ca8dd62b6" version="1">Thirsting Sussur roots extend from this warhammer's shaft into the head itself. It drains the magic of creatures it strikes, silencing them.</content>
-  <content contentuid="h60b906d7gd6f4g44f3g9888g935b5d612f1f" version="1">Thirsting Sussur Warhammer</content>
-  <content contentuid="h8d38dee2gb211g4cb3gbab8g98fddd322e61" version="1">Ravenous Sussur roots extend from this battleaxe's handle into the axe head itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h33e9d25ag0e76g454fgba39g051059f1bf78" version="1">Ravenous Sussur Battleaxe</content>
-  <content contentuid="h673fe69bgda40g4ac2g9d6cgc859eed827b8" version="1">Ravenous Sussur roots extend from this dagger's hilt into the head itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="he578ca66geb08g4b31g9fcfgc552fe3fee55" version="1">Ravenous Sussur Dagger</content>
-  <content contentuid="ha3a97c4cg535dg4309gbf83g4ece61650cab" version="1">Ravenous Sussur roots extend throughout this flail into the striking head. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h8e96c6f7g0fd0g474eg8f1dg6b31001adf0d" version="1">Ravenous Sussur Flail</content>
-  <content contentuid="h3ef7a6a8gacbcg4207g9152g0a332c58149e" version="1">Ravenous Sussur roots extend from this glaive's handle into the blade itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h3a9f026bg93cdg4dd3g93afg75d734a5f1c0" version="1">Ravenous Sussur Glaive</content>
-  <content contentuid="h7a4b516cg4834g4adfgba32g34be2824844f" version="1">Ravenous Sussur roots extend from this handle's shaft into the axe head itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h8d53c0e2g5a29g4762g980dgf14f29a1cd12" version="1">Ravenous Sussur Greataxe</content>
-  <content contentuid="h894865bbgc5c7g4c87gbf22ga6fb129ab990" version="1">Ravenous Sussur roots extend from this halberd's shaft into the blade itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="hef21e2c8g6c2fg4d6agb96eg57bc1ed98d8d" version="1">Ravenous Sussur Halberd</content>
-  <content contentuid="h7ad4d429ga883g4211g946ag35a6fd3a19c0" version="1">Ravenous Sussur roots extend throughout this greatclub. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="hd67e084bg452cg447eg9860gd4c9d30559d1" version="1">Ravenous Sussur Greatclub</content>
-  <content contentuid="h4becdbe2g95aeg4537gacaag4df0a9a7021d" version="1">Ravenous Sussur roots extend from this javelin's shaft into the tip itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="hba6abbabga794g44e3g8bcbg90a319280827" version="1">Ravenous Sussur Javelin</content>
-  <content contentuid="h67ea06b4ge0f0g41abg8c43gb2141386a34b" version="1">Ravenous Sussur roots extend from this hammer's handle into the head itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="hdee79a03g7f07g4a2bga1f8g3f0514f09f49" version="1">Ravenous Sussur Light Hammer</content>
-  <content contentuid="hf3ca261agce6ag4317g8adbgdab6252a39c6" version="1">Ravenous Sussur roots extend from this sword's hilt into the blade itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h51cade9dg9c76g487dg802eg0d4103c0449b" version="1">Ravenous Sussur Longsword</content>
-  <content contentuid="hac8410e0gcb5eg4b77g844eg81b559f086e5" version="1">Ravenous Sussur roots extend from this mace's handle into the mace head itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="hc7ceac79g66b1g425cgba9egf2b22f042a59" version="1">Ravenous Sussur Mace</content>
-  <content contentuid="hc4964c82gb62ag44ddg9cc1gb39e0d08c05f" version="1">Ravenous Sussur roots extend from this maul's handle into the wedge-shaped head itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h69e6975bgab14g465aga936ge8750ecf2629" version="1">Ravenous Sussur Maul</content>
-  <content contentuid="h6acaae02g34b8g4e9fg9104g39f2ec86566f" version="1">Ravenous Sussur roots extend from this morningstar's handle into the spikes themselves. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h0e52e9eeg9d0fg4edeg85ccg724db20238b9" version="1">Ravenous Sussur Morningstar</content>
-  <content contentuid="h37f5e4f8gd349g4ffeg9db9gee7c71913c2a" version="1">Ravenous Sussur roots extend from this pike's handle into the tip itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h4384facfg8801g46ccgb38ag7496427909dd" version="1">Ravenous Sussur Pike</content>
-  <content contentuid="he251330fg121dg4987ga414g7bb34db75342" version="1">Ravenous Sussur roots extend throughout this quarterstaff. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h83be9bd9ga384g463cgbb81g414b4c75f6c1" version="1">Ravenous Sussur Quarterstaff</content>
-  <content contentuid="h95dd6e5bgeabag49cbga73bge141b0cf6de3" version="1">Ravenous Sussur roots extend from this rapier's hilt into the blade itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h8bdc6812g2e78g48a3g8474g2262a4749557" version="1">Ravenous Sussur Rapier</content>
-  <content contentuid="h3d152652g925cg462aga00agba1347494441" version="1">Ravenous Sussur roots extend from this scimitar's hilt into the blade itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="hde9b9d3cg75cfg4c0eg8883g7aa73dc5e30f" version="1">Ravenous Sussur Scimitar</content>
-  <content contentuid="hc9bf9fbega405g4fffg9268g76995cad06c8" version="1">Ravenous Sussur roots extend from this shortsword's hilt into the blade itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h75ccb5b8gd669g4460g935bg43afdffc8559" version="1">Ravenous Sussur Shortsword</content>
-  <content contentuid="h6f2baf9ag3e2fg42d1gb269g1daad8bc8368" version="1">Ravenous Sussur roots extend from this spear's shaft into the tip itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h15ab3115ge4d5g442ag983eg7910175d200c" version="1">Ravenous Sussur Spear</content>
-  <content contentuid="h69b57153gfd40g4330gbc35g3723bcba72b5" version="1">Ravenous Sussur roots extend from this trident's shaft into the pokers themselves. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="hb451e833g4cf6g4f3egbfbdga815f9198264" version="1">Ravenous Sussur Trident</content>
-  <content contentuid="h2cb80052g06c1g4b9egb8e4gb7ec5882c6ca" version="1">Ravenous Sussur roots extend from this war pick's shaft into the point itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="hdbade455geaa6g4cfaga731ga7fd22d684a3" version="1">Ravenous Sussur War Pick</content>
-  <content contentuid="hd86c6bdcgcce2g44c5g9b6fg3e4a7dc892ee" version="1">Ravenous Sussur roots extend from this warhammer's shaft into the head itself. It devours the magic of all it strikes leaving nothing but muted bodies behind.</content>
-  <content contentuid="h05cd8823g20f5g4973gb2bdg9b54fa94c1ea" version="1">Ravenous Sussur Warhammer</content>
+  <content contentuid="a7bcef1c-3cc3-4ac9-aefd-aa75c9ec8bb0" version="1">Durstige Sussur-Wurzeln reichen vom Griff dieser Streitaxt bis in den Axtkopf selbst. Sie entziehen den Kreaturen, die sie trifft, die Magie und bringen sie zum Schweigen.</content>
+  <content contentuid="h9ebbf05fg5b96g4e71g822fga969cfc77db6" version="1">Durstige Sussur-Streitaxt</content>
+  <content contentuid="h2121917cg0a21g46efgbe4egc471da8ab6c4" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Schaft dieses Dolches bis in den Kopf selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h8c342378g6e3bg41b4ga7d5g4df97fcad07a" version="1">Durstiger Sussur-Dolch</content>
+  <content contentuid="h40f5fdcagee46g4096g9f59g1d50668f2c35" version="1">Durstige Sussur-Wurzeln erstrecken sich durch diesen Dreschflegel bis in den Schlagkopf. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="hfda1983eg7256g4134g89afgc8e5c5f8556b" version="1">Durstiger Sussur-Dreschflegel</content>
+  <content contentuid="h0089e1c0g18ebg4917ga78bg5aa878057bc7" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Griff dieser Glefe bis in die Klinge selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="hcbea2debgf201g44e7ga860g2a8a230920c1" version="1">Durstige Sussur-Gleve</content>
+  <content contentuid="h75b0eac8g35cag45cfg9c48g5ef92ae49afb" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Schaft dieses Griffs bis in den Axtkopf. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h13898b42g3c9fg4fbbgad24g87c6927cb06d" version="1">Durstige Sussur-Großaxt</content>
+  <content contentuid="h2ef29fb6gb6f3g468agbf72gb9a4cea4d78e" version="1">Durstige Sussur-Wurzeln reichen vom Schaft dieser Hellebarde bis in die Klinge selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="hca0fe266gb491g401egb271g86190ac8f2fa" version="1">Durstige Sussur Hellebarde</content>
+  <content contentuid="h1e34afb4gc22eg4667g8f47ga9af2a0f56ed" version="1">Die durstigen Sussur-Wurzeln erstrecken sich über diesen großartigen Club. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="hf6f409edg16bdg4428gb89cgae8c6c911ad5" version="1">Durstiger Sussur Greatclub</content>
+  <content contentuid="heffd08ecgb803g4854gbc45g4e7aed765b60" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Schaft dieses Speers bis in die Spitze. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="hdd8b5fb2g0cafg48f6gb086g500e131abb67" version="1">Durstiger Sussur-Wurfspeer</content>
+  <content contentuid="h120a328egd40ag43ffg936bg102bb75e5ce1" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Griff dieses Hammers bis in den Kopf selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h7285c7d1ge098g4d9dg9e78g7512ebf1d9b8" version="1">Durstiger Sussur-Lichthammer</content>
+  <content contentuid="h5871eacdgdde3g43a0gbbdcg84f50e1b1cd8" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Griff dieses Schwertes bis in die Klinge selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h363578a2g46c5g44b2ga62fg5177895d11f6" version="1">Durstiges Sussur-Langschwert</content>
+  <content contentuid="hf7f63479ga947g41aagb61fg2a82f2344be8" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Griff dieser Keule bis in den Keulenkopf selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h78c15270gc33dg43f5g9cd4g584ac3428445" version="1">Durstiger Sussur-Streitkolben</content>
+  <content contentuid="h671572e6g97c0g4084g9d55ge3630a1ec38f" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Griff dieses Streithammer bis in den keilförmigen Kopf selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="hb9e11596ga6e8g4ce1g8d10g6be8856d311a" version="1">Durstiger Sussur Streithammer</content>
+  <content contentuid="h359926d2g6f6fg4c83gb653g7e7c054e12b6" version="1">Durstige Sussur-Wurzeln reichen vom Stiel dieses Morgensterns bis in die Ähren hinein. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h21fbbc00g8b81g4ec8ga25eg53e163200138" version="1">Durstiger Sussur Morningstar</content>
+  <content contentuid="h499826aag29acg4a63ga242gd377fb23a955" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Griff dieses Spießes in die Spitze selbst. Sie entziehen den Kreaturen, die sie treffen, die Magie und bringen sie zum Schweigen.</content>
+  <content contentuid="h0bc1a727g0e0eg45d7gab68g009cef77f849" version="1">Durstiger Sussur Spieß</content>
+  <content contentuid="he89db350gc4b7g479agb864g346da745a144" version="1">Durstige Sussur-Wurzeln erstrecken sich durch diesen Kampfstab. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h9b41c2c0gaab6g4614g80ccg1289418ddd67" version="1">Durstiger Sussur-Kampfstab</content>
+  <content contentuid="h2be34ce1gfc25g4745gb144ga9673ac0a8f5" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Griff dieses Rapiers bis in die Klinge selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="hd7896200g237fg4d08gb9abg6a7021743fbf" version="1">Durstiger Sussur-Rapier</content>
+  <content contentuid="hbb81a837g3a87g4853g85f3gbdae2eb15d63" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Griff dieses Krummsäbels bis in die Klinge selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h12589acdgf9d6g4600gb4e2g61bbebd1ff9c" version="1">Durstiger Sussur Krummsäbel</content>
+  <content contentuid="h70efedb7g7f36g437fg8149g0b05f58e0686" version="1">Durstige Sussur-Wurzeln reichen vom Griff dieses Kurzschwerts bis in die Klinge selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h833eb13bg0073g4096gb13fgcb13ff786e52" version="1">Durstiges Sussur-Kurzschwert</content>
+  <content contentuid="h6d5f489fgae6cg4e8ag882ag3cfd2bf1a49c" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Schaft dieses Speers bis in die Spitze. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="he2722002g46cdg452bg836egd9ee2771c6ab" version="1">Durstiger Sussur-Speer</content>
+  <content contentuid="h4aca47b8g50ecg447dgaddagaaa50f5ed7cd" version="1">Durstige Sussur-Wurzeln reichen vom Schaft dieses Dreizacks bis in die Schürhaken selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="hbc19098ag3c77g4e86gbe6cg80866d9b3c9d" version="1">Durstiger Sussur-Dreizack</content>
+  <content contentuid="h5159d75dgc8a0g4e14gb882ge74a6ebbffaf" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Schaft dieser Kriegshacke bis in die Spitze selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h3b359e4bg420ag4c42ga4f8ge4de45ea0d6a" version="1">Durstiger Sussur-Kriegshacke</content>
+  <content contentuid="he135d181ga4d7g4e8fg8022gdc1ca8dd62b6" version="1">Durstige Sussur-Wurzeln erstrecken sich vom Schaft dieses Kriegshammers bis in den Kopf selbst. Es entzieht den Kreaturen, die es trifft, die Magie und bringt sie zum Schweigen.</content>
+  <content contentuid="h60b906d7gd6f4g44f3g9888g935b5d612f1f" version="1">Durstiger Sussur-Kriegshammer</content>
+  <content contentuid="h8d38dee2gb211g4cb3gbab8g98fddd322e61" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieser Streitaxt bis in den Axtkopf. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h33e9d25ag0e76g454fgba39g051059f1bf78" version="1">Gefräßige Sussur-Streitaxt</content>
+  <content contentuid="h673fe69bgda40g4ac2g9d6cgc859eed827b8" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieses Dolches bis in den Kopf selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="he578ca66geb08g4b31g9fcfgc552fe3fee55" version="1">Gefräßiger Sussur-Dolch</content>
+  <content contentuid="ha3a97c4cg535dg4309gbf83g4ece61650cab" version="1">Gefräßige Sussur-Wurzeln erstrecken sich durch diesen Dreschflegel bis in den Schlagkopf. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h8e96c6f7g0fd0g474eg8f1dg6b31001adf0d" version="1">Gefräßiger Sussur-Dreschflegel</content>
+  <content contentuid="h3ef7a6a8gacbcg4207g9152g0a332c58149e" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieser Gleve bis in die Klinge selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h3a9f026bg93cdg4dd3g93afg75d734a5f1c0" version="1">Gefräßige Sussur-Gleve</content>
+  <content contentuid="h7a4b516cg4834g4adfgba32g34be2824844f" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Schaft dieses Griffs bis in den Axtkopf. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h8d53c0e2g5a29g4762g980dgf14f29a1cd12" version="1">Gefräßige Sussur-Großaxt</content>
+  <content contentuid="h894865bbgc5c7g4c87gbf22ga6fb129ab990" version="1">Gefräßige Sussur-Wurzeln erstrecken sich vom Schaft dieser Hellebarde bis in die Klinge selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="hef21e2c8g6c2fg4d6agb96eg57bc1ed98d8d" version="1">Gefräßige Sussur Hellebarde</content>
+  <content contentuid="h7ad4d429ga883g4211g946ag35a6fd3a19c0" version="1">Die Wurzeln der gefräßigen Sussur ziehen sich durch diesen großen Knüppel. Er verschlingt die Magie aller, die er trifft, und hinterlässt nichts als stumpfe Körper.</content>
+  <content contentuid="hd67e084bg452cg447eg9860gd4c9d30559d1" version="1">Gefräßiger großer Sussur-Knüppel</content>
+  <content contentuid="h4becdbe2g95aeg4537gacaag4df0a9a7021d" version="1">Gefräßige Sussur-Wurzeln erstrecken sich vom Schaft dieses Speers bis in die Spitze. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="hba6abbabga794g44e3g8bcbg90a319280827" version="1">Gefräßiger Sussur-Wurfspeer</content>
+  <content contentuid="h67ea06b4ge0f0g41abg8c43gb2141386a34b" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieses Hammers bis in den Kopf selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="hdee79a03g7f07g4a2bga1f8g3f0514f09f49" version="1">Gefräßiger Sussur-Hammer des Lichts</content>
+  <content contentuid="hf3ca261agce6ag4317g8adbgdab6252a39c6" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieses Schwertes bis in die Klinge selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h51cade9dg9c76g487dg802eg0d4103c0449b" version="1">Gefräßiges Sussur-Langschwert</content>
+  <content contentuid="hac8410e0gcb5eg4b77g844eg81b559f086e5" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieser Keule bis in den Keulenkopf selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="hc7ceac79g66b1g425cgba9egf2b22f042a59" version="1">Gefräßiger Sussur-Streitkolben</content>
+  <content contentuid="hc4964c82gb62ag44ddg9cc1gb39e0d08c05f" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieses Streithammers bis in den keilförmigen Kopf selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h69e6975bgab14g465aga936ge8750ecf2629" version="1">Gefräßiger Sussur Streithammer</content>
+  <content contentuid="h6acaae02g34b8g4e9fg9104g39f2ec86566f" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieses Morgensterns bis in die Stacheln hinein. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h0e52e9eeg9d0fg4edeg85ccg724db20238b9" version="1">Gefräßiger Sussur Morgenstern</content>
+  <content contentuid="h37f5e4f8gd349g4ffeg9db9gee7c71913c2a" version="1">Gefräßige Sussur-Wurzeln reichen vom Griff dieses Spießes bis in die Spitze. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h4384facfg8801g46ccgb38ag7496427909dd" version="1">Gefräßiger Sussur-Spieß</content>
+  <content contentuid="he251330fg121dg4987ga414g7bb34db75342" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich durch diesen Stab. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h83be9bd9ga384g463cgbb81g414b4c75f6c1" version="1">Gefräßiger Sussur-Kampfstab</content>
+  <content contentuid="h95dd6e5bgeabag49cbga73bge141b0cf6de3" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieses Rapiers bis in die Klinge selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h8bdc6812g2e78g48a3g8474g2262a4749557" version="1">Gefräßiges Sussur-Rapier</content>
+  <content contentuid="h3d152652g925cg462aga00agba1347494441" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieses Krummsäbels bis in die Klinge selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="hde9b9d3cg75cfg4c0eg8883g7aa73dc5e30f" version="1">Gefräßiger Sussur-Krummsäbel</content>
+  <content contentuid="hc9bf9fbega405g4fffg9268g76995cad06c8" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Griff dieses Kurzschwerts bis in die Klinge selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h75ccb5b8gd669g4460g935bg43afdffc8559" version="1">Gefräßiges Sussur-Kurzschwert</content>
+  <content contentuid="h6f2baf9ag3e2fg42d1gb269g1daad8bc8368" version="1">Gefräßige Sussur-Wurzeln erstrecken sich vom Schaft dieses Speers bis in die Spitze. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h15ab3115ge4d5g442ag983eg7910175d200c" version="1">Gefräßiger Sussur-Speer</content>
+  <content contentuid="h69b57153gfd40g4330gbc35g3723bcba72b5" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Schaft dieses Dreizacks bis in die Schürhaken selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="hb451e833g4cf6g4f3egbfbdga815f9198264" version="1">Gefräßiger Sussur-Dreizack</content>
+  <content contentuid="h2cb80052g06c1g4b9egb8e4gb7ec5882c6ca" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Schaft dieser Kriegshacke bis in die Spitze selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="hdbade455geaa6g4cfaga731ga7fd22d684a3" version="1">Gefräßiger Sussur-Kriegshacke</content>
+  <content contentuid="hd86c6bdcgcce2g44c5g9b6fg3e4a7dc892ee" version="1">Die Wurzeln des gefräßigen Sussur erstrecken sich vom Schaft dieses Kriegshammers bis in den Kopf selbst. Es verschlingt die Magie von allem, was es trifft, und hinterlässt nichts als stumme Körper.</content>
+  <content contentuid="h05cd8823g20f5g4973gb2bdg9b54fa94c1ea" version="1">Gefräßiger Sussur-Kriegshammer</content>
   <content contentuid="h5377ba40gda8bg4517ga5ccg6de44b106a3b" version="1">Sussur-Zauber verschlingen</content>
   <content contentuid="h26a62f62gc3d0g491dga5e2g9e98ab545931" version="1">Nutze die Kraft des mächtigen Sussur-Baums in deiner Waffe, um jeden Zauber der Stufe 6 oder niedriger sofort zu annullieren. Wenn der Zauber, den du bekämpfen willst, Stufe 7, 8 oder 9 hat, musst du einen &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; bestehen, um ihn zu annullieren, dessen Schwierigkeitsgrad von der Stufe des Zaubers abhängt.</content>
   <content contentuid="hae13c725ge5ecg4853gaa2cg189a3a852a06" version="1">Sussur-Zauber verschlingen fehlgeschlagen</content>
