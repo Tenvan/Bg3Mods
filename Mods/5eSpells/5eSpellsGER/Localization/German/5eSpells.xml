@@ -1,45 +1,45 @@
 <contentList date="26/10/2020 01:10">
-	<content contentuid="h1618284ag0468g4bfdg8c6egf96dd1bd20c5" version="1">Ritual Caster</content>
-	<content contentuid="hdd4d4f77g39e3g4092gad53ga173914d5b61" version="1">Can cast spell without expending a spell slot.</content>
-	<content contentuid="f807b333f5e94104bd79e3252275de44" version="1">Difficult Terrain: Grease</content>
-	<content contentuid="b9fde1872d3e490a8df08deccffbdb67" version="1">Difficult Terrain: Sewer</content>
-  <content contentuid="395581f6-e613-49ee-9311-5de834fe8cd7" version="1">Spiritual Weapon</content>
-  <content contentuid="6d9c4d1a-ffa6-4057-85e9-b7fb1ee9c568" version="1">Daylight</content>
-  <content contentuid="37723395-de46-4120-8191-28e6506cbc93" version="1">Healing Spirit</content>
-  <content contentuid="4ca7c3de83ce4f899772656eb42e9053" version="1">This is your resource for healing creatures through the &lt;LSTag Type="Spell" Tooltip="Target_HealingSpirit_Heal"&gt;Healing Spirit&lt;/LSTag&gt; spell.</content>
-  <content contentuid="7b1f02860f9e46b9b1e25500276d446f" version="1">Healing Spirit Charge</content>
-  <content contentuid="71c5cb3ba57840ed83e162e02b636fb4" version="1">Can be healed through the Healing Spirit.</content>
-  <content contentuid="0c684636-31ce-4d8a-8055-1abd42ed8b37" version="1">Food and Water</content>
-  <content contentuid="0a68e3d4-b48a-48dd-bbfa-9d7a9af1fb25" version="1">This weapon is made of shadows, solidifed and given shape through the power of the Weave.</content>
-  <content contentuid="d3f24984-a6a2-40c3-9924-4cc9eb581959" version="1">Shadow Blade</content>
-  <content contentuid="6e0fb4ec-097f-46f3-ac8d-54c5d6a1e5c4" version="1">Dust Devil</content>
-  <content contentuid="aef5f671-2755-4e48-984b-a92d0aac419c" version="2">Bestial Spirit of Air</content>
-  <content contentuid="72a09460-ce2d-48b2-8f89-d7ebfa388cee" version="2">Bestial Spirit of Land</content>
-  <content contentuid="23c7aa11-9985-40d1-818e-8ea2c5354a4b" version="1">Fire Elemental</content>
-  <content contentuid="12ecb521-e19d-4bea-977a-6ecc48ef1df7" version="1">Earth Elemental</content>
-  <content contentuid="9668954d-a22f-476b-bcff-f16994aadedf" version="1">Air Elemental</content>
-  <content contentuid="218798fd-fc4c-42b2-912b-cb055170c7c6" version="1">Water Elemental</content>
-  <content contentuid="a7327c66-4713-4ec7-97de-665b84f00577" version="1">Grasping Vine</content>
-  <content contentuid="62e5bae3-3cd6-4977-a10c-8ea37b9b003a" version="1">Maddening Darkness</content>
-  <content contentuid="43c787dd-bf8b-4042-b2d2-947ea6e966d8" version="1">This bow shoots forth a bolt of lightning.</content>
-  <content contentuid="5d99218e-d918-4682-affb-37b0ea072ae5" version="1">Lightning Arrow</content>
-  <content contentuid="8f7b58a4-61b1-4912-a569-c7bdb80bf73b" version="1">Shadowspawn</content>
-  <content contentuid="a75d496a-c0b0-4f8a-8176-a2a55c93ce47" version="1">Draconic Spirit</content>
-  <content contentuid="92b9a85e-5d79-4a5f-9b9c-28037fb8189c" version="1">Aether Storm</content>
-  <content contentuid="6651021e-0474-4968-a12d-1d3db631a357" version="1">Conjure an additional familiar per level.</content>
-  <content contentuid="1b745f89-847b-4dc3-91b2-40ed12a08414" version="1">Summon gains [1] to AC, [2] and deal an additional [1] damage on attacks per level.</content>
-  <content contentuid="81c4fbae-fce7-4f36-a494-6055379ffee8" version="1">Spell range increases by [1] per level.</content>
-  <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Target deals an additional 1d6 damage of the chosen damage type per level.</content>
-  <content contentuid="952ea4b1-2bca-4299-9516-92d2b1ef4852" version="1">Deals an additional 1d6 damage of a random type per level.</content>
-  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Target repeats saving throw each time it takes damage.</content>
-  <content contentuid="bade8726-7366-4a88-8d13-65e0ba89ca4d" version="1">Shard still explodes.</content>
-  <content contentuid="61cafcd2-c06b-4ed8-af89-e98639e629b7" version="1">Arrow still explodes.</content>
-  <content contentuid="677ff2e6-6860-4880-bfcf-394867d9fe80" version="1">Creates two more meteors per level.</content>
-  <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Summon gains [1] to AC, [2] and deal an additional [1] damage on attacks per level and can make a number of attacks equal to half spell's level.</content>
-  <content contentuid="a354a061-e594-4604-9204-4ba58b16d318" version="1">Snare Trap</content>
-  <content contentuid="c434fd13-b231-44a9-a07f-ada79e63d042" version="1">Nathair's Mischief</content>
-  <content contentuid="84da6edc-9a67-4f58-bdd3-8fc969b85a58" version="1">Create Bonfire</content>
-  <content contentuid="f0bff0e3-71b7-4752-9b67-8e552767e156" version="1">Deals an additional [1] and increases distance pulled or pushed by [2] per level.</content>
+  <content contentuid="h1618284ag0468g4bfdg8c6egf96dd1bd20c5" version="1">Ritual-Wirker</content>
+  <content contentuid="hdd4d4f77g39e3g4092gad53ga173914d5b61" version="1">Kann einen Zauber wirken, ohne einen Zauberslot zu verbrauchen.</content>
+  <content contentuid="f807b333f5e94104bd79e3252275de44" version="1">Schwieriges Terrain: Schmierfett</content>
+  <content contentuid="b9fde1872d3e490a8df08deccffbdb67" version="1">Schwieriges Terrain: Kanalisation</content>
+  <content contentuid="395581f6-e613-49ee-9311-5de834fe8cd7" version="1">Spirituelle Waffe</content>
+  <content contentuid="6d9c4d1a-ffa6-4057-85e9-b7fb1ee9c568" version="1">Tageslicht</content>
+  <content contentuid="37723395-de46-4120-8191-28e6506cbc93" version="1">Heilender Geist</content>
+  <content contentuid="4ca7c3de83ce4f899772656eb42e9053" version="1">Dies ist deine Ressource für die Heilung von Kreaturen durch den &lt;LSTag Type="Spell" Tooltip="Target_HealingSpirit_Heal" &gt;Heilender Geist&lt;/LSTag&gt;-Zauber.</content>
+  <content contentuid="7b1f02860f9e46b9b1e25500276d446f" version="1">Ladung des Heilenden Geistes</content>
+  <content contentuid="71c5cb3ba57840ed83e162e02b636fb4" version="1">Kann durch den Heilgeist geheilt werden.</content>
+  <content contentuid="0c684636-31ce-4d8a-8055-1abd42ed8b37" version="1">Nahrung und Wasser</content>
+  <content contentuid="0a68e3d4-b48a-48dd-bbfa-9d7a9af1fb25" version="1">Diese Waffe besteht aus Schatten, die durch die Kraft des Gewebes verfestigt und in Form gebracht werden.</content>
+  <content contentuid="d3f24984-a6a2-40c3-9924-4cc9eb581959" version="1">Schattenklinge</content>
+  <content contentuid="6e0fb4ec-097f-46f3-ac8d-54c5d6a1e5c4" version="1">Staubteufel</content>
+  <content contentuid="aef5f671-2755-4e48-984b-a92d0aac419c" version="2">Bestialischer Luftgeist</content>
+  <content contentuid="72a09460-ce2d-48b2-8f89-d7ebfa388cee" version="2">Bestialischer Geist des Landes</content>
+  <content contentuid="23c7aa11-9985-40d1-818e-8ea2c5354a4b" version="1">Feuerelementar</content>
+  <content contentuid="12ecb521-e19d-4bea-977a-6ecc48ef1df7" version="1">Erdelementar</content>
+  <content contentuid="9668954d-a22f-476b-bcff-f16994aadedf" version="1">Luftelementar</content>
+  <content contentuid="218798fd-fc4c-42b2-912b-cb055170c7c6" version="1">Wasserelementar</content>
+  <content contentuid="a7327c66-4713-4ec7-97de-665b84f00577" version="1">Greifende Rebe</content>
+  <content contentuid="62e5bae3-3cd6-4977-a10c-8ea37b9b003a" version="1">Verrückt machende Dunkelheit</content>
+  <content contentuid="43c787dd-bf8b-4042-b2d2-947ea6e966d8" version="1">Dieser Bogen schießt einen Blitz ab.</content>
+  <content contentuid="5d99218e-d918-4682-affb-37b0ea072ae5" version="1">Blitzpfeil</content>
+  <content contentuid="8f7b58a4-61b1-4912-a569-c7bdb80bf73b" version="1">Schattenbrut</content>
+  <content contentuid="a75d496a-c0b0-4f8a-8176-a2a55c93ce47" version="1">Drachengeist</content>
+  <content contentuid="92b9a85e-5d79-4a5f-9b9c-28037fb8189c" version="1">Äthersturm</content>
+  <content contentuid="6651021e-0474-4968-a12d-1d3db631a357" version="1">Beschwöre pro Level einen zusätzlichen Vertrauten.</content>
+  <content contentuid="1b745f89-847b-4dc3-91b2-40ed12a08414" version="1">Die Beschwörung erhält [1] zu AC, [2] und fügt bei Angriffen pro Level zusätzlich [1] Schaden zu.</content>
+  <content contentuid="81c4fbae-fce7-4f36-a494-6055379ffee8" version="1">Die Zauberreichweite erhöht sich um [1] pro Stufe.</content>
+  <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Das Ziel verursacht pro Level zusätzlich 1W6 Schaden der gewählten Schadensart.</content>
+  <content contentuid="952ea4b1-2bca-4299-9516-92d2b1ef4852" version="1">Verursacht zusätzlich 1W6 Schaden einer zufälligen Art pro Level.</content>
+  <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Das Ziel wiederholt den Rettungswurf jedes Mal, wenn es Schaden erleidet.</content>
+  <content contentuid="bade8726-7366-4a88-8d13-65e0ba89ca4d" version="1">Der Splitter explodiert immer noch.</content>
+  <content contentuid="61cafcd2-c06b-4ed8-af89-e98639e629b7" version="1">Pfeil explodiert immer noch.</content>
+  <content contentuid="677ff2e6-6860-4880-bfcf-394867d9fe80" version="1">Erstellt zwei weitere Meteore pro Level.</content>
+  <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Die Beschwörung erhält [1] AC, [2] und verursacht zusätzlich [1] Angriffsschaden pro Stufe und kann eine Anzahl von Angriffen ausführen, die der halben Stufe des Zaubers entspricht.</content>
+  <content contentuid="a354a061-e594-4604-9204-4ba58b16d318" version="1">Schlingenfalle</content>
+  <content contentuid="c434fd13-b231-44a9-a07f-ada79e63d042" version="1">Nathair's Unfug</content>
+  <content contentuid="84da6edc-9a67-4f58-bdd3-8fc969b85a58" version="1">Lagerfeuer erstellen</content>
+  <content contentuid="f0bff0e3-71b7-4752-9b67-8e552767e156" version="1">Verursacht zusätzlich [1] und erhöht die gezogene oder geschobene Distanz um [2] pro Level.</content>
   <content contentuid="826a50c0-b8e4-4e4a-a6b3-677a5a064f88" version="1">Targets still take half damage and aren't pulled or pushed.</content>
   <content contentuid="5d87d29e-4282-414a-bae8-df16a88da05e" version="1">Targets still take half damage and aren't slowed.</content>
   <content contentuid="bb4c214a-a60f-4486-b28c-12d87abe9d5c" version="1">Targets still take half damage and aren't pulled.</content>
@@ -121,7 +121,7 @@
   <content contentuid="871390cd-53cb-4311-b2fa-e8e9812dfea1" version="1">Gift of Alacrity</content>
   <content contentuid="cd30ee6a-3a0d-47d8-bacc-a9a85b7af69f" version="1">Touch an allied creature, granting it a +[1] bonus to its Initiative &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
   <content contentuid="1166bf80501c4318bfd398556826bedd" version="1">[1] added to Initiative &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-	<content contentuid="84a9b4df1342451198539d1a761d2c67" version="1">Can't be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;. Receive [1] per turn.</content>
+  <content contentuid="84a9b4df1342451198539d1a761d2c67" version="1">Can't be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;. Receive [1] per turn.</content>
   <content contentuid="21bb5b1d-9dd0-4e17-9495-ec8d72d98e9a" version="1">Magnify Gravity</content>
   <content contentuid="c3f6b54c-75a3-46f4-85fb-2a95bc09827e" version="1">Gravity in a [1] sphere centered on a chosen point increases momentarily, potentially halving the &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; of creatures in the area.</content>
   <content contentuid="06052a8489764a15b044db48978006f6" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; halved.</content>
@@ -363,7 +363,7 @@
   <content contentuid="feba5e6eb8394d7eb59d5448bdb7736f" version="1">Cannot become hidden or &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
   <content contentuid="0abd849b1b1c40fab6c967a93f7613f1" version="1">Breach a creature's mind, possibly preventing it from hiding and granting it no benefit from being &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
   <content contentuid="8be5892565a345caa6db23e99b62a437" version="1">Mind Whip</content>
-	<content contentuid="3ec954b6743f4d1bb713209ff0392d0e" version="7">The entity can't take reactions and can only use movement or take either an action or a bonus action.</content>
+  <content contentuid="3ec954b6743f4d1bb713209ff0392d0e" version="7">The entity can't take reactions and can only use movement or take either an action or a bonus action.</content>
   <content contentuid="04d72d2a-efc4-4ada-8a20-591753ee92ef" version="1">Nathair's Mischief</content>
   <content contentuid="215750fa-e2c8-4c14-9bd9-fa6e4b782fbd" version="1">Fill a [1] cube with fey and draconic magic, producing random, magical effects when the spell is cast and at the start of your turns.</content>
   <content contentuid="febba116-165c-4e18-bba3-161150ab76ca" version="1">The magical effects produced in the cube can cause creatures to become &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; by you, to be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, to become Incapacitated and unable to move or can turn the area into Difficult Terrain.</content>
@@ -452,7 +452,7 @@
   <content contentuid="e42d6815-0749-4b58-a282-5d5b671eccd0" version="1">The spell ends on a creature once its &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; are depleted.</content>
   <content contentuid="4b950443-ef26-4282-9c0e-664343f3008e" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Cannot affect summoned creatures.</content>
   <content contentuid="d29b1dacc3ee4a14bb3bcb5a216a7008" version="1">Gain [1] and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; in combat after being hit by an attack.</content>
- <content contentuid="058ec68aefdf4802b3a696b2a442db47" version="1">Nondetection</content>
+  <content contentuid="058ec68aefdf4802b3a696b2a442db47" version="1">Nondetection</content>
   <content contentuid="876058c1a7e34d569a16a8dd0dbf4f0d" version="1">Touch a creature to hide it from divination magic, preventing divination spells from targeting it and from being perceived through magical scrying sensors.</content>
   <content contentuid="ca250c966b2749ef8221c5ad9a2c075a" version="1">Hidden from divination magic and cannot be targeted by divination spells.</content>
   <content contentuid="68cbd2c1-98f4-410e-a113-6ad29494f3c3" version="1">Pulse Wave</content>
