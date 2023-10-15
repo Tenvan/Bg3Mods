@@ -95,34 +95,35 @@ Die Kreatur und der Zauberer haben &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/
   <content contentuid="05589863298142c5b6ff6a5ad0cbe009" version="1">[1] hinzugefügt zu &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsprüfungen&lt;/LSTag&gt;.</content>
   <content contentuid="eb9e2ee721de4875b6f89032418b6c4a" version="1">Widmung</content>
   <content contentuid="3614693cfd6e4dbf9183d6898413f7e9" version="1">[1] hinzugefügt zu &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswürfe&lt;/LSTag&gt;.</content>
-  <content contentuid="d949371a-01d6-4cca-be33-5751cea2bb16" version="1">Earth Tremor</content>
-  <content contentuid="be4d062f-2976-4ebb-8368-b40c232078fe" version="1">Cause a tremor in the ground becomes &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; and affects nearby creatures, possibly knocking them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
-  <content contentuid="h1163cbacg7316g42eag94fag3a3ac95e68b7" version="1">Chaos Bolt</content>
-  <content contentuid="h3bc00b62g33e1g4f41ga4dbgc27870dac0e9" version="1">Hurl a mass of chaotic energy that randomly deals [1], [2], [3], [4], [5], [6], [7] or [8].</content>
-  <content contentuid="3b196c615b9e4605b21133edec9f9359" version="1">After casting this spell, you roll a d8. On a roll of 1, you automatically target an additional creature within [1] of the original target with another mass of chaotic energy.</content>
-  <content contentuid="a0d05efee7474c13815aae23ed24b192" version="1">Chaos Bolt: Additional</content>
-  <content contentuid="651cf6fbd122465fab868065dbbf2d2d" version="1">Targeted by Chaos Bolt and cannot be targeted by it again.</content>
-  <content contentuid="1ca004cebd0745a9bc876f7d7145bfa3" version="1">Detect Evil and Good</content>
-  <content contentuid="876320132b9f492b853fd41e0a090b1a" version="1">Detect the presence of aberrations, celestials, elementals, feys, fiends and undead in the area, preventing them from &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Hiding&lt;/LSTag&gt; or becoming &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
-  <content contentuid="2ee9a594afd84f97a5b3716d3998931d" version="1">Character can detect aberration, celestial, elemental, fey, fiend, and undead and prevent them from &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Hiding&lt;/LSTag&gt; or becoming &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
-  <content contentuid="bfb184755739400a943772cf69322925" version="1">Creature is an aberration.</content>
-  <content contentuid="6beed5f467bc4b0ebd343b608420cb9e" version="1">Creature is a celestial.</content>
-  <content contentuid="b07f49b6c998420c9f18a0eb89d72b65" version="1">Creature is an elemental.</content>
-  <content contentuid="7d7c07af979945309e7db68aa1caff36" version="1">Creature is a fey.</content>
-  <content contentuid="025ed466405f4b1bbdf98ddb4ec034fe" version="1">Creature is a fiend.</content>
-  <content contentuid="475f16072bc24bdf901718851cd21e8a" version="1">Creature is undead.</content>
-  <content contentuid="3f175db9b0e643079504acdaba7d45ea" version="1">Detect Magic</content>
-  <content contentuid="c6ed69270baf4e5a8c2187b5e9785c60" version="1">Sense the presence of magic in the area. You can fully focus on a creature possessing the ability to cast spells, preventing it from becoming &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Hidden&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; while its magic can be detected.</content>
-  <content contentuid="f96320b117094948bfca4d10b2a96f66" version="1">Detect creatures with the ability to cast spells within [1].</content>
-  <content contentuid="6155c787ac4e4c5e8cf88169ea0d294a" version="1">Detected Magic</content>
-  <content contentuid="f1004be50a4a4608aba1ba41f582397d" version="1">Creature has the ability to use magic to cast spells.</content>
-  <content contentuid="bcf7130e4e504ffbb90c7294e3cb3f98" version="1">Creature cannot become &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Hidden&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; while its magic is being detected.</content>
-  <content contentuid="41c92d10-4dd7-4a54-885b-04c1fad7bc18" version="1">Frost Fingers</content>
-  <content contentuid="862c9195-d5c9-45f0-8ff8-0bf301a9b3a9" version="1">Freezing cold blasts from your fingertips and freezes liquids in the area.</content>
-  <content contentuid="871390cd-53cb-4311-b2fa-e8e9812dfea1" version="1">Gift of Alacrity</content>
-  <content contentuid="cd30ee6a-3a0d-47d8-bacc-a9a85b7af69f" version="1">Touch an allied creature, granting it a +[1] bonus to its Initiative &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="1166bf80501c4318bfd398556826bedd" version="1">[1] added to Initiative &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="84a9b4df1342451198539d1a761d2c67" version="1">Can't be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;. Receive [1] per turn.</content>
+  <content contentuid="d949371a-01d6-4cca-be33-5751cea2bb16" version="1">Erdbeben</content>
+  <content contentuid="be4d062f-2976-4ebb-8368-b40c232078fe" version="1">Ein Beben im Boden verursacht, wird &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Schwieriges Gelände&lt;/LSTag&gt; und wirkt sich auf Kreaturen in der Nähe aus, wodurch sie möglicherweise &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Anfällig&lt;/LSTag&gt; werden.</content>
+  <content contentuid="h1163cbacg7316g42eag94fag3a3ac95e68b7" version="1">Chaosblitz</content>
+  <content contentuid="h3bc00b62g33e1g4f41ga4dbgc27870dac0e9" version="1">Schleudere eine Masse chaotischer Energie, die zufällig [1], [2], [3], [4], [5], [6], [7] oder [8] verursacht.</content>
+  <content contentuid="3b196c615b9e4605b21133edec9f9359" version="1">Nachdem du diesen Zauber gewirkt hast, wirfst du einen W8. Bei einem Wurf von 1 zielst du automatisch auf eine zusätzliche Kreatur innerhalb von [1] um das ursprüngliche Ziel mit einer weiteren Masse chaotischer Energie.</content>
+  <content contentuid="a0d05efee7474c13815aae23ed24b192" version="1">Chaos Bolt: Zusätzlich</content>
+  <content contentuid="651cf6fbd122465fab868065dbbf2d2d" version="1">Wird von Chaos Bolt angegriffen und kann nicht erneut von ihm angegriffen werden.</content>
+  <content contentuid="1ca004cebd0745a9bc876f7d7145bfa3" version="1">Erkenne Böses und Gutes</content>
+  <content contentuid="876320132b9f492b853fd41e0a090b1a" version="1">Entdeckt die Anwesenheit von Aberrationen, Himmlischen, Elementaren, Feen, Unholden und Untoten in der Umgebung und verhindert, dass sie sich &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;verstecken&lt;/LSTag&gt; oder &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;unsichtbar&lt;/LSTag&gt; werden.</content>
+  <content contentuid="2ee9a594afd84f97a5b3716d3998931d" version="1">Der Charakter kann Aberrationen, himmlische Wesen, Elementarwesen, Feenwesen, Unholde und Untote erkennen und verhindern, dass sie sich &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;verstecken&lt;/LSTag&gt; oder &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt; unsichtbar werden&lt;/LSTag&gt;.</content>
+  <content contentuid="bfb184755739400a943772cf69322925" version="1">Das Geschöpf ist eine Aberration.</content>
+  <content contentuid="6beed5f467bc4b0ebd343b608420cb9e" version="1">Die Kreatur ist ein Himmlischer.</content>
+  <content contentuid="b07f49b6c998420c9f18a0eb89d72b65" version="1">Die Kreatur ist ein Elementarwesen.</content>
+  <content contentuid="7d7c07af979945309e7db68aa1caff36" version="1">Die Kreatur ist eine Fee.</content>
+  <content contentuid="025ed466405f4b1bbdf98ddb4ec034fe" version="1">Die Kreatur ist ein Unhold.</content>
+  <content contentuid="475f16072bc24bdf901718851cd21e8a" version="1">Die Kreatur ist ein Untoter.</content>
+  <content contentuid="3f175db9b0e643079504acdaba7d45ea" version="1">Magie erkennen</content>
+  <content contentuid="c6ed69270baf4e5a8c2187b5e9785c60" version="1">Spüre die Anwesenheit von Magie in der Umgebung.
+Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, Zauber zu wirken, und verhindern, dass sie sich &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;versteckt&lt;/LSTag&gt; oder &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;unsichtbar&lt;/LSTag&gt; wird, während ihre Magie entdeckt werden kann.</content>
+  <content contentuid="f96320b117094948bfca4d10b2a96f66" version="1">Entdeckt Kreaturen mit der Fähigkeit, innerhalb von [1] zu zaubern.</content>
+  <content contentuid="6155c787ac4e4c5e8cf88169ea0d294a" version="1">Magie entdeckt</content>
+  <content contentuid="f1004be50a4a4608aba1ba41f582397d" version="1">Die Kreatur hat die Fähigkeit, Magie zu nutzen, um Zauber zu wirken.</content>
+  <content contentuid="bcf7130e4e504ffbb90c7294e3cb3f98" version="1">Die Kreatur kann sich nicht &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;verstecken&lt;/LSTag&gt; oder &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;unsichtbar&lt;/LSTag&gt; werden, während ihre Magie entdeckt wird.</content>
+  <content contentuid="41c92d10-4dd7-4a54-885b-04c1fad7bc18" version="1">Frostfinger</content>
+  <content contentuid="862c9195-d5c9-45f0-8ff8-0bf301a9b3a9" version="1">Gefrierende Kälte strömt aus den Fingerspitzen und lässt Flüssigkeiten in der Umgebung gefrieren.</content>
+  <content contentuid="871390cd-53cb-4311-b2fa-e8e9812dfea1" version="1">Geschenk der Schnelligkeit</content>
+  <content contentuid="cd30ee6a-3a0d-47d8-bacc-a9a85b7af69f" version="1">Berühre eine verbündete Kreatur und gewähre ihr einen Bonus von +[1] auf ihre Initiative &lt;LSTag Tooltip="AbilityCheck" &gt;Prüfungen&lt;/LSTag&gt;.</content>
+  <content contentuid="1166bf80501c4318bfd398556826bedd" version="1">[1] hinzugefügt zu Initiative &lt;LSTag Tooltip="AbilityCheck" &gt;Prüfungen&lt;/LSTag&gt;.</content>
+  <content contentuid="84a9b4df1342451198539d1a761d2c67" version="1">Kann nicht &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschreckt&lt;/LSTag&gt; sein. Erhalte [1] pro Runde.</content>
   <content contentuid="21bb5b1d-9dd0-4e17-9495-ec8d72d98e9a" version="1">Magnify Gravity</content>
   <content contentuid="c3f6b54c-75a3-46f4-85fb-2a95bc09827e" version="1">Gravity in a [1] sphere centered on a chosen point increases momentarily, potentially halving the &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; of creatures in the area.</content>
   <content contentuid="06052a8489764a15b044db48978006f6" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; halved.</content>
