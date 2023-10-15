@@ -40,60 +40,61 @@
   <content contentuid="c434fd13-b231-44a9-a07f-ada79e63d042" version="1">Nathair's Unfug</content>
   <content contentuid="84da6edc-9a67-4f58-bdd3-8fc969b85a58" version="1">Lagerfeuer erstellen</content>
   <content contentuid="f0bff0e3-71b7-4752-9b67-8e552767e156" version="1">Verursacht zusätzlich [1] und erhöht die gezogene oder geschobene Distanz um [2] pro Level.</content>
-  <content contentuid="826a50c0-b8e4-4e4a-a6b3-677a5a064f88" version="1">Targets still take half damage and aren't pulled or pushed.</content>
-  <content contentuid="5d87d29e-4282-414a-bae8-df16a88da05e" version="1">Targets still take half damage and aren't slowed.</content>
-  <content contentuid="bb4c214a-a60f-4486-b28c-12d87abe9d5c" version="1">Targets still take half damage and aren't pulled.</content>
-  <content contentuid="eb313ea6-89cc-4dd4-a16d-c8a0eb08636d" version="1">Dawn</content>
-  <content contentuid="20949dce-f652-4535-992d-a362f3d21a23" version="1">Not a Dunamancy Wizard</content>
-  <content contentuid="5e6ebe6a-3819-4910-8f8e-1adfd15ff6cf" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Must be a Dunamancy Wizard to use this cantrip.</content>
-  <content contentuid="915d135d-2b77-4226-921e-a5dc36beb761" version="1">Imbue a creature's weapon with holy power, turning it into a &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON"&gt;Holy Weapon&lt;/LSTag&gt;.</content>
-  <content contentuid="8d68db4e-8a50-4e3b-8972-bb2728ffa300" version="1">Emit a burst of radiance from your &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON"&gt;Holy Weapon&lt;/LSTag&gt;, causing hostile creatures to become &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; and ending the spell.</content>
-  <content contentuid="e8aa171a-ce73-4e22-b476-08af9a54edc4" version="1">Targets still take half damage and aren't &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;.</content>
-  <content contentuid="d95057ac-26d0-4bf6-9803-540a8a4b3928" version="1">Absorb Elements</content>
-  <content contentuid="fd76a40f-f10e-4b4a-ae6b-680591749e72" version="1">Capture incoming energy, lessening its effect on you and storing it for your next melee attack.</content>
-  <content contentuid="37557ffb-6f39-4b20-8392-e37be4c3f23a" version="1">Before being hit, you gain resistance to Acid, Cold, Fire, Lightning or Thunder damage. The first melee attack made next turn also deals 1d6 of the triggering damage type.</content>
-  <content contentuid="029e5bf0471f478aaf63dbab24a1a4eb" version="1">Melee attacks deal an additional [1] of the triggering damage type every level.</content>
-  <content contentuid="7e0f97edc72947ff88924403b06b3155" version="1">Absorb Elements: Fire</content>
-  <content contentuid="80e83c51497a40b8a569f87df021dd72" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage.</content>
-  <content contentuid="d91a2ceb18dc45f089731c20ed3a4df7" version="1">Absorb Elements: Acid</content>
-  <content contentuid="abcc01bea3d04db6bb66684cd901a382" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Acid damage.</content>
-  <content contentuid="83e5515baa3d43abaf2d317cc072c9b3" version="1">Absorb Elements: Cold</content>
-  <content contentuid="5a335ea269474dea8fad677c2cabee09" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Cold damage.</content>
-  <content contentuid="dad8f9601a6e49cf951564117df77ddc" version="1">Absorb Elements: Lightning</content>
-  <content contentuid="1f42da9030eb42eda29068a8b4ab0874" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Lightning damage.</content>
-  <content contentuid="9f5b696667944ec6bd9dd0cfce350764" version="1">Absorb Elements: Thunder</content>
-  <content contentuid="e87fe71be4a642768b60845afbd19f10" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Thunder damage.</content>
-  <content contentuid="331ba5a029ce46d99eef3a3c3d1a09e2" version="1">Deal [1] with next melee attack.</content>
-  <content contentuid="a0cceae0552b44f5a19e0f6a73106db6" version="1">Absorb Elements</content>
-  <content contentuid="520c7d44163f4ee1bb6cedf5ca59bda7" version="1">When you get hit with Acid, Cold, Fire, Lightning or Thunder damage, you can use your reaction to gain resistance to the triggering damage type.</content>
-  <content contentuid="3e5ca67a-a68f-4730-a093-44ec915c6940" version="1">Beast Bond</content>
-  <content contentuid="8e566259-b88e-4f96-a40d-7147712a8413" version="1">Establish a telepathic link with a friendly beast or one charmed by you. The beast gains &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against creatures within [1] of you.</content>
-  <content contentuid="7f4617b3a6934167964f71def74aab54" version="1">Telepathically linked to spellcaster and has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against creatures within [1] of them. Creature and the spellcaster have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; that would include one another.</content>
-  <content contentuid="76171920-8973-4dee-b159-522cbc2d557a" version="1">Catapult</content>
-  <content contentuid="5027b99e18944d2cbc2ae8508b9b9fee" version="1">Obsolete Catapult</content>
-  <content contentuid="3a1b6e454fac4cdfa3303b64c35e33f3" version="1">Replace spell or remove it from hotbar.</content>
-  <content contentuid="50b44f97-660e-4226-8901-9f61356fd78e" version="1">Retrieve an object on the ground that weighs up to [1] lbs and launch it at a creature.</content>
-  <content contentuid="5ba6d9b8-05d3-4cb7-90a9-be22faa70e20" version="1">Catapult: Launch </content>
-  <content contentuid="80183993-5362-4940-9e00-47b6da6101a7" version="1">Launch a previously chosen object at a creature.</content>
-  <content contentuid="b1f7f4417bde414abb41166a29152ba4" version="1">Prepared to be catapulted at a creature.</content>
-  <content contentuid="d7a15009-450f-4f1b-bdcd-b1141080aac4" version="1">Cause Fear</content>
-  <content contentuid="a7612af9-b987-4c6e-9f0a-41ec0db1fd23" version="1">Awaken the sense of mortality in a creature, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightening&lt;/LSTag&gt; it.</content>
-  <content contentuid="ec3f3eda-67b4-43f1-9a1d-af00dd40e8e6" version="1">Creature repeats the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; at the end of its turns.</content>
-  <content contentuid="h9018737ag64c4g480dg993eg6e7f1effc4e9" version="1">Ceremony</content>
-  <content contentuid="hb7fd9240g3f07g4bcagabc9g45aa63fe3b35" version="1">Perform one of several religious ceremonies: Bless Water, Coming of Age or Dedication.</content>
-  <content contentuid="h3ca5034aga722g4d96ga134g0553c0411d12" version="1">Ceremony: Bless Water</content>
-  <content contentuid="hda07c851g92a9g41f9gb750g4f8aa7e21a39" version="1">Touch a container of water in a creature's inventory, transforming it to become &lt;LSTag Type="Status" Tooltip="BLESS_WATER"&gt;Holy Water&lt;/LSTag&gt;.</content>
-  <content contentuid="h49ed8ca2g0c96g40c2g84f4g423d057cf0db" version="1">Ceremony: Coming of Age</content>
-  <content contentuid="hdeffb722g37d8g4599gb829gd000b1684677" version="1">Touch a creature, granting it a +[1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="5dfb4398-fe17-4bdf-ae03-770adcd46dc7" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; A creature completing this ceremony may never again benefit from the same ceremony.</content>
-  <content contentuid="hb12e33bagaa3ag48d4g9208gccf22909a29d" version="1">Ceremony: Dedication</content>
-  <content contentuid="h82d99f51g657fg442fgbe41g3f57c243ad4a" version="1">Touch a creature, granting it a +[1] bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
-  <content contentuid="h1ca7f387g3a91g4acaga9cbge2f2e1f0d420" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; This spell requires and removes 25 gold when cast.</content>
-  <content contentuid="21161dc842c64450aa3b869f88485b7e" version="1">Blessed Water</content>
-  <content contentuid="bb7018d4037d4ac78eeb2f04df5c0e90" version="1">Coming of Age</content>
-  <content contentuid="05589863298142c5b6ff6a5ad0cbe009" version="1">[1] added to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="eb9e2ee721de4875b6f89032418b6c4a" version="1">Dedication</content>
-  <content contentuid="3614693cfd6e4dbf9183d6898413f7e9" version="1">[1] added to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="826a50c0-b8e4-4e4a-a6b3-677a5a064f88" version="1">Ziele erleiden immer noch den halben Schaden und werden nicht gezogen oder gestoßen.</content>
+  <content contentuid="5d87d29e-4282-414a-bae8-df16a88da05e" version="1">Ziele erleiden weiterhin den halben Schaden und werden nicht verlangsamt.</content>
+  <content contentuid="bb4c214a-a60f-4486-b28c-12d87abe9d5c" version="1">Ziele erleiden immer noch den halben Schaden und werden nicht gezogen.</content>
+  <content contentuid="eb313ea6-89cc-4dd4-a16d-c8a0eb08636d" version="1">Morgendämmerung</content>
+  <content contentuid="20949dce-f652-4535-992d-a362f3d21a23" version="1">Kein Zauberer der Dunamanz (*)</content>
+  <content contentuid="5e6ebe6a-3819-4910-8f8e-1adfd15ff6cf" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Man muss ein Dunamanz-Zauberer (*) sein, um diesen Zaubertrick zu benutzen.</content>
+  <content contentuid="915d135d-2b77-4226-921e-a5dc36beb761" version="1">Verleihe der Waffe einer Kreatur heilige Kraft und verwandle sie in eine &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON"&gt;Heilige Waffe&lt;/LSTag&gt;.</content>
+  <content contentuid="8d68db4e-8a50-4e3b-8972-bb2728ffa300" version="1">Aus deiner &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON"&gt;Heiligen Waffe&lt;/LSTag&gt; strömt ein Strahlen aus, das feindliche Kreaturen &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;blendet&lt;/LSTag&gt; und den Zauber beendet.</content>
+  <content contentuid="e8aa171a-ce73-4e22-b476-08af9a54edc4" version="1">Ziele erleiden immer noch halben Schaden und sind nicht &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;geblendet&lt;/LSTag&gt;.</content>
+  <content contentuid="d95057ac-26d0-4bf6-9803-540a8a4b3928" version="1">Elemente absorbieren</content>
+  <content contentuid="fd76a40f-f10e-4b4a-ae6b-680591749e72" version="1">Fange ankommende Energie ein, verringere ihre Wirkung auf dich und speichere sie für deinen nächsten Nahkampfangriff.</content>
+  <content contentuid="37557ffb-6f39-4b20-8392-e37be4c3f23a" version="1">Bevor du getroffen wirst, erhältst du Widerstand gegen Säure-, Kälte-, Feuer-, Blitz- oder Donnerschaden. Der erste Nahkampfangriff in der nächsten Runde verursacht außerdem 1d6 Schaden der auslösenden Schadensart.</content>
+  <content contentuid="029e5bf0471f478aaf63dbab24a1a4eb" version="1">Nahkampfangriffe verursachen pro Stufe zusätzlich [1] der auslösenden Schadensart.</content>
+  <content contentuid="7e0f97edc72947ff88924403b06b3155" version="1">Elemente absorbieren: Feuer</content>
+  <content contentuid="80e83c51497a40b8a569f87df021dd72" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistent&lt;/LSTag&gt; gegen Feuerschaden.</content>
+  <content contentuid="d91a2ceb18dc45f089731c20ed3a4df7" version="1">Elemente absorbieren: Säure</content>
+  <content contentuid="abcc01bea3d04db6bb66684cd901a382" version="1">&lt;LSTag Tooltip="Resistent"&gt;Resistent&lt;/LSTag&gt; gegen Säureschaden.</content>
+  <content contentuid="83e5515baa3d43abaf2d317cc072c9b3" version="1">Elemente absorbieren: Kälte</content>
+  <content contentuid="5a335ea269474dea8fad677c2cabee09" version="1">&lt;LSTag Tooltip="Resistent"&gt;Resistent&lt;/LSTag&gt; gegen Kälteschaden.</content>
+  <content contentuid="dad8f9601a6e49cf951564117df77ddc" version="1">Elemente absorbieren: Blitz</content>
+  <content contentuid="1f42da9030eb42eda29068a8b4ab0874" version="1">&lt;LSTag Tooltip="Resistent"&gt;Resistent&lt;/LSTag&gt; gegen Blitzschaden.</content>
+  <content contentuid="9f5b696667944ec6bd9dd0cfce350764" version="1">Elemente absorbieren: Donner</content>
+  <content contentuid="e87fe71be4a642768b60845afbd19f10" version="1">&lt;LSTag Tooltip="Resistent"&gt;Resistent&lt;/LSTag&gt; gegen Donnerschaden.</content>
+  <content contentuid="331ba5a029ce46d99eef3a3c3d1a09e2" version="1">Erledige [1] mit dem nächsten Nahkampfangriff.</content>
+  <content contentuid="a0cceae0552b44f5a19e0f6a73106db6" version="1">Elemente absorbieren</content>
+  <content contentuid="520c7d44163f4ee1bb6cedf5ca59bda7" version="1">Wenn du von Säure-, Kälte-, Feuer-, Blitz- oder Donnerschaden getroffen wirst, kannst du deine Reaktion nutzen, um Widerstand gegen die auslösende Schadensart zu erlangen.</content>
+  <content contentuid="3e5ca67a-a68f-4730-a093-44ec915c6940" version="1">Bestienbindung</content>
+  <content contentuid="8e566259-b88e-4f96-a40d-7147712a8413" version="1">Baue eine telepathische Verbindung mit einem befreundeten oder von dir verzauberten Biest auf. Die Bestie erhält &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen Kreaturen im Umkreis von [1] von dir.</content>
+  <content contentuid="7f4617b3a6934167964f71def74aab54" version="1">Telepathisch mit dem Zaubernden verbunden und hat &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen Kreaturen im Umkreis von [1].
+Die Kreatur und der Zauberer haben &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; und &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;, die sich gegenseitig einschließen würden.</content>
+  <content contentuid="76171920-8973-4dee-b159-522cbc2d557a" version="1">Katapult</content>
+  <content contentuid="5027b99e18944d2cbc2ae8508b9b9fee" version="1">Veraltetes Katapult</content>
+  <content contentuid="3a1b6e454fac4cdfa3303b64c35e33f3" version="1">Ersetze den Zauber oder entferne ihn aus der Hotbar.</content>
+  <content contentuid="50b44f97-660e-4226-8901-9f61356fd78e" version="1">Holen Sie sich einen Gegenstand vom Boden, der bis zu 1 Pfund wiegt, und schleudern Sie ihn auf eine Kreatur.</content>
+  <content contentuid="5ba6d9b8-05d3-4cb7-90a9-be22faa70e20" version="1">Katapult: Abschuss</content>
+  <content contentuid="80183993-5362-4940-9e00-47b6da6101a7" version="1">Wirf ein zuvor ausgewähltes Objekt auf eine Kreatur.</content>
+  <content contentuid="b1f7f4417bde414abb41166a29152ba4" version="1">Bereit, auf eine Kreatur katapultiert zu werden.</content>
+  <content contentuid="d7a15009-450f-4f1b-bdcd-b1141080aac4" version="1">Angst verursachen</content>
+  <content contentuid="a7612af9-b987-4c6e-9f0a-41ec0db1fd23" version="1">Erwecke das Gefühl der Sterblichkeit in einer Kreatur und &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;erschrecke&lt;/LSTag&gt; sie.</content>
+  <content contentuid="ec3f3eda-67b4-43f1-9a1d-af00dd40e8e6" version="1">Die Kreatur wiederholt die &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; am Ende ihrer Züge.</content>
+  <content contentuid="h9018737ag64c4g480dg993eg6e7f1effc4e9" version="1">Zeremonie</content>
+  <content contentuid="hb7fd9240g3f07g4bcagabc9g45aa63fe3b35" version="1">Führe eine von mehreren religiösen Zeremonien durch: Segnung des Wassers, Erwachsen werden oder Einweihung.</content>
+  <content contentuid="h3ca5034aga722g4d96ga134g0553c0411d12" version="1">Zeremonie: Wasser segnen</content>
+  <content contentuid="hda07c851g92a9g41f9gb750g4f8aa7e21a39" version="1">Berühre einen Behälter mit Wasser im Inventar einer Kreatur und verwandle ihn in &lt;LSTag Type="Status" Tooltip="BLESS_WATER"&gt;Heiliges Wasser&lt;/LSTag&gt;.</content>
+  <content contentuid="h49ed8ca2g0c96g40c2g84f4g423d057cf0db" version="1">Zeremonie: Erwachsen werden</content>
+  <content contentuid="hdeffb722g37d8g4599gb829gd000b1684677" version="1">Berühre eine Kreatur und gewähre ihr einen Bonus von +[1] auf &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsüberprüfungen&lt;/LSTag&gt;.</content>
+  <content contentuid="5dfb4398-fe17-4bdf-ae03-770adcd46dc7" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Eine Kreatur, die diese Zeremonie abschließt, kann nie wieder in den Genuss derselben Zeremonie kommen.</content>
+  <content contentuid="hb12e33bagaa3ag48d4g9208gccf22909a29d" version="1">Zeremonie: Einweihung</content>
+  <content contentuid="h82d99f51g657fg442fgbe41g3f57c243ad4a" version="1">Berühre eine Kreatur und gewähre ihr einen Bonus von +[1] auf &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="h1ca7f387g3a91g4acaga9cbge2f2e1f0d420" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Dieser Zauber erfordert und entfernt 25 Gold, wenn er gewirkt wird.</content>
+  <content contentuid="21161dc842c64450aa3b869f88485b7e" version="1">Gesegnetes Wasser</content>
+  <content contentuid="bb7018d4037d4ac78eeb2f04df5c0e90" version="1">Erwachsenwerden</content>
+  <content contentuid="05589863298142c5b6ff6a5ad0cbe009" version="1">[1] hinzugefügt zu &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsprüfungen&lt;/LSTag&gt;.</content>
+  <content contentuid="eb9e2ee721de4875b6f89032418b6c4a" version="1">Widmung</content>
+  <content contentuid="3614693cfd6e4dbf9183d6898413f7e9" version="1">[1] hinzugefügt zu &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="d949371a-01d6-4cca-be33-5751cea2bb16" version="1">Earth Tremor</content>
   <content contentuid="be4d062f-2976-4ebb-8368-b40c232078fe" version="1">Cause a tremor in the ground becomes &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; and affects nearby creatures, possibly knocking them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
   <content contentuid="h1163cbacg7316g42eag94fag3a3ac95e68b7" version="1">Chaos Bolt</content>
