@@ -352,4 +352,7 @@ Wenn du Schusswaffenangriffe in Nahkampfreichweite ausführst, haben die &lt;LST
   <content contentuid="hccddd565g187cg49e2ga99eg43b33c5b8142" version="1">Wenn du Schusswaffenangriffe in Nahkampfreichweite ausführst, haben die &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; keinen &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag&gt;.</content>
   <content contentuid="hccddf565g187cg49e2ga99eg43b33c5b8142" version="1">Du erwirbst &lt;LSTag Tooltip="Proficiency"&gt;Übung&lt;/LSTag&gt; im Umgang mit Schusswaffen.</content>
   <content contentuid="hbbddf565g187cg49e2ga99eg43b33c5b8142" version="1">Du erlangst &lt;LSTag Tooltip="Proficiency"&gt;Übung&lt;/LSTag&gt; im Umgang mit Schusswaffen.&lt;br&gt;Wenn du Schusswaffenangriffe in Nahkampfreichweite ausführst, hat dies keine Nachteile auf die &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="h01fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Rüstungsmodell: Infiltrator - Haupthand-Werfer</content>
+  <content contentuid="h02fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Rüstungsmodell: Infiltrator - Nebenhand-Werfer</content>
+  <content contentuid="h03fd3cd2gb9a3g45aegb17ag371fd93e0c06" version="1">Rüstungsmodell: Infiltrator - Brustmontierter Werfer</content>
 </contentList>

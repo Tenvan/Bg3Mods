@@ -124,27 +124,27 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="cd30ee6a-3a0d-47d8-bacc-a9a85b7af69f" version="1">Berühre eine verbündete Kreatur und gewähre ihr einen Bonus von +[1] auf ihre Initiative &lt;LSTag Tooltip="AbilityCheck" &gt;Prüfungen&lt;/LSTag&gt;.</content>
   <content contentuid="1166bf80501c4318bfd398556826bedd" version="1">[1] hinzugefügt zu Initiative &lt;LSTag Tooltip="AbilityCheck" &gt;Prüfungen&lt;/LSTag&gt;.</content>
   <content contentuid="84a9b4df1342451198539d1a761d2c67" version="1">Kann nicht &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschreckt&lt;/LSTag&gt; sein. Erhalte [1] pro Runde.</content>
-  <content contentuid="21bb5b1d-9dd0-4e17-9495-ec8d72d98e9a" version="1">Magnify Gravity</content>
-  <content contentuid="c3f6b54c-75a3-46f4-85fb-2a95bc09827e" version="1">Gravity in a [1] sphere centered on a chosen point increases momentarily, potentially halving the &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; of creatures in the area.</content>
-  <content contentuid="06052a8489764a15b044db48978006f6" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; halved.</content>
-  <content contentuid="5ef6e7b8-24bc-4593-b9fa-498641fed4a6" version="1">Wrathful Smite: Dispel</content>
-  <content contentuid="3121b9e3-a94e-44e3-be6f-259946ba70ce" version="1">Steel your resolve against the Wrathful Smite effect.</content>
-  <content contentuid="e534d86e-3238-4c8b-91ec-3d19b37e1262" version="1">Snare</content>
-  <content contentuid="7aad5759-5124-443f-ac19-971c05890fa2" version="1">Create a [1] magical trap on the ground. It is triggered when a Small or larger creature moves near it, causing them to possibly fall &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; and become &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrained&lt;/LSTag&gt;.</content>
-  <content contentuid="2aa81f7a99364085b0be56f039064ee0" version="1">&lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrained&lt;/LSTag&gt; creatures make Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; with &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; at the end of their turns, ending the effect on a success. Another creature can use its action to end the effect as well.</content>
-  <content contentuid="1528ebe4-7603-410d-80a8-04187955011b" version="1">Caustic Brew</content>
-  <content contentuid="5fc2505e-a9b8-4d07-accf-63f249e0e7f9" version="1">A stream of acid emanates from you in the line, possibly covering creatures in the area in acid.</content>
-  <content contentuid="d21a9d66-d88c-4418-b7e8-0462590d3048" version="1">Creatures covered in acid take [1] at the start of their turns.</content>
-  <content contentuid="ca617c4d38114678a5fbeacfe031270f" version="1">Acid Removal</content>
-  <content contentuid="7cd27bde3f7c4fe8bd59be5b29b5143d" version="1">Remove acid that covers the target.</content>
-  <content contentuid="360046d059b145f797fd75e2f3f95778" version="1">Deals [1] per turn.</content>
-  <content contentuid="5f04604f-105c-4281-9fed-0a3ef74343d4" version="1">Unseen Servant</content>
-  <content contentuid="700987e2-c76a-4758-8b2c-f71f5a41fb38" version="1">Create an invisible, mindless, shapeless, medium force that performs simple tasks at your command.</content>
-  <content contentuid="4f49bb64-bf50-4cc7-997b-129be0d728e1" version="1">Zephyr Strike</content>
-  <content contentuid="8bed9dc5-b98a-4a72-b0b3-f4d0cfadccc0" version="1">Move like the wind, allowing you to avoid provoking &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
-  <content contentuid="7e31428a-866a-4435-aca9-09e8acecebad" version="1">Until the spell ends, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next weapon &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; which deals an additional [1]. Hit or miss, you gain an additional [2] of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; until the end of your turn.</content>
-  <content contentuid="1c87e59548c24c9a8e5460f309d22d35" version="1">Cannot provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
-  <content contentuid="0470b21bdeb8470da97ab240f945772f" version="1">Gained [1] &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt;.</content>
+  <content contentuid="21bb5b1d-9dd0-4e17-9495-ec8d72d98e9a" version="1">Schwerkraft vergrößern</content>
+  <content contentuid="c3f6b54c-75a3-46f4-85fb-2a95bc09827e" version="1">Die Schwerkraft in einer [1]-Kugel, die auf einem gewählten Punkt zentriert ist, erhöht sich kurzzeitig, was die &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; von Kreaturen in diesem Bereich um die Hälfte reduzieren kann.</content>
+  <content contentuid="06052a8489764a15b044db48978006f6" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; halbiert.</content>
+  <content contentuid="5ef6e7b8-24bc-4593-b9fa-498641fed4a6" version="1">Zorniger Schlag: Vertreiben</content>
+  <content contentuid="3121b9e3-a94e-44e3-be6f-259946ba70ce" version="1">Stähle deine Entschlossenheit gegen den Effekt des Zornigen Schlags.</content>
+  <content contentuid="e534d86e-3238-4c8b-91ec-3d19b37e1262" version="1">Schlinge</content>
+  <content contentuid="7aad5759-5124-443f-ac19-971c05890fa2" version="1">Erstelle eine [1] magische Falle auf dem Boden. Sie wird ausgelöst, wenn sich eine kleine oder größere Kreatur in ihre Nähe begibt, wodurch sie möglicherweise &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Anfällig&lt;/LSTag&gt; wird und &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Gefesselt&lt;/LSTag&gt; wird.</content>
+  <content contentuid="2aa81f7a99364085b0be56f039064ee0" version="1">&lt;LSTag Type="Status" Tooltip="RESTRAINED" &gt;Gefesselte&lt;/LSTag&gt; Kreaturen machen Geschicklichkeits-&lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Disadvantage" &gt;Nachteil&lt;/LSTag&gt; am Ende ihrer Runde und beenden den Effekt bei einem Erfolg. Eine andere Kreatur kann ihre Aktion nutzen, um den Effekt ebenfalls zu beenden.</content>
+  <content contentuid="1528ebe4-7603-410d-80a8-04187955011b" version="1">Ätzendes Gebräu</content>
+  <content contentuid="5fc2505e-a9b8-4d07-accf-63f249e0e7f9" version="1">Ein Säurestrom geht von dir aus und kann Kreaturen in der Umgebung mit Säure bedecken.</content>
+  <content contentuid="d21a9d66-d88c-4418-b7e8-0462590d3048" version="1">Kreaturen, die mit Säure bedeckt sind, erleiden [1] zu Beginn ihres Zuges.</content>
+  <content contentuid="ca617c4d38114678a5fbeacfe031270f" version="1">Entfernung von Säure</content>
+  <content contentuid="7cd27bde3f7c4fe8bd59be5b29b5143d" version="1">Entfernt die Säure, die das Ziel bedeckt.</content>
+  <content contentuid="360046d059b145f797fd75e2f3f95778" version="1">Verursacht [1] pro Runde.</content>
+  <content contentuid="5f04604f-105c-4281-9fed-0a3ef74343d4" version="1">Ungesehener Diener</content>
+  <content contentuid="700987e2-c76a-4758-8b2c-f71f5a41fb38" version="1">Erschaffe eine unsichtbare, geistlose, formlose, mittlere Kraft, die auf deinen Befehl hin einfache Aufgaben ausführt.</content>
+  <content contentuid="4f49bb64-bf50-4cc7-997b-129be0d728e1" version="1">Zephirschlag</content>
+  <content contentuid="8bed9dc5-b98a-4a72-b0b3-f4d0cfadccc0" version="1">Bewege dich wie der Wind und vermeide es, &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt; zu provozieren.</content>
+  <content contentuid="7e31428a-866a-4435-aca9-09e8acecebad" version="1">Bis zum Ende des Zaubers hast du &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf den nächsten Waffen-&lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;, der dir zusätzlich [1] einbringt. Ob du triffst oder nicht, du erhältst bis zum Ende deines Zuges zusätzlich [2] &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt;.</content>
+  <content contentuid="1c87e59548c24c9a8e5460f309d22d35" version="1">Kann keine &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt; provozieren.</content>
+  <content contentuid="0470b21bdeb8470da97ab240f945772f" version="1">[1] &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; erhalten.</content>
   <content contentuid="06ccff5b-74f8-4871-a26d-66436d5da6d5" version="1">Booming Blade</content>
   <content contentuid="aa20553d-362b-4ff6-b5d9-5c70e4e37e59" version="1">Strike a target with a melee weapon, surrounding them in a booming energy that detonates and deals [1] if it willingly moves.</content>
   <content contentuid="7072fa8e512243d18b7e182cbd0651be" version="1">Takes [1] if moving willingly.</content>

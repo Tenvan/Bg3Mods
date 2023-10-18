@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="hbedc0c6ag55d9g4aefg8b61gaa2cba5c6623" version="1">The College of Glamour is the home of bards who mastered their craft in the vibrant realm of the Feywild or under the tutelage of someone who dwelled there. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others.</content> 
+  <content contentuid="h2e121803g47b0g456aga58dg449011896bd3" version="1">College of Glamour</content>
+  <content contentuid="h49afde3eg14d5g41efg8a0agf699477b032d" version="1">You can use a bonus action and expend Bardic Inspiration to grant yourself an enchanting appearance, allowing you to share 5 temporary hit points with allies within 18m. Targets affected by this gain the benefits of the disengage action and extra movement speed for 1 turn. This increases to 8 hitpoints at level 5, and 11 at level 10.</content>
+  <content contentuid="h34c32567g2662g4a71g9a11g9221e98b9ed2" version="1">Mantle of Inspiration</content>
+  <content contentuid="h34c32567g2662g4a71g9a11g9221e98b9ht5" version="1">Mantle of Inspiration Movement Buff</content>
+  <content contentuid="h49afde3eg14d5g41efg8a0agf699577b032a" version="1">Perform a song inspiring those around you with magic. 3 humanoids within 18m of your choice must succeed on a Wisdom saving throw against your spell save DC or be charmed by you.</content>
+  <content contentuid="h34c32567g2662g4a71g9a11g9221e98h9ed3" version="1">Enthralling Performance</content>
+  <content contentuid="h49afde3eg14d5g41efg8a0agf699577b015h" version="1">Cloak yourself in fey magic, that allows you to cast the spell Command as a bonus action without expending a spell slot. This form of unearthly beauty lasts for 1 minute or until your concentration ends. During this time, you can cast command each turn without using a spell slot.</content>
+  <content contentuid="h34c32567g2662g4a71g9a11g9221e98h9pe3" version="1">Mantle of Majesty</content>
+  <content contentuid="h34c32567g2662g4a71g9a11g9221e98h9eh7" version="1">Has Temporary hit points added, and is slightly faster for 1 turn.</content>
+  <content contentuid="" version="1"></content>
+  <content contentuid="" version="1"></content>
+  <content contentuid="" version="1"></content>
+  <content contentuid="" version="1"></content>
+  <content contentuid="" version="1"></content>
+  <content contentuid="" version="1"></content>
+  <content contentuid="" version="1"></content> 
+  <content contentuid="" version="1"></content>
+  <content contentuid="" version="1"></content>
+  <content contentuid="" version="1"></content>
+</contentList>

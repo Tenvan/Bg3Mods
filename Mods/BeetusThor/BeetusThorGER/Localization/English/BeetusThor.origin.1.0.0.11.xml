@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h55607589gaf30g48fcg994ag91214031cbf6" version="1">A king's weapon. Meant to be the greatest in Asgard. In theory, it could even summon the Bifrost.</content> 
+  <content contentuid="hc0f32d5bg8a7dg4999gaeb3gc5499457955d" version="1">Stormbreaker</content> 
+  <content contentuid="h2341c1ffgfa66g477fgbe6eg57ee1c8e2df2" version="1">Stormbreaker's Wrath</content>
+  <content contentuid="haf78c17bgd13dg488bgbad4g6fb7bf3ecaca" version="1">On weapon hit, deals [1] to up to [2] other foes within 10m.</content> 
+  <content contentuid="hd477c943g4d9ag44c7g8f02g0f2eed551327" version="1">Crackling With Thor's Lightning</content>
+  <content contentuid="h6122d52eg186cg4a7egb44eg34584b9b12b8" version="1">The wielder gains &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Lightning damage. Its Lightning and Thunder spells deal additional Lightning and Thunder damage equal to its &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. While using Stormbreaker, it can cast &lt;LSTag Type="Spell" Tooltip="Projectile_Beetus_Thor_Stormbreaker_2H_Passive_ChainLightning"&gt;Chain Lightning&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Zone_Beetus_Thor_Stormbreaker_2H_Passive_LightningBolt"&gt;Lightning Bolt&lt;/LSTag&gt;.</content>
+  <content contentuid="h723e5157g1bfag45feg9415ga659b1d5a7c2" version="1">Chordbreaker</content>
+  <content contentuid="h017b21b9gf1ccg4f7dg9656g24cd06fbdba5" version="1">A king's instrument. Meant to be the greatest in Asgard. In theory, its harmonies could even evoke the shimmering span of the Bifrost. </content>
+  <content contentuid="h1a42e130g1c8dg44fag8c9dg9094091e0783" version="1">Get Help!</content>
+  <content contentuid="he9c5f4f1g135eg4aa8g969cg0d8ee48d6e17" version="1">GET HELP! Please! My brother's dying! Get help! Help him!</content>
+  <content contentuid="h26957692g2a4eg4d22g8f30g54fec9f6fc16" version="1">Heavier characters deal more damage.</content>
+  <content contentuid="h7468cca3g28d8g4e75gb8edg3efbe0fba452" version="1">Invoke Lightning</content>
+  <content contentuid="hfb107c38gd214g4dceg856dg6c67ff2fcb78" version="1">Call forth a beam of crackling lightning that forks on impact, hitting up to [1] additional foe(s) within [2].</content>
+  <content contentuid="h476e8c20gd675g4837gb87bg2fbe727405c3" version="1">Lightning Storm</content>
+  <content contentuid="h8217e1f3g7345g4f64g8b7cg35366c3b3c9a" version="1">Call down lightning that strikes 6 times randomly in a [1] radius, damaging creatures within [2] of each impact.</content>
+  <content contentuid="he5cd8ee7g6cf4g495dgb852g0e0f3c0adefa" version="1">Odinforce</content>
+  <content contentuid="hf6c76334gd0b6g4796ga69bg02578e739135" version="1">The Odinforce can be used to fuel powerful lightning abilities. </content>
+  <content contentuid="h9d7379bcg5ec4g4686g8f88g79a33113532d" version="1">Gift of Lightning</content>
+  <content contentuid="h9b993746g3596g4eeegad4fgff2a95a1ed13" version="1">Gift of Lightning: Thor's Blessing</content>
+  <content contentuid="hfa417856g3328g45b6g8926g4b13b1f54994" version="1">Channel your power through Stormbreaker to boost your allies attacks or make enemies feel the wrath of the storm.</content>
+  <content contentuid="h3ded8f22geaaeg42a6g8223g5f41ff91e294" version="1">All other allies within [1] of range deal an additional [2] with weapon attacks. Additionally, their successful weapon attacks cause a bolt of lightning to fork from the target to a nearby foe within [3], dealing [4] </content>
+  <content contentuid="hb960af31ge242g44fegb2e1g55ca913d16ff" version="1">Gift of Lightning: Thor's Power</content>
+  <content contentuid="h05d9c49agbac9g41d9g94c8g50d43c8f40ba" version="1"> </content>
+  <content contentuid="h6e8ec1dcg4935g4882gac48gc3b1f9709d43" version="1">Thor's Power: Forking Lightning</content>
+  <content contentuid="h62a32a49g97e4g4adegb7b8g518c7053a302" version="1">Character is enchanted with a portion of Thor's power, dealing an additional [1] with each weapon attack. Additionally, successful weapon attacks cause a bolt of lightning to fork from the target to a nearby foe within [2], dealing [3]</content>
+  <content contentuid="h2a654dd9g1863g4088g9f44ga1feba0a8fce" version="1">Gift of Lightning: Raging Storm</content>
+  <content contentuid="hd3c68cacg6b8dg4ad4gbe52g474062f63c4b" version="1">Nearby foes within [1] of range become &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Lightning damage</content>
+  <content contentuid="h3c5e5bffgd8c3g45e7gbd13g0831dd5b5cce" version="1">Gift of Lightning: Tempest's Grip</content>
+  <content contentuid="h7b703844g6a62g4453g9258g80c42db9fa0b" version="1">Character is caught in a lightning storm and is &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Lightning damage</content>
+  <content contentuid="h4ad323ffg978dg4e74g9943g81af776383b5" version="1">God of Thunder</content>
+  <content contentuid="h30590cbegefbcg4428g95e7gf6f9bd2cb1cc" version="1">Your spells that deal Lightning or Thunder damage gain +[1] bonus to &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Spell Save DC&lt;/LSTag&gt;</content>
+  <content contentuid="h4d23dad0g4a88g4b79g931cgf991fbcf9742" version="1">Your spells and spell attacks that deal Lightning or Thunder damage gain a +[1] bonus to &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Spell Save DC&lt;/LSTag&gt; and spell &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h930bf591g2949g4750ga6ccg483b742d5198" version="1">Asgardian Resilience</content>
+  <content contentuid="hdce6471ag9d8ag4f0cg922eg9c299e9998b1" version="1">At the start of your turn, you heal for [1].</content>
+  <content contentuid="hbb0b9e43gb830g4fdbg96aag050c16692a53" version="1">Charged Up</content>
+  <content contentuid="hef6716fdg12bbg465bg82e0g2757ae38ea35" version="1">When the wielder deals damage with this weapon or with a spell, they gain [1] &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Lightning Charges&lt;/LSTag&gt;.</content>
+  <content contentuid="hd6432a31g53e6g45e2gad83gdfb745f3cfd5" version="1">Thunderous Blow</content>
+  <content contentuid="hfbe10421g1b2bg4190ga8a9g3112fbf38ea0" version="1">Deliver a thundering strike to your target, possibly knocking it back [1].</content>
+  <content contentuid="h3ec5e7b9g8055g4c11g9760g2405fd82b463" version="1">Thunderous Shockwave</content>
+  <content contentuid="h1510146fg8ecdg45eegbefag3a2166007673" version="1">A shockwave that deals Thunder damage to enemies.</content>
+  <content contentuid="hb727d15dg614fg42beg9bfcg6b63ff2ac116" version="1">Bring Me Thanos!</content>
+  <content contentuid="h81f41289g4bd9g4251ga576g5e19f1bf1920" version="1">Leap toward target area and slam the ground with Stormbreaker, knocking creatures &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. The force from the leap knocks creatures back [1] who fail a Strength Saving Throw. Additionally, the leap triggers a &lt;LSTag Type="Spell" Tooltip="Projectile_Beetus_Thor_Stormbreaker_2H_BringMeThanos_Shockwave"&gt;Thunderous Shockwave&lt;/LSTag&gt; that deals additional Thunder damage to enemies within [2].</content>
+  <content contentuid="heffd7e9agb2c3g4d63g9a43gd58da2db40e9" version="1">Mjolnir</content>
+  <content contentuid="h7c3ef800gb147g4ceegb35egd3a51c614f8e" version="1">Whosoever holds this hammer, if he be worthy, shall possess the power of Thor.</content>
+  <content contentuid="h2eefe96bge0c7g4e3cg909cgc0b3593ec82f" version="1">Lightning Strike</content>
+  <content contentuid="he47db76dg16deg4d4agadd0g1dbf8953dde1" version="1">Deliver a lightning imbued strike to your target, possibly knocking them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="h98530c3fgdd60g4022gbf7fgeeca54a09e1c" version="1">Bring Me Thanos - Toggle</content>
+  <content contentuid="h674f527fg241bg4693gbce6g656592a7de14" version="1">Toggle on/off &lt;LSTag Type="Spell" Tooltip="Projectile_Beetus_Thor_Stormbreaker_2H_BringMeThanos"&gt;Bring Me Thanos!&lt;/LSTag&gt;</content>
+  <content contentuid="hde9a4586g9501g472cgbf9bgfb0f583bbab9" version="1">Worthy</content>
+  <content contentuid="h2cd9b24eg3bf0g4c1dgb09dgde143be9b701" version="1">&lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; increased by [1].</content>
+  <content contentuid="he58f4863g434eg46e9g9d0ag5cc3f07a4289" version="1">Mjolnir Blast</content>
+  <content contentuid="hc9bf9205gcd48g4976gad8egde442b416276" version="1">Unleash a blast of lightning from Mjolnir at a creature.</content>
+  <content contentuid="hc80ab552g8866g4f1ag9416g574c13de7d57" version="1">Mjolnir Uppercut</content>
+  <content contentuid="h1b51886dg4c4ag4d52g852bgfdba78650909" version="1">Strike your target with a heavy swing from Mjolnir, possibly knocking them back [1]. Deals an additional [2] to &lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;Petrified&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="FROZEN"&gt;Frozen&lt;/LSTag&gt; targets, as well as those with &lt;LSTag Type="Status" Tooltip="STONESKIN"&gt;Stone Skin&lt;/LSTag&gt;.</content>
+  <content contentuid="hc68343b0ga8d4g4dfdgb9c2gc5f4dbc5e73b" version="1">Throw Mjolnir</content>
+  <content contentuid="hf2c36aebg20a1g4660g8aa5g2ef0504a7d45" version="1">Throw Mjolnir at a target, causing a lightning explosion on impact, dealing [1] to all characters in a [2] radius.</content>
+  <content contentuid="hf8012caeg2f06g42c3gaf69g24065b4a4423" version="1">Crack of Thunder</content>
+  <content contentuid="h94c6ec35gc944g4f6ag8663gee3b79120b29" version="1">Lightning spells deal an additional [1] and inflict [2] &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt; upon the target(s). </content>
+  <content contentuid="he78e5593gb59fg4795gba76g9a828d54d12e" version="1">Flash of Lightning</content>
+  <content contentuid="he3e5c19cga504g46c0g99dfg0ec63fd0eb33" version="1">Thunder spells deal an additional [1] and grant [2] &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Lightning Charges&lt;/LSTag&gt; to the wielder.</content>
+  <content contentuid="h0db27410g3cb4g4f5fgab77g04e2032a9966" version="1">Mighty</content>
+  <content contentuid="hcbfa0974ge825g4c18g84b9g0932fb7040df" version="1">&lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; increased by [1].</content>
+  <content contentuid="h28d2789bg76e4g4940g9649ga0adb22f0d81" version="1">Thunderous Shockwave</content>
+  <content contentuid="hdf658002g803fg4e21g9f17gbc7445e31c6e" version="1">Slam Stormbreaker on the groud, unleashing a shockwave in a [1] radius, possibly knocking foes &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;</content>
+  <content contentuid="h8b274cf4g04aag4544gb1b8g76ff0af822f8" version="1">Thunderous Charge</content>
+  <content contentuid="h1fbecaedg2579g4902gb511g055a572669ac" version="1">Charge forward with Stormbreaker, striking all non-Ally characters and objects with thunderous force.</content>
+  <content contentuid="hd7435c75gba2cg46c7g982cgb24f42ec6e59" version="1">Dazing Bolt</content>
+  <content contentuid="h5e160202g878dg4da7gab1bgd0330185c24f" version="1">A bolt of lightning strikes the target area, possibly &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Dazing&lt;/LSTag&gt; targets in a [1] radius on impact.</content>
+  <content contentuid="h1b631d68g754ag466ag9a29gfce76da5c77d" version="1">Lightning Cascade</content>
+  <content contentuid="hacefd526ga9f5g4b90ga2a6gbaa141894b0a" version="1">Channel your power through Mjolnir to call down [1] lightning strikes in quick succession, each strike dealing [2].</content>
+  <content contentuid="hd60cc18cgc1c3g4b37g8a95gefe064a172ef" version="1">Storm Strike</content>
+  <content contentuid="h93f0a3e2g7433g41adg9e77gc072bafd48f4" version="1">Make a melee attack with Stormbreaker. If the attack hits, lightning forks from the target to up to [1] foe(s) within [2], dealing [3].</content>
+  <content contentuid="h7f6e7158g8bb4g49c1g851agbeb369c4c854" version="1">Shocking Restoration</content>
+  <content contentuid="h6000e2a7g41ddg4e8dgba70g586512e78d9c" version="1">Call down lightning in the area to restore [1] to downed allies.</content>
+  <content contentuid="h889f47b9g2292g4c24ga108g6e80168003bd" version="1">Stunning Strike</content>
+  <content contentuid="h04e38d1cgf191g4f93gbafcg864153ab83b1" version="1">Make a melee attack with Mjolnir, possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stunning&lt;/LSTag&gt; the target.</content>
+  <content contentuid="hca0ba77eg2bacg40c0gabf5gac78917cf1f7" version="1">Lightning Rod</content>
+  <content contentuid="h23149446g6745g45b0ga62ag97a9d09a0530" version="1">If you are struck with Lightning damage in combat, a bolt of lightning will fork from you and strike a nearby foe within [1] for [2]. This effect can only happen once per turn.</content>
+  <content contentuid="h6eb85fe2g0ef1g405agb9ceg113ad04a5fbd" version="1">Echo Slam</content>
+  <content contentuid="h7efaf96dgae75g415bg9355ga8346744ab9f" version="1">Deliver a thundering strike with Stormbreaker, triggering a thunderous echo that deals [1] to all other foes within [2] and knocks them back [3].</content>
+  <content contentuid="h4452a4ccg5a9eg4f43g98d8gcad85e956cda" version="1">Thunderstruck</content>
+  <content contentuid="hd631f453g3377g4fb7g91ddg3edd4fc2910c" version="1">Attacks with this weapon have a chance to knock target(s) &lt;LSTag Type="Status" Tooltip="OFF_BALANCED"&gt;Off Balance&lt;/LSTag&gt;.</content>
+  <content contentuid="h1b74c5d1g0a37g4fcega5d9g8d3f2780b00b" version="1">Stormbreaker Blast</content>
+  <content contentuid="hf648a244g2e1fg4b45g95bbg672712547480" version="1">Channel a beam of lightning through Stormbreaker at a target, causing bolts of lightning to fork from the target, striking up to [1] more foe(s) within [2] for [3].</content>
+  <content contentuid="ha748c1bfg495bg405egaa93gcf4221114654" version="1">Weapon Enchantment +1</content>
+  <content contentuid="h267a614cgb656g403dgaea7gb13cad504f1a" version="1">Weapon Enchantment +2</content>
+  <content contentuid="he497aef0g9c34g4ac6g9883gd4e7fc2d474d" version="1">Weapon Enchantment +3</content>
+  <content contentuid="hfa73be4cg46a6g4ff4g82b8g27f1fe024beb" version="1">Mjolnir's Might</content>
+  <content contentuid="h0e6013f9g622eg487cgaa32g51424707ab59" version="1">Leap toward the target area and slam the ground with Mjolnir, &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocking&lt;/LSTag&gt; characters hit.</content>
+  <content contentuid="h8c29c65cga7d8g4e45g8a1dg70856aa11a70" version="1">Mjolnir's Fury</content>
+  <content contentuid="hd6664266g142ag4892gbb77g8f55eefa6376" version="1">While your off-hand is empty, ranged attacks against you have -[1] to their &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. Additionally, you gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h957d3c2cg54afg4d16g8540g1e0a2b18bbb0" version="1">Ranged attacks against you have -[1] to their &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; due to weilding Mjolnir with an empty off-hand.</content>
+  <content contentuid="he00baf58gc62ag471bg812egb86ee66d6187" version="1">Mjolnir's Might - Toggle</content>
+  <content contentuid="h6326a2f3g9e15g45ecg85d4ga0ce14f2c0e6" version="1">Toggle on/off &lt;LSTag Type="Spell" Tooltip="Projectile_Beetus_Thor_Mjolnir_MainHand_MjolnirsMight"&gt;Mjolnir's Might&lt;/LSTag&gt;.</content>
+</contentList>
