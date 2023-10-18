@@ -85,14 +85,14 @@ Die Kreatur und der Zauberer haben &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/
   <content contentuid="h3ca5034aga722g4d96ga134g0553c0411d12" version="1">Zeremonie: Wasser segnen</content>
   <content contentuid="hda07c851g92a9g41f9gb750g4f8aa7e21a39" version="1">Berühre einen Behälter mit Wasser im Inventar einer Kreatur und verwandle ihn in &lt;LSTag Type="Status" Tooltip="BLESS_WATER"&gt;Heiliges Wasser&lt;/LSTag&gt;.</content>
   <content contentuid="h49ed8ca2g0c96g40c2g84f4g423d057cf0db" version="1">Zeremonie: Erwachsen werden</content>
-  <content contentuid="hdeffb722g37d8g4599gb829gd000b1684677" version="1">Berühre eine Kreatur und gewähre ihr einen Bonus von +[1] auf &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsüberprüfungen&lt;/LSTag&gt;.</content>
+  <content contentuid="hdeffb722g37d8g4599gb829gd000b1684677" version="1">Berühre eine Kreatur und gewähre ihr einen Bonus von +[1] auf &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe &lt;/LSTag&gt;.</content>
   <content contentuid="5dfb4398-fe17-4bdf-ae03-770adcd46dc7" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Eine Kreatur, die diese Zeremonie abschließt, kann nie wieder in den Genuss derselben Zeremonie kommen.</content>
   <content contentuid="hb12e33bagaa3ag48d4g9208gccf22909a29d" version="1">Zeremonie: Einweihung</content>
   <content contentuid="h82d99f51g657fg442fgbe41g3f57c243ad4a" version="1">Berühre eine Kreatur und gewähre ihr einen Bonus von +[1] auf &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="h1ca7f387g3a91g4acaga9cbge2f2e1f0d420" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Dieser Zauber erfordert und entfernt 25 Gold, wenn er gewirkt wird.</content>
   <content contentuid="21161dc842c64450aa3b869f88485b7e" version="1">Gesegnetes Wasser</content>
   <content contentuid="bb7018d4037d4ac78eeb2f04df5c0e90" version="1">Erwachsenwerden</content>
-  <content contentuid="05589863298142c5b6ff6a5ad0cbe009" version="1">[1] hinzugefügt zu &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsprüfungen&lt;/LSTag&gt;.</content>
+  <content contentuid="05589863298142c5b6ff6a5ad0cbe009" version="1">[1] hinzugefügt zu &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="eb9e2ee721de4875b6f89032418b6c4a" version="1">Widmung</content>
   <content contentuid="3614693cfd6e4dbf9183d6898413f7e9" version="1">[1] hinzugefügt zu &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="d949371a-01d6-4cca-be33-5751cea2bb16" version="1">Erdbeben</content>
@@ -121,8 +121,8 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="41c92d10-4dd7-4a54-885b-04c1fad7bc18" version="1">Frostfinger</content>
   <content contentuid="862c9195-d5c9-45f0-8ff8-0bf301a9b3a9" version="1">Gefrierende Kälte strömt aus den Fingerspitzen und lässt Flüssigkeiten in der Umgebung gefrieren.</content>
   <content contentuid="871390cd-53cb-4311-b2fa-e8e9812dfea1" version="1">Geschenk der Schnelligkeit</content>
-  <content contentuid="cd30ee6a-3a0d-47d8-bacc-a9a85b7af69f" version="1">Berühre eine verbündete Kreatur und gewähre ihr einen Bonus von +[1] auf ihre Initiative &lt;LSTag Tooltip="AbilityCheck" &gt;Prüfungen&lt;/LSTag&gt;.</content>
-  <content contentuid="1166bf80501c4318bfd398556826bedd" version="1">[1] hinzugefügt zu Initiative &lt;LSTag Tooltip="AbilityCheck" &gt;Prüfungen&lt;/LSTag&gt;.</content>
+  <content contentuid="cd30ee6a-3a0d-47d8-bacc-a9a85b7af69f" version="1">Berühre eine verbündete Kreatur und gewähre ihr einen Bonus von +[1] auf ihre Initiative &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="1166bf80501c4318bfd398556826bedd" version="1">[1] hinzugefügt zu Initiative &lt;LSTag Tooltip="AbilityCheck" &gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="84a9b4df1342451198539d1a761d2c67" version="1">Kann nicht &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschreckt&lt;/LSTag&gt; sein. Erhalte [1] pro Runde.</content>
   <content contentuid="21bb5b1d-9dd0-4e17-9495-ec8d72d98e9a" version="1">Schwerkraft vergrößern</content>
   <content contentuid="c3f6b54c-75a3-46f4-85fb-2a95bc09827e" version="1">Die Schwerkraft in einer [1]-Kugel, die auf einem gewählten Punkt zentriert ist, erhöht sich kurzzeitig, was die &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; von Kreaturen in diesem Bereich um die Hälfte reduzieren kann.</content>
@@ -159,10 +159,10 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="4378eacf0a0543079d1a8861ad2c7ce8" version="1">Lagerfeuer</content>
   <content contentuid="49c94342c97a4d3c88362873ac104b3c" version="1">Gib [1] pro Spielzug aus.</content>
   <content contentuid="c2303d03-287b-48d6-bd07-3cce35798836" version="1">Druidenhandwerk</content>
-  <content contentuid="31463b0c-ca07-4746-a80b-144c0f83ca13" version="1">Erschaffe harmlose sensorische Effekte, die dir &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Einschüchterungs-&lt;LSTag Tooltip="AbilityCheck" &gt;Prüfungen&lt;/LSTag&gt; gewähren oder eine Feuerquelle an einem Objekt sofort auslöschen oder entzünden.</content>
-  <content contentuid="a4e2714f-7d91-4ca4-a0d0-caba22e6781f" version="1">Erzeugt harmlose sensorische Effekte, die dir &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei Einschüchterungs-&lt;LSTag Tooltip="AbilityCheck"&gt;-Überprüfungen&lt;/LSTag&gt; gewähren.</content>
+  <content contentuid="31463b0c-ca07-4746-a80b-144c0f83ca13" version="1">Erschaffe harmlose sensorische Effekte, die dir &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Einschüchterungs-&lt;LSTag Tooltip="AbilityCheck" &gt;Fertigkeitswürfe&lt;/LSTag&gt; gewähren oder eine Feuerquelle an einem Objekt sofort auslöschen oder entzünden.</content>
+  <content contentuid="a4e2714f-7d91-4ca4-a0d0-caba22e6781f" version="1">Erzeugt harmlose sensorische Effekte, die dir &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei Einschüchterungs-&lt;LSTag Tooltip="AbilityCheck"&gt;-Fertigkeitswürfe&lt;/LSTag&gt; gewähren.</content>
   <content contentuid="3c1beecf-6508-4c72-a3e3-be452d67e412" version="1">Feuer sofort löschen oder Gegenstand entzünden.</content>
-  <content contentuid="befafae4ab3747b6ab913facd82e9cfd" version="1">Hat einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei Einschüchterungs-&lt;LSTag Tooltip="AbilityCheck"&gt;Überprüfungen&lt;/LSTag&gt;.</content>
+  <content contentuid="befafae4ab3747b6ab913facd82e9cfd" version="1">Hat einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei Einschüchterungs-&lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="7cf2ef50-78ee-4426-a586-5682f2a748dc" version="1">Erfrierung</content>
   <content contentuid="3f10dad4-2df1-49ad-83e4-b127bcf07dcb" version="1">Bewirkt, dass sich auf einer Kreatur ein betäubender Frost bildet, der möglicherweise bei ihrem nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; zu einem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag&gt; führt.</content>
   <content contentuid="85510b37371f4daf85cad0b8b114ab2a" version="1">Hat einen &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag&gt; beim nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;.</content>
@@ -222,63 +222,63 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="58b12376-f8c0-4992-b228-013f4cfdf149" version="1">Sprich ein göttliches Wort, das ein brennendes Leuchten von dir auf alle Feinde in der Nähe ausstrahlt.</content>
   <content contentuid="bf3eb0cc-a50b-4391-9dec-ab4f62c14b85" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Eine Kreatur kann nicht gestoßen werden, wenn sie größer als mittelgroß ist.</content>
   <content contentuid="38fff5cb-4e53-4ac3-b630-93207fc5bf19" version="1">Aganazars Verbrenner</content>
-  <content contentuid="c12cc967-94e8-4605-ad9d-2673417f0ff5" version="1">Roaring flame emanates from you in a line.</content>
-  <content contentuid="f1809237-c064-41af-bc9b-b05822568f61" version="1">Borrowed Knowledge</content>
-  <content contentuid="088fcada-a13e-4256-b581-48b3a3ec451d" version="1">Draw on knowledge from spirits of the past and become Proficient in one skill you lack proficiency in.</content>
-  <content contentuid="0093f713362d41c7a44e7af2f2639a0e" version="1">This spell ends if you cast it again.</content>
-  <content contentuid="585b16f1-583c-453f-833f-d151ca4204dd" version="1">Borrowed Knowledge: Acrobatics</content>
-  <content contentuid="c21808f4-3b36-4517-a3cf-5f074a488daf" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Acrobatics"&gt;Acrobatics&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="64872a78-af26-4e89-9d56-e1e646e0bec8" version="1">Borrowed Knowledge: Animal Handling</content>
-  <content contentuid="d3d17b07-085d-4788-a44b-97639cd10e37" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="AnimalHandling"&gt;Animal Handling&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="7de06cbc-ccbb-4f59-bc80-7e090f99f298" version="1">Borrowed Knowledge: Athletics</content>
-  <content contentuid="7c4ad924-9fa7-4492-93cf-ff285810e2ef" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Athletics"&gt;Athletics&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="ac9a6ff2-979d-4efd-9288-dd1969b55d00" version="1">Borrowed Knowledge: Arcana</content>
-  <content contentuid="e0c18f24-46f7-44f5-b609-34681ea1b88f" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="3065c18c-da94-4f3c-a224-fa149f375695" version="1">Borrowed Knowledge: Deception</content>
-  <content contentuid="f7ac4f06-e1e9-4d42-b541-c5feb5a97ddf" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="8ea4dc53-6061-4dfe-9862-7511aef23a78" version="1">Borrowed Knowledge: History</content>
-  <content contentuid="b7d5fe15-9203-4281-af4b-8c2bf948225b" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="1bae7fac-5e9b-47f9-ae74-085464329028" version="1">Borrowed Knowledge: Insight</content>
-  <content contentuid="9fbc7b8b-0023-4652-97e2-7836599542b0" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="41c27759-7f1e-48bb-a2a0-8b6f46a1b9cd" version="1">Borrowed Knowledge: Intimidation</content>
-  <content contentuid="d5efe48e-6e82-4698-901b-cb1018893f66" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="b56d8c92-5d7b-4123-9b10-fddfa2b0b3fc" version="1">Borrowed Knowledge: Investigation</content>
-  <content contentuid="cf631cf9-ed67-40df-83f3-8f76d41cf503" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="d4e4cf90-466b-40e9-95c3-6cc25de88e10" version="1">Borrowed Knowledge: Medicine</content>
-  <content contentuid="64c7e01c-2aeb-43b4-80a2-f32538732a5d" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Medicine"&gt;Medicine&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="a34d94e0-a8b7-4027-a51c-4b3d4d0cfedd" version="1">Borrowed Knowledge: Nature</content>
-  <content contentuid="48f87a84-ade6-4fb0-8e69-5933e702e2b1" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Nature"&gt;Nature&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="42ba2252-08bd-476c-b5bb-71295a609616" version="1">Borrowed Knowledge: Perception</content>
-  <content contentuid="b51be2fb-f369-4d4d-aceb-b19c51a09d6f" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="b37e0937-bd84-4bfd-acdb-88ac02d40a63" version="1">Borrowed Knowledge: Performance</content>
-  <content contentuid="e703c513-7afd-4760-b560-05479799ae89" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Performance"&gt;Performance&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="9d168b65-e14d-4b1e-82fd-c1ffe75b3e5e" version="1">Borrowed Knowledge: Persuasion</content>
-  <content contentuid="287d7b86-25c2-462d-91b6-7a33061d9d66" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="9b0d119c-8171-4847-a287-28c3c6f62303" version="1">Borrowed Knowledge: Religion</content>
-  <content contentuid="e33d811e-20c5-43ff-b775-bf8d5cda30bf" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="6fa52fc4-79c1-44af-96bc-e7f770675e04" version="1">Borrowed Knowledge: Sleight of Hand</content>
-  <content contentuid="15745a7f-8413-4520-ae1c-69c3bfb997ca" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="3cd2b0c3-dfab-41d3-82b0-54daebd8575a" version="1">Borrowed Knowledge: Stealth</content>
-  <content contentuid="495e2708-a2ce-4b67-8bec-b2131eadfcd0" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="62dfad8c-03b9-4913-8cc0-80c0f9780c74" version="1">Borrowed Knowledge: Survival</content>
-  <content contentuid="6f4599f4-e775-4866-a55d-d7edf4f6cb9f" version="1">Draw on knowledge from spirits of the past and become proficient in &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt; if you're not already.</content>
-  <content contentuid="fd64f2f513104ef4b5cc8a2118f590d8" version="1">Has proficiency in Acrobatics &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="ce85d0efd5464a04a0931a27b7bb874d" version="1">Has proficiency in Animal Handling &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="199543df1b534bbfb9d0c094458938fd" version="1">Has proficiency in Athletics &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="7de0f6778b9b4bf28b42cc884e23a5d7" version="1">Has proficiency in Arcana &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="69f7a03381464f87b78635d95d7e3680" version="1">Has proficiency in Deception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+  <content contentuid="c12cc967-94e8-4605-ad9d-2673417f0ff5" version="1">Brüllende Flammen strömen in einer Linie von dir aus.</content>
+  <content contentuid="f1809237-c064-41af-bc9b-b05822568f61" version="1">Geliehenes Wissen</content>
+  <content contentuid="088fcada-a13e-4256-b581-48b3a3ec451d" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in einer Fertigkeit, die du nicht beherrschst.</content>
+  <content contentuid="0093f713362d41c7a44e7af2f2639a0e" version="1">Dieser Zauber endet, wenn du ihn erneut wirkst.</content>
+  <content contentuid="585b16f1-583c-453f-833f-d151ca4204dd" version="1">Geliehenes Wissen: Akrobatik</content>
+  <content contentuid="c21808f4-3b36-4517-a3cf-5f074a488daf" version="1">Nutzen Sie das Wissen von Geistern der Vergangenheit und erlernen Sie die &lt;LSTag Tooltip="Acrobatics"&gt;Akrobatik&lt;/LSTag&gt;, falls Sie dies noch nicht getan haben.</content>
+  <content contentuid="64872a78-af26-4e89-9d56-e1e646e0bec8" version="1">Geliehenes Wissen: Umgang mit Tieren</content>
+  <content contentuid="d3d17b07-085d-4788-a44b-97639cd10e37" version="1">Nutzen Sie das Wissen von Geistern der Vergangenheit und beherrschen Sie den &lt;LSTag Tooltip="AnimalHandling"&gt;Umgang mit Tieren&lt;/LSTag&gt;, falls Sie dies noch nicht getan haben.</content>
+  <content contentuid="7de06cbc-ccbb-4f59-bc80-7e090f99f298" version="1">Geliehenes Wissen: Leichtathletik</content>
+  <content contentuid="7c4ad924-9fa7-4492-93cf-ff285810e2ef" version="1">Nutzen Sie das Wissen von Geistern der Vergangenheit und beherrschen Sie die &lt;LSTag Tooltip="Athletics"&gt;Leichtathletik&lt;/LSTag&gt;, falls Sie dies noch nicht getan haben.</content>
+  <content contentuid="ac9a6ff2-979d-4efd-9288-dd1969b55d00" version="1">Geliehenes Wissen: Arkana</content>
+  <content contentuid="e0c18f24-46f7-44f5-b609-34681ea1b88f" version="1">Nutzen Sie das Wissen von Geistern der Vergangenheit und beherrschen Sie &lt;LSTag Tooltip="Arkana"&gt;Arcana&lt;/LSTag&gt;, falls Sie dies noch nicht getan haben.</content>
+  <content contentuid="3065c18c-da94-4f3c-a224-fa149f375695" version="1">Geliehenes Wissen: Täuschung</content>
+  <content contentuid="f7ac4f06-e1e9-4d42-b541-c5feb5a97ddf" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Täuschung"&gt;Täuschung&lt;/LSTag&gt;, falls du es noch nicht bist.</content>
+  <content contentuid="8ea4dc53-6061-4dfe-9862-7511aef23a78" version="1">Geliehenes Wissen: Geschichte</content>
+  <content contentuid="b7d5fe15-9203-4281-af4b-8c2bf948225b" version="1">Nutze das Wissen der Geister der Vergangenheit und werde kompetent in &lt;LSTag Tooltip="History"&gt;Geschichte&lt;/LSTag&gt;, wenn du es noch nicht bist.</content>
+  <content contentuid="1bae7fac-5e9b-47f9-ae74-085464329028" version="1">Geliehenes Wissen: Einsicht</content>
+  <content contentuid="9fbc7b8b-0023-4652-97e2-7836599542b0" version="1">Schöpfen Sie aus dem Wissen der Geister der Vergangenheit und werden Sie Experte in &lt;LSTag Tooltip="Insight" &gt;Einsicht&lt;/LSTag&gt;, wenn Sie es noch nicht sind.</content>
+  <content contentuid="41c27759-7f1e-48bb-a2a0-8b6f46a1b9cd" version="1">Geliehenes Wissen: Einschüchterung</content>
+  <content contentuid="d5efe48e-6e82-4698-901b-cb1018893f66" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Intimidation"&gt;Einschüchterung&lt;/LSTag&gt;, falls du es noch nicht bist.</content>
+  <content contentuid="b56d8c92-5d7b-4123-9b10-fddfa2b0b3fc" version="1">Geliehenes Wissen: Untersuchung</content>
+  <content contentuid="cf631cf9-ed67-40df-83f3-8f76d41cf503" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Investigation" &gt;Untersuchung&lt;/LSTag&gt;, falls du es noch nicht bist.</content>
+  <content contentuid="d4e4cf90-466b-40e9-95c3-6cc25de88e10" version="1">Geliehenes Wissen: Medizin</content>
+  <content contentuid="64c7e01c-2aeb-43b4-80a2-f32538732a5d" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Medicine" &gt;Medizin&lt;/LSTag&gt;, falls du es noch nicht bist.</content>
+  <content contentuid="a34d94e0-a8b7-4027-a51c-4b3d4d0cfedd" version="1">Geliehenes Wissen: Natur</content>
+  <content contentuid="48f87a84-ade6-4fb0-8e69-5933e702e2b1" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Natur"&gt;Natur&lt;/LSTag&gt;, wenn du es noch nicht bist.</content>
+  <content contentuid="42ba2252-08bd-476c-b5bb-71295a609616" version="1">Geliehenes Wissen: Wahrnehmung</content>
+  <content contentuid="b51be2fb-f369-4d4d-aceb-b19c51a09d6f" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Perception" "Wahrnehmung" &gt;Perception&lt;/LSTag&gt;, falls du es noch nicht bist.</content>
+  <content contentuid="b37e0937-bd84-4bfd-acdb-88ac02d40a63" version="1">Geliehenes Wissen: Leistung</content>
+  <content contentuid="e703c513-7afd-4760-b560-05479799ae89" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Performance" &gt;Leistung&lt;/LSTag&gt;, falls du es noch nicht bist.</content>
+  <content contentuid="9d168b65-e14d-4b1e-82fd-c1ffe75b3e5e" version="1">Geliehenes Wissen: Überzeugung</content>
+  <content contentuid="287d7b86-25c2-462d-91b6-7a33061d9d66" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Persuasion" &gt;Überzeugen&lt;/LSTag&gt;, falls du es noch nicht bist.</content>
+  <content contentuid="9b0d119c-8171-4847-a287-28c3c6f62303" version="1">Geliehenes Wissen: Religion</content>
+  <content contentuid="e33d811e-20c5-43ff-b775-bf8d5cda30bf" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt;, wenn du es noch nicht bist.</content>
+  <content contentuid="6fa52fc4-79c1-44af-96bc-e7f770675e04" version="1">Geliehenes Wissen: Fingerfertigkeit</content>
+  <content contentuid="15745a7f-8413-4520-ae1c-69c3bfb997ca" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="SleightOfHand"&gt;Fingerfertigkeit&lt;/LSTag&gt;, falls du es noch nicht bist.</content>
+  <content contentuid="3cd2b0c3-dfab-41d3-82b0-54daebd8575a" version="1">Geliehenes Wissen: Heimlichkeit</content>
+  <content contentuid="495e2708-a2ce-4b67-8bec-b2131eadfcd0" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Stealth" &gt;Heimlichkeit&lt;/LSTag &gt;, falls du es noch nicht bist.</content>
+  <content contentuid="62dfad8c-03b9-4913-8cc0-80c0f9780c74" version="1">Geliehenes Wissen: Überleben</content>
+  <content contentuid="6f4599f4-e775-4866-a55d-d7edf4f6cb9f" version="1">Nutze das Wissen der Geister der Vergangenheit und werde geübt in &lt;LSTag Tooltip="Survival" &gt;Überleben&lt;/LSTag&gt;, falls du es noch nicht bist.</content>
+  <content contentuid="fd64f2f513104ef4b5cc8a2118f590d8" version="1">Beherrscht die Akrobatik &lt;LSTag Tooltip="AbilityCheck" &gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="ce85d0efd5464a04a0931a27b7bb874d" version="1">Beherrscht den Umgang mit Tieren &lt;LSTag Tooltip="AbilityCheck" &gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="199543df1b534bbfb9d0c094458938fd" version="1">Beherrscht die Leichtathletik &lt;LSTag Tooltip="AbilityCheck" &gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="7de0f6778b9b4bf28b42cc884e23a5d7" version="1">Beherrscht die Arkana &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="69f7a03381464f87b78635d95d7e3680" version="1">Beherrscht die Fähigkeit Täuschung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="adf4b64bf350415eb806ec23d9e31d4c" version="1">Has proficiency in History &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="c165304838144de29f1ea75b25a0555c" version="1">Has proficiency in Insight &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="c9b7a9af42334d28aec4c27affb5418e" version="1">Has proficiency in Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+  <content contentuid="c165304838144de29f1ea75b25a0555c" version="1">Besitzt die Fähigkeit Einsicht &lt;LSTag Tooltip="AbilityCheck" &gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="c9b7a9af42334d28aec4c27affb5418e" version="1">Beherrscht Einschüchterung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="92819541867f4f4bbbef039c5d290482" version="1">Has proficiency in Investigation &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
   <content contentuid="e299516a004246a5bb358d2c7de1a3e0" version="1">Has proficiency in Medicine &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
   <content contentuid="6285e8bccbbf4b56b223599c899a21d8" version="1">Has proficiency in Nature &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="4d4adf512c464885b99e95308111bfec" version="1">Has proficiency in Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+  <content contentuid="4d4adf512c464885b99e95308111bfec" version="1">Beherrscht die Fähigkeit Wahrnehmung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfen&lt;/LSTag&gt;.</content>
   <content contentuid="3ae902924d654665aaa7e407561e7513" version="1">Has proficiency in Performance &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="2d8e19ed4787415f9265355245e7a522" version="1">Has proficiency in Persuasion &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+  <content contentuid="2d8e19ed4787415f9265355245e7a522" version="1">Beherrscht die Überzeugung &lt;LSTag Tooltip="AbilityCheck" &gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="99504ee89e284b6e8a12e98b4a4650a4" version="1">Has proficiency in Religion &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="63e46c56cdbf4ce18af8c1596815b960" version="1">Has proficiency in Sleight of Hand &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="0c1771755cc74cb0912d3fbf29217119" version="1">Has proficiency in Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+  <content contentuid="63e46c56cdbf4ce18af8c1596815b960" version="1">Beherrscht &lt;LSTag Tooltip="AbilityCheck" &gt;Fertigkeitswürfe&lt;/LSTag&gt; in Fingerfertigkeit.</content>
+  <content contentuid="0c1771755cc74cb0912d3fbf29217119" version="1">Beherrscht die Fähigkeit Heimlichkeit &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="63e1e08286ff4d86af105289f89c2ed5" version="1">Has proficiency in Survival &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
   <content contentuid="hbc8c02f2g4a9cg42e9gb8b3gee70b214d90b" version="1">Continual Flame</content>
   <content contentuid="habeabf24g0becg4c95ga2edg99af4a45b4e9" version="1">A blue or red flame that cannot be smothered or quenched springs forth from an object that you touch.</content>
@@ -349,7 +349,7 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="47915f8c16cb445ebca961e2cf9d84e9" version="1">Creatures within [1] may regain [2].</content>
   <content contentuid="85c1fadaf6d4416e808a021b8672a508" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Once you've healed through your Healing Spirit six times, the spell ends.</content>
   <content contentuid="6485b8a7-2721-459a-9802-5325ee091396" version="1">Kinetic Jaunt</content>
-  <content contentuid="6bafd69d-b302-4c16-9223-db50d531e263" version="1">Magically empower your movement, giving yourself an additional [1] of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; and the ability to avoid &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+  <content contentuid="6bafd69d-b302-4c16-9223-db50d531e263" version="1">Erhöht auf magische Weise deine Bewegungsfähigkeit und verleiht dir zusätzlich [1] &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; und die Fähigkeit, &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt; zu vermeiden.</content>
   <content contentuid="9b4b335d48e046e18b54f9e859981792" version="1">Gained additional [1] of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; and don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
   <content contentuid="88ee6921-7bf4-45c3-85dd-24cd03325d46" version="1">Maximilian's Earthen Grasp</content>
   <content contentuid="f5ab92e9-0d07-44ae-88b9-55fcc7f1f038" version="1">Create a hand composed of soil to crush and possibly &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrain&lt;/LSTag&gt; a creature.</content>
@@ -491,7 +491,7 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="12c82fef4ebf4fcd8331815b60352fd2" version="1">Weight of Sorrow</content>
   <content contentuid="e16d1e7413de4eb9b453b2f0e61260da" version="1">Other creatures within [1] of the spirit has its &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; reduced by [2].</content>
   <content contentuid="8ffeacfef32d43e5973c53c9d54bcf9e" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; reduced by [2].</content>
-  <content contentuid="8253b1e7954b4fe98922e7b8bb3182c1" version="1">Shadow Stealth</content>
+  <content contentuid="8253b1e7954b4fe98922e7b8bb3182c1" version="1">Schatten Tarnung</content>
   <content contentuid="0ce03ecc2e604f4dacde48f7094c462b" version="1">While in dim light or darkness, spirit can take the Hide action as a &lt;LSTag Tooltip="BonusAction"&gt;Bonus Action&lt;/LSTag&gt;.</content>
   <content contentuid="c172dc976b8543158fe16b56c40a3143" version="1">Chilling Hand</content>
   <content contentuid="33530a233f7d4137bf4fc63778e2a12a" version="1">Deal [1].</content>
@@ -504,7 +504,7 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="7a6c7a219b3145f49d66451699b892b7" version="1">The shadowspawn makes a number of attacks equal to spell's level used to summon it.</content>
   <content contentuid="e91ceb65847146cb99509ba29976f60e" version="1">The elemental makes two attacks.</content>
   <content contentuid="a6053f2f77314d628ef9c5c4e276c13f" version="1">Free attack after using Breath Weapon.</content>
-  <content contentuid="46167340d5ba4fe0b1e773c7fa507e4f" version="1">Hide: Shadow Stealth</content>
+  <content contentuid="46167340d5ba4fe0b1e773c7fa507e4f" version="1">Verstecken: Schatten-Tarnung</content>
   <content contentuid="9d5446c6c10b4788a576b32e5b5fae7b" version="1">Thunder Step</content>
   <content contentuid="e46ef781-4e75-4f64-8042-c5b3a7f5d5bd" version="1">Teleportieren Sie sich zu einem unbesetzten Feld und verursachen Sie einen donnernden Knall innerhalb von [1] des Feldes, das Sie verlassen haben.</content>
   <content contentuid="d348c657-6866-492e-8756-003ee1c4d369" version="1">Water Walk</content>
@@ -589,61 +589,61 @@ und der Boden in [2] Entfernung von dir ist &lt;LSTag Type="Status" ToolTip="DIF
   <content contentuid="80fa537e-982f-4883-9953-1e556cf09550" version="1">Stelle eine telepathische Verbindung zwischen bis zu acht Wesen mit einem Intelligenzwert größer als 2 her und verbinde jedes Wesen mit jedem anderen.</content>
   <content contentuid="64dc4f73-5d8c-45f3-ad0d-f50d4144306b" version="1">While linked, creatures have Advantage on Attack Rolls and Saving Throws that would include one another as targets.</content>
   <content contentuid="92f20db33ff34993ac54ec0808802984" version="1">Bonded to the spellcaster and others. While linked, allied creatures have Advantage on Attack Rolls and Saving Throws against attacks and spells that would include them as targets.</content>
-  <content contentuid="7814f0a4-8073-4930-99bc-b94e799759b2" version="1">Skill Empowerment</content>
+  <content contentuid="7814f0a4-8073-4930-99bc-b94e799759b2" version="1">Fertigkeit Verbesserung</content>
   <content contentuid="d468b025-c31d-46df-9191-9e5e80ff47a6" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in one skill, allowing it to add twice its proficiency bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; with the skill.</content>
   <content contentuid="c758d016-dc05-45cd-8cbd-c3b273593032" version="1">The target must be proficient in the chosen skill and cannot already benefit from an effect that doubles its &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
-  <content contentuid="431eb559-07b7-472a-b071-db1f58c80cbe" version="1">Skill Empowerment: Acrobatics</content>
-  <content contentuid="2d7d1bca-9313-43d2-9577-128d0cac55b7" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Acrobatics"&gt;Acrobatics&lt;/LSTag&gt;.</content>
-  <content contentuid="ef42f279dea9407ba1ff14c332ed4945" version="1">Creature has expertise with Acrobatics &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="8b4279e3-7748-4fa3-8766-fee456299726" version="1">Skill Empowerment: Animal Handling</content>
+  <content contentuid="431eb559-07b7-472a-b071-db1f58c80cbe" version="1">Fertigkeit Verbesserung: Akrobatik</content>
+  <content contentuid="2d7d1bca-9313-43d2-9577-128d0cac55b7" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Fachwissen in &lt;LSTag Tooltip="Akrobatik"&gt;Akrobatik&lt;/LSTag&gt;.</content>
+  <content contentuid="ef42f279dea9407ba1ff14c332ed4945" version="1">Die Kreatur hat Erfahrung mit Akrobatik &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="8b4279e3-7748-4fa3-8766-fee456299726" version="1">Kompetenzförderung: Umgang mit Tieren</content>
   <content contentuid="fc3b5753-7668-4f35-900f-310fb3a2fe7e" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="AnimalHandling"&gt;Animal Handling&lt;/LSTag&gt;.</content>
   <content contentuid="911dbd3cac364f4ba6a199d15e6e46a8" version="1">Creature has expertise with Animal Handling &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="58676048-96c3-4f93-8651-f28b04079da0" version="1">Skill Empowerment: Arcana</content>
-  <content contentuid="2c11bcd0-6c28-4daa-a587-1f9291c11b5a" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt;.</content>
-  <content contentuid="8012aa1bf89b429793a27c804e19687e" version="1">Creature has expertise with Arcana &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="65db94a2-96ef-4125-8269-13c7ab945096" version="1">Skill Empowerment: Athletics</content>
-  <content contentuid="cf40646c-b286-49ab-be97-871209b9a9b3" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Athletics"&gt;Athletics&lt;/LSTag&gt;.</content>
-  <content contentuid="d4fd3fffbb764f56a9cbdf01e89923f3" version="1">Creature has expertise with Athletics &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="ba71cf98-457e-4317-bc0e-60bdf962735f" version="1">Skill Empowerment: Deception</content>
-  <content contentuid="77b7483a-7f65-4486-afe9-826d53361699" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt;.</content>
-  <content contentuid="9854f3d0bfda4642a39ca16386d0e07f" version="1">Creature has expertise with Deception &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="4da2d5d3-44e5-46f4-9cd4-bc7f14814c21" version="1">Skill Empowerment: History</content>
+  <content contentuid="58676048-96c3-4f93-8651-f28b04079da0" version="1">Fertigkeit Verbesserung: Arkana</content>
+  <content contentuid="2c11bcd0-6c28-4daa-a587-1f9291c11b5a" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Expertise in &lt;LSTag Tooltip="Arcana" &gt;Arkana&lt;/LSTag&gt;.</content>
+  <content contentuid="8012aa1bf89b429793a27c804e19687e" version="1">Die Kreatur hat Erfahrung mit Arkanen &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfen&lt;/LSTag&gt;.</content>
+  <content contentuid="65db94a2-96ef-4125-8269-13c7ab945096" version="1">Fertigkeit Verbesserung: Leichtathletik</content>
+  <content contentuid="cf40646c-b286-49ab-be97-871209b9a9b3" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Fachwissen in &lt;LSTag Tooltip="Athletik"&gt;Athletik&lt;/LSTag&gt;.</content>
+  <content contentuid="d4fd3fffbb764f56a9cbdf01e89923f3" version="1">Die Kreatur hat Erfahrung mit Leichtathletik &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="ba71cf98-457e-4317-bc0e-60bdf962735f" version="1">Fertigkeit Verbesserung: Täuschung</content>
+  <content contentuid="77b7483a-7f65-4486-afe9-826d53361699" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Fachwissen in &lt;LSTag Tooltip="Täuschung"&gt;Täuschung&lt;/LSTag&gt;.</content>
+  <content contentuid="9854f3d0bfda4642a39ca16386d0e07f" version="1">Die Kreatur hat Erfahrung mit Täuschung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="4da2d5d3-44e5-46f4-9cd4-bc7f14814c21" version="1">Fertigkeit Verbesserung: Geschichte</content>
   <content contentuid="bb019b04-b432-4698-a52c-0c80ffffc770" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt;.</content>
   <content contentuid="586f7d355f7540d18d23e16c1b7d4fe4" version="1">Creature has expertise with History &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="1089ea9f-529c-4a89-a705-430c0b4ab5fb" version="1">Skill Empowerment: Insight</content>
-  <content contentuid="f9874d95-c478-40af-9169-e03397d62f4a" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt;.</content>
-  <content contentuid="c37136dd4f45419bb10f33228bdc23d3" version="1">Creature has expertise with Insight &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="27b8c5af-2b70-4901-b100-7b2273fda88e" version="1">Skill Empowerment: Intimidation</content>
-  <content contentuid="c55de612-c732-40df-b16d-4eb24e0731ef" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt;.</content>
-  <content contentuid="91bdc529d3884df2a2d2fdf769d26ed1" version="1">Creature has expertise with Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="1788c16d-cf3c-4497-a7ba-368f05e4eb22" version="1">Skill Empowerment: Investigation</content>
+  <content contentuid="1089ea9f-529c-4a89-a705-430c0b4ab5fb" version="1">Fertigkeit Verbesserung: Einsicht</content>
+  <content contentuid="f9874d95-c478-40af-9169-e03397d62f4a" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Expertise in &lt;LSTag Tooltip="Insight"&gt;Einsicht&lt;/LSTag&gt;.</content>
+  <content contentuid="c37136dd4f45419bb10f33228bdc23d3" version="1">Die Kreatur hat Erfahrung mit Einsicht &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="27b8c5af-2b70-4901-b100-7b2273fda88e" version="1">Fertigkeit Verbesserung: Einschüchterung</content>
+  <content contentuid="c55de612-c732-40df-b16d-4eb24e0731ef" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Fachwissen in &lt;LSTag Tooltip="Einschüchterung"&gt;Einschüchterung&lt;/LSTag&gt;.</content>
+  <content contentuid="91bdc529d3884df2a2d2fdf769d26ed1" version="1">Die Kreatur hat Fachwissen in Einschüchterung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="1788c16d-cf3c-4497-a7ba-368f05e4eb22" version="1">Fertigkeit Verbesserung: Untersuchung</content>
   <content contentuid="5f1c028e-865b-4835-abe5-d67ef71d7b8d" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
   <content contentuid="c716b31148a34c7f8399750f9b817fd4" version="1">Creature has expertise with Investigation &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="bffe7709-e5c9-492f-be48-813d2b6ec1b4" version="1">Skill Empowerment: Medicine</content>
+  <content contentuid="bffe7709-e5c9-492f-be48-813d2b6ec1b4" version="1">Fertigkeit Verbesserung: Medizin</content>
   <content contentuid="d49c641b-d292-4bec-8b56-9a073ef36050" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Medicine"&gt;Medicine&lt;/LSTag&gt;.</content>
   <content contentuid="3b0e18ff1779459ea8886dc6edc79300" version="1">Creature has expertise with Medicine &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="0a9df149-8db0-4188-8c4e-7859ba02dbe1" version="1">Skill Empowerment: Nature</content>
+  <content contentuid="0a9df149-8db0-4188-8c4e-7859ba02dbe1" version="1">Fertigkeit Verbesserung: Natur</content>
   <content contentuid="d736252b-c909-443b-945f-dfd32e44b5c0" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Nature"&gt;Nature&lt;/LSTag&gt;.</content>
   <content contentuid="928cc8c892264eb39fdf9a4b46129a7e" version="1">Creature has expertise with Nature &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="2b330dff-6e3a-4877-b954-abb24ac76e01" version="1">Skill Empowerment: Perception</content>
-  <content contentuid="3f53c9a2-09ad-4389-847f-9ee449632e45" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
-  <content contentuid="e36ae426bab44ed080e17adf370f0545" version="1">Creature has expertise with Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="0b24b648-9be0-4c24-ae41-52fa41ab4953" version="1">Skill Empowerment: Performance</content>
+  <content contentuid="2b330dff-6e3a-4877-b954-abb24ac76e01" version="1">Fertigkeit Verbesserung: Wahrnehmung</content>
+  <content contentuid="3f53c9a2-09ad-4389-847f-9ee449632e45" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Fachwissen in &lt;LSTag Tooltip="Perception"&gt;Wahrnehmung&lt;/LSTag&gt;.</content>
+  <content contentuid="e36ae426bab44ed080e17adf370f0545" version="1">Die Kreatur hat Erfahrung mit Wahrnehmung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="0b24b648-9be0-4c24-ae41-52fa41ab4953" version="1">Fertigkeit Verbesserung: Leistung</content>
   <content contentuid="96349fdb-43b1-44ef-a09c-bd96700c9495" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Performance"&gt;Performance&lt;/LSTag&gt;.</content>
   <content contentuid="c9ecf0f2a68a4d8cba8ce4df7623f48f" version="1">Creature has expertise with Performance &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="f10af1fb-113a-493d-8ed5-c4a044d3f139" version="1">Skill Empowerment: Persuasion</content>
-  <content contentuid="4e16171a-cded-4f76-8d72-7c43326f1212" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;.</content>
-  <content contentuid="23e005466a594208a7ea889c74a826d0" version="1">Creature has expertise with Persuasion &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="fa7a5107-a533-41d1-940f-9bd1f1788c31" version="1">Skill Empowerment: Religion</content>
+  <content contentuid="f10af1fb-113a-493d-8ed5-c4a044d3f139" version="1">Fertigkeit Verbesserung: Überzeugung</content>
+  <content contentuid="4e16171a-cded-4f76-8d72-7c43326f1212" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Fachwissen in &lt;LSTag Tooltip="Persuasion"&gt;Überzeugung&lt;/LSTag&gt;.</content>
+  <content contentuid="23e005466a594208a7ea889c74a826d0" version="1">Die Kreatur hat Erfahrung mit Überzeugung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="fa7a5107-a533-41d1-940f-9bd1f1788c31" version="1">Fertigkeit Verbesserung: Religion</content>
   <content contentuid="376466c9-211c-40b0-9f28-b9799c62c443" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt;.</content>
   <content contentuid="602b9f1552ec46cb9478316d4b1b7e79" version="1">Creature has expertise with Religion &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="a7cf1243-6406-4cb3-9710-e66e643ca78b" version="1">Skill Empowerment: Sleight of Hand</content>
-  <content contentuid="54e89953-7600-4852-b6d7-3e534e9868f9" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt;.</content>
-  <content contentuid="12901a735cab4d82a13f8f8bf96d8da8" version="1">Creature has expertise with Sleight of Hand &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="5972e31e-ab25-4c96-973d-a3f966f01422" version="1">Skill Empowerment: Stealth</content>
-  <content contentuid="f7d7b7f3-f218-4ec0-a19e-86d3a6047060" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt;.</content>
-  <content contentuid="4de9f169b6294c9fb2e59ead7808bc64" version="1">Creature has expertise with Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="80e80a69-75db-4ce5-b7e3-be5474e6642c" version="1">Skill Empowerment: Survival</content>
+  <content contentuid="a7cf1243-6406-4cb3-9710-e66e643ca78b" version="1">Fertigkeit Verbesserung: Fingerfertigkeit</content>
+  <content contentuid="54e89953-7600-4852-b6d7-3e534e9868f9" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Fachwissen in &lt;LSTag Tooltip="SleightOfHand"&gt;Fingerfertigkeit&lt;/LSTag&gt;.</content>
+  <content contentuid="12901a735cab4d82a13f8f8bf96d8da8" version="1">Die Kreatur hat Erfahrung mit &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt; in Fingerfertigkeit.</content>
+  <content contentuid="5972e31e-ab25-4c96-973d-a3f966f01422" version="1">Fertigkeit Verbesserung: Heimlichkeit</content>
+  <content contentuid="f7d7b7f3-f218-4ec0-a19e-86d3a6047060" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Fachwissen in &lt;LSTag Tooltip="Stealth"&gt;Heimlichkeit&lt;/LSTag&gt;.</content>
+  <content contentuid="4de9f169b6294c9fb2e59ead7808bc64" version="1">Die Kreatur hat Erfahrung mit Heimlichkeit &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="80e80a69-75db-4ce5-b7e3-be5474e6642c" version="1">Fertigkeit Verbesserung: Überleben</content>
   <content contentuid="e1701f0f-422b-4183-bca6-77839fea0f4d" version="1">Deepen a creature’s understanding of its own talent, granting it expertise in &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
   <content contentuid="631ab635d31841fc8cdf982dc4188593" version="1">Creature has expertise with Survival &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
   <content contentuid="a24ea52b-ee8e-4b7d-95d4-825d5bca20be" version="1">Steel Wind Strike</content>
