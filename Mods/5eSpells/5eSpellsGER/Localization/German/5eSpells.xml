@@ -145,83 +145,83 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="7e31428a-866a-4435-aca9-09e8acecebad" version="1">Bis zum Ende des Zaubers hast du &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf den nächsten Waffen-&lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;, der dir zusätzlich [1] einbringt. Ob du triffst oder nicht, du erhältst bis zum Ende deines Zuges zusätzlich [2] &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt;.</content>
   <content contentuid="1c87e59548c24c9a8e5460f309d22d35" version="1">Kann keine &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt; provozieren.</content>
   <content contentuid="0470b21bdeb8470da97ab240f945772f" version="1">[1] &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; erhalten.</content>
-  <content contentuid="06ccff5b-74f8-4871-a26d-66436d5da6d5" version="1">Booming Blade</content>
-  <content contentuid="aa20553d-362b-4ff6-b5d9-5c70e4e37e59" version="1">Strike a target with a melee weapon, surrounding them in a booming energy that detonates and deals [1] if it willingly moves.</content>
-  <content contentuid="7072fa8e512243d18b7e182cbd0651be" version="1">Takes [1] if moving willingly.</content>
-  <content contentuid="c9a48d42-9567-4fc0-9352-7e7ced0aab62" version="1">Control Flames</content>
-  <content contentuid="29effb43-1002-4013-a4b6-62027354890b" version="1">Choose a fire surface and expand its radius or extinguish an object or fire surface's flames.</content>
-  <content contentuid="85a05eac-e688-4811-aa65-4f771167fc2d" version="1">Control Flames: Expand</content>
-  <content contentuid="894b7a3c-bcbe-4729-a9a6-ea33da6d3abc" version="1">Expand the radius of a fire surface by [1].</content>
-  <content contentuid="70dd64c3-4570-459d-82b9-2f235d4fb560" version="1">Control Flames: Extinguish</content>
-  <content contentuid="528367ff-48cf-4f51-a059-aabbecdfe51b" version="1">Extinguish the flames of a fire surface or the flames of an object.</content>
-  <content contentuid="6cec9657ec2343d69622568217974bc4" version="1">Create Bonfire</content>
-  <content contentuid="230e0fdb78354f1f8680dfd69df183b7" version="1">Create a bonfire that burns creatures in the bonfire’s space when casting this spell or when the creature starts or ends its turn in the space.</content>
-  <content contentuid="4378eacf0a0543079d1a8861ad2c7ce8" version="1">Bonfire</content>
-  <content contentuid="49c94342c97a4d3c88362873ac104b3c" version="1">Deal [1] per turn.</content>
-  <content contentuid="c2303d03-287b-48d6-bd07-3cce35798836" version="1">Druidcraft</content>
-  <content contentuid="31463b0c-ca07-4746-a80b-144c0f83ca13" version="1">Create harmless sensory effects that grants you &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; or instantly snuff out or light a source of fire on a object.</content>
-  <content contentuid="a4e2714f-7d91-4ca4-a0d0-caba22e6781f" version="1">Create harmless sensory effects that grants you &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="3c1beecf-6508-4c72-a3e3-be452d67e412" version="1">Instantly snuff out or light a source of fire on an object.</content>
-  <content contentuid="befafae4ab3747b6ab913facd82e9cfd" version="1">Has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
-  <content contentuid="7cf2ef50-78ee-4426-a586-5682f2a748dc" version="1">Frostbite</content>
-  <content contentuid="3f10dad4-2df1-49ad-83e4-b127bcf07dcb" version="1">Cause a numbing frost to form on a creature, possibly imposing &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
-  <content contentuid="85510b37371f4daf85cad0b8b114ab2a" version="1">Has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
-  <content contentuid="70d336bc-94f6-4bad-a8b8-5944fa9ab350" version="1">Green-Flame Blade</content>
-  <content contentuid="9b0579a5-8a2d-4127-ac47-0cd8582e0027" version="1">Strike a target with a melee weapon, allowing fire to leap from your target to strike a second nearby foe within [1] of them, dealing [2].</content>
-  <content contentuid="32f268b63e3e4801a74ad7943eacf3c0" version="1">Can shoot fire towards a nearby creature.</content>
-  <content contentuid="b9d8673da2b94c1fb644ddcc057fd730" version="1">Can be targeted by Green-Flame Blade's leaping fire.</content>
-  <content contentuid="db5c91b4-e7db-4f8b-81a4-bb4a026d88e2" version="1">Green-Flame</content>
-  <content contentuid="dac95e17-7fb6-4ebe-840b-5f92f409431f" version="1">Green-flame leaps from your weapon to strike a nearby foe.</content>
-  <content contentuid="1e59de7f-2f54-4f51-9304-9aabd84e3f15" version="1">Gust</content>
-  <content contentuid="c5526a6d-376d-4c65-8036-7b07ccdd38b5" version="1">Seize air and compel it to possibly push a creature up to [1] away from you or an object weighing up to 5 pounds [2] away from you.</content>
-  <content contentuid="217ec6abd81e41bb83ca552230fba831" version="1">Gust: Creature</content>
-  <content contentuid="eaeed94dc8384fd294df27282718a336" version="1">Seize air and compel it to possibly push a creature up to [1] away from you.</content>
-  <content contentuid="f0805e7ab7c5406bb6710dd519a75e48" version="1">Gust: Object</content>
-  <content contentuid="85322456b80b4bd5b1813ee6d0168fc7" version="1">Seize air and compel it to possibly push an weighing up to 5 pounds [2] away from you.</content>
-  <content contentuid="c745619a-bd5a-4e1e-8a08-68600ac69062" version="1">Lightning Lure</content>
-  <content contentuid="ec9c8bcc-b22f-4bc5-bd68-b79e5ee020bb" version="1">Create a lash of lightning energy that strikes at a creature and possibly pulls them [1] towards you.</content>
-  <content contentuid="h2ee7df7eg2c60g4a7dg9a79g74101b021a3c" version="1">Magic Stone</content>
-  <content contentuid="h05d0e0ebg78feg42ebg9e1bge95083cb6a05" version="1">Has pebble(s) imbued with magic.</content>
-  <content contentuid="he0c11c37ga34dg4181g8ab5gfa001f51e4b9" version="1">Touch three pebbles and imbue them with magic, allowing you or an ally to make a ranged spell attack with them by throwing the pebbles.</content>
-  <content contentuid="h509f6587g981eg4dfdg8571gdd28a28f16b2" version="1">Magic Stone: Hurl</content>
-  <content contentuid="hdf837f46ga216g4000ga411g6aeee375f17f" version="1">Throw one of the magic imbued pebbles.</content>
-  <content contentuid="h48af1e17g38afg4014g9751gc9fd4d3578e1" version="1">Deals additional damage equal to the spellcaster's &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt;.</content>
-  <content contentuid="h62b3c5a0g9c4cg4020g886ege0b178bec4b6" version="1">The number of Magic Stones you possess.</content>
-  <content contentuid="hefe792bbgeb6ag434bg8f22g4eac3fa5d126" version="1">Magic Stones</content>
-  <content contentuid="ha15186dbg4a14g47afgad74ged9991d52686" version="1">Caster's Spellcasting Ability Modifier</content>
-  <content contentuid="h9f6bff7bg0969g47a0gb7f2ge27bb463471f" version="1">A stone imbued with magic.</content>
-  <content contentuid="e0f14fde-6b5f-474a-906c-1cc67251a6cd" version="1">Mind Sliver</content>
-  <content contentuid="93d3af5e-98db-47ae-b5a3-dc9c9f2b940b" version="1">Drive a disorienting spike of psychic energy into the mind of a creature, possibly imposing a -[1] penalty to its next Saving Throw.</content>
-  <content contentuid="6ae5af254af049a9b32c0da31e0359ac" version="1">Next &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; reduced by [1].</content>
-  <content contentuid="9d7d6dd6-4f80-4e70-8dd7-fd5aa40d3704" version="1">Mold Earth: Mud</content>
-  <content contentuid="9d3126a7-22e1-49d1-8393-c31f883da890" version="1">Create a mud surface that becomes &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
-  <content contentuid="a42fcc44-335c-4c84-b536-5be090f6ad90" version="1">Mold Earth: Destroy</content>
-  <content contentuid="9a028fa4-6333-4581-a675-f08e2186546b" version="1">Remove a mud surface.</content>
-  <content contentuid="045a290b-efdc-4cf7-bd25-2ee6b269cb17" version="1">Mold Earth</content>
-  <content contentuid="5ee75e1a-0b41-4726-bca1-eaa10c486de5" version="1">Manipulate earth to your whim, allowing you to create a mud surface that becomes &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; or to remove a mud surface.</content>
+  <content contentuid="06ccff5b-74f8-4871-a26d-66436d5da6d5" version="1">Dröhnende Klinge</content>
+  <content contentuid="aa20553d-362b-4ff6-b5d9-5c70e4e37e59" version="1">Trifft ein Ziel mit einer Nahkampfwaffe und umgibt es mit einer dröhnenden Energie, die explodiert und [1] verursacht, wenn sie sich bereitwillig bewegt.</content>
+  <content contentuid="7072fa8e512243d18b7e182cbd0651be" version="1">Nimmt [1], wenn es sich freiwillig bewegt.</content>
+  <content contentuid="c9a48d42-9567-4fc0-9352-7e7ced0aab62" version="1">Kontrolliere Flammen</content>
+  <content contentuid="29effb43-1002-4013-a4b6-62027354890b" version="1">Wählen Sie eine Feuerfläche und erweitern Sie deren Radius oder löschen Sie die Flammen eines Objekts oder einer Feuerfläche.</content>
+  <content contentuid="85a05eac-e688-4811-aa65-4f771167fc2d" version="1">Flammen kontrollieren: Erweitern</content>
+  <content contentuid="894b7a3c-bcbe-4729-a9a6-ea33da6d3abc" version="1">Erweitern Sie den Radius einer Feuerfläche um [1].</content>
+  <content contentuid="70dd64c3-4570-459d-82b9-2f235d4fb560" version="1">Flammen kontrollieren: Löschen</content>
+  <content contentuid="528367ff-48cf-4f51-a059-aabbecdfe51b" version="1">Löschen Sie die Flammen einer Feuerfläche oder die Flammen eines Gegenstandes.</content>
+  <content contentuid="6cec9657ec2343d69622568217974bc4" version="1">Erstelle ein Lagerfeuer</content>
+  <content contentuid="230e0fdb78354f1f8680dfd69df183b7" version="1">Erschaffe ein Lagerfeuer, das Kreaturen im Feld des Lagerfeuers verbrennt, wenn du diesen Zauber wirkst oder wenn die Kreatur ihren Zug im Feld beginnt oder beendet.</content>
+  <content contentuid="4378eacf0a0543079d1a8861ad2c7ce8" version="1">Lagerfeuer</content>
+  <content contentuid="49c94342c97a4d3c88362873ac104b3c" version="1">Gib [1] pro Spielzug aus.</content>
+  <content contentuid="c2303d03-287b-48d6-bd07-3cce35798836" version="1">Druidenhandwerk</content>
+  <content contentuid="31463b0c-ca07-4746-a80b-144c0f83ca13" version="1">Erschaffe harmlose sensorische Effekte, die dir &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Einschüchterungs-&lt;LSTag Tooltip="AbilityCheck" &gt;Prüfungen&lt;/LSTag&gt; gewähren oder eine Feuerquelle an einem Objekt sofort auslöschen oder entzünden.</content>
+  <content contentuid="a4e2714f-7d91-4ca4-a0d0-caba22e6781f" version="1">Erzeugt harmlose sensorische Effekte, die dir &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei Einschüchterungs-&lt;LSTag Tooltip="AbilityCheck"&gt;-Überprüfungen&lt;/LSTag&gt; gewähren.</content>
+  <content contentuid="3c1beecf-6508-4c72-a3e3-be452d67e412" version="1">Feuer sofort löschen oder Gegenstand entzünden.</content>
+  <content contentuid="befafae4ab3747b6ab913facd82e9cfd" version="1">Hat einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei Einschüchterungs-&lt;LSTag Tooltip="AbilityCheck"&gt;Überprüfungen&lt;/LSTag&gt;.</content>
+  <content contentuid="7cf2ef50-78ee-4426-a586-5682f2a748dc" version="1">Erfrierung</content>
+  <content contentuid="3f10dad4-2df1-49ad-83e4-b127bcf07dcb" version="1">Bewirkt, dass sich auf einer Kreatur ein betäubender Frost bildet, der möglicherweise bei ihrem nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; zu einem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag&gt; führt.</content>
+  <content contentuid="85510b37371f4daf85cad0b8b114ab2a" version="1">Hat einen &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag&gt; beim nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;.</content>
+  <content contentuid="70d336bc-94f6-4bad-a8b8-5944fa9ab350" version="1">Grüne Flammenklinge</content>
+  <content contentuid="9b0579a5-8a2d-4127-ac47-0cd8582e0027" version="1">Trifft ein Ziel mit einer Nahkampfwaffe, sodass das Feuer von eurem Ziel überspringt und einen zweiten Gegner in der Nähe im Umkreis von [1] trifft, was [2] verursacht.</content>
+  <content contentuid="32f268b63e3e4801a74ad7943eacf3c0" version="1">Kann Feuer auf eine Kreatur in der Nähe schießen.</content>
+  <content contentuid="b9d8673da2b94c1fb644ddcc057fd730" version="1">Kann durch das springende Feuer der Grünen Flammenklinge anvisiert werden.</content>
+  <content contentuid="db5c91b4-e7db-4f8b-81a4-bb4a026d88e2" version="1">Grüne Flamme</content>
+  <content contentuid="dac95e17-7fb6-4ebe-840b-5f92f409431f" version="1">Grüne Flammen springen aus deiner Waffe und treffen einen Gegner in der Nähe.</content>
+  <content contentuid="1e59de7f-2f54-4f51-9304-9aabd84e3f15" version="1">Böe</content>
+  <content contentuid="c5526a6d-376d-4c65-8036-7b07ccdd38b5" version="1">Greift in die Luft und zwingt sie, eine Kreatur bis zu [1] oder einen Gegenstand bis zu 5 Pfund [2] von sich wegzustoßen.</content>
+  <content contentuid="217ec6abd81e41bb83ca552230fba831" version="1">Böe: Kreatur</content>
+  <content contentuid="eaeed94dc8384fd294df27282718a336" version="1">Ergreife die Luft und zwinge sie, eine Kreatur möglicherweise bis zu [1] von dir wegzudrücken.</content>
+  <content contentuid="f0805e7ab7c5406bb6710dd519a75e48" version="1">Böe: Objekt</content>
+  <content contentuid="85322456b80b4bd5b1813ee6d0168fc7" version="1">Die Luft ergreifen und sie zwingen, ein Gewicht von bis zu 5 Pfund [2] wegzuschieben.</content>
+  <content contentuid="c745619a-bd5a-4e1e-8a08-68600ac69062" version="1">Blitzköder</content>
+  <content contentuid="ec9c8bcc-b22f-4bc5-bd68-b79e5ee020bb" version="1">Erzeuge einen Energieblitz, der eine Kreatur trifft und sie möglicherweise [1] zu dir zieht.</content>
+  <content contentuid="h2ee7df7eg2c60g4a7dg9a79g74101b021a3c" version="1">Magischer Stein</content>
+  <content contentuid="h05d0e0ebg78feg42ebg9e1bge95083cb6a05" version="1">Hat Kieselsteine, die mit Magie erfüllt sind.</content>
+  <content contentuid="he0c11c37ga34dg4181g8ab5gfa001f51e4b9" version="1">Berühre drei Kieselsteine und erfülle sie mit Magie, sodass du oder ein Verbündeter durch das Werfen der Kieselsteine einen Fernkampfangriff mit ihnen durchführen kannst.</content>
+  <content contentuid="h509f6587g981eg4dfdg8571gdd28a28f16b2" version="1">Magischer Stein: Schleudern</content>
+  <content contentuid="hdf837f46ga216g4000ga411g6aeee375f17f" version="1">Wirf einen der magischen Kieselsteine.</content>
+  <content contentuid="h48af1e17g38afg4014g9751gc9fd4d3578e1" version="1">Verursacht zusätzlichen Schaden in Höhe des &lt;LSTag Tooltip="SpellcastingAbilityModifier" &gt;Zauberfähigkeitsmodifikators&lt;/LSTag&gt; des Zaubernden.</content>
+  <content contentuid="h62b3c5a0g9c4cg4020g886ege0b178bec4b6" version="1">Die Anzahl der magischen Steine, die Sie besitzen.</content>
+  <content contentuid="hefe792bbgeb6ag434bg8f22g4eac3fa5d126" version="1">Magische Steine</content>
+  <content contentuid="ha15186dbg4a14g47afgad74ged9991d52686" version="1">Zauberfähigkeitsmodifikator des Zaubernden</content>
+  <content contentuid="h9f6bff7bg0969g47a0gb7f2ge27bb463471f" version="1">Ein Stein voller Magie.</content>
+  <content contentuid="e0f14fde-6b5f-474a-906c-1cc67251a6cd" version="1">Gedankensplitter</content>
+  <content contentuid="93d3af5e-98db-47ae-b5a3-dc9c9f2b940b" version="1">Feuere einen verwirrenden Stoß psychischer Energie in den Verstand einer Kreatur und erleide einen Malus von -[1] auf ihren nächsten Rettungswurf.</content>
+  <content contentuid="6ae5af254af049a9b32c0da31e0359ac" version="1">Nächster &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; um [1] reduziert.</content>
+  <content contentuid="9d7d6dd6-4f80-4e70-8dd7-fd5aa40d3704" version="1">Schimmelerde: Schlamm</content>
+  <content contentuid="9d3126a7-22e1-49d1-8393-c31f883da890" version="1">Erstellen einer Schlammfläche, die zu &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;schwierigem Gelände&lt;/LSTag&gt; wird.</content>
+  <content contentuid="a42fcc44-335c-4c84-b536-5be090f6ad90" version="1">Schimmelerde: Zerstören</content>
+  <content contentuid="9a028fa4-6333-4581-a675-f08e2186546b" version="1">Entfernen Sie eine Schlammoberfläche.</content>
+  <content contentuid="045a290b-efdc-4cf7-bd25-2ee6b269cb17" version="1">Schimmelerde</content>
+  <content contentuid="5ee75e1a-0b41-4726-bca1-eaa10c486de5" version="1">Manipuliere die Erde nach Lust und Laune und erschaffe eine Schlammoberfläche, die zu &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;schwierigem Gelände&lt;/LSTag&gt; wird, oder entferne eine Schlammoberfläche.</content>
   <content contentuid="db65ca99-df3d-4492-9daa-28bf7861dcef" version="1">Prestidigitation</content>
-  <content contentuid="e8442688-04f1-4751-a863-fe05abc86b89" version="1">Perform minor magical tricks that light or snuff out torches and clean environment terrains or creatures.</content>
-  <content contentuid="cb796812372c4ad4944804a521e83b7c" version="1">Cleaned of blood, dirt and sweat.</content>
-  <content contentuid="e1e8930c-4213-47f3-b049-7acba8410ad8" version="1">Primal Savagery</content>
-  <content contentuid="d2f5ac35-3e48-4cd0-9a44-1b4fe565498b" version="1">Channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack.</content>
-  <content contentuid="5aa87de0-6bd2-4e40-a279-f100ae3dab60" version="1">Sapping Sting</content>
-  <content contentuid="0bdfb2cf-6072-4699-8454-2492bac4e400" version="1">Sap the vitality of a creature, possibly causing it to fall &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
-  <content contentuid="cff835ec-0101-485a-b7e5-d3aa6b69de11" version="1">Shape Water</content>
-  <content contentuid="6f60d13a-4981-4a9a-8b4b-576d79f30182" version="1">Manipulate a water surface and freeze it to become an ice surface or melt an ice surface to become a water surface.</content>
-  <content contentuid="779794ccc2494711a793023a752a70ba" version="1">Shape Water: Freeze</content>
-  <content contentuid="65c0a00ff24d487db8ce408c863fe481" version="1">Manipulate a water surface and freeze it to become an ice surface.</content>
-  <content contentuid="630af4d3d7374b1ebf31771db43a732c" version="1">Shape Water: Unfreeze</content>
-  <content contentuid="5244d1bec0cb4c69a1ee19af83b4cf28" version="1">Manipulate an ice surface and melt it to become a water surface.</content>
-  <content contentuid="755532c6-a78a-48f5-a366-32294aa1aab8" version="1">Sword Burst</content>
-  <content contentuid="93a05bac-da51-483e-8659-3474bb03d194" version="1">Create a momentary circle of spectral blades that sweep around you to strike nearby creatures.</content>
-  <content contentuid="95fad570-9f5d-451c-bc2e-b994b3b0ab50" version="1">Thunderclap</content>
-  <content contentuid="844342d8-d3f5-4a5b-8c51-114834ecf105" version="1">Create a burst of thunderous sound that affects nearby creatures.</content>
-  <content contentuid="0a402d8b-51cf-4db3-ad15-c557cc238267" version="1">Toll the Dead</content>
-  <content contentuid="6a464c05-9e14-493b-abfc-84a48add35c1" version="1">Cause the sound of a dolorous bell to fill the air around a creature, dealing [1] or [2] if it is injured.</content>
-  <content contentuid="3747dbc7-6d53-4d37-9add-5b85a884a3eb" version="1">Word of Radiance</content>
-  <content contentuid="58b12376-f8c0-4992-b228-013f4cfdf149" version="1">Utter a divine word that causes burning radiance to erupt from you to all nearby enemies.</content>
-  <content contentuid="bf3eb0cc-a50b-4391-9dec-ab4f62c14b85" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; A creature can't be pushed if it is greater than medium in size.</content>
-  <content contentuid="38fff5cb-4e53-4ac3-b630-93207fc5bf19" version="1">Aganazzar's Scorcher</content>
+  <content contentuid="e8442688-04f1-4751-a863-fe05abc86b89" version="1">Führe kleinere magische Tricks aus, um Fackeln anzuzünden oder auszulöschen und Umgebungsgelände oder Kreaturen zu reinigen.</content>
+  <content contentuid="cb796812372c4ad4944804a521e83b7c" version="1">Von Blut, Schmutz und Schweiß gereinigt.</content>
+  <content contentuid="e1e8930c-4213-47f3-b049-7acba8410ad8" version="1">Ursprüngliche Wildheit</content>
+  <content contentuid="d2f5ac35-3e48-4cd0-9a44-1b4fe565498b" version="1">Urmagie kanalisieren, um Zähne oder Fingernägel zu schärfen und sich auf einen ätzenden Angriff vorzubereiten.</content>
+  <content contentuid="5aa87de0-6bd2-4e40-a279-f100ae3dab60" version="1">Auslaugender Stich</content>
+  <content contentuid="0bdfb2cf-6072-4699-8454-2492bac4e400" version="1">Entzieht einer Kreatur die Lebenspunkte, was dazu führen kann, dass sie &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Anfällig&lt;/LSTag&gt; wird.</content>
+  <content contentuid="cff835ec-0101-485a-b7e5-d3aa6b69de11" version="1">Wasser formen</content>
+  <content contentuid="6f60d13a-4981-4a9a-8b4b-576d79f30182" version="1">Manipuliere eine Wasseroberfläche und friere sie ein, um sie in eine Eisfläche zu verwandeln, oder schmelze eine Eisfläche, um sie in eine Wasserfläche zu verwandeln.</content>
+  <content contentuid="779794ccc2494711a793023a752a70ba" version="1">Wasser formen: einfrieren</content>
+  <content contentuid="65c0a00ff24d487db8ce408c863fe481" version="1">Manipuliere eine Wasseroberfläche und friere sie zu einer Eisfläche ein.</content>
+  <content contentuid="630af4d3d7374b1ebf31771db43a732c" version="1">Wasser formen: Auftauen</content>
+  <content contentuid="5244d1bec0cb4c69a1ee19af83b4cf28" version="1">Eine Eisfläche manipulieren und zum Schmelzen bringen, um eine Wasserfläche zu erzeugen.</content>
+  <content contentuid="755532c6-a78a-48f5-a366-32294aa1aab8" version="1">Schwertexplosionen</content>
+  <content contentuid="93a05bac-da51-483e-8659-3474bb03d194" version="1">Erschaffe einen vorübergehenden Kreis aus Spektralklingen, die um dich herumfegen und Kreaturen in der Nähe treffen.</content>
+  <content contentuid="95fad570-9f5d-451c-bc2e-b994b3b0ab50" version="1">Donnerschlag</content>
+  <content contentuid="844342d8-d3f5-4a5b-8c51-114834ecf105" version="1">Erzeugt einen donnernden Klang, der Kreaturen in der Nähe beeinflusst.</content>
+  <content contentuid="0a402d8b-51cf-4db3-ad15-c557cc238267" version="1">Gebühren für die Toten</content>
+  <content contentuid="6a464c05-9e14-493b-abfc-84a48add35c1" version="1">Der Klang einer traurigen Glocke erfüllt die Luft um eine Kreatur und verursacht [1] oder [2], wenn sie verwundet ist.</content>
+  <content contentuid="3747dbc7-6d53-4d37-9add-5b85a884a3eb" version="1">Wort der Ausstrahlung</content>
+  <content contentuid="58b12376-f8c0-4992-b228-013f4cfdf149" version="1">Sprich ein göttliches Wort, das ein brennendes Leuchten von dir auf alle Feinde in der Nähe ausstrahlt.</content>
+  <content contentuid="bf3eb0cc-a50b-4391-9dec-ab4f62c14b85" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Eine Kreatur kann nicht gestoßen werden, wenn sie größer als mittelgroß ist.</content>
+  <content contentuid="38fff5cb-4e53-4ac3-b630-93207fc5bf19" version="1">Aganazars Verbrenner</content>
   <content contentuid="c12cc967-94e8-4605-ad9d-2673417f0ff5" version="1">Roaring flame emanates from you in a line.</content>
   <content contentuid="f1809237-c064-41af-bc9b-b05822568f61" version="1">Borrowed Knowledge</content>
   <content contentuid="088fcada-a13e-4256-b581-48b3a3ec451d" version="1">Draw on knowledge from spirits of the past and become Proficient in one skill you lack proficiency in.</content>
@@ -398,11 +398,13 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="e7b9654c-5aba-4a17-8ca7-9a0f4d858982" version="1">Vortex Warp</content>
   <content contentuid="c360f59b-d658-482b-991a-4e89dd68c601" version="1">Magically twist space around another creature, possibly preparing them to be teleported.</content>
   <content contentuid="9d031748-20cf-44f8-8f2d-fe5a46d5c486" version="1">Teleport a creature you've magically twisted the space around to an unoccupied space.</content>
-  <content contentuid="6d76a90090394014a192bf0b4423f001" version="1">Prone to being teleported to an unoccupied space.</content>
+  <content contentuid="6d76a90090394014a192bf0b4423f001" version="1">Anfällig dafür, in einen unbesetzten Raum teleportiert zu werden.</content>
   <content contentuid="6e9bfe20-8d23-47ca-bad3-1c1cca69f378" version="1">Warding Wind</content>
-  <content contentuid="0cbf370b-c09a-4482-9611-5f87e2de456d" version="1">Strong wind blows you in a [1] radius while clearing clouds and extinguishing flames on objects. Other creatures within the wind are in &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;. Creatures also have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on ranged attacks passing through the wind.</content>
+  <content contentuid="0cbf370b-c09a-4482-9611-5f87e2de456d" version="1">Starker Wind bläst dich in einem [1]-Radius, während er Wolken auflöst und Flammen auf Objekten löscht.
+Andere Kreaturen innerhalb des Windes befinden sich in &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN" &gt;Schwierigem Gelände&lt;/LSTag&gt;.
+Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag&gt; bei Fernkampfangriffen, die durch den Wind gehen.</content>
   <content contentuid="ae5c92d21dcd4cdab2ff580e4b2d0dda" version="1">Ranged weapon attacks have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; made in and out of the area.</content>
-  <content contentuid="70c8927979ea49d98c5bc6941339dbff" version="1">Treated as being in &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; and ranged weapon attacks have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; made in and out of the area.</content>
+  <content contentuid="70c8927979ea49d98c5bc6941339dbff" version="1">Wird als &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;schwieriges Gelände&lt;/LSTag&gt; behandelt und Angriffe mit Fernkampfwaffen weisen innerhalb und außerhalb des Gebiets &lt;LSTag Tooltip="Disadvantage"&gt;Nachteile&lt;/LSTag&gt; auf.</content>
   <content contentuid="fd7ab869-f0ab-41a8-827a-89df2bda51fe" version="1">Wither and Bloom</content>
   <content contentuid="84cef26e-3cc6-4dd0-a2c2-234b7cfdc390" version="1">Invoke both death and life in an area, causing hostile creatures to wither.</content>
   <content contentuid="0eb348fe6fe14b4aaed32512593bd05f" version="1">An ally can heal itself to recover &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
@@ -427,7 +429,7 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="e8c433ca-4e4a-4300-bf97-71c983b3647d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; No effect on creatures immune to being &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;.</content>
   <content contentuid="053e5c729a8c43d494fb9c3f6f445f86" version="1">Becomes hostile to all creatures.</content>
   <content contentuid="137eff9e-cff5-4c20-86ec-b58b8dba2a00" version="1">Erupting Earth</content>
-  <content contentuid="45276acf-15b7-4182-a0b9-56e3dd8cc53b" version="1">A fountain of churned earth and stone erupts in the area, changing the ground to &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
+  <content contentuid="45276acf-15b7-4182-a0b9-56e3dd8cc53b" version="1">Eine Fontäne aus aufgewühlter Erde und Stein bricht in der Gegend hervor und verwandelt den Boden in &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Schwieriges Gelände&lt;/LSTag&gt;.</content>
   <content contentuid="h9f00ff64ge055g4a55gbfb2g755cf0dfb838" version="1">Feign Death: Dismiss</content>
   <content contentuid="ffa9d7cd-a608-4a40-9a5e-47ab6219c7f0" version="1">Dismiss the effects of Feign Death on a creature.</content>
   <content contentuid="bd8664f8-0061-4283-bcb3-7835805f57a3" version="1">Flame Arrows</content>
@@ -504,7 +506,7 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="a6053f2f77314d628ef9c5c4e276c13f" version="1">Free attack after using Breath Weapon.</content>
   <content contentuid="46167340d5ba4fe0b1e773c7fa507e4f" version="1">Hide: Shadow Stealth</content>
   <content contentuid="9d5446c6c10b4788a576b32e5b5fae7b" version="1">Thunder Step</content>
-  <content contentuid="e46ef781-4e75-4f64-8042-c5b3a7f5d5bd" version="1">Teleport to an unoccupied space, causing a thunderous boom within [1] of the space you left.</content>
+  <content contentuid="e46ef781-4e75-4f64-8042-c5b3a7f5d5bd" version="1">Teleportieren Sie sich zu einem unbesetzten Feld und verursachen Sie einen donnernden Knall innerhalb von [1] des Feldes, das Sie verlassen haben.</content>
   <content contentuid="d348c657-6866-492e-8756-003ee1c4d369" version="1">Water Walk</content>
   <content contentuid="15260388-dfe0-44dd-8125-822201172639" version="1">Grant allied creatures the ability to move across any liquid surface as if it were harmless solid ground.</content>
   <content contentuid="fa118a5a-cabe-45e3-9aa6-1df58d6834b4" version="1">The surfaces include water, electrified water, electrified blood, mud, poison and grease.</content>
@@ -519,7 +521,11 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="ba0d10c5-dd82-4f93-953c-f69c0c5601fc" version="1">The Primal Beast nature spirit transforms you into a powerful guardian. Your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; is increased by [1], you gain darkvision with a range of [2], your Strength-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; are made with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and your melee weapon attacks deal an extra [3].</content>
   <content contentuid="bd3cf2c28d1b414b9f670abd47afb5ca" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; increased by [1], gains [2] darkvision, Strength-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; are made with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and melee weapon attacks deal an extra [3].</content>
   <content contentuid="d376bb7d-6ee0-416e-a703-3ad4a449c1d6" version="1">Guardian of Nature: Great Tree</content>
-  <content contentuid="5ee3f097-80c0-4f6c-b76f-18f87b131a11" version="1">The Great Tree nature spirit transforms you into a powerful guardian. You gain [1], you make Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;, you make Dexterity and Wisdom-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and the ground within [2] of you is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
+  <content contentuid="5ee3f097-80c0-4f6c-b76f-18f87b131a11" version="1">Der Naturgeist des Großen Baumes verwandelt dich in einen mächtigen Wächter.
+Du erhältst [1], 
+du machst &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt;, 
+du machst &lt;LSTag ToolTip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; mit &lt;LSTag ToolTip="Advantage"&gt;Vorteil&lt;/LSTag&gt; 
+und der Boden in [2] Entfernung von dir ist &lt;LSTag Type="Status" ToolTip="DIFFICULT_TERRAIN"&gt;schwieriges Gelände&lt;/ LSTag&gt;.</content>
   <content contentuid="6f6c4d75b5674ab6b467c009ee0c438a" version="1">Gain [1] and make Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and Dexterity and Wisdom-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Difficult terrain within [2] of this creature.</content>
   <content contentuid="88e923dd-144e-48f1-9ada-3b2aab26c8ff" version="1">Raulothim's Psychic Lance</content>
   <content contentuid="66cf2c8d-5cf7-476e-9266-ad4a886e54f3" version="1">Unleash a shimmering lance of psychic power at a creature, possibly causing it to be &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;.</content>
@@ -580,7 +586,7 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="d887bd81-25a2-4088-8f99-bd900dfcfd18" version="1">The creature has a -4 penalty to all &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and it reduces by -1 after a long rest.</content>
   <content contentuid="a8d49accb42a48d79049692f9712070f" version="1">Raised from dead, receiving a -[1] penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="c29eaebf-efd0-46c1-812c-4f2487a02d6c" version="1">Rary's Telepathic Bond</content>
-  <content contentuid="80fa537e-982f-4883-9953-1e556cf09550" version="1">Forge a telepathic link among up to eight creatures with Intelligence scores higher than 2, psychically linking each creature to all the others.</content>
+  <content contentuid="80fa537e-982f-4883-9953-1e556cf09550" version="1">Stelle eine telepathische Verbindung zwischen bis zu acht Wesen mit einem Intelligenzwert größer als 2 her und verbinde jedes Wesen mit jedem anderen.</content>
   <content contentuid="64dc4f73-5d8c-45f3-ad0d-f50d4144306b" version="1">While linked, creatures have Advantage on Attack Rolls and Saving Throws that would include one another as targets.</content>
   <content contentuid="92f20db33ff34993ac54ec0808802984" version="1">Bonded to the spellcaster and others. While linked, allied creatures have Advantage on Attack Rolls and Saving Throws against attacks and spells that would include them as targets.</content>
   <content contentuid="7814f0a4-8073-4930-99bc-b94e799759b2" version="1">Skill Empowerment</content>
@@ -658,7 +664,7 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="32d078b9f5b04fd2bf40170eb3bb3d40" version="1">Make two ranged attacks with the equipped weapon.</content>
   <content contentuid="48164d07-2254-44b4-a983-70dd8a6abf7e" version="1">Synaptic Static</content>
   <content contentuid="4aeb0d58-d625-4ef4-a7f4-5a62fc732861" version="1">Psychic energy explodes in an area, possibly causing creatures to subtract [1] from their &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; to maintain concentration.</content>
-  <content contentuid="cb461e3d44c24dbfbac33e595fb7fd45" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Cannot affect creatures with an &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; score of 2 or lower.</content>
+  <content contentuid="cb461e3d44c24dbfbac33e595fb7fd45" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Kann Kreaturen mit einem &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;-Wert von 2 oder niedriger nicht beeinflussen.</content>
   <content contentuid="5a6e089bbceb4efdba28b65f473ebc54" version="1">Targets still take half damage and don't suffer any other effects.</content>
   <content contentuid="639175afb76c4540b794af298ba23d4b" version="1">[1] subtracted from &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; to maintain concentration.</content>
   <content contentuid="fc2b0a7e-5ea3-44d2-9031-389f9dafaaa7" version="1">Temporal Shunt</content>
