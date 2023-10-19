@@ -280,148 +280,148 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="63e46c56cdbf4ce18af8c1596815b960" version="1">Beherrscht Fingerfertigkeit &lt;LSTag Tooltip="AbilityCheck" &gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="0c1771755cc74cb0912d3fbf29217119" version="1">Beherrscht Heimlichkeit &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="63e1e08286ff4d86af105289f89c2ed5" version="1">Beherrscht Überleben &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
-  <content contentuid="hbc8c02f2g4a9cg42e9gb8b3gee70b214d90b" version="1">Continual Flame</content>
-  <content contentuid="habeabf24g0becg4c95ga2edg99af4a45b4e9" version="1">A blue or red flame that cannot be smothered or quenched springs forth from an object that you touch.</content>
-  <content contentuid="h2fcce29agbb0eg4258g87f7g09be59a37f25" version="1">Continual Flame: Blue</content>
-  <content contentuid="h6348031ag92d3g4017g89bcg95ec18bcb5bc" version="1">A blue flame that cannot be smothered or quenched springs forth from an object that you touch.</content>
-  <content contentuid="h021d6009gb63ag4336g8a66ge44b22cfb3e3" version="1">Continual Flame: Red</content>
-  <content contentuid="h0301b5d9gde58g42c7g9300g0a7c772fae9c" version="1">A red flame that cannot be smothered or quenched springs forth from an object that you touch.</content>
-  <content contentuid="5770b7a5-0850-4c00-8b28-92474a8b2750" version="1">Darkness: Cloud</content>
-  <content contentuid="f920a51e-9d3e-46f4-95ff-c1e262061686" version="1">Create a cloud of magical darkness that Heavily Obscures and &lt;LSTag Type="Status" Tooltip="BLINDNESS"&gt;Blinds&lt;/LSTag&gt; creatures within.</content>
-  <content contentuid="d553c92e-7a75-4079-a045-efc2f4399812" version="1">Darkness: Item</content>
-  <content contentuid="02e1a6d1-6197-4ef6-9450-25fd93a8201a" version="1">Infuse an item with magical darkness that Heavily Obscures and &lt;LSTag Type="Status" Tooltip="BLINDNESS"&gt;Blinds&lt;/LSTag&gt; creatures within [1] of it.</content>
-  <content contentuid="a2d11353-b377-46f5-83b6-edca4fc12a23" version="1">Dragon's Breath</content>
-  <content contentuid="c7660bc1-f51d-41c9-b853-d6ad16c5858c" version="1">Imbue an ally with the power to spew magical energy from their mouth.</content>
-  <content contentuid="b51fefbd-e0ba-4a35-b374-4f5cdcceb02c" version="1">Dragon's Breath: Fire</content>
-  <content contentuid="e7b7de60-8279-4eb5-8972-3ce681fd4bec" version="1">Imbue an ally with the power to spew fire from their mouth.</content>
-  <content contentuid="107b3064-38cb-4c02-bc65-24f626aff744" version="1">Dragon's Breath: Cold</content>
-  <content contentuid="d466d90c-c0cc-42e1-a216-4f964fd111b7" version="1">Imbue an ally with the power to spew cold from their mouth.</content>
-  <content contentuid="6902bacf-df80-4874-a24f-914643cee8b6" version="1">Dragon's Breath: Lightning</content>
-  <content contentuid="2d8b9b7c-cc8d-4a62-9051-b403e79dfb5c" version="1">Imbue an ally with the power to spew lightning from their mouth.</content>
-  <content contentuid="612af342-5ed9-432e-acfd-5f35e6240e30" version="1">Dragon's Breath: Poison</content>
-  <content contentuid="df39ee66-c6d5-434f-bae9-4c211a822f74" version="1">Imbue an ally with the power to spew poison from their mouth.</content>
-  <content contentuid="b7bdb870-37b5-401e-8c6c-7928cb7fbea1" version="1">Dragon's Breath: Acid</content>
-  <content contentuid="24eb02e9-9d02-44df-98be-b6edfabe38b6" version="1">Imbue an ally with the power to spew acid from their mouth.</content>
-  <content contentuid="a1b8c976-a52e-4a1b-9d8d-7e175ff8417f" version="1">Exhale fire in a cone.</content>
-  <content contentuid="8d4bf441-7f7d-47f1-b160-3a9d2c1b88b2" version="1">Exhale acid in a cone.</content>
-  <content contentuid="a3b78ceb-dd07-4d0c-b597-94a52a3f0819" version="1">Exhale cold in a cone.</content>
-  <content contentuid="51cfcf13-04c1-45a4-ba47-ae5f93fc6630" version="1">Exhale lightning in a cone.</content>
-  <content contentuid="79ff89ac-7007-49fb-920c-1afd645c37ef" version="1">Exhale poison in a cone.</content>
-  <content contentuid="12458c7b84d24bd7bd928936a047abac" version="1">Gained ability to exhale fire in a cone.</content>
-  <content contentuid="4f6a8ece09cd4adc82aeba020e6c2c26" version="1">Gained ability to exhale acid in a cone.</content>
-  <content contentuid="61fabc75e1234c69be4f2051ff372b21" version="1">Gained ability to exhale cold in a cone.</content>
-  <content contentuid="baf8f9c8bfd741e383cfece209a5a14b" version="1">Gained ability to exhale lightning in a cone.</content>
-  <content contentuid="788b3a44bc9348319001122c775ced56" version="1">Gained ability to exhale poison in a cone.</content>
-  <content contentuid="0c47714c-3607-4f7c-a8f2-08eefae6d2aa" version="1">Dust Devil</content>
-  <content contentuid="e531785a-e230-47fe-a786-cb76ecf270e3" version="1">Summon an elemental force that resembles a dust devil.</content>
-  <content contentuid="bc378123-725a-48fb-b2b7-9fa634337771" version="1">Creatures that end their turn within [1] of the dust devil take [2] and are pushed back [3].</content>
-  <content contentuid="3b97bc728e6a4c969e6bc01f974ef478" version="1">Possibly deal [1] and push creature back [2] or deal half damage and no push back on a successful save.</content>
-  <content contentuid="cd69dca5-63aa-42ea-ba6e-626efa8121e9" version="1">Flock of Familiars</content>
-  <content contentuid="6120046e-8c02-4b2f-9ff2-8c5e0234f32c" version="1">Gain the service of [1] familiars, each a fey spirit that takes an animal form you choose.</content>
-  <content contentuid="dabb276c955d4a21a93e01e5d669a151" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Already summoned familiars disappear when using this spell.</content>
-  <content contentuid="9135014c-3cb0-4469-b14f-8421cecf547a" version="1">Flock of Familiars: Cat</content>
-  <content contentuid="20fa46dd-b6e6-4187-837c-1759412093ac" version="1">Summon [1] familiars with the form and statistics of a cat that can distract your enemies.</content>
-  <content contentuid="0439aca3-42f5-42f2-8452-abbfa70c586e" version="1">Flock of Familiars: Crab</content>
-  <content contentuid="18b6d946-8aae-4161-93a5-3ac8ebea5756" version="1">Summon [1] familiars with the form and statistics of a crab. Their sharp pincers can slow enemies.</content>
-  <content contentuid="b5c089de-cd6d-4147-bd39-1a41514df78e" version="1">Flock of Familiars: Frog</content>
-  <content contentuid="ad742a43-f353-4829-b0fd-2e260fb38140" version="1">Summon [1] familiars with the form and statistics of a frog. Their skin is covered with dizzying toxins.</content>
-  <content contentuid="adf3497e-de80-4e06-854c-bd836801ea78" version="1">Flock of Familiars: Rat</content>
-  <content contentuid="cce7af46-0f01-4662-befe-84e0ed35ab2b" version="1">Summon [1] familiars with the form and statistics of a rat. Their infectious bite can spread disease.</content>
-  <content contentuid="7d328402-cb09-4f3d-97d1-3aeada059c23" version="1">Flock of Familiars: Raven</content>
-  <content contentuid="9d5656de-3ba9-4ccd-9ff6-91949cb1f5f5" version="1">Summon [1] familiars with the form and statistics of a raven. They can &lt;LSTag Type="Status" Tooltip="BLINDNESS"&gt;Blind&lt;/LSTag&gt; enemies.</content>
-  <content contentuid="dc794b83efc948c483dc8f4414fcf9d1" version="1">Flock of Familiars: Spider</content>
-  <content contentuid="05172bc9-f42f-4078-a5b2-c050a2ee46e7" version="1">Summon [1] familiars with the form and statistics of a spider. Their deadly bite can poison enemies.</content>
-  <content contentuid="9915a85545694d88bc03fbbc3e0e0fc9" version="1">Flock of Familiars: Imp</content>
-  <content contentuid="7c95d9680d1c4df7914dd28e1762cf26" version="1">Summon [1] familiars with the form and statistics of an imp. They can fly, turn Invisible, and &lt;LSTag Type="Spell" Tooltip="Target_Sting_Imp_Summon"&gt;Sting&lt;/LSTag&gt; enemies.</content>
-  <content contentuid="ff4b8a8dd0114834bb62ca8c816db519" version="1">Flock of Familiars: Quasit</content>
-  <content contentuid="ba1ee522f03a455f97d64a4c43370330" version="1">Summon [1] familiars with the form and statistics of a quasit. They can that can turn Invisible and &lt;LSTag Type="Spell" Tooltip="Target_Scare_Quasit_Summon"&gt;Scare&lt;/LSTag&gt; enemies.</content>
-  <content contentuid="9019abf8-0a96-4307-bd13-d9657e89f3fd" version="1">Fortune's Favor</content>
+  <content contentuid="hbc8c02f2g4a9cg42e9gb8b3gee70b214d90b" version="1">Fortwährende Flamme</content>
+  <content contentuid="habeabf24g0becg4c95ga2edg99af4a45b4e9" version="1">Aus einem Gegenstand, den man berührt, entspringt eine blaue oder rote Flamme, die nicht erstickt oder gelöscht werden kann.</content>
+  <content contentuid="h2fcce29agbb0eg4258g87f7g09be59a37f25" version="1">Kontinuierliche Flamme: Blau</content>
+  <content contentuid="h6348031ag92d3g4017g89bcg95ec18bcb5bc" version="1">Eine blaue Flamme, die nicht erstickt oder gelöscht werden kann, entspringt einem Gegenstand, den Sie berühren.</content>
+  <content contentuid="h021d6009gb63ag4336g8a66ge44b22cfb3e3" version="1">Kontinuierliche Flamme: Rot</content>
+  <content contentuid="h0301b5d9gde58g42c7g9300g0a7c772fae9c" version="1">Eine rote Flamme, die nicht erstickt oder gelöscht werden kann, entspringt einem Gegenstand, den Sie berühren.</content>
+  <content contentuid="5770b7a5-0850-4c00-8b28-92474a8b2750" version="1">Dunkelheit: Wolke</content>
+  <content contentuid="f920a51e-9d3e-46f4-95ff-c1e262061686" version="1">Erschaffe eine Wolke aus magischer Dunkelheit, die die Kreaturen darin stark verdunkelt und &lt;LSTag Type="Status" Tooltip="BLINDNESS"&gt;blendet&lt;/LSTag&gt;.</content>
+  <content contentuid="d553c92e-7a75-4079-a045-efc2f4399812" version="1">Dunkelheit: Gegenstand</content>
+  <content contentuid="02e1a6d1-6197-4ef6-9450-25fd93a8201a" version="1">Erfülle einen Gegenstand mit magischer Dunkelheit, die Kreaturen innerhalb von [1] um ihn herum stark verdunkelt und &lt;LSTag Type="Status" Tooltip="BLINDNESS"&gt;blendet&lt;/LSTag&gt;.</content>
+  <content contentuid="a2d11353-b377-46f5-83b6-edca4fc12a23" version="1">Drachenatem</content>
+  <content contentuid="c7660bc1-f51d-41c9-b853-d6ad16c5858c" version="1">Verleihe einem Verbündeten die Macht, magische Energie aus seinem Mund auszuspucken.</content>
+  <content contentuid="b51fefbd-e0ba-4a35-b374-4f5cdcceb02c" version="1">Drachenatem: Feuer</content>
+  <content contentuid="e7b7de60-8279-4eb5-8972-3ce681fd4bec" version="1">Verleihe einem Verbündeten die Macht, Feuer aus seinem Mund zu spucken.</content>
+  <content contentuid="107b3064-38cb-4c02-bc65-24f626aff744" version="1">Drachenatem: Kalt</content>
+  <content contentuid="d466d90c-c0cc-42e1-a216-4f964fd111b7" version="1">Verleihe einem Verbündeten die Macht, Kälte aus seinem Mund zu spucken.</content>
+  <content contentuid="6902bacf-df80-4874-a24f-914643cee8b6" version="1">Drachenatem: Blitz</content>
+  <content contentuid="2d8b9b7c-cc8d-4a62-9051-b403e79dfb5c" version="1">Verleihe einem Verbündeten die Macht, Blitze aus seinem Mund zu spucken.</content>
+  <content contentuid="612af342-5ed9-432e-acfd-5f35e6240e30" version="1">Drachenatem: Gift</content>
+  <content contentuid="df39ee66-c6d5-434f-bae9-4c211a822f74" version="1">Verleihe einem Verbündeten die Macht, Gift aus seinem Mund zu spucken.</content>
+  <content contentuid="b7bdb870-37b5-401e-8c6c-7928cb7fbea1" version="1">Drachenatem: Säure</content>
+  <content contentuid="24eb02e9-9d02-44df-98be-b6edfabe38b6" version="1">Verleihen Sie einem Verbündeten die Macht, Säure aus seinem Mund zu spucken.</content>
+  <content contentuid="a1b8c976-a52e-4a1b-9d8d-7e175ff8417f" version="1">Feuer kegelförmig ausatmen.</content>
+  <content contentuid="8d4bf441-7f7d-47f1-b160-3a9d2c1b88b2" version="1">Säure kegelförmig ausatmen.</content>
+  <content contentuid="a3b78ceb-dd07-4d0c-b597-94a52a3f0819" version="1">Kälte kegelförmig ausatmen.</content>
+  <content contentuid="51cfcf13-04c1-45a4-ba47-ae5f93fc6630" version="1">Blitze kegelförmig ausatmen.</content>
+  <content contentuid="79ff89ac-7007-49fb-920c-1afd645c37ef" version="1">Gift kegelförmig ausatmen.</content>
+  <content contentuid="12458c7b84d24bd7bd928936a047abac" version="1">Fähigkeit erlangt, Feuer in einem Kegel auszuspucken.</content>
+  <content contentuid="4f6a8ece09cd4adc82aeba020e6c2c26" version="1">Fähigkeit erlangt, Säure in einem Kegel auszuatmen.</content>
+  <content contentuid="61fabc75e1234c69be4f2051ff372b21" version="1">Fähigkeit erlangt, Kälte in einem Kegel auszuatmen.</content>
+  <content contentuid="baf8f9c8bfd741e383cfece209a5a14b" version="1">Fähigkeit erlangt, Blitze in einem Kegel auszuspucken.</content>
+  <content contentuid="788b3a44bc9348319001122c775ced56" version="1">Fähigkeit erlangt, Gift in einem Kegel auszuatmen.</content>
+  <content contentuid="0c47714c-3607-4f7c-a8f2-08eefae6d2aa" version="1">Staubteufel</content>
+  <content contentuid="e531785a-e230-47fe-a786-cb76ecf270e3" version="1">Beschwöre eine Elementarkraft, die einem Staubteufel ähnelt.</content>
+  <content contentuid="bc378123-725a-48fb-b2b7-9fa634337771" version="1">Kreaturen, die ihren Zug innerhalb von [1] um den Staubteufel beenden, erhalten [2] und werden zurückgedrängt [3].</content>
+  <content contentuid="3b97bc728e6a4c969e6bc01f974ef478" version="1">Verursache möglicherweise [1] und stoße die Kreatur zurück [2] oder füge bei einem erfolgreichen Rettungswurf halben Schaden und kein Zurückstoßen zu.</content>
+  <content contentuid="cd69dca5-63aa-42ea-ba6e-626efa8121e9" version="1">Herde von Vertrauten</content>
+  <content contentuid="6120046e-8c02-4b2f-9ff2-8c5e0234f32c" version="1">Nehmen Sie die Dienste von [1] Vertrauten in Anspruch, von denen jeder ein Feengeist ist, der eine von Ihnen gewählte Tiergestalt annimmt.</content>
+  <content contentuid="dabb276c955d4a21a93e01e5d669a151" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Bereits beschworene Vertraute verschwinden, wenn dieser Zauber verwendet wird.</content>
+  <content contentuid="9135014c-3cb0-4469-b14f-8421cecf547a" version="1">Herde der Vertrauten: Katze</content>
+  <content contentuid="20fa46dd-b6e6-4187-837c-1759412093ac" version="1">Beschwöre [1] Vertraute mit der Form und den Statistiken einer Katze, die deine Feinde ablenken kann.</content>
+  <content contentuid="0439aca3-42f5-42f2-8452-abbfa70c586e" version="1">Herde von Vertrauten: Krabbe</content>
+  <content contentuid="18b6d946-8aae-4161-93a5-3ac8ebea5756" version="1">Beschwörung [1] vertraut mit der Form und den Statistiken einer Krabbe. Ihre scharfen Zangen können Feinde verlangsamen.</content>
+  <content contentuid="b5c089de-cd6d-4147-bd39-1a41514df78e" version="1">Herde von Vertrauten: Frosch</content>
+  <content contentuid="ad742a43-f353-4829-b0fd-2e260fb38140" version="1">Beschwörung [1] macht sich mit der Form und den Statistiken eines Frosches vertraut. Ihre Haut ist mit schwindelerregenden Giftstoffen bedeckt.</content>
+  <content contentuid="adf3497e-de80-4e06-854c-bd836801ea78" version="1">Herde von Vertrauten: Ratte</content>
+  <content contentuid="cce7af46-0f01-4662-befe-84e0ed35ab2b" version="1">Beschwörung [1] macht Vertraute mit der Form und den Statistiken einer Ratte vertraut. Ihr ansteckender Biss kann Krankheiten verbreiten.</content>
+  <content contentuid="7d328402-cb09-4f3d-97d1-3aeada059c23" version="1">Herde von Vertrauten: Rabe</content>
+  <content contentuid="9d5656de-3ba9-4ccd-9ff6-91949cb1f5f5" version="1">Beschwöre [1] Vertraute mit der Form und den Statistiken eines Raben. Sie können Feinde &lt;LSTag Type="Status" Tooltip="BLINDNESS"&gt;blenden&lt;/LSTag&gt;.</content>
+  <content contentuid="dc794b83efc948c483dc8f4414fcf9d1" version="1">Herde von Vertrauten: Spinne</content>
+  <content contentuid="05172bc9-f42f-4078-a5b2-c050a2ee46e7" version="1">Beschwörung [1] macht sich mit der Form und den Statistiken einer Spinne vertraut. Ihr tödlicher Biss kann Feinde vergiften.</content>
+  <content contentuid="9915a85545694d88bc03fbbc3e0e0fc9" version="1">Herde der Vertrauten: Imp</content>
+  <content contentuid="7c95d9680d1c4df7914dd28e1762cf26" version="1">Beschwörung [1] macht sich mit der Form und den Statistiken eines Kobolds vertraut. Sie können fliegen, unsichtbar werden und Feinde &lt;LSTag Type="Spell" Tooltip="Target_Sting_Imp_Summon"&gt;Stechen&lt;/LSTag&gt;.</content>
+  <content contentuid="ff4b8a8dd0114834bb62ca8c816db519" version="1">Herde der Vertrauten: Quasit</content>
+  <content contentuid="ba1ee522f03a455f97d64a4c43370330" version="1">Summon [1] macht sich mit der Form und Statistik eines Quasiten vertraut. Sie können unsichtbar werden und Feinde &lt;LSTag Type="Spell" Tooltip="Target_Scare_Quasit_Summon"&gt;erschrecken&lt;/LSTag&gt;.</content>
+  <content contentuid="9019abf8-0a96-4307-bd13-d9657e89f3fd" version="1">Gunst des Glücks</content>
   <content contentuid="2d516824-c68c-4ff6-b225-c9f53fca4083" version="1">Verleihe dir selbst oder einem Verbündeten latentes Glück. Wenn die gewählte Kreatur einen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;,
 &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswurf&lt;/LSTag&gt; oder &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswurf&lt;/LSTag&gt; macht, kann sie wählen, ob sie einen Bonus von +[1] auf den Wurf erhalten möchte.
 Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die gewählte Kreatur durchgeführt wird, kann sie alternativ einen Malus von -[1] auf den Wurf erheben.</content>
-  <content contentuid="5913b10f-dbbb-4b9c-86a8-6b7f4ee0e852" version="1">When a chosen creature applies the bonus or penalty, the spell on that creature ends.</content>
+  <content contentuid="5913b10f-dbbb-4b9c-86a8-6b7f4ee0e852" version="1">Wenn eine ausgewählte Kreatur den Bonus oder Malus anwendet, endet der Zauber auf dieser Kreatur.</content>
   <content contentuid="4609e40180d34e19bd3e98aead393712" version="1">Die Kreatur kann einen Bonus von +[1] auf einen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;, 
 &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; oder &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswurf&lt;/LSTag&gt; gegen sie gewähren oder einen Malus von -[1] gegen einen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; gegen sie.</content>
   <content contentuid="419b3896d6a44ca984cd242175cb15e2" version="1">Aktiviere ihn, um dir einen Bonus von +[1] auf deinen nächsten &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt; zu gewähren.</content>
-  <content contentuid="c1dd7601-7032-4c76-a56a-7590a829f526" version="1">Healing Spirit</content>
-  <content contentuid="c627d3fe-9fd5-4124-8a05-d2392bd17a5f" version="1">Call forth a nature spirit to soothe the wounded. While a creature is within [1] of the spirit, you can heal it for [2].</content>
-  <content contentuid="85b2bbb0-75b2-4110-8cae-ea1a79be9017" version="1">Healing Spirit: Movement</content>
-  <content contentuid="a30b410a-bc01-455f-8c05-08fc62295eba" version="1">Expend the summoner's &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to allow the healing spirit to move up to [1].</content>
-  <content contentuid="138546e5-85c2-49fe-8fbe-ecec21ee79d0" version="1">Healing Spirit: Heal</content>
-  <content contentuid="083b46a6-f90b-424f-b8a7-4506a74def72" version="1">Heal a creature for [1] through your Healing Spirit.</content>
-  <content contentuid="47915f8c16cb445ebca961e2cf9d84e9" version="1">Creatures within [1] may regain [2].</content>
-  <content contentuid="85c1fadaf6d4416e808a021b8672a508" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Once you've healed through your Healing Spirit six times, the spell ends.</content>
-  <content contentuid="6485b8a7-2721-459a-9802-5325ee091396" version="1">Kinetic Jaunt</content>
+  <content contentuid="c1dd7601-7032-4c76-a56a-7590a829f526" version="1">Heilender Geist</content>
+  <content contentuid="c627d3fe-9fd5-4124-8a05-d2392bd17a5f" version="1">Rufen Sie einen Naturgeist herbei, um die Verwundeten zu beruhigen. Solange sich eine Kreatur im Umkreis von [1] um den Geist befindet, kannst du sie für [2] heilen.</content>
+  <content contentuid="85b2bbb0-75b2-4110-8cae-ea1a79be9017" version="1">Heilender Geist: Bewegung</content>
+  <content contentuid="a30b410a-bc01-455f-8c05-08fc62295eba" version="1">Verwende die &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonusaktion&lt;/LSTag&gt; des Beschwörers, damit der Heilgeist auf [1] aufsteigen kann.</content>
+  <content contentuid="138546e5-85c2-49fe-8fbe-ecec21ee79d0" version="1">Heilender Geist: Heilen</content>
+  <content contentuid="083b46a6-f90b-424f-b8a7-4506a74def72" version="1">Heile eine Kreatur um [1] durch deinen Heilgeist.</content>
+  <content contentuid="47915f8c16cb445ebca961e2cf9d84e9" version="1">Kreaturen innerhalb von [1] können [2] zurückgewinnen.</content>
+  <content contentuid="85c1fadaf6d4416e808a021b8672a508" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Sobald du sechsmal durch deinen Heilgeist geheilt hast, endet der Zauber.</content>
+  <content contentuid="6485b8a7-2721-459a-9802-5325ee091396" version="1">Kinetische Reise</content>
   <content contentuid="6bafd69d-b302-4c16-9223-db50d531e263" version="1">Erhöht auf magische Weise deine Bewegungsfähigkeit und verleiht dir zusätzlich [1] &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; und die Fähigkeit, &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt; zu vermeiden.</content>
-  <content contentuid="9b4b335d48e046e18b54f9e859981792" version="1">Gained additional [1] of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; and don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
-  <content contentuid="88ee6921-7bf4-45c3-85dd-24cd03325d46" version="1">Maximilian's Earthen Grasp</content>
-  <content contentuid="f5ab92e9-0d07-44ae-88b9-55fcc7f1f038" version="1">Create a hand composed of soil to crush and possibly &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrain&lt;/LSTag&gt; a creature.</content>
-  <content contentuid="491fd635-0880-433f-a3f5-d6feae1f82e3" version="1">Eine betroffene Kreatur kann sich mit einer Aktion befreien, indem sie einen Stärke-&lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt; gegen den Schutz-DC des Zaubers ablegt, entkommt und bei einem Erfolg nicht mehr &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;gefesselt&lt;/LSTag&gt; ist.</content>
-  <content contentuid="bf35c51a-e8de-410e-80f4-5619f5fcb658" version="1">Crush a &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrained&lt;/LSTag&gt; target or &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrain&lt;/LSTag&gt; a different creature.</content>
-  <content contentuid="24cb4e80-826d-4744-8b69-49b1a6941f3d" version="1">Maximillian's Earthen Grasp: Crush</content>
-  <content contentuid="d700afe7-3983-4860-8797-f83532325b9a" version="1">Crush a &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrained&lt;/LSTag&gt; target.</content>
-  <content contentuid="662c86db-df97-4c04-8fbf-daa1e4c6e662" version="1">Maximillian's Earthen Grasp: Change</content>
-  <content contentuid="fea41097-5fde-4e7a-b1b4-1fa1d718020e" version="1">Reach for a different creature with the earthen hand, possibly &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restraining&lt;/LSTag&gt; it and freeing the previous target.</content>
-  <content contentuid="8a6e3d95-17df-4df3-9551-4f5b8e42f949" version="1">Break Free</content>
-  <content contentuid="f259d54d-a112-46bd-ae0b-bde92c717b00" version="1">Attempt to free yourself.</content>
-  <content contentuid="2cf961ce1aab4129b1dc9373285dbc7c" version="1">Mind Spike</content>
-  <content contentuid="feba5e6eb8394d7eb59d5448bdb7736f" version="1">Cannot become hidden or &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
-  <content contentuid="0abd849b1b1c40fab6c967a93f7613f1" version="1">Breach a creature's mind, possibly preventing it from hiding and granting it no benefit from being &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
-  <content contentuid="8be5892565a345caa6db23e99b62a437" version="1">Mind Whip</content>
-  <content contentuid="3ec954b6743f4d1bb713209ff0392d0e" version="7">The entity can't take reactions and can only use movement or take either an action or a bonus action.</content>
-  <content contentuid="04d72d2a-efc4-4ada-8a20-591753ee92ef" version="1">Nathair's Mischief</content>
-  <content contentuid="215750fa-e2c8-4c14-9bd9-fa6e4b782fbd" version="1">Fill a [1] cube with fey and draconic magic, producing random, magical effects when the spell is cast and at the start of your turns.</content>
-  <content contentuid="febba116-165c-4e18-bba3-161150ab76ca" version="1">The magical effects produced in the cube can cause creatures to become &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; by you, to be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, to become Incapacitated and unable to move or can turn the area into Difficult Terrain.</content>
-  <content contentuid="f57092a8-a2f7-4c42-b586-400825440423" version="1">Nathair's Mischief: Move</content>
-  <content contentuid="069b2728-9089-4cf5-b541-dba69c0bddac" version="1">Move the cube of fey and draconic magic up to [1].</content>
-  <content contentuid="8a91bc343b23491b880ab0a2f0bc3ba3" version="1">Susceptible to a random, magical effect per turn.</content>
-  <content contentuid="62101b63-bc40-4545-8309-e899767d5785" version="1">Rime's Binding Ice</content>
-  <content contentuid="340ffd19-0677-4c03-9047-b69147a22364" version="1">A burst of cold energy emanates from you, hindering creatures with ice formations that reduces their &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; to [1].</content>
-  <content contentuid="d4f5eff79bc347868c89acfdacbc4f12" version="1">Break the ice hindering a creature.</content>
-  <content contentuid="a252097037c6443fb2b35d9586b31ae6" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; reduced to [1]. Can break ice with &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt;.</content>
-  <content contentuid="880e2de30d4f48e680a100f8faa2c313" version="1">Shadow Blade</content>
-  <content contentuid="ce229ba71a464bf089af53fe144bbd6f" version="1">Create a sword of solidified shadow in your hand which deals [1]. When attacking a target that is in dim light or darkness, the attack is made with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
-  <content contentuid="bb815c9776a24c8982545c81097b4086" version="1">Deals [1] and grants &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against creatures within dim light or darkness.</content>
-  <content contentuid="00837fb5-e6dd-414c-ad00-a275aedb9c5c" version="1">Snowball Storm</content>
-  <content contentuid="67d22d08-716c-4b3d-9753-8d32d8eee91e" version="1">A flurry of magic snowballs erupts from an area.</content>
-  <content contentuid="8eb9b0a1-8480-4e06-8d24-0c1bb7780fa9" version="1">Suggestion</content>
-  <content contentuid="de396128-66e7-4ce9-b234-1b591becde0b" version="1">Suggest a course of activity and magically influence a creature to become an ally.</content>
-  <content contentuid="682e2d22b1a542488028dc7555553aae" version="1">Temporary ally of the spellcaster.</content>
-  <content contentuid="f97794c7-36a2-4462-b221-e05553a6ed02" version="1">Summon Beast</content>
-  <content contentuid="3aece828-6f27-47f5-b167-739ebfeca2d9" version="1">Call forth an allied bestial spirit from an environment of Air or Land.</content>
-  <content contentuid="e76c6060-3d27-4dfe-8b37-37257c449315" version="1">Summon Beast: Air</content>
-  <content contentuid="1dfec43c-2336-4409-8406-e400af1729eb" version="1">Call forth an allied bestial spirit from the environment of Air.</content>
-  <content contentuid="2702ce3354604cc5a4e7233de9093a74" version="1">Summon Beast: Land</content>
-  <content contentuid="dff5686ea8f54e22adb76d1c259a4d27" version="1">Call forth an allied bestial spirit from the environment of Land.</content>
-  <content contentuid="3ff4769c-9bc2-43c7-b286-52fe6886f87e" version="1">Mind Whip</content>
-  <content contentuid="e72eab18-4df7-422e-bfad-a27fc0a89633" version="1">Psychically lash out at [1] creature(s), possibly preventing them from taking Reactions and limiting it using movement, an Action or a Bonus Action.</content>
-  <content contentuid="537bd30410514e10b31933dfb1c6a1c1" version="1">Cannot take Actions or Bonus Actions.</content>
-  <content contentuid="6fec29bcd7574b3b87b5d26971a667b2" version="1">Cannot take Bonus Actions or Reactions.</content>
-  <content contentuid="92fb13580b144447afcd36c32ed91a14" version="1">Cannot move or take Reactions.</content>
-  <content contentuid="e7b9654c-5aba-4a17-8ca7-9a0f4d858982" version="1">Vortex Warp</content>
-  <content contentuid="c360f59b-d658-482b-991a-4e89dd68c601" version="1">Magically twist space around another creature, possibly preparing them to be teleported.</content>
-  <content contentuid="9d031748-20cf-44f8-8f2d-fe5a46d5c486" version="1">Teleport a creature you've magically twisted the space around to an unoccupied space.</content>
+  <content contentuid="9b4b335d48e046e18b54f9e859981792" version="1">Erhält zusätzlich [1] &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; und provoziert keine &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt;.</content>
+  <content contentuid="88ee6921-7bf4-45c3-85dd-24cd03325d46" version="1">Maximilians irdener Griff</content>
+  <content contentuid="f5ab92e9-0d07-44ae-88b9-55fcc7f1f038" version="1">Erschaffe eine Hand aus Erde, um eine Kreatur zu zerquetschen und möglicherweise &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Gefesselt&lt;/LSTag&gt;.</content>
+  <content contentuid="491fd635-0880-433f-a3f5-d6feae1f82e3" version="1">Eine betroffene Kreatur kann sich mit einer Aktion befreien, indem sie einen Stärke-&lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt; gegen den Schutz-DC des Zaubers ablegt, entkommt und bei einem Erfolg nicht mehr &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Gefesselt&lt;/LSTag&gt; ist.</content>
+  <content contentuid="bf35c51a-e8de-410e-80f4-5619f5fcb658" version="1">Zerschmettere ein &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Gefesseltes&lt;/LSTag&gt; Ziel oder &lt;LSTag Type="Status" Tooltip="RESTRAINED" &gt;Fesselt&lt;/LSTag&gt; eine andere Kreatur.</content>
+  <content contentuid="24cb4e80-826d-4744-8b69-49b1a6941f3d" version="1">Maximillians irdener Griff: Zerschmettern</content>
+  <content contentuid="d700afe7-3983-4860-8797-f83532325b9a" version="1">Zerschmettere ein &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Gefesseltes&lt;/LSTag&gt; Ziel.</content>
+  <content contentuid="662c86db-df97-4c04-8fbf-daa1e4c6e662" version="1">Maximillians irdener Griff: Veränderung</content>
+  <content contentuid="fea41097-5fde-4e7a-b1b4-1fa1d718020e" version="1">Greife mit der irdenen Hand nach einer anderen Kreatur, um sie möglicherweise &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;zu fesseln&lt;/LSTag&gt; und das vorherige Ziel zu befreien.</content>
+  <content contentuid="8a6e3d95-17df-4df3-9551-4f5b8e42f949" version="1">Befreie dich</content>
+  <content contentuid="f259d54d-a112-46bd-ae0b-bde92c717b00" version="1">Versuch dich zu befreien.</content>
+  <content contentuid="2cf961ce1aab4129b1dc9373285dbc7c" version="1">Gedankenspitze</content>
+  <content contentuid="feba5e6eb8394d7eb59d5448bdb7736f" version="1">Kann nicht ausgeblendet oder &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Unsichtbar&lt;/LSTag&gt; werden.</content>
+  <content contentuid="0abd849b1b1c40fab6c967a93f7613f1" version="1">Bricht den Geist einer Kreatur, verhindert möglicherweise, dass sie sich verstecken kann und gewährt ihr keinen Vorteil, wenn sie &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Unsichtbar&lt;/LSTag&gt; ist.</content>
+  <content contentuid="8be5892565a345caa6db23e99b62a437" version="1">Gedankenpeitsche</content>
+  <content contentuid="3ec954b6743f4d1bb713209ff0392d0e" version="7">Das Wesen kann keine Reaktionen annehmen und kann nur Bewegungen ausführen oder entweder eine Aktion oder eine Bonusaktion ausführen.</content>
+  <content contentuid="04d72d2a-efc4-4ada-8a20-591753ee92ef" version="1">Nathair's Unfug</content>
+  <content contentuid="215750fa-e2c8-4c14-9bd9-fa6e4b782fbd" version="1">Füllt einen [1]-Würfel mit feyischer und drakonischer Magie und erzeugt zufällige magische Effekte, wenn der Zauber gewirkt wird und zu Beginn eurer Spielzüge.</content>
+  <content contentuid="febba116-165c-4e18-bba3-161150ab76ca" version="1">Die im Würfel erzeugten magischen Effekte können dazu führen, dass Kreaturen von dir &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;verzaubert&lt;/LSTag&gt; werden und &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;geblendet&lt; werden /LSTag&gt;, um handlungsunfähig und bewegungsunfähig zu werden oder das Gebiet in schwieriges Gelände umzuwandeln.</content>
+  <content contentuid="f57092a8-a2f7-4c42-b586-400825440423" version="1">Nathair's Unfug: Bewegung</content>
+  <content contentuid="069b2728-9089-4cf5-b541-dba69c0bddac" version="1">Bewegen Sie den Würfel aus Feen- und Drachenmagie auf [1].</content>
+  <content contentuid="8a91bc343b23491b880ab0a2f0bc3ba3" version="1">Anfällig für einen zufälligen, magischen Effekt pro Runde.</content>
+  <content contentuid="62101b63-bc40-4545-8309-e899767d5785" version="1">Rimes bindendes Eis</content>
+  <content contentuid="340ffd19-0677-4c03-9047-b69147a22364" version="1">Ein Ausbruch kalter Energie geht von dir aus und behindert Kreaturen mit Eisformationen, die ihre &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; auf [1] reduzieren.</content>
+  <content contentuid="d4f5eff79bc347868c89acfdacbc4f12" version="1">Brechen Sie das Eis, das eine Kreatur behindert.</content>
+  <content contentuid="a252097037c6443fb2b35d9586b31ae6" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; auf [1] reduziert. Kann mit &lt;LSTag Tooltip="Action"&gt;Aktion&lt;/LSTag&gt; Eis brechen.</content>
+  <content contentuid="880e2de30d4f48e680a100f8faa2c313" version="1">Schattenklinge</content>
+  <content contentuid="ce229ba71a464bf089af53fe144bbd6f" version="1">Erschaffe ein Schwert aus erstarrtem Schatten in deiner Hand, das [1] verursacht. Wenn du ein Ziel angreifst, das sich im Dämmerlicht oder in der Dunkelheit befindet, wird der Angriff mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; ausgeführt.</content>
+  <content contentuid="bb815c9776a24c8982545c81097b4086" version="1">Verursacht [1] und gewährt einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; gegen Kreaturen im schwachen Licht oder in der Dunkelheit.</content>
+  <content contentuid="00837fb5-e6dd-414c-ad00-a275aedb9c5c" version="1">Schneeballsturm</content>
+  <content contentuid="67d22d08-716c-4b3d-9753-8d32d8eee91e" version="1">Eine Flut magischer Schneebälle bricht aus einem Gebiet hervor.</content>
+  <content contentuid="8eb9b0a1-8480-4e06-8d24-0c1bb7780fa9" version="1">Anregung</content>
+  <content contentuid="de396128-66e7-4ce9-b234-1b591becde0b" version="1">Schlage eine Aktivität vor und beeinflusse eine Kreatur auf magische Weise, um sie zu einem Verbündeten zu machen.</content>
+  <content contentuid="682e2d22b1a542488028dc7555553aae" version="1">Temporärer Verbündeter des Zauberers.</content>
+  <content contentuid="f97794c7-36a2-4462-b221-e05553a6ed02" version="1">Biest beschwören</content>
+  <content contentuid="3aece828-6f27-47f5-b167-739ebfeca2d9" version="1">Rufe einen verbündeten bestialischen Geist aus der Umgebung Luft oder Land herbei.</content>
+  <content contentuid="e76c6060-3d27-4dfe-8b37-37257c449315" version="1">Biest beschwören: Luft</content>
+  <content contentuid="1dfec43c-2336-4409-8406-e400af1729eb" version="1">Rufe einen verbündeten bestialischen Geist aus der Umgebung Luft herbei.</content>
+  <content contentuid="2702ce3354604cc5a4e7233de9093a74" version="1">Biest beschwören: Land</content>
+  <content contentuid="dff5686ea8f54e22adb76d1c259a4d27" version="1">Rufe einen verbündeten bestialischen Geist aus der Umgebung des Landes herbei.</content>
+  <content contentuid="3ff4769c-9bc2-43c7-b286-52fe6886f87e" version="1">Gedankenpeitsche</content>
+  <content contentuid="e72eab18-4df7-422e-bfad-a27fc0a89633" version="1">Schlage psychisch auf [1] Kreatur(en) ein, um sie möglicherweise daran zu hindern, Reaktionen anzunehmen, und schränke sie durch Bewegung, eine Aktion oder eine Bonusaktion ein.</content>
+  <content contentuid="537bd30410514e10b31933dfb1c6a1c1" version="1">Es können keine Aktionen oder Bonusaktionen durchgeführt werden.</content>
+  <content contentuid="6fec29bcd7574b3b87b5d26971a667b2" version="1">Bonusaktionen oder -reaktionen können nicht ausgeführt werden.</content>
+  <content contentuid="92fb13580b144447afcd36c32ed91a14" version="1">Kann sich nicht bewegen oder Reaktionen annehmen.</content>
+  <content contentuid="e7b9654c-5aba-4a17-8ca7-9a0f4d858982" version="1">Wirbelverzerrung</content>
+  <content contentuid="c360f59b-d658-482b-991a-4e89dd68c601" version="1">Drehen Sie den Raum auf magische Weise um eine andere Kreatur und bereiten Sie sie möglicherweise auf die Teleportation vor.</content>
+  <content contentuid="9d031748-20cf-44f8-8f2d-fe5a46d5c486" version="1">Teleportiere eine Kreatur, um die du den Raum auf magische Weise verdreht hast, in einen unbesetzten Raum.</content>
   <content contentuid="6d76a90090394014a192bf0b4423f001" version="1">Anfällig dafür, in einen unbesetzten Raum teleportiert zu werden.</content>
-  <content contentuid="6e9bfe20-8d23-47ca-bad3-1c1cca69f378" version="1">Warding Wind</content>
+  <content contentuid="6e9bfe20-8d23-47ca-bad3-1c1cca69f378" version="1">Abwehrender Wind</content>
   <content contentuid="0cbf370b-c09a-4482-9611-5f87e2de456d" version="1">Starker Wind bläst dich in einem [1]-Radius, während er Wolken auflöst und Flammen auf Objekten löscht.
 Andere Kreaturen innerhalb des Windes befinden sich in &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN" &gt;Schwierigem Gelände&lt;/LSTag&gt;.
 Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag&gt; bei Fernkampfangriffen, die durch den Wind gehen.</content>
-  <content contentuid="ae5c92d21dcd4cdab2ff580e4b2d0dda" version="1">Ranged weapon attacks have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; made in and out of the area.</content>
+  <content contentuid="ae5c92d21dcd4cdab2ff580e4b2d0dda" version="1">Angriffe mit Fernkampfwaffen haben &lt;LSTag Tooltip="Disadvantage"&gt;NAchteile&lt;/LSTag&gt; innerhalb und außerhalb des Bereichs.</content>
   <content contentuid="70c8927979ea49d98c5bc6941339dbff" version="1">Wird als &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;schwieriges Gelände&lt;/LSTag&gt; behandelt und Angriffe mit Fernkampfwaffen weisen innerhalb und außerhalb des Gebiets &lt;LSTag Tooltip="Disadvantage"&gt;Nachteile&lt;/LSTag&gt; auf.</content>
-  <content contentuid="fd7ab869-f0ab-41a8-827a-89df2bda51fe" version="1">Wither and Bloom</content>
-  <content contentuid="84cef26e-3cc6-4dd0-a2c2-234b7cfdc390" version="1">Invoke both death and life in an area, causing hostile creatures to wither.</content>
-  <content contentuid="0eb348fe6fe14b4aaed32512593bd05f" version="1">An ally can heal itself to recover &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
-  <content contentuid="36bf020f-4927-4e4e-9f19-04d824cd625e" version="1">Wither and Bloom: Regain HP</content>
-  <content contentuid="8323595f-6775-40bc-b147-063e1200a24b" version="1">Regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
-  <content contentuid="d9039419-9c56-41ab-98e6-7b3d7457abf1" version="1">Regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
-  <content contentuid="adfc5dc8d64446ceb2cadf323c6c4e06" version="1">Can regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
-  <content contentuid="b3f4c8d4-fe03-438c-915e-fed4c9199e95" version="1">Ashardalon's Stride</content>
-  <content contentuid="f654556a-b003-48c3-a971-82b3f2177890" version="1">Billowing dragon flames blast from your feet, granting explosive speed that increases your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; increases by [1] and prevents provoking &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
-  <content contentuid="2cb2151ef2ca4c2e85519abb2e7e5d26" version="1">When moving within [1] of a creature or an object, it takes [2] per turn.</content>
-  <content contentuid="f6df6dd5ad0b43478c30fc8fc7ffad7e" version="1">Damaged by Ashardalon's Stride.</content>
-  <content contentuid="0c11216d35d04cfaa9156f6fb2f5e1bc" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; increased by [1] and do not provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;. Creatures or objects within [2] take [3].</content>
-  <content contentuid="338f54dc5e9d4faab9309e7b8e87bfde" version="1">Call Lightning: Area</content>
-  <content contentuid="3a3dd2cf28b344c9a81f272f27787a96" version="1">Standing in an area susceptible to lightning strikes from the spellcaster.</content>
+  <content contentuid="fd7ab869-f0ab-41a8-827a-89df2bda51fe" version="1">Verdorren und blühen</content>
+  <content contentuid="84cef26e-3cc6-4dd0-a2c2-234b7cfdc390" version="1">Beschwört in einem Gebiet sowohl Tod als auch Leben, wodurch feindliche Kreaturen verdorren.</content>
+  <content contentuid="0eb348fe6fe14b4aaed32512593bd05f" version="1">Ein Verbündeter kann sich selbst heilen, um &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; wiederherzustellen.</content>
+  <content contentuid="36bf020f-4927-4e4e-9f19-04d824cd625e" version="1">Verdorren und blühen: HP zurückgewinnen</content>
+  <content contentuid="8323595f-6775-40bc-b147-063e1200a24b" version="1">Erhalten Sie &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; zurück.</content>
+  <content contentuid="d9039419-9c56-41ab-98e6-7b3d7457abf1" version="1">Erhalte &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; zurück.</content>
+  <content contentuid="adfc5dc8d64446ceb2cadf323c6c4e06" version="1">Kann &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; zurückgewinnen.</content>
+  <content contentuid="b3f4c8d4-fe03-438c-915e-fed4c9199e95" version="1">Ashardalons Schritt</content>
+  <content contentuid="f654556a-b003-48c3-a971-82b3f2177890" version="1">Wogende Drachenflammen schießen aus deinen Füßen und verleihen explosive Geschwindigkeit, die deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um [1] erhöht und das Provozieren von &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffen&lt;/LSTag&gt; verhindert .</content>
+  <content contentuid="2cb2151ef2ca4c2e85519abb2e7e5d26" version="1">Wenn man sich im Umkreis von [1] um eine Kreatur oder ein Objekt bewegt, benötigt man [2] pro Spielzug.</content>
+  <content contentuid="f6df6dd5ad0b43478c30fc8fc7ffad7e" version="1">Durch Ashardalons Schritt beschädigt.</content>
+  <content contentuid="0c11216d35d04cfaa9156f6fb2f5e1bc" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um [1] erhöht und provoziert keine &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt;. Kreaturen oder Objekte innerhalb von [2] erhalten [3].</content>
+  <content contentuid="338f54dc5e9d4faab9309e7b8e87bfde" version="1">Ruf den Blitz: Bereich</content>
+  <content contentuid="3a3dd2cf28b344c9a81f272f27787a96" version="1">Sich in einem Bereich aufhalten, der für Blitzeinschläge des Zaubernden anfällig ist.</content>
   <content contentuid="92d018ee-b4f3-41a5-9d75-91c3413302b9" version="1">Catnap</content>
   <content contentuid="2e466f4e-9071-466b-9499-d861607cd2ea" version="1">Make a calming gesture that forces allied creature to fall unconscious and gain the benefits of a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
   <content contentuid="08c0f5f8-ea94-4e51-8a6b-20cbcd4cb7f1" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Once affected by this spell, a creature can't benefit from it again until it finishes a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
@@ -429,7 +429,7 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="ebd066fefafb453f997fe6d16f2dc8cf" version="1">Create several pounds and gallons of food and water as camp supplies.</content>
   <content contentuid="1ee1b6d8-4e10-4cf0-98e5-a31f612c8475" version="1">Enemies Abound</content>
   <content contentuid="83631e9a-5ba1-4788-82cb-6406bd38a293" version="1">Reach into a creature's mind, causing it to lose the ability to distinguish friend from foe.</content>
-  <content contentuid="e8c433ca-4e4a-4300-bf97-71c983b3647d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; No effect on creatures immune to being &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;.</content>
+  <content contentuid="e8c433ca-4e4a-4300-bf97-71c983b3647d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Keine Auswirkung auf Kreaturen, die immun sind gegen &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrecken&lt;/LSTag&gt;.</content>
   <content contentuid="053e5c729a8c43d494fb9c3f6f445f86" version="1">Becomes hostile to all creatures.</content>
   <content contentuid="137eff9e-cff5-4c20-86ec-b58b8dba2a00" version="1">Erupting Earth</content>
   <content contentuid="45276acf-15b7-4182-a0b9-56e3dd8cc53b" version="1">Eine Fontäne aus aufgewühlter Erde und Stein bricht in der Gegend hervor und verwandelt den Boden in &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Schwieriges Gelände&lt;/LSTag&gt;.</content>
@@ -441,8 +441,8 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="8f6c1e00e54e4992a287099d9ec96d06" version="1">Ranged attacks using affected weapon deal an additional [1].</content>
   <content contentuid="f588083033e249c4aa82a687106cbeb4" version="1">This is your resource for the number of Flame Arrows you can use.</content>
   <content contentuid="fc72d020-6231-4618-8635-06defbc06c9f" version="1">Intellect Fortress</content>
-  <content contentuid="2720371b-9f64-4390-9f1e-d2b5fa261419" version="1">Grant [1] creature(s) resistance to psychic damage, as well as &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
-  <content contentuid="7047dfdcc65e4de8987fe353cbd47538" version="1">Resistant to psychic damage and has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="2720371b-9f64-4390-9f1e-d2b5fa261419" version="1">Gewährt [1] Kreatur(en) Widerstand gegen psychischen Schaden sowie einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Intelligenz, Weisheit und Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; .</content>
+  <content contentuid="7047dfdcc65e4de8987fe353cbd47538" version="1">Resistent gegen psychischen Schaden und hat einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; in Bezug auf Intelligenz, Weisheit und Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="f56ee772-a670-42ac-a54a-a15f11f9e34f" version="1">Life Transference</content>
   <content contentuid="a6f894cc-4c0e-4b9e-ad70-4e7cd6643df9" version="1">Sacrifice some of your life to mend another creature's injuries, causing you to take [1] and the targeted creature regains &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; equal to twice the damage you take.</content>
   <content contentuid="84778cbc-d7a6-4895-ae48-fd63e63df756" version="1">Minute Meteors</content>
@@ -455,10 +455,10 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="bcb5e7e6c3f744c3a104de815fe4f997" version="1">Can send meteors streaking towards an area.</content>
   <content contentuid="c97efed3f85f47e28d8673d747421ef2" version="1">This is your resource for the number of Minute Meteors you can throw.</content>
   <content contentuid="e476eece-1dbd-4d1b-9b04-ad62eebbc829" version="1">Motivational Speech</content>
-  <content contentuid="479f1f01-5f15-49da-ae4b-b33e602fa241" version="1">Five creatures in the area gain [1] and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. If hit by an attack, an affected creature has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on its next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; during combat.</content>
+  <content contentuid="479f1f01-5f15-49da-ae4b-b33e602fa241" version="1">Fünf Kreaturen in dem Gebiet erhalten [1] und haben &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Weisheit &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;. Wenn eine betroffene Kreatur von einem Angriff getroffen wird, hat sie &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei ihrem nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; im Kampf.</content>
   <content contentuid="e42d6815-0749-4b58-a282-5d5b671eccd0" version="1">The spell ends on a creature once its &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; are depleted.</content>
   <content contentuid="4b950443-ef26-4282-9c0e-664343f3008e" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Cannot affect summoned creatures.</content>
-  <content contentuid="d29b1dacc3ee4a14bb3bcb5a216a7008" version="1">Gain [1] and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; in combat after being hit by an attack.</content>
+  <content contentuid="d29b1dacc3ee4a14bb3bcb5a216a7008" version="1">Erhalte [1] und verfüge über einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Weisheit &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;. Erhalte einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; beim nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; im Kampf, nachdem du von einem Angriff getroffen wurdest.</content>
   <content contentuid="058ec68aefdf4802b3a696b2a442db47" version="1">Nondetection</content>
   <content contentuid="876058c1a7e34d569a16a8dd0dbf4f0d" version="1">Touch a creature to hide it from divination magic, preventing divination spells from targeting it and from being perceived through magical scrying sensors.</content>
   <content contentuid="ca250c966b2749ef8221c5ad9a2c075a" version="1">Hidden from divination magic and cannot be targeted by divination spells.</content>
@@ -476,7 +476,7 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="ca4bf12b-466c-444b-a523-4235688948b7" version="1">Spirit Shroud: Radiant</content>
   <content contentuid="89bc286f-b3a5-43e8-8763-edfc5145ddce" version="1">Call forth spirits of the dead that flit around you. Attacks you make against creatures within [1] of you deal an extra [2] and prevents them from regaining &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
   <content contentuid="4483ac6563ef48bb9bfa8ae4d0132cea" version="1">Deals extra [1] against creature within [2].</content>
-  <content contentuid="h68f92fc9gc8e5g4339gaa41g40b4b1cfdd8f" version="1">Susceptible to taking additional damage from spellcaster.</content>
+  <content contentuid="h68f92fc9gc8e5g4339gaa41g40b4b1cfdd8f" version="1">Anfällig für zusätzlichen Schaden durch den Zaubernden.</content>
   <content contentuid="9895c453c66e4ff2892c0c58e165cbf0" version="1">Spirit Shroud: Movement</content>
   <content contentuid="c56ad599812149799c7e857c1cb61fe0" version="1">Movement reduced by [1].</content>
   <content contentuid="1788fb3261004983871b05d7092c4b54" version="1">Spirit Shroud: Hit Points</content>
@@ -484,13 +484,13 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="c777d29e-f060-493e-aa19-2b3b5ce56cbe" version="1">Summon Shadowspawn</content>
   <content contentuid="58d87c65-a9cb-4f4c-bea8-e75030faa3d7" version="1">Call forth a shadowy spirit that embodies the emotion of Fury, Despair or Fear and fights alongside you.</content>
   <content contentuid="f033c414-1771-4176-a8b3-79014d4521e1" version="1">Summon Shadowspawn: Fury</content>
-  <content contentuid="a7bd3f23-5cef-44ed-846b-4700fddc02d1" version="1">Call forth a shadowy spirit that embodies the emotion of Fury, gaining &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; creatures.</content>
+  <content contentuid="a7bd3f23-5cef-44ed-846b-4700fddc02d1" version="1">Rufe einen schattenhaften Geist herbei, der die Emotion der Wut verkörpert, und erhalte &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrocken&lt;/LSTag&gt;-Kreaturen.</content>
   <content contentuid="2cdb317b-3177-41d1-8edd-f629bf75ad1c" version="1">Summon Shadowspawn: Despair</content>
   <content contentuid="88796e36-706c-4c9a-97f0-4771962c3d48" version="1">Call forth a shadowy spirit that embodies the emotion of Despair, causing creatures other than you within [1] of it to have its &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; reduced by [2].</content>
   <content contentuid="8f6337b4-119a-4d54-a903-36c83826b6c7" version="1">Summon Shadowspawn: Fear</content>
   <content contentuid="59c4b71a-f16c-4d99-9016-91978fec022f" version="1">Call forth a shadowy spirit that embodies the emotion of Fear, allowing it to take the Hide action as a bonus action while in dim light or darkness.</content>
   <content contentuid="c49f33b7b02b4ce19869cd2a2ef2cf15" version="1">Terror Frenzy</content>
-  <content contentuid="97096d9d739147489f5d817606c47429" version="1">Spirit has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; creatures.</content>
+  <content contentuid="97096d9d739147489f5d817606c47429" version="1">Der Geist hat &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Erschreckte&lt;/LSTag&gt; Kreaturen.</content>
   <content contentuid="12c82fef4ebf4fcd8331815b60352fd2" version="1">Weight of Sorrow</content>
   <content contentuid="e16d1e7413de4eb9b453b2f0e61260da" version="1">Other creatures within [1] of the spirit has its &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; reduced by [2].</content>
   <content contentuid="8ffeacfef32d43e5973c53c9d54bcf9e" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; reduced by [2].</content>
@@ -499,7 +499,7 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="c172dc976b8543158fe16b56c40a3143" version="1">Chilling Hand</content>
   <content contentuid="33530a233f7d4137bf4fc63778e2a12a" version="1">Deal [1].</content>
   <content contentuid="acbb0c23c2ee4aeaa8e8894c1362d940" version="1">Dreadful Scream</content>
-  <content contentuid="971bb1b1e9cb4592b12b368057ae539c" version="1">The spirit screams, possibly &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightening&lt;/LSTag&gt; creatures.</content>
+  <content contentuid="971bb1b1e9cb4592b12b368057ae539c" version="1">Der Geist schreit, möglicherweise &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrecken&lt;/LSTag&gt;Kreaturen.</content>
   <content contentuid="43e79983a5a14559bb0e7bd88d786b3b" version="1">Affected creatures repeat the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; at the end of their turns, ending the effect on a successful save.</content>
   <content contentuid="6c8ef77bf9c9402aa31d8c97d6e57302" version="1">Multiattack</content>
   <content contentuid="af9ea4cc274e409793da23bb19efd683" version="1">Free attack after making an attack.</content>
@@ -521,15 +521,16 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="8f0a5826-3cd7-4169-acac-070d5b84a4d4" version="1">Guardian of Nature</content>
   <content contentuid="6985d7e2-4bd5-44dc-b2b1-07025659800f" version="1">A nature spirit, the Primal Beast or the Great Tree, transforms you into a powerful guardian.</content>
   <content contentuid="a47b6e44-30db-4a5c-8463-064024b7301b" version="1">Guardian of Nature: Primal Beast</content>
-  <content contentuid="ba0d10c5-dd82-4f93-953c-f69c0c5601fc" version="1">The Primal Beast nature spirit transforms you into a powerful guardian. Your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; is increased by [1], you gain darkvision with a range of [2], your Strength-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; are made with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and your melee weapon attacks deal an extra [3].</content>
-  <content contentuid="bd3cf2c28d1b414b9f670abd47afb5ca" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; increased by [1], gains [2] darkvision, Strength-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; are made with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and melee weapon attacks deal an extra [3].</content>
+  <content contentuid="ba0d10c5-dd82-4f93-953c-f69c0c5601fc" version="1">Der Naturgeist der Urbestie verwandelt dich in einen mächtigen Wächter.
+Deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; wird um [1] erhöht, du erhältst eine Nachtsicht mit einer Reichweite von [2], deine auf Stärke basierenden &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; werden mit &lt;LSTag Tooltip="Advantage" &gt;Vorteil&lt;/LSTag&gt; ausgeführt und deine Angriffe mit Nahkampfwaffen verursachen zusätzlich [3].</content>
+  <content contentuid="bd3cf2c28d1b414b9f670abd47afb5ca" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um [1] erhöht, erlangt [2] Nachtsicht, Stärke-basierte &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; werden mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; durchgeführt und Nahkampfwaffenangriffe verursachen zusätzlich [3].</content>
   <content contentuid="d376bb7d-6ee0-416e-a703-3ad4a449c1d6" version="1">Guardian of Nature: Great Tree</content>
   <content contentuid="5ee3f097-80c0-4f6c-b76f-18f87b131a11" version="1">Der Naturgeist des Großen Baumes verwandelt dich in einen mächtigen Wächter.
 Du erhältst [1], 
 du machst &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt;, 
 du machst &lt;LSTag ToolTip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; mit &lt;LSTag ToolTip="Advantage"&gt;Vorteil&lt;/LSTag&gt; 
 und der Boden in [2] Entfernung von dir ist &lt;LSTag Type="Status" ToolTip="DIFFICULT_TERRAIN"&gt;schwieriges Gelände&lt;/ LSTag&gt;.</content>
-  <content contentuid="6f6c4d75b5674ab6b467c009ee0c438a" version="1">Gain [1] and make Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and Dexterity and Wisdom-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Difficult terrain within [2] of this creature.</content>
+  <content contentuid="6f6c4d75b5674ab6b467c009ee0c438a" version="1">Erhalte [1] und mache Konstitutions-&lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; und auf Geschicklichkeit und Weisheit basierende &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt;. Schwieriges Gelände im Umkreis von [2] von dieser Kreatur.</content>
   <content contentuid="88e923dd-144e-48f1-9ada-3b2aab26c8ff" version="1">Raulothim's Psychic Lance</content>
   <content contentuid="66cf2c8d-5cf7-476e-9266-ad4a886e54f3" version="1">Unleash a shimmering lance of psychic power at a creature, possibly causing it to be &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;.</content>
   <content contentuid="5c255d93-77e1-43e2-84c4-e9ed3d826467" version="1">Target still takes half damage and isn't &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;.</content>
@@ -591,8 +592,8 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="a8d49accb42a48d79049692f9712070f" version="1">Von den Toten auferweckt, erhält er einen Malus von -[1] auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt; und &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="c29eaebf-efd0-46c1-812c-4f2487a02d6c" version="1">Rary's Telepathic Bond</content>
   <content contentuid="80fa537e-982f-4883-9953-1e556cf09550" version="1">Stelle eine telepathische Verbindung zwischen bis zu acht Wesen mit einem Intelligenzwert größer als 2 her und verbinde jedes Wesen mit jedem anderen.</content>
-  <content contentuid="64dc4f73-5d8c-45f3-ad0d-f50d4144306b" version="1">While linked, creatures have Advantage on Attack Rolls and Saving Throws that would include one another as targets.</content>
-  <content contentuid="92f20db33ff34993ac54ec0808802984" version="1">Bonded to the spellcaster and others. While linked, allied creatures have Advantage on Attack Rolls and Saving Throws against attacks and spells that would include them as targets.</content>
+  <content contentuid="64dc4f73-5d8c-45f3-ad0d-f50d4144306b" version="1">Solange sie miteinander verbunden sind, haben Kreaturen einen Vorteil bei Angriffswürfen und Rettungswürfen, bei denen sie sich gegenseitig als Ziel einschließen würden.</content>
+  <content contentuid="92f20db33ff34993ac54ec0808802984" version="1">Verbunden mit dem Zaubernden und anderen. Solange sie verbunden sind, haben verbündete Kreaturen einen Vorteil bei Angriffswürfen und Rettungswürfen gegen Angriffe und Zauber, die sie als Ziel einschließen würden.</content>
   <content contentuid="7814f0a4-8073-4930-99bc-b94e799759b2" version="1">Fertigkeit Verbesserung</content>
   <content contentuid="d468b025-c31d-46df-9191-9e5e80ff47a6" version="1">Vertieft das Verständnis einer Kreatur für ihr eigenes Talent und verleiht ihr Fachwissen in einer Fertigkeit, das es ihr erlaubt, den doppelten Bonus auf &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt; mit dieser Fertigkeit zu erhalten.</content>
   <content contentuid="c758d016-dc05-45cd-8cbd-c3b273593032" version="1">The target must be proficient in the chosen skill and cannot already benefit from an effect that doubles its &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
