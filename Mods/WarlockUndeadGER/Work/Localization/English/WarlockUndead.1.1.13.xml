@@ -39,12 +39,16 @@
   <content contentuid="h169ad0d6g1f42g45e3g8112gac67730284e2" version="1">Your patron's dreadful powers permeate your entire being, altering your appearance and emanating around you. Your life forces are vivified and you feel fearless.</content>
   <content contentuid="haacf5878g8cb3g43d3g9776g434b6a4c9693" version="1">Immune to the Frightened condition.</content>
   <content contentuid="h19d616aag35e8g4fa4ga59dg7847a72609e0" version="1">You can't be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;.</content>
+  <content contentuid="h29e87a3fga7d9g42c0gbaf2g3a44f196ec85" version="1">Eldritch Blast: Torment</content>
+  <content contentuid="h99e4e6abg0492g4bb1g9ac6g6c45d97d2b8e" version="2">Affected entity is inflicted with a horrible torment</content>
 
   <content contentuid="h7964e0c3gb521g4d01g887dgd06cd8bdc3c7" version="1">Grave Touched: Necrotic Conversion</content>
   <content contentuid="h8f963fd9g5ddbg4becg8b61g39bc21e76154" version="1">Once during each of your turns, when you hit a creature with an attack and roll damage against the creature, you can replace the damage type with Necrotic damage.</content>
   <content contentuid="hb29f4ce1g786dg4ba4ga314gd43ed29c2b3b" version="1">Grave Touched: Form of Dread</content>
   <content contentuid="h5a6fe489gc8ebg495agb20eg3e0b59aeede2" version="1">While you are using your &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form of Dread&lt;/LSTag&gt;, you can roll one additional damage die when determining the Necrotic damage the target takes.</content>
   <content contentuid="h2ceffc80gb3d0g4aacgb8d4gb842851456e5" version="1">Grave Touched: Form of Dread Extra Damage</content>
+  <content contentuid="hf7346b89g0b04g4daagac54g79c07a69021d" version="1">Grave Touched: Breathless</content>
+  <content contentuid="haa5f6982gf417g4f92g8e44g9f3f4834994c" version="1">Your patron's powers have a profound effect on your body and magic. You don't need to eat, drink, or breathe.</content>
 
   <content contentuid="hf29fe240g3346g4c62ga223ga0e25f10ceed" version="1">Phantom Steed</content>
   <content contentuid="h26a5f328g0102g4498gb5f3g0f9ca73a241f" version="1">Invoke the spirit of a large quasi-real, horselike creature equipped with a saddle, bit, and bridle. You or a creature you choose are imbued by the steed's spirit for the duration, or until you take damage.</content>
@@ -64,6 +68,7 @@
   <content contentuid="h42a70b3egd575g4f40g9f24g6e389a502f9d" version="1">Necrotic Husk: Downed</content>
   <content contentuid="h72fabc92g4ea9g4c70gaa9fg358b3aa55927" version="1">Exhausted</content>
   <content contentuid="h32eeee21g2bb7g400fgad19gbebd66f63eb7" version="1">Completing a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; reduces your exhaustion level by 1.</content>
+  <content contentuid="h50f64f86gb085g4c73g8b63g9925e37f3ea3" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; When the condition ends, become &lt;LSTag Type="Status" Tooltip="EXHAUSTED"&gt;Exhausted&lt;/LSTag&gt;.</content>
 
   <content contentuid="h5f24554cgd225g4163g8692g901d9f15f006" version="1">Levels 1-4</content>
   <content contentuid="h289ecb12ga71fg4614g8449gcb66b38a498a" version="1">Proficiency Bonus +2</content>
@@ -76,4 +81,13 @@
   <content contentuid="h5c6a0f9eg253bg4fbbg8c6eg4f9b9c9f9aa5" version="1">Select one of your Level 7 spells. Once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; you can cast that spell without expending a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
   <content contentuid="h6fa11281g8898g423bgb6cag8c14c9c96056" version="1">Select one of your Level 8 spells. Once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; you can cast that spell without expending a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
   <content contentuid="h9c4775d7g0233g4e20gab5dg012d4581435a" version="1">Select one of your Level 8 spells. Once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; you can cast that spell without expending a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
+
+  <content contentuid="hcb993405g10f6g4bbfgbe3agbca8ede0081a" version="1">Spirit Projection</content>
+  <content contentuid="h5557f10egc671g43b4gb69fg6a765dabdb85" version="1">As an action, you can release your spirit from your physical form for up to 1 hour or until your concentration is broken.</content>
+  <content contentuid="h5ca60038g9516g4a7cgbf18g55b0fc19ce2d" version="1">While projecting your spirit, you gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Bludgeoning, Slashing, and Piercing damage. You also have a flying speed equal to your walking speed and can't be pushed or shoved. Additionally While you are using your &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form of Dread&lt;/LSTag&gt;, once during each of your turns when you deal necrotic damage to a creature, you regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; equal to half the amount of necrotic damage dealt.</content>
+  <content contentuid="ha2cced8bg296eg4fe1g978eg7f36ce03c7e9" version="1">Your spirit is untethered from your physical form for up to 1 hour or until your concentration is broken.</content>
+  <content contentuid="h2fb6d6c6g52f7g4f6dga3caga8e548ab2d34" version="1">You have &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Bludgeoning, Slashing, and Piercing damage. You have a flying speed equal to your walking speed and can't be pushed or shoved. Additionally While you are using your &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form of Dread&lt;/LSTag&gt;, once during each of your turns when you deal necrotic damage to a creature, you regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; equal to half the amount of necrotic damage dealt.</content>
+  <content contentuid="h6050c533gb416g4409g9deeg9fcb67a3b1b2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The condition ends if casting a spell that requires concentration.</content>
+  <content contentuid="h989ff0f8g5201g49bcgb175g08f7012d6c1c" version="2">End Spirit Projection</content>
+  <content contentuid="h0d48cfe8g4bf8g4c19g89c6gf1670e643a42" version="3">Bind your spirit to your physical form, breaking the projection and becoming whole once again.</content>
 </contentList>

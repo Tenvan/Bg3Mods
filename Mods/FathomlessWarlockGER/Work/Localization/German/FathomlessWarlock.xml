@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="h0e17c995g7d42g4cf8ga021gd513fd9a28f5" version="1">Abyssal Chill</content>
+  <content contentuid="h91728fe0g0929g4ee6g820cg01355476047a" version="1">Abyssal Lash</content>
+  <content contentuid="h46193b3eg33ffg4ff2g8b3cgb5f44f6f802c" version="1">Ein Wesen aus einem jenseitigen Meer erlaubt dir nun, seine thalassischen Kräfte zu nutzen. Ist es nur dazu gedacht, mehr über die irdischen Gefilde zu erfahren, oder will es, dass du kosmische Schleusen öffnest und die Welt ertränkst?</content>
+  <content contentuid="h4525049cg1cdag471fg9103g50e40e978487" version="1">As a bonus action, conjure a spectral tentacle that can strike at your foes. The tentacle does nothing on its own. It can only take an action if you command it. The amount of times you can use this is based on your Proficiency Bonus, refreshing after a Long Rest.</content>
+  <content contentuid="h85c1d715g4835g4d9ag9495gae8005eae956" version="1">Attack Buff</content>
+  <content contentuid="h69304e40g5fc0g4050g878fg92a2461a5847" version="1">Attack twice, each hit dealing [1].</content>
+  <content contentuid="h32f49b7bg9efag4f38g9f64gda37fcd8fa0d" version="1">Bigby's Tenticular Hand</content>
+  <content contentuid="h07b179d0g565fg4398g85f2g755e8ea80e66" version="1">Call forth a fire elemental to fight for you. Its attacks deal fire damage and it has Fire Immunity and Acid Resistance.</content>
+  <content contentuid="h53565c70g7a40g4bdeg9878ged0ba10c66e0" version="1">Call forth a water elemental to fight for you. Its attacks deal bludgeoning damage and it has Acid Resistance.</content>
+  <content contentuid="hb9f55e92g9e29g4d71g868egea2ced7061e6" version="1">Call forth an air elemental to fight for you. Its attacks deal bludgeoning damage and it has Lightning and Thunder Resistance.</content>
+  <content contentuid="hf200b5e1g9ebbg4b39g8862g07095ab6f0ff" version="1">Call forth an earth elemental to fight for you. Its attacks deal bludgeoning damage and it has Slashing and Piercing Resistance. </content>
+  <content contentuid="h28bf849bg3fb0g49bdgb56bg5d98469048d5" version="1">Call forth an elemental spirit to fight for you. These elemental spirits are weaker than those conjured by Conjure Elemental.</content>
+  <content contentuid="hf0f92177g8c1fg4f48g8940g8ddd0dc21e47" version="1">Caster Buff</content>
+  <content contentuid="h37c1b400gb82dg4909g8475gca0f12bc8871" version="1">Cause numbing frost to form on an enemy. Unless they succeed a Constitution Saving Throw, they take [1] and are afflicted with Numbing Cold. </content>
+  <content contentuid="h28a222fdg9af0g43b9gbfbdga9709093bfa5" version="1">Churning Puddle</content>
+  <content contentuid="h783d468egd3aag47dag9322g8dc27c84313f" version="1">Churning Waters</content>
+  <content contentuid="h97da7585ge088g4540gb39ag0fcbcdef2e7b" version="1">Command your tentacle to put itself between an ally and harm's way, reducing the damage that ally takes by 1d8.</content>
+  <content contentuid="hcbe6eef3g3f8cg4582ga792g1c4a62c61ff7" version="1">Command your tentacle to put itself between an ally and harm's way, reducing the damage that ally takes by 2d8.</content>
+  <content contentuid="ha7a5e4b0g43b4g44abg8521gde6677a8fc4b" version="1">Command: Tentacle</content>
+  <content contentuid="h0dd1a0ebgb3b1g4fb5ga5e9g309ddd1d2357" version="1">Conjure [1] pillars of water that each deal [2]</content>
+  <content contentuid="h528cc0f0gaa41g49f8gbafdg59e7f68dccf7" version="1">Conjure a powerful wave that deals [1] and knocks anyone in the area prone.</content>
+  <content contentuid="hcfcf2e0dg34c8g4a98g9e21g0bd4c466dce8" version="1">Conjure a whirpool that deals [1] and sucks creatures in. Anyone that fails a Strength Saving Throw has their movement speed halved.</content>
+  <content contentuid="h8a7201e8g24ceg4a4fg8113g2b3fc652380e" version="1">Conjure waves of water at your foes. Once cast, you can recast weaker versions of the same spells for the next 10 turns without expending spell slots.</content>
+  <content contentuid="h1e7573d8g07f5g4519gb3d1gb3182fc6c136" version="1">Control Water</content>
+  <content contentuid="hf28d61b0gde9fg48d0gad3ag236ca3b18765" version="1">Create a burst of thunderous sound, creatures within 2m that fail a Constitution Saving Throw take [1].</content>
+  <content contentuid="hf8e82157gc878g45dfgb20dgcbd4317af348" version="1">Create a puddle of churning water beneath a creature for 2 turns. If the creature moves willingly, they must succeed a Strength saving throw be knocked Prone and take [1].</content>
+  <content contentuid="h996b6b89g0304g43cbga996gc7ccd3dee0de" version="1">Creature has been given a command, allowing it to take action.</content>
+  <content contentuid="h3b55e5bdgb72bg4101g8ba6g040a82a3ccf0" version="1">Creature has disadvantage on their next attack roll.</content>
+  <content contentuid="haf9368e8ga8a8g45aega179g7a6017e2a632" version="1">Creature is being battered and blown by a powerful maelstrom.</content>
+  <content contentuid="h924c249dg9cd7g4f67gbea7g3ced257606ec" version="1">Creature is standing in a puddle of churning water</content>
+  <content contentuid="hed08fdd1gbf98g4258g8489g03378354b030" version="1">Creature is within 3m of the Tentacle of the Deep and can be protected from damage.</content>
+  <content contentuid="h2fbff9bag7953g4d87g81edg8167ce13da2e" version="1">Creature's movement speed is halved.</content>
+  <content contentuid="h0d4b74c8ga2ebg4c5cgaf8dg010b4b4c0ddd" version="1">Creature's movement speed is reduced by 3m.</content>
+  <content contentuid="h7be8a27dg073dg4479ga76dg5192b2559cb2" version="1">Deals an extra [1] damage per level.</content>
+  <content contentuid="h78bbd44ag52c3g4824gb753gffdc8dc46d15" version="1">Deep Dive</content>
+  <content contentuid="haf69f9aag73c4g44b4g904dge4809e6ed892" version="1">Dive below and reappear at a position within 9m.</content>
+  <content contentuid="h3e32e7c2g1eb5g43a5gb710g97b845dca9e0" version="1">DR Aura</content>
+  <content contentuid="hc1e8305fg4e6ag482ag9d24g25b260089cb5" version="1">DR Aura Buff</content>
+  <content contentuid="h77647400g19f1g41b2g8e95gcc9bcbd6949d" version="1">DR Interrupt</content>
+  <content contentuid="h775ccd2dgf5bag404dgb5b2g8cf2de09debd" version="1">DR Interrupt Buff</content>
+  <content contentuid="hab45dae9gc1e1g48c0gb7c7gf247b3a29694" version="1">Elemental spirits have an Unarmed Attack, Multiattack, and Movement Ability. All summons are immune to poison.</content>
+  <content contentuid="hf0fb4368ga715g4cf9gb8fage06a8dc52c87" version="1">Elemental Warp</content>
+  <content contentuid="h93f6a2d0g083dg4e37g8115gb2c68ed51d38" version="1">Evard's Deep Sea Tentacles</content>
+  <content contentuid="h9b855467g7270g4488g89c8g4645c3f7c93e" version="1">Frostbite</content>
+  <content contentuid="h4a799a70g68ebg4a6agb985g165aa5eac1c7" version="1">Gain +3m of movement while on a water-based surface.</content>
+  <content contentuid="hdcca835bg5033g4a41gbcc4gddedbf4dce52" version="1">Gain Evard's Black Tentacles as a Warlock spell and Evard's Deep Sea Tentacles as a long rest spell. When you cast Evard's Black Tentacles or Evard's Deep Sea Tentacles, gain Temporary HP based on your warlock class level. Moreover, damage can't break your concentration when you cast these spells.</content>
+  <content contentuid="h1b820b24gf0b1g4d62g9b95g78bd16d073fe" version="1">Gain resistance to Cold Damage.</content>
+  <content contentuid="hb6e8052ag0ed4g4e28gba70g2e53c1a42987" version="1">Gift of the Sea</content>
+  <content contentuid="ha10e9fe1g9d71g4d93gaf5fgbf80413e59fb" version="1">Give an order to your spectral tentacle, allowing it to move up to 9m and make a melee attack on its turn. The tentacle gains an attack bonus based on your Proficiency and Charisma Modifier.</content>
+  <content contentuid="h864357f9gadb8g4e40g80aeg6c26cb737fc4" version="1">Grasping Tentacles</content>
+  <content contentuid="hc8f25956gbf90g4c88g9427g9c80be646091" version="1">Guardian Coil</content>
+  <content contentuid="hf06a1541gec04g4f97gaa41g3e5bc0ed006b" version="1">Lash out at an enemy to deal [1] and reduce their movement speed by 3m.</content>
+  <content contentuid="hc2582b99g6644g45ebga9f3gb24504e261bd" version="1">Leaves a body of water at target locations.</content>
+  <content contentuid="hb4e04afbgb85bg4275gb915ga26cfa442c5d" version="1">Level Bonus</content>
+  <content contentuid="h82ef112bg3827g4c64g9afbga68545e16d1a" version="1">Maelstrom</content>
+  <content contentuid="heaba4119gd82ag49afg9a5cg60fd119ad22f" version="1">May Lag Game</content>
+  <content contentuid="he75b0765gc4b1g4cb9gb89cg4afaef10fef4" version="1">Multiattack</content>
+  <content contentuid="h10def254g20c6g4a17gbd0eg20e7e01cbc1d" version="1">Numbing Cold</content>
+  <content contentuid="h465def8dg1b46g4d94g8b39ge755e07764aa" version="1">Oceanic Soul</content>
+  <content contentuid="hf71c43d8gf17dg424ag98ecg7bc4aefeb6f3" version="1">Orders Given</content>
+  <content contentuid="h2d814eaag24ecg4e5dga6f4gcd2c4dcb54fb" version="1">Platzhalter</content>
+  <content contentuid="heb25efcegb9b6g41fbg8f70g79cb1479f031" version="1">Platzhalter 2</content>
+  <content contentuid="h3de2f289g0464g44a5ga7beg418da9c6ff1b" version="1">Platzhalter 3</content>
+  <content contentuid="h580c79dcgc704g4035g8801g6caed343f7cb" version="1">Slam</content>
+  <content contentuid="h90be8043g03fag4efbgb837gd27f55f3ddb1" version="1">Spectral Tentacle</content>
+  <content contentuid="hd8e667cdge4e6g4a16ga330g2ce4bb0385bf" version="1">Stormy Winds</content>
+  <content contentuid="h9f1a7445gbe40g441bg8b22g20630f339c14" version="1">Stärkerer Tentakel-Temptext</content>
+  <content contentuid="h762e4f06gc069g458bgb879g360b68457a8c" version="1">Summon a massive 9m radius sphere centered on a point you can see within range that lasts up to 10 turns. The area becomes difficult terrain and any creature that starts their turn in there must succeed a DC19 Strength Saving Throw or take [1] and be pulled 3ft towards the center.</content>
+  <content contentuid="ha6e9f795g72dfg4bddgb0e7g41b71e294f4d" version="1">Summon Air Elemental</content>
+  <content contentuid="h8ab9b0b1gd402g405bgaf26gbc8b6bb5f4fc" version="1">Summon Earth Elemental</content>
+  <content contentuid="h379e3665g724bg4de9ga07cg2744403496eb" version="1">Summon Elemental</content>
+  <content contentuid="heae1dd64gcff7g4d54g9f1dg5004fb2b6b1f" version="1">Summon Fire Elemental</content>
+  <content contentuid="h3ebebe67gf8c3g4c7cg8c0cgaa4f4d02bb51" version="1">Summon Water Elemental</content>
+  <content contentuid="hd5a2dfb0gcd46g4826gbd4bgc96149312e1b" version="1">Tentakel der Tiefe</content>
+  <content contentuid="ha5e198acg08b9g4393g889agddbf2d357325" version="1">Die Unergründlichen</content>
+  <content contentuid="h63b2fb89gc955g4832g9d34g222c9b4e7c37" version="1">Thunderclap</content>
+  <content contentuid="h8be06ba4g0232g45a8g9985g46620acc2d75" version="1">Tidal Wave</content>
+  <content contentuid="hfe63959ag793fg4d85gb40age715c7152def" version="1">Vanish and reappear at a location within 18m.</content>
+  <content contentuid="h1c6b521cgbb81g4607g8f42g6a2120e68977" version="1">Water Spouts</content>
+  <content contentuid="ha78ffa73g27ddg4494g84a1ga80335335f73" version="1">When commanded, the Tentacle can move up to 9m, deal [1], and reduces the enemy's movement speed by 3m. Enemies will ignore the tentacle and the tentacle cannot be harmed.</content>
+  <content contentuid="h3697aa2fg2db7g40bagadd4ga05076c5472f" version="1">Whirlpool</content>
+  <content contentuid="hd90f46aagb551g450fg855ege5a46ac2be60" version="1">You can choose to use your Reaction to protect an ally that is within 3m of your Spectral Tentacal to reduce the damage they take.</content>
+  <content contentuid="h054d4ac9g2b97g4c9ega667ge98678ae9520" version="1">You can recast Control Water without expending a spellslot.</content>
+  <content contentuid="h1c0c6b30gb4ccg4d07gbb75ga93e83a23347" version="1">Your Tentacle of the Deep can defend you or your allies. You can use your reaction to protect ally within 3m of it, reducing the damage they take by [1].</content>
+</contentList>

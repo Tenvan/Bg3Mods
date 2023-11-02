@@ -1,71 +1,87 @@
-<contentList date="07/08/2023 01:10">
-  <content contentuid="h569a20cbg4b09g4a14ga029gdfa607b6ca41" version="1">Hexenmeister: Die Untoten</content>
-  <content contentuid="ha5f68611gae32g4f73ga092g6b9fb39efb3b" version="1">Du hast einen Pakt mit einem unsterblichen Wesen geschlossen, einer Kreatur, die sich dem Kreislauf von Leben und Tod widersetzt und ihre sterbliche Hülle verlässt, damit sie auf ewig ihren unergründlichen Ambitionen nachgehen kann.</content>
-  <content contentuid="h0de7eadcgaa31g4412g93bagafcebfa2a3f0" version="1">Die Untoten</content>
-  <content contentuid="h70d9ba7ag8361g4111gbbaegbf178882e96b" version="1">Dieser Hexenmeister schloss einen Pakt mit dem Tod selbst und wollte von seinem Gönner wissen, wie er aus dem Kreislauf von Leben und Tod ausbrechen kann.</content>
-  <content contentuid="h9501cd1ag9d52g4932gb306gb1435cabcedf" version="1">Wählen Sie einen Gönner aus</content>
-  <content contentuid="hfd54c21dg23d8g4814ga531g312ecbb6bfc8" version="1">Da diese uralten Untoten einst selbst Sterbliche waren, kennen sie die Wege des Ehrgeizes und die Wege, die durch die Pforten des Todes führen, aus erster Hand. Sie teilen dieses profane Wissen zusammen mit anderen Geheimnissen eifrig mit denen, die ihren Willen unter den Lebenden durchsetzen.</content>
-  <content contentuid="h04480a48g9d73g4ed7g9b1cga71c5a0e41bb" version="1">Gönner: Erzlich</content>
-  <content contentuid="hb0df370eg29b1g4632g9609gcddaf495350a" version="1">Ihr Gönner ist ein Erzlich mit großer Macht, der über verbotenes Wissen verfügt und in der Lage ist, Lebens- und Todeskräfte zu manipulieren.</content>
-  <content contentuid="h4c0b7fbegc219g4d8cg93e5g5664ba04d6ac" version="1">Gönner: Vampirlord</content>
-  <content contentuid="h2882c3d2g2c15g4aafg9276g8930955eb6f2" version="1">Ihr Gönner ist ein rücksichtsloser Vampirlord mit außergewöhnlichen dunklen Kräften, der eine Armee aus Vampirbrut und anderen Untoten befehligt.</content>
-  <content contentuid="h9d934614g4b6fg4566g9ed4g9f0bdba7321f" version="1">Gönner: Uralte Untote</content>
-  <content contentuid="h2bda3b93gfc33g4dc1ga292g82507f59c0d6" version="1">Ihr Gönner ist ein mysteriöser unheimlicher Untoter mit unverständlicher Motivation, der über arkane Kräfte verfügt, die über das Wissen der Sterblichen hinausgehen.</content>
-  <content contentuid="heaeba52bg938fg4ccdga937g94d45d18e228" version="1">Gönner: Gespenst</content>
-  <content contentuid="hcd6460edgb369g4597g901ege03b2dd002ac" version="1">Ihr Gönner ist ein rachsüchtiges Gespenst, gefangen auf der materiellen Ebene, voller Groll und geplagt von einem unbändigen Hunger nach sterblichen Lebenskräften.</content>
-  <content contentuid="h6b692237g3f02g4c97ga878gbda4b8146ca5" version="1">Gönner: Nachtwandler</content>
-  <content contentuid="hc51a6d84g3c86g42c4gb924gbae192ffb51b" version="1">Ihr Gönner ist ein empfindungsfähiger Nachtschatten aus der Ebene des Schattens, Meister des Todes und der Schatten mit umfassender Macht über die Dunkelheit.</content>
-  <content contentuid="h46cae778g1fb2g4086ga128g3cbf0895db9f" version="1">Gönner: Große Mumie</content>
-  <content contentuid="hc38fca19gb8b6g4d0ega1a7g293f7f6a5eb7" version="1">Ihr Gönner, einst ein mächtiger und gerissener Hochlord, wurde wiederbelebt, um als untoter Wächter zu dienen, und verfügt nun über furchteinflößende uralte Magie.</content>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="h8f4aeec4g3e53g4355g97a1gb1de6ab9151d" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; wird um [1] erhöht und die Tragekapazität verdoppelt. Dieser Stärkungszauber endet, wenn sie Schaden erleiden.</content>
+  <content contentuid="h6050c533gb416g4409g9deeg9fcb67a3b1b2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Die Bedingung endet, wenn ein Zauber gewirkt wird, der Konzentration erfordert.</content>
+  <content contentuid="h50f64f86gb085g4c73g8b63g9925e37f3ea3" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Wenn die Bedingung endet, wird &lt;LSTag Type="Status" Tooltip="EXHAUSTED" &gt;Erschöpft&lt;/LSTag&gt;.</content>
+  <content contentuid="hfb528918g0592g4528gab28g424f15d2849b" version="1">Das betroffene Wesen verfügt über &lt;LSTag Tooltip="Immune"&gt;Immunität&lt;/LSTag&gt; gegen nekrotischen Schaden.</content>
+  <content contentuid="h9b16907bg85d4g498egb54ag8370d014b864" version="1">Das betroffene Wesen verfügt über &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen nekrotischen Schaden.</content>
+  <content contentuid="h99e4e6abg0492g4bb1g9ac6g6c45d97d2b8e" version="2">Dem betroffenen Wesen wird eine schreckliche Qual zugefügt</content>
+  <content contentuid="h5557f10egc671g43b4gb69fg6a765dabdb85" version="1">Als Aktion können Sie Ihren Geist bis zu einer Stunde lang oder bis Ihre Konzentration nachlässt, von Ihrer physischen Form befreien.</content>
+  <content contentuid="h0d48cfe8g4bf8g4c19g89c6gf1670e643a42" version="3">Binde deinen Geist an deine physische Form, durchbreche die Projektion und werde wieder ganz.</content>
+  <content contentuid="h32eeee21g2bb7g400fgad19gbebd66f63eb7" version="1">Das Absolvieren einer &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt; verringert deinen Erschöpfungslevel um 1.</content>
+  <content contentuid="h29e87a3fga7d9g42c0gbaf2g3a44f196ec85" version="1">Elendige Explosion: Folter</content>
+  <content contentuid="h989ff0f8g5201g49bcgb175g08f7012d6c1c" version="2">Geisterprojektion beenden</content>
+  <content contentuid="h72fabc92g4ea9g4c70gaa9fg358b3aa55927" version="1">Erschöpft</content>
   <content contentuid="hfe52b5b2g9d7dg475cg9be4ge4f8f61e0f11" version="1">Form des Schreckens</content>
-  <content contentuid="hde3ffb8ag9a04g48b5ga383g840f9498efed" version="1">Form der Schreckensverwendung</content>
-  <content contentuid="h3ae01de6g94bfg4b7agb931g1501bb9b5ef3" version="2">Du kannst dich mit der &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form des Schreckens&lt;/LSTag&gt; so oft verwandeln, wie es deinem &lt;LSTag Tooltip="ProficiencyBonus"&gt;Kompetenzbonus&lt;/LSTag&gt; entspricht. Nach einer langen Pause erhalten Sie alle verbrauchten Vorteile zurück.</content>
+  <content contentuid="hde3ffb8ag9a04g48b5ga383g840f9498efed" version="1">Form des Schreckens Verwendung</content>
+  <content contentuid="h5ae0966dg5a6ag4f1bg94bfgf004064e03fb" version="1">Form des Schreckens: Erzlich</content>
+  <content contentuid="h50c83b09g8767g4b70g9b1cg6c2ea6acde1b" version="1">Form des Schreckens: Uralte Untote</content>
+  <content contentuid="hef81fddeg4d46g4a3agae32gb707c0797b99" version="1">Form des Schreckens: Ressource Angst</content>
+  <content contentuid="h4412eba4g8a5ag4f31g95cdg1377a6c77592" version="1">Form des Schreckens: Große Mumie</content>
+  <content contentuid="hd052c378g2ccag47b5ga267gea64f5f9bb7e" version="1">Form des Schreckens: Nachtwandler</content>
+  <content contentuid="hccd18e18ge132g4fe9g9f38gafcb4dd055a7" version="1">Form des Schreckens: Gespenst</content>
+  <content contentuid="h3a1d44d4gc95fg4c9cg81a7gc0e862b1b124" version="1">Form des Schreckens: Vampirlord</content>
   <content contentuid="hc55dd849gb5ffg4de0g8f6dg9bf47fc9d4b6" version="1">Erschrecken</content>
+  <content contentuid="hf7346b89g0b04g4daagac54g79c07a69021d" version="1">Berührtes Grab: Atemlos</content>
+  <content contentuid="hb29f4ce1g786dg4ba4ga314gd43ed29c2b3b" version="1">Berührtes Grab: Form des Schreckens</content>
+  <content contentuid="h2ceffc80gb3d0g4aacgb8d4gb842851456e5" version="1">Grab berührt: Form des Schreckens Extra-Schaden</content>
+  <content contentuid="h7964e0c3gb521g4d01g887dgd06cd8bdc3c7" version="1">Grab berührt: Nekrotische Umwandlung</content>
+  <content contentuid="hfd54c21dg23d8g4814ga531g312ecbb6bfc8" version="1">Da diese uralten Untoten einst selbst Sterbliche waren, kennen sie die Wege des Ehrgeizes und die Wege, die durch die Pforten des Todes führen, aus erster Hand. Sie teilen dieses profane Wissen zusammen mit anderen Geheimnissen eifrig mit denen, die ihren Willen unter den Lebenden durchsetzen.</content>
+  <content contentuid="haacf5878g8cb3g43d3g9776g434b6a4c9693" version="1">Immun gegen den Zustand "Angst".</content>
+  <content contentuid="hd3782ef3g7413g4c24g8246ge951e9919811" version="1">Außerdem kannst du, wenn du auf 0 &lt;LSTag Tooltip="HitPoints" &gt;Trefferpunkte&lt;/LSTag&gt; reduziert bist, deine Reaktion einsetzen, um stattdessen [2] zurückzugewinnen und deinen Körper mit tödlicher Energie ausbrechen zu lassen. Alle Feinde im Umkreis von [3] von dir erleiden [1]. Du bist dann &lt;LSTag Type="Status" Tooltip="EXHAUSTED"&gt;Erschöpft&lt;/LSTag&gt;.</content>
+  <content contentuid="hfdd33446ge468g4f3bg9d81gbaa9061df8f0" version="1">Erhöht die &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; einer Kreatur um [1] und verdoppelt ihre Tragfähigkeit.</content>
+  <content contentuid="h26a5f328g0102g4498gb5f3g0f9ca73a241f" version="1">Beschwöre den Geist einer großen, quasi-realen, pferdeähnlichen Kreatur, die mit einem Sattel, Gebiss und Zaumzeug ausgestattet ist. Du oder eine Kreatur deiner Wahl werden für die Dauer des Zaubers oder bis du Schaden nimmst vom Geist des Pferdes durchdrungen.</content>
+  <content contentuid="h5f24554cgd225g4163g8692g901d9f15f006" version="1">Level 1-4</content>
+  <content contentuid="h0eabfd3cg636fg4730g8f13g22a5a0e92c28" version="1">Level 5-8</content>
+  <content contentuid="h045e350dgcf0fg4474gabf6gfec383beaaaf" version="1">Level 9-12</content>
+  <content contentuid="h905a0ef1ge0f2g493ag9408g511444fa3ec6" version="1">Machen Sie einen Aspekt der schrecklichen Macht Ihres Gönners sichtbar.</content>
+  <content contentuid="hc4623646g3b59g4299g9042g65fd3e64a4e3" version="1">Mystisches Arkanum</content>
+  <content contentuid="hb36bb282g37ddg4c69gaaf0g089055d05c5e" version="1">Nekrotische Hülle</content>
+  <content contentuid="h42a70b3egd575g4f40g9f24g6e389a502f9d" version="1">Nekrotische Hülle: Abgeschossen</content>
+  <content contentuid="h569c881dg2b95g41fbg99f6gb51f00fa59dd" version="1">Nekrotische Immunität</content>
+  <content contentuid="h0d75ad10g52d0g4da9gaa73g1549320e5c85" version="1">Nekrotischer Widerstand</content>
+  <content contentuid="h2695730dg14c8g47ccg8b9cg61d7097b2f62" version="1">Nekrotischer Widerstand</content>
+  <content contentuid="h8f963fd9g5ddbg4becg8b61g39bc21e76154" version="1">Einmal in jedem deiner Züge, wenn du eine Kreatur mit einem Angriff triffst und Schaden gegen die Kreatur würfelst, kannst du die Schadensart durch Nekrotischen Schaden ersetzen.</content>
   <content contentuid="h3711ba99g49b4g43f3g9c4cg82ffcc67d03f" version="1">Zwinge die Kreatur zu einem Weisheitswurf, und wenn dieser misslingt, hat das Ziel bis zum Ende deines nächsten Zuges Angst vor dir.</content>
   <content contentuid="h3711ba99g49b4g43f3g9c4cg82ffcc67d03f" version="1">Force the creature to make a Wisdom saving throw, and if the saving throw fails, the target is frightened of you until the end of your next turn.</content>
-  <content contentuid="h80f98af5ga24cg4b79ga92eg4e36d2861582" version="1">Die Zielkreatur ist &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Verängstigt&lt;/LSTag&gt;.</content>
-  <content contentuid="hef81fddeg4d46g4a3agae32gb707c0797b99" version="1">Form des Schreckens: Ressource Angst</content>
-  <content contentuid="h5ae0966dg5a6ag4f1bg94bfgf004064e03fb" version="1">Form des Schreckens: Erzlich</content>
-  <content contentuid="h3a1d44d4gc95fg4c9cg81a7gc0e862b1b124" version="1">Form des Schreckens: Vampirlord</content>
-  <content contentuid="h50c83b09g8767g4b70g9b1cg6c2ea6acde1b" version="1">Form des Schreckens: Uralte Untote</content>
-  <content contentuid="hccd18e18ge132g4fe9g9f38gafcb4dd055a7" version="1">Form des Schreckens: Gespenst</content>
-  <content contentuid="hd052c378g2ccag47b5ga267gea64f5f9bb7e" version="1">Form des Schreckens: Nachtwandler</content>
-  <content contentuid="h4412eba4g8a5ag4f31g95cdg1377a6c77592" version="1">Form des Schreckens: Große Mumie</content>
-  <content contentuid="h905a0ef1ge0f2g493ag9408g511444fa3ec6" version="1">Machen Sie einen Aspekt der schrecklichen Macht Ihres Gönners sichtbar.</content>
-  <content contentuid="h69ff16dbgf9fag4afdg95d4gef75889ea8e6" version="1">Du erhältst [1] und bist immun gegen &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Angst&lt;/LSTag&gt;. Wenn du einmal in jedem deiner Züge eine Kreatur mit einem Angriff triffst, zwingst du sie zu einem Weisheitswurf. Misslingt der Rettungswurf, hat das Ziel bis zum Ende deines nächsten Zuges Angst vor dir.</content>
-  <content contentuid="h169ad0d6g1f42g45e3g8112gac67730284e2" version="1">Die schrecklichen Kräfte deines Gönners durchdringen dein ganzes Wesen, verändern dein Aussehen und strahlen um dich herum aus. Deine Lebenskräfte werden belebt und du fühlst dich furchtlos.</content>
-  <content contentuid="haacf5878g8cb3g43d3g9776g434b6a4c9693" version="1">Immun gegen den Zustand "Angst".</content>
-  <content contentuid="h19d616aag35e8g4fa4ga59dg7847a72609e0" version="1">Du kannst nicht &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrocken&lt;/LSTag&gt; sein.</content>
-  <content contentuid="h7964e0c3gb521g4d01g887dgd06cd8bdc3c7" version="1">Grab berührt: Nekrotische Umwandlung</content>
-  <content contentuid="h8f963fd9g5ddbg4becg8b61g39bc21e76154" version="1">Einmal in jedem deiner Züge, wenn du eine Kreatur mit einem Angriff triffst und Schaden gegen die Kreatur würfelst, kannst du die Schadensart durch Nekrotischen Schaden ersetzen.</content>
-  <content contentuid="hb29f4ce1g786dg4ba4ga314gd43ed29c2b3b" version="1">Grab berührt: Form des Schreckens</content>
-  <content contentuid="h5a6fe489gc8ebg495agb20eg3e0b59aeede2" version="1">Während du deinen &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form des Schreckens&lt;/LSTag&gt; einsetzt, kannst du bei der Bestimmung des nekrotischen Schadens, den das Ziel erleidet, einen zusätzlichen Schadenswürfel werfen.</content>
-  <content contentuid="h2ceffc80gb3d0g4aacgb8d4gb842851456e5" version="1">Grab berührt: Form des Schreckens Extra-Schaden</content>
+  <content contentuid="h04480a48g9d73g4ed7g9b1cga71c5a0e41bb" version="1">Gönner: Erzlich</content>
+  <content contentuid="h9d934614g4b6fg4566g9ed4g9f0bdba7321f" version="1">Gönner: Uralte Untote</content>
+  <content contentuid="h46cae778g1fb2g4086ga128g3cbf0895db9f" version="1">Gönner: Große Mumie</content>
+  <content contentuid="h6b692237g3f02g4c97ga878gbda4b8146ca5" version="1">Gönner: Nachtwandler</content>
+  <content contentuid="heaeba52bg938fg4ccdga937g94d45d18e228" version="1">Gönner: Gespenst</content>
+  <content contentuid="h4c0b7fbegc219g4d8cg93e5g5664ba04d6ac" version="1">Gönner: Vampirlord</content>
   <content contentuid="hf29fe240g3346g4c62ga223ga0e25f10ceed" version="1">Phantomross</content>
-  <content contentuid="h26a5f328g0102g4498gb5f3g0f9ca73a241f" version="1">Beschwöre den Geist einer großen, quasi-realen, pferdeähnlichen Kreatur, die mit einem Sattel, Gebiss und Zaumzeug ausgestattet ist. Du oder eine Kreatur deiner Wahl werden für die Dauer des Zaubers oder bis du Schaden nimmst vom Geist des Pferdes durchdrungen.</content>
-  <content contentuid="hfdd33446ge468g4f3bg9d81gbaa9061df8f0" version="1">Erhöht die &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; einer Kreatur um [1] und verdoppelt ihre Tragfähigkeit.</content>
   <content contentuid="h7f7c6e1cg5d86g4644gb492g7a486a7a7479" version="1">Phantomross</content>
-  <content contentuid="h8f4aeec4g3e53g4355g97a1gb1de6ab9151d" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; wird um [1] erhöht und die Tragekapazität verdoppelt. Dieser Stärkungszauber endet, wenn sie Schaden erleiden.</content>
-  <content contentuid="h0d75ad10g52d0g4da9gaa73g1549320e5c85" version="1">Nekrotischer Widerstand</content>
-  <content contentuid="h7fe181b8gb1cfg4354g94d6g931483145c6b" version="1">Deine Verbindung zum Untod und zur nekrotischen Energie durchdringt jetzt deinen Körper. Du besitzt Resistenz gegen nekrotischen Schaden. Wenn du mit deinem &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form des Schreckens&lt;/LSTag&gt; verwandelt wirst, wirst du stattdessen immun gegen nekrotischen Schaden.</content>
-  <content contentuid="hd3782ef3g7413g4c24g8246ge951e9919811" version="1">Außerdem kannst du, wenn du auf 0 &lt;LSTag Tooltip="HitPoints" &gt;Trefferpunkte&lt;/LSTag&gt; reduziert bist, deine Reaktion einsetzen, um stattdessen [2] zurückzugewinnen und deinen Körper mit tödlicher Energie ausbrechen zu lassen. Alle Feinde im Umkreis von [3] von dir erleiden [1]. Du bist dann &lt;LSTag Type="Status" Tooltip="EXHAUSTED"&gt;Erschöpft&lt;/LSTag&gt;.</content>
-  <content contentuid="h2695730dg14c8g47ccg8b9cg61d7097b2f62" version="1">Nekrotischer Widerstand</content>
-  <content contentuid="h9b16907bg85d4g498egb54ag8370d014b864" version="1">Das betroffene Wesen verfügt über &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen nekrotischen Schaden.</content>
-  <content contentuid="h569c881dg2b95g41fbg99f6gb51f00fa59dd" version="1">Nekrotische Immunität</content>
-  <content contentuid="hfb528918g0592g4528gab28g424f15d2849b" version="1">Das betroffene Wesen verfügt über &lt;LSTag Tooltip="Immune"&gt;Immunität&lt;/LSTag&gt; gegen nekrotischen Schaden.</content>
-  <content contentuid="hb36bb282g37ddg4c69gaaf0g089055d05c5e" version="1">Nekrotische Hülle</content>
-  <content contentuid="hbfbac611g5c80g4d28ga8fdgb2d98e2a2f08" version="1">Wenn deine Trefferpunkte auf 0 sinken, erhälst du [2] zurück und lässt deinen Körper mit tödlicher Energie ausbrechen. Alle Feinde im Umkreis von [3] um dich erleiden [1] + [4]. Sie werden von &lt;LSTag Type="Status" Tooltip="EXHAUSTED"&gt;Erschöpfung&lt;/LSTag&gt; betroffen sein.</content>
-  <content contentuid="h42a70b3egd575g4f40g9f24g6e389a502f9d" version="1">Nekrotische Hülle: Abgeschossen</content>
-  <content contentuid="h72fabc92g4ea9g4c70gaa9fg358b3aa55927" version="1">Erschöpft</content>
-  <content contentuid="h32eeee21g2bb7g400fgad19gbebd66f63eb7" version="1">Das Absolvieren einer &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt; verringert deinen Erschöpfungslevel um 1.</content>
-  <content contentuid="h5f24554cgd225g4163g8692g901d9f15f006" version="1">Level 1-4</content>
   <content contentuid="h289ecb12ga71fg4614g8449gcb66b38a498a" version="1">Übungsbonus +2</content>
-  <content contentuid="h0eabfd3cg636fg4730g8f13g22a5a0e92c28" version="1">Level 5-8</content>
   <content contentuid="h0d7f353fg90d1g474ag8871g61c7b18e2312" version="1">Übungsbonus +3</content>
-  <content contentuid="h045e350dgcf0fg4474gabf6gfec383beaaaf" version="1">Level 9-12</content>
   <content contentuid="h4a524f8bge902g46bbga01ag17ae362af23e" version="1">Übungsonus +4</content>
-  <content contentuid="hc4623646g3b59g4299g9042g65fd3e64a4e3" version="1">Mystisches Arkanum</content>
+  <content contentuid="h9501cd1ag9d52g4932gb306gb1435cabcedf" version="1">Wählen Sie einen Gönner aus</content>
   <content contentuid="h5c6a0f9eg253bg4fbbg8c6eg4f9b9c9f9aa5" version="1">Wähle einen deiner Level-7-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;STag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>
   <content contentuid="h6fa11281g8898g423bgb6cag8c14c9c96056" version="1">Wähle einen deiner Level-8-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;STag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>
   <content contentuid="h9c4775d7g0233g4e20gab5dg012d4581435a" version="1">Wähle einen deiner Level-8-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;STag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>
+  <content contentuid="hcb993405g10f6g4bbfgbe3agbca8ede0081a" version="1">Geisterprojektion</content>
+  <content contentuid="h80f98af5ga24cg4b79ga92eg4e36d2861582" version="1">Die Zielkreatur ist &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Verängstigt&lt;/LSTag&gt;.</content>
+  <content contentuid="h0de7eadcgaa31g4412g93bagafcebfa2a3f0" version="1">Die Untoten</content>
+  <content contentuid="h70d9ba7ag8361g4111gbbaegbf178882e96b" version="1">Dieser Hexenmeister schloss einen Pakt mit dem Tod selbst und wollte von seinem Gönner wissen, wie er aus dem Kreislauf von Leben und Tod ausbrechen kann.</content>
+  <content contentuid="h569a20cbg4b09g4a14ga029gdfa607b6ca41" version="1">Hexenmeister: Die Untoten</content>
+  <content contentuid="hbfbac611g5c80g4d28ga8fdgb2d98e2a2f08" version="1">Wenn deine Trefferpunkte auf 0 sinken, erhälst du [2] zurück und lässt deinen Körper mit tödlicher Energie ausbrechen. Alle Feinde im Umkreis von [3] um dich erleiden [1] + [4]. Sie werden von &lt;LSTag Type="Status" Tooltip="EXHAUSTED"&gt;Erschöpfung&lt;/LSTag&gt; betroffen sein.</content>
+  <content contentuid="h5ca60038g9516g4a7cgbf18g55b0fc19ce2d" version="1">Während du deinen Geist projizierst, erhältst du &lt;LSTag Tooltip="Resistent"&gt;Resistenz&lt;/LSTag&gt; gegen Hieb-, Stich- und Stoßschaden. Du hast außerdem eine Fluggeschwindigkeit, die deiner Gehgeschwindigkeit entspricht, und kannst nicht gestoßen oder geschubst werden. Zusätzlich erhältst du, während du deinen &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form des Schreckens&lt;/LSTag&gt; benutzt, einmal in jedem deiner Züge, wenn du einer Kreatur nekrotischen Schaden zufügst, &lt;LSTag Tooltip="HitPoints" &gt;Trefferpunkte&lt;/LSTag&gt; in Höhe der Hälfte des verursachten nekrotischen Schadens zurück.</content>
+  <content contentuid="h5a6fe489gc8ebg495agb20eg3e0b59aeede2" version="1">Während du deinen &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form des Schreckens&lt;/LSTag&gt; einsetzt, kannst du bei der Bestimmung des nekrotischen Schadens, den das Ziel erleidet, einen zusätzlichen Schadenswürfel werfen.</content>
+  <content contentuid="h3ae01de6g94bfg4b7agb931g1501bb9b5ef3" version="2">Du kannst dich mit der &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form des Schreckens&lt;/LSTag&gt; so oft verwandeln, wie es deinem &lt;LSTag Tooltip="ProficiencyBonus"&gt;Kompetenzbonus&lt;/LSTag&gt; entspricht. Nach einer langen Pause erhalten Sie alle verbrauchten Vorteile zurück.</content>
+  <content contentuid="h19d616aag35e8g4fa4ga59dg7847a72609e0" version="1">Du kannst nicht &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrocken&lt;/LSTag&gt; sein.</content>
+  <content contentuid="h69ff16dbgf9fag4afdg95d4gef75889ea8e6" version="1">Du erhältst [1] und bist immun gegen &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Angst&lt;/LSTag&gt;. Wenn du einmal in jedem deiner Züge eine Kreatur mit einem Angriff triffst, zwingst du sie zu einem Weisheitswurf. Misslingt der Rettungswurf, hat das Ziel bis zum Ende deines nächsten Zuges Angst vor dir.</content>
+  <content contentuid="h2fb6d6c6g52f7g4f6dga3caga8e548ab2d34" version="1">Du hast &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Hieb-, Stich- und Stoßschaden. Du hast eine Fluggeschwindigkeit, die deiner Gehgeschwindigkeit entspricht, und kannst nicht gestoßen oder geschubst werden. 
+Zusätzlich erhältst du, während du deinen &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form des Schreckens&lt;/LSTag&gt; benutzt, einmal in jedem deiner Züge, wenn du einer Kreatur nekrotischen Schaden zufügst, &lt;LSTag Tooltip="HitPoints" &gt;Trefferpunkte&lt;/LSTag&gt; in Höhe der Hälfte des verursachten nekrotischen Schadens zurück.</content>
+  <content contentuid="ha5f68611gae32g4f73ga092g6b9fb39efb3b" version="1">Du hast einen Pakt mit einem unsterblichen Wesen geschlossen, einer Kreatur, die sich dem Kreislauf von Leben und Tod widersetzt und ihre sterbliche Hülle verlässt, damit sie auf ewig ihren unergründlichen Ambitionen nachgehen kann.</content>
+  <content contentuid="h7fe181b8gb1cfg4354g94d6g931483145c6b" version="1">Deine Verbindung zum Untod und zur nekrotischen Energie durchdringt jetzt deinen Körper. Du besitzt Resistenz gegen nekrotischen Schaden. Wenn du mit deinem &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form des Schreckens&lt;/LSTag&gt; verwandelt wirst, wirst du stattdessen immun gegen nekrotischen Schaden.</content>
+  <content contentuid="h2bda3b93gfc33g4dc1ga292g82507f59c0d6" version="1">Ihr Gönner ist ein mysteriöser unheimlicher Untoter mit unverständlicher Motivation, der über arkane Kräfte verfügt, die über das Wissen der Sterblichen hinausgehen.</content>
+  <content contentuid="h2882c3d2g2c15g4aafg9276g8930955eb6f2" version="1">Ihr Gönner ist ein rücksichtsloser Vampirlord mit außergewöhnlichen dunklen Kräften, der eine Armee aus Vampirbrut und anderen Untoten befehligt.</content>
+  <content contentuid="hc51a6d84g3c86g42c4gb924gbae192ffb51b" version="1">Ihr Gönner ist ein empfindungsfähiger Nachtschatten aus der Ebene des Schattens, Meister des Todes und der Schatten mit umfassender Macht über die Dunkelheit.</content>
+  <content contentuid="hcd6460edgb369g4597g901ege03b2dd002ac" version="1">Ihr Gönner ist ein rachsüchtiges Gespenst, gefangen auf der materiellen Ebene, voller Groll und geplagt von einem unbändigen Hunger nach sterblichen Lebenskräften.</content>
+  <content contentuid="hb0df370eg29b1g4632g9609gcddaf495350a" version="1">Ihr Gönner ist ein Erzlich mit großer Macht, der über verbotenes Wissen verfügt und in der Lage ist, Lebens- und Todeskräfte zu manipulieren.</content>
+  <content contentuid="hc38fca19gb8b6g4d0ega1a7g293f7f6a5eb7" version="1">Ihr Gönner, einst ein mächtiger und gerissener Hochlord, wurde wiederbelebt, um als untoter Wächter zu dienen, und verfügt nun über furchteinflößende uralte Magie.</content>
+  <content contentuid="h169ad0d6g1f42g45e3g8112gac67730284e2" version="1">Die schrecklichen Kräfte deines Gönners durchdringen dein ganzes Wesen, verändern dein Aussehen und strahlen um dich herum aus. Deine Lebenskräfte werden belebt und du fühlst dich furchtlos.</content>
+  <content contentuid="haa5f6982gf417g4f92g8e44g9f3f4834994c" version="1">Die Kräfte deines Gönners haben eine tiefgreifende Wirkung auf deinen Körper und deine Magie. Du brauchst nicht zu essen, zu trinken oder zu atmen.</content>
+  <content contentuid="ha2cced8bg296eg4fe1g978eg7f36ce03c7e9" version="1">Dein Geist ist bis zu 1 Stunde lang oder bis zur Unterbrechung deiner Konzentration von deiner physischen Form losgelöst.</content>
 </contentList>

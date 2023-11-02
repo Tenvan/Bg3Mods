@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="Boost_Action_I" version="1">Fügt einen zusätzlichen Aktionspunkt hinzu</content>
+  <content contentuid="Boost_BonusAction_I" version="1">Fügt einen zusätzlichen Bonus-Aktionspunkt hinzu.</content>
+  <content contentuid="EE_Barbarian_Boost_I" version="1">Fügt Barbaren mehr Fähigkeiten hinzu.</content>
+  <content contentuid="EE_Fighter_Boost_I" version="1">Fügt Kämpfern mehr Fähigkeiten hinzu.</content>
+  <content contentuid="EE_Ranger_Boost_I" version="1">Fügt Rangern mehr Fähigkeiten hinzu.</content>
+  <content contentuid="EE_Rogue_Boost_I" version="1">Fügt Schurken mehr Fähigkeiten hinzu.</content>
+  <content contentuid="EE_Ranger_Feat_I" version="1">Fügt Rangern weitere Talente hinzu.</content>
+  <content contentuid="EE_Spells_Level_1_I" version="1">Fügt verschiedene Zaubersprüche der Stufe 1 sowie 3 Zauberplätze der Stufe 1 hinzu.</content>
+  <content contentuid="EE_Spells_Level_2_I" version="1">Fügt verschiedene Zaubersprüche der Stufe 2 sowie 2 Zauberplätze der Stufe 2 hinzu.</content>
+  <content contentuid="EE_Spells_Level_3_I" version="1">Fügt verschiedene Zaubersprüche der Stufe 3 sowie 2 Zauberplätze der Stufe 3 hinzu.</content>
+  <content contentuid="EE_Spells_Level_4_I" version="1">Fügt verschiedene Zaubersprüche der Stufe 4 sowie 2 Zauberplätze der Stufe 4 hinzu.</content>
+  <content contentuid="EE_Spells_Level_5_I" version="1">Fügt verschiedene Zaubersprüche der Stufe 5 sowie 1 Zauberplatz der Stufe 5 hinzu.</content>
+  <content contentuid="EE_Spells_Level_6_I" version="1">Fügt verschiedene Zaubersprüche der Stufe 6 sowie 1 Zauberplat der Stufe 6 hinzu.</content>
+  <content contentuid="EE_Barbarian_Boost_N" version="1">Barbarion-Boost</content>
+  <content contentuid="Boost_Action_N" version="1">Boost-Aktion</content>
+  <content contentuid="Boost_BonusAction_N" version="1">Boost-Bonusaktion</content>
+  <content contentuid="Boost_Raphael_I" version="1">Steigert Raphael enorm.</content>
+  <content contentuid="EE_Cantrips_Type_2_N" version="1">Cantrips (Magier)</content>
+  <content contentuid="EE_Cantrips_Type_2_I" version="1">Cantrips (Magier)</content>
+  <content contentuid="EE_Cantrips_Type_1_N" version="1">Zaubertricks (Hexenmeister)</content>
+  <content contentuid="EE_Cantrips_Type_1_I" version="1">Cantrips (Hexenmeister)</content>
+  <content contentuid="EE_Fighter_Boost_N" version="1">Kämpfer-Boost</content>
+  <content contentuid="EE_Spells_Level_1_N" version="1">Zauber der Stufe 1</content>
+  <content contentuid="EE_Spells_Level_2_N" version="1">Zauber der Stufe 2</content>
+  <content contentuid="EE_Spells_Level_3_N" version="1">Zauber der Stufe 3</content>
+  <content contentuid="EE_Spells_Level_4_N" version="1">Zauber der Stufe 4</content>
+  <content contentuid="EE_Spells_Level_5_N" version="1">Zauber der Stufe 5</content>
+  <content contentuid="EE_Spells_Level_6_N" version="1">Zauber der Stufe 6</content>
+  <content contentuid="EE_Ranger_Boost_N" version="1">Ranger-Boost</content>
+  <content contentuid="EE_Ranger_Feat_N" version="1">Ranger-Leistungen</content>
+  <content contentuid="Boost_Raphael_N" version="1">Raphael Boost</content>
+  <content contentuid="EE_Rogue_Boost_N" version="1">Schurken-Boost</content>
+</contentList>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="EE_Cantrips_Type_1_N" version="1">Cantrips (Warlock)</content>
+	<content contentuid="EE_Cantrips_Type_1_I" version="1">Cantrips (Warlock)</content>
+	<content contentuid="EE_Cantrips_Type_2_N" version="1">Cantrips (Mage)</content>
+        <content contentuid="EE_Cantrips_Type_2_I" version="1">Cantrips (Mage)</content>
+        <content contentuid="EE_Spells_Level_1_N" version="1">Level 1 Spells</content>
+	<content contentuid="EE_Spells_Level_1_I" version="1">Adds various level 1 spells along with 3 level 1 spell slots.</content>
+	<content contentuid="EE_Spells_Level_2_N" version="1">Level 2 Spells</content>
+	<content contentuid="EE_Spells_Level_2_I" version="1">Adds various level 2 spells along with 2 level 2 spell slots.</content>
+	<content contentuid="EE_Spells_Level_3_N" version="1">Level 3 Spells</content>
+	<content contentuid="EE_Spells_Level_3_I" version="1">Adds various level 3 spells along with 2 level 3 spell slots.</content>
+        <content contentuid="EE_Spells_Level_4_N" version="1">Level 4 Spells</content>
+        <content contentuid="EE_Spells_Level_4_I" version="1">Adds various level 4 spells along with 2 level 4 spell slots.</content>
+        <content contentuid="EE_Spells_Level_5_N" version="1">Level 5 Spells</content>
+        <content contentuid="EE_Spells_Level_5_I" version="1">Adds various level 5 spells along with 1 level 5 spell slots.</content>
+        <content contentuid="EE_Spells_Level_6_N" version="1">Level 6 Spells</content>
+        <content contentuid="EE_Spells_Level_6_I" version="1">Adds various level 6 spells along with 1 level 6 spell slots.</content>
+        <content contentuid="EE_Barbarian_Boost_N" version="1">Barbarion Boost</content>
+        <content contentuid="EE_Barbarian_Boost_I" version="1">Adds more abilities to barbarians.</content>
+        <content contentuid="EE_Fighter_Boost_N" version="1">Fighter Boost</content>
+        <content contentuid="EE_Fighter_Boost_I" version="1">Adds more abilities to fighters.</content>
+        <content contentuid="EE_Ranger_Boost_N" version="1">Ranger Boost</content>
+        <content contentuid="EE_Ranger_Boost_I" version="1">Adds more abilities to rangers.</content>
+        <content contentuid="EE_Rogue_Boost_N" version="1">Rogue Boost</content>
+        <content contentuid="EE_Rogue_Boost_I" version="1">Adds more abilities to rogues.</content>
+        <content contentuid="EE_Ranger_Feat_N" version="1">Ranger Feats</content>
+        <content contentuid="EE_Ranger_Feat_I" version="1">Adds more feats to rangers.</content>        
+        <content contentuid="Boost_Action_N" version="1">Boost Action</content>
+        <content contentuid="Boost_Action_I" version="1">Adds an extra action point</content>
+        <content contentuid="Boost_BonusAction_N" version="1">Boost Bonus Action</content>
+        <content contentuid="Boost_BonusAction_I" version="1">Adds an extra bonus action point.</content>
+        <content contentuid="Boost_Raphael_N" version="1">Raphael Boost</content>
+        <content contentuid="Boost_Raphael_I" version="1">Boosts Raphael Immensly.</content>
+</contentList>

@@ -1,110 +1,154 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-  <!--Class Descriptions-->
-  <content contentuid="h113ba9cbgebe3g4971ga06ag961e06c51d52" version="1">Dämonenjäger</content>
-  <content contentuid="h90649d3fg3642g4a9ag858egbaeffa630a99" version="1">Dämonenjäger, Anhänger von Illidan Stormrage, bewahren ein dunkles Erbe, das ihren Verbündeten und Feinden gleichermaßen Angst macht. Die Illidari befürworten Teufels- und chaotische Magieenergien, die die Welt von Azeroth seit langem bedrohen, und glauben, dass sie notwendig sind, um die Brennende Legion herauszufordern.</content>
-  <content contentuid="hcda47dabgc7f2g4e0cg9d44gff2387b638c6" version="1">Verwüstung</content>
-  <content contentuid="h825918dag6578g422cg83b7ga2d01b90e923" version="1">Ein düsterer Meister des Kriegsmessers und der zerstörerischen Kraft der Teufelsmagie.</content>
-  <content contentuid="h512639f9g80e6g4ed1g967egbdb0a0843f03" version="1">Vengenace</content>
-  <content contentuid="h7c3ed428gaa27g43ffg9486gadda196820ed" version="1">Umarmt den inneren Dämon, um Feinde zu verbrennen und ihre Verbündeten zu schützen.</content>
-  <!--Class Resources-->
-  <content contentuid="h5ad6eb54gb2f5g4ef9g94fcg054e8bae0522" version="1">Furie</content>
-  <content contentuid="h4f0ca09cg9518g4b2bga21dgf79c98f4312e" version="1">Zorn ist die wichtigste Ressource von Dämonenjägern und wird für die Ausführung der meisten ihrer Schadensfähigkeiten benötigt. Zorn kann durch bestimmte Dämonenjäger-Fähigkeiten erzeugt werden.</content>
-  <content contentuid="h61af57f6g74e3g4ebag9fb8g1f17c6d3b8aa" version="1">Dein maximaler Zorn wird auf [1] erhöht.
-  
-Zorn ist die wichtigste Ressource von Dämonenjägern und wird für die Ausführung der meisten ihrer Schadensfähigkeiten benötigt. Wut kann durch bestimmte Dämonenjäger-Fähigkeiten erzeugt werden.</content>
-  <!--Shared Demon Hunter Abilities-->
-  <content contentuid="h807a1e61g495eg4caegb0eagb365d925008b" version="1">Metamorphose</content>
-  <content contentuid="h86d3a744g7bbfg4236ga61dgc87121c618bf" version="1">Springe in die Luft und lande mit explosiver Wucht, wobei du Gegnern innerhalb von [2] [1] Schaden zufügst.
-
-Bei der Landung verwandelst du dich für [3] Runden in einen höllischen Dämon.</content>
-  <content contentuid="hb6178c63gdf88g48b5ga081gcd0e6e852746" version="1">Du verwandelst dich in einen mächtigen Dämon. Deine Angriffe erhalten einen Vorteil und ignorieren die Feuerresistenz des Ziels. Du erhältst außerdem 25% mehr Geschicklichkeit und Charisma.</content>
-  <content contentuid="ha0956e76g64a7g422agb5feg0a239ea299c0" version="1">Kann nicht gewirkt werden, wenn &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; aktiv ist.</content>
-  <content contentuid="h11aee857g4ea9g405egadc8g5c89f6271f46" version="1">Spektrales Sehvermögen</content>
-  <content contentuid="h8ddc2f94gd244g427agab35gdf2956b5c0ab" version="1">Ermöglicht es dir, Feinde zu sehen, die innerhalb von [1] getarnt und unsichtbar sind.</content>
-  <content contentuid="h6cb0a183g8b67g4891gb5fcgf16a55d791a6" version="1">Folter</content>
-  <content contentuid="heafa6217g8bfbg465fg9305g2cdbbf631632" version="1">Fordert das Ziel auf, dich anzugreifen.</content>
-  <content contentuid="h4c4f241cg2318g4d3fga6d8g75c64d7d2e5f" version="1">Das Ziel ist verspottet.</content>
-  <content contentuid="ha62925e2g8eefg4a9bg9f4bg664391440736" version="1">Wurfklinge</content>
-  <content contentuid="haab9c51dgdca6g4ac4g8867ga26ce7437971" version="1">Wirf eine dämonische Klinge auf das Ziel, die [1] verursacht. Die Klinge kann innerhalb von [2] bis zu 3 Mal an 1 weiteren Feind abprallen.</content>
-  <content contentuid="hd7acfdb9gf118g4851g943agcf99282db691" version="1">Aura der Verwüstung</content>
-  <content contentuid="hd605febcg6488g4fafg88b1g997bc04266f6" version="1">Verschlinge dich selbst in Flammen und strahle [1] in [2].</content>
-  <content contentuid="ha32d52dfga143g4954g8bfcgd55b6eb6d0ad" version="1">Während aktiv: Erzeugt 10 Zorn pro Runde.</content>
-  <content contentuid="h5ac44fe3g42e0g4c8cga27eg209597899d82" version="1">Unterbrechen</content>
-  <content contentuid="hf9b933c5g0dbag4776g8f4bg3d4f7ca24c5e" version="1">Unterbricht das Zaubern des Gegners und bewirkt 1 Runde lang Stille.
-
-Zauber der Stufe 3 oder niedriger können immer unterbrochen werden. Höherstufige Zauber sind schwieriger.</content>
-  <content contentuid="he8624bf4g2c07g4bbcgba5ag0c288b5af9f2" version="1">Inhaftierung</content>
-  <content contentuid="h6f58d0d9ge7f1g453ag8755g36f016a0cfea" version="1">Sperrt einen Dämon, eine Bestie oder einen Humanoiden ein und macht ihn für 10 Runden handlungsunfähig. Der Effekt wird durch Schaden aufgehoben.</content>
-  <content contentuid="h7b7dfdc0g7f25g4ba4gb05bg4d4d7f7695f8" version="1">Das Ziel wird handlungsunfähig gemacht. Wenn es Schaden erhält, wird der Effekt aufgehoben.</content>
-  <content contentuid="ha0dea0abg6821g4a97ga627gda600df3b7c2" version="1">Manabrand</content>
-  <content contentuid="h405940deg6189g41f7gad45gdececae11ba0" version="1">Sendet einen Blitz aus negativer Energie aus, der [1] verursacht und den Zauberplatz der gegnerischen Einheit mit der höchsten Stufe verbrennt. Der verbrannte Zauberplatz verbrennt und verursacht [2] pro Stufe des Zauberplatzes.
-  
-Wenn das Ziel ein Zauberer ist, verbrennt Manabrand bis zu 4 Zauberpunkte und fügt [2] pro verbranntem Zauberpunkt zu.</content>
-  <content contentuid="h2cdddd33ge682g4eefg9f55g7f21ad985b29" version="1">Wenn das Ziel mehrere Arten von Zauberwirkungsressourcen besitzt, verbrennt Manabrand die höchste Stufe aller verfügbaren Ressourcen.</content>
-  <content contentuid="h4d5224ccgca8dg4105g842dg5bc00e8aeb84" version="1">Chaosnova</content>
-  <content contentuid="hd7ec2315g9f29g4aedga718g1d712beb3ccf" version="1">Entfesselt einen Ausbruch von Felsenergie, der [1] verursacht und &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;alle Feinde im Umkreis von [2] 1 Runde lang betäubt&lt;/LSTag&gt;.</content>
-  <content contentuid="h9ae3e42ag968bg4a53gb4dfgcb19da7fdd16" version="1">Zerschmetterte Seelen</content>
-  <content contentuid="h4fc94e4aga1cfg406cg98bbg085c2c449807" version="1">Verbraucht alle gesammelten &lt;LSTag Type="Status" Tooltip="DH_Buff_Havoc_SoulFragment"&gt;Seelenfragmente&lt;/LSTag&gt;. Jedes verbrauchte Seelenfragment heilt dich für [1] maximale Gesundheit und erzeugt [2] Zorn.</content>
-  <content contentuid="h9ca98390gfea7g4ad7g8c31g9bf83f4e83ca" version="1">Seelenfragmente werden von Feinden fallen gelassen, die von Dämonenjägern getötet wurden. &lt;LSTag Type="Spell" Tooltip="Target_DH_ChaosStrike"&gt;Chaosschlag&lt;/LSTag&gt; hat außerdem eine 5%ige Chance, dem Ziel ein Seelenfragment abzuspalten.</content>
-  <content contentuid="h1f5956f4g55a5g4754g9c7dg5e1520eb3bf4" version="1">Seelenfragment</content>
-  <content contentuid="h7c623ef3g6e54g4946g82f3g689ffc230bb3" version="1">Du bist im Besitz von Seelenfragmenten deiner Feinde. Du kannst bis zu 5 Seelenfragmente besitzen.</content>
-  <content contentuid="hb42b171agcd17g477ega1c5gfb1945b5dacb" version="1">Unschärfe</content>
-  <!--Havoc Demon Hunter Passives-->
-  <content contentuid="he5cfa9e2g4c17g4cddgb1ebg4fe159e1188c" version="1">Beherrschung: Dämonische Anwesenheit</content>
-  <content contentuid="h56170f38g3cc2g41d8g8918gaa2ef20f582a" version="1">Erhöht dein Bewegungstempo um [1].
-  
-Dein Feuerschaden wird um deinen Charisma-Modifikator erhöht, und dieser Effekt wird verdoppelt, solange deine &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; aktiv ist.</content>
-  <content contentuid="hd2c4ea77gadb8g4baega24dg500507236933" version="1">Dämonisch</content>
-  <content contentuid="h38b8141dgf527g41eaga488gce388313e5fe" version="1">Solange du dich nicht in &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; befindest, bewirkt das Wirken von &lt;LSTag Type="Spell" Tooltip="Zone_DH_EyeBeam" &gt;Augenstrahl&lt;/LSTag&gt;, dass du für 2 Runden in &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; eintrittst.
-
-&lt;LSTag Type="Spell" Tooltip="Target_DH_ChaosStrike"&gt;Chaosschlag&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_DH_BladeDance" &gt;Klingentanz&lt;/LSTag&gt; Treffer haben eine [1] Chance, die &lt;LSTag Type="Spell" Tooltip="Zone_DH_EyeBeam"&gt;Augenstrahl&lt;/LSTag&gt; Abklingzeit um 1 Runde zu reduzieren.</content>
-  <content contentuid="hd83985f4g1f4ag4766g8d85gadc48c566d63" version="1">Zerschlagenes Schicksal</content>
-  <content contentuid="h62ed4940gbc84g4d39gadb7g3be12d0f75d9" version="1">Während du dich in &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; befindest, hast du eine Chance von [1] pro ausgegebener Wut, deine aktive &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; um 1 Runde zu verlängern.
-  
-Der Eintritt in Metamorphose gewährt dir sofort kostenlosen &lt;LSTag Type="Spell" Tooltip="Shout_DH_BladeDance"&gt;Klingentanz&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Zone_DH_EyeBeam"&gt;Augenstrahl&lt;/LSTag&gt;.</content>
-  <!--Havoc Demon Hunter Abilities-->
-  <content contentuid="h249ac3fagc421g42ccgbb3ega83e18c40190" version="1">Biss des Dämonen</content>
-  <content contentuid="h451f8e85gfa74g4babgab2fg49ee01eee9dd" version="1">Schnellangriff für [1].</content>
-  <content contentuid="h0ab3f309g7064g4c75gbff7g36774838387b" version="1">Erzeugt bei einem Treffer 20 bis 30 Zorn.</content>
-  <content contentuid="h2e9a52bcg2a4bg463dgad99ga8f6b6272ff6" version="1">Chaosschlag</content>
-  <content contentuid="h333cc0ddg2c7dg465dg97dag6bec817c46bc" version="1">Schneide dein Ziel für [1] auf. Chaosschlag hat eine [2]-Chance, 20 Zorn zu erstatten.</content>
-  <content contentuid="hfd583f16ga9f9g4684ga8a3g75821ef3ab56" version="1">Verbraucht kein Zorn.</content>
-  <content contentuid="hb0fecd53g99e8g43a7ga302ge0fa53269877" version="1">Chaosschlag: Reaktion</content>
-  <content contentuid="hf36d4b8bg961dg4b86gb435gfedf9061e332" version="1">Verursache bei einem Treffer mit einer Nahkampfwaffe zusätzlich [1]. Chaosschlag hat eine [2]-Chance, 20 Zorn zu erstatten.</content>
-  <content contentuid="h67a43dbagb6fcg4785gaad2gbb12aa3281d6" version="1">Chaosschlag Kritisch: Reaktion</content>
-  <content contentuid="h1adc6960ge122g447fg97f8g9a20587b9b16" version="1">Verursache bei einem &lt;LSTag Tooltip="CriticalHit"&gt;kritischen Treffer&lt;/LSTag&gt; mit einer Nahkampfwaffe zusätzlich [1]. Chaosschlag hat eine Chance von [2], 20 Zorn zu erstatten.</content>
-  <content contentuid="hb25d19b3gffbcg40adg920fg8b4ff9ee8cfe" version="1">Teufelsrausch</content>
-  <content contentuid="had489ac0gd716g40ebg84e7g5c9d98287ee2" version="1">Stürmt vorwärts und verbrennt alles, was sich euch in den Weg stellt, für [1]. Teufelsrausch kann im selben Zug kostenlos erneut gewirkt werden.</content>
-  <content contentuid="h217d01a7gaf2bg4aa9g81cdgb5150615c2d6" version="1">Augenstrahl</content>
-  <content contentuid="hf1a031d7gcf65g45cfga7aeg829893a1d324" version="1">Sprengt alle Gegner vor dir für [1]. Verursacht während &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; garantiert kritische Treffer.</content>
-  <content contentuid="h57a70fd2gfa3bg4638gb2e8gc8cffdbd8054" version="1">Abklingzeit: 5 Runden.</content>
-  <content contentuid="ha1882db9g6e9dg4888g9beag0e4f3ad953f9" version="1">Klingentanz</content>
-  <content contentuid="h0732da42g40c4g43f4gb17dg12d85c24a922" version="1">Schlagt 5 Mal mit beiden Waffen auf Feinde in der Nähe ein und verursacht dabei [1] pro Schlag. Der letzte Schlag verursacht 100% zusätzlichen Schaden.</content>
-  <content contentuid="h0626b255g1074g4d86gb9fagb7fd65260ceb" version="1">Erfordert das Führen von zwei Nahkampfwaffen.
-  
-Abklingzeit: 2 Runden.</content>
-  <content contentuid="h1d5d7979g7afag414bg8d42g5a6d8ff54aeb" version="1">Dämonenklinge</content>
-  <content contentuid="h9acc5e45g408eg445dg9013g9346d539d049" version="1">Deine Waffenangriffe verursachen zusätzlich [1] und erzeugen 5-10 Zorn.</content>
-  <!--Vengeance Demon Hunter Abilities-->
-  <content contentuid="h3370dbedg1596g4056g832dg56af3aac30b4" version="1">Teufelsverwüstung</content>
-  <content contentuid="hda01a83agb840g45a1gbd23g61a9372415bf" version="1">Entfesselt die Hölle in Euch und fügt Gegnern direkt vor Euch [1] lang Schaden zu. Heilt dich für 50% des verursachten Schadens.</content>
-  <!--Class Weapons-->
-  <content contentuid="h49abb0f6g82beg4fbfg816fge8a97ecfd3a1" version="1">Das Kriegsgeschehen von Azzinoth</content>
-  <content contentuid="h768f087eg2c3cg4c6eg9ee1gdf052896da1e" version="1">"Du bist nicht vorbereitet!"</content>
-  <content contentuid="h2f57755fgcfc3g4eefg9f9ag06206a6dacaf" version="1">"Ich bin meine Narben!"</content>
-  <content contentuid="ha5af3b32g16aag4c72g8b16gbe1876c18ab4" version="1">Azzinoths Flamme</content>
-  <content contentuid="h6cbe9669g8428g40b1g9830gf0cc23f82ba0" version="1">Die Flamme Azzinoths, die in dieser Waffe enthalten ist, wächst mit jeder Stufe und verursacht zusätzliche [1].</content>
-  <content contentuid="h348d289bgf0bcg48d1gad3bg884955bd1097" version="1">Unerbittliche Verfolgung</content>
-  <content contentuid="h7c859fb6g15feg4d12gb897g108938bd00c6" version="1">Deine Nahkampfangriffe haben eine Chance von [1], dir 2 Runden lang Eile zu gewähren. Diese Chance wird verdoppelt, wenn du in Dämonengestalt bist. (Erfordert LV 6 Dämonenjäger)</content>
-  <content contentuid="h5ab9cad1g6ca6g42f1gb856gc5e92cdc6752" version="1">Kollektiver Schmerz</content>
+  <!-- Translated Texts, ordered by origin text -->
   <content contentuid="hd217649egf34eg4e46gadb0gcdd1af1b856d" version="1">Verwüstung:
 Wenn du &lt;LSTag Type="Spell" Tooltip="Zone_DH_EyeBeam"&gt;Augenstrahl&lt;/LSTag&gt; wirkst, kannst du einen kostenlosen &lt;LSTag Type="Spell" Tooltip="Zone_DH_FelDevastation"&gt;Teufelsverwüstung&lt;/LSTag&gt; wirken.
 Rache: 
 Wenn du &lt;LSTag Type="Spell" Tooltip="Zone_DH_FelDevastation"&gt;Teufelsverwüstung&lt;/LSTag&gt; wirkst, kannst du einen kostenlosen &lt;LSTag Type="Spell" Tooltip="Zone_DH_EyeBeam" &gt;Augenstrahl&lt;/LSTag&gt; wirken. 
 (Erfordert LV 12 Dämonenjäger)</content>
+  <content contentuid="h6cbe9669g8428g40b1g9830gf0cc23f82ba0" version="1">Die Flamme Azzinoths, die in dieser Waffe enthalten ist, wächst mit jeder Stufe und verursacht zusätzliche [1].</content>
+  <content contentuid="h7c859fb6g15feg4d12gb897g108938bd00c6" version="1">Deine Nahkampfangriffe haben eine Chance von [1], dir 2 Runden lang Eile zu gewähren. Diese Chance wird verdoppelt, wenn du in Dämonengestalt bist. (Erfordert LV 6 Dämonenjäger)</content>
+  <content contentuid="h2f57755fgcfc3g4eefg9f9ag06206a6dacaf" version="1">"Ich bin meine Narben!"</content>
+  <content contentuid="h768f087eg2c3cg4c6eg9ee1gdf052896da1e" version="1">"Du bist nicht vorbereitet!"</content>
+  <content contentuid="h825918dag6578g422cg83b7ga2d01b90e923" version="1">Ein düsterer Meister des Kriegsmessers und der zerstörerischen Kraft der Teufelsmagie.</content>
+  <content contentuid="h8ddc2f94gd244g427agab35gdf2956b5c0ab" version="1">Ermöglicht es dir, Feinde zu sehen, die innerhalb von [1] getarnt und unsichtbar sind.</content>
+  <content contentuid="ha5af3b32g16aag4c72g8b16gbe1876c18ab4" version="1">Azzinoths Flamme</content>
+  <content contentuid="ha1882db9g6e9dg4888g9beag0e4f3ad953f9" version="1">Klingentanz</content>
+  <content contentuid="hf1a031d7gcf65g45cfga7aeg829893a1d324" version="1">Sprengt alle Gegner vor dir für [1]. Verursacht während &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; garantiert kritische Treffer.</content>
+  <content contentuid="hb42b171agcd17g477ega1c5gfb1945b5dacb" version="1">Unschärfe</content>
+  <content contentuid="ha0956e76g64a7g422agb5feg0a239ea299c0" version="1">Kann nicht gewirkt werden, wenn &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; aktiv ist.</content>
+  <content contentuid="h4d5224ccgca8dg4105g842dg5bc00e8aeb84" version="1">Chaosnova</content>
+  <content contentuid="h2e9a52bcg2a4bg463dgad99ga8f6b6272ff6" version="1">Chaosschlag</content>
+  <content contentuid="h67a43dbagb6fcg4785gaad2gbb12aa3281d6" version="1">Chaosschlag Kritisch: Reaktion</content>
+  <content contentuid="hb0fecd53g99e8g43a7ga302ge0fa53269877" version="1">Chaosschlag: Reaktion</content>
+  <content contentuid="h5ab9cad1g6ca6g42f1gb856gc5e92cdc6752" version="1">Kollektiver Schmerz</content>
+  <content contentuid="h3325b89cg0a68g455cg990eg9ef5a7e587e4" version="1">Verbrauche bis zu 5 verfügbare &lt;LSTag Type="Status" Tooltip="DH_Buff_Vengeance_SoulFragment"&gt;Seelenfragmente&lt;/LSTag&gt;, die dann explodieren und Gegnern in der Nähe für [1] pro verbrauchtem Fragment Schaden zufügen.</content>
+  <content contentuid="h4fc94e4aga1cfg406cg98bbg085c2c449807" version="1">Verbraucht alle gesammelten &lt;LSTag Type="Status" Tooltip="DH_Buff_Havoc_SoulFragment"&gt;Seelenfragmente&lt;/LSTag&gt;. Jedes verbrauchte Seelenfragment heilt dich für [1] maximale Gesundheit und erzeugt [2] Zorn.</content>
+  <content contentuid="hb44269dcg6807g47dcgbc9ag13cb0bc98ecf" version="1">Abklingzeit: 3 Runden.</content>
+  <content contentuid="h57a70fd2gfa3bg4638gb2e8gc8cffdbd8054" version="1">Abklingzeit: 5 Runden.</content>
   <content contentuid="h8afb19e9g30d6g47c6gbdadg8e46d5132504" version="1">Die Kreatur hat einen Bonus von +2 auf &lt;LSTag Tooltip="ArmourClass"&gt;Rüstungsklasse&lt;/LSTag&gt;, &lt;LSTag Tooltip="Advantage" &gt;Vorteil&lt;/LSTag&gt; auf Geschicklichkeit &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswürfe&lt;/LSTag&gt;, und sie kann eine zusätzliche Aktion pro Runde ausführen.</content>
-  <!--Demon Hunter Cool Down Tooltips-->
-  <content contentuid="h24f30d7bg866dg46d8g9ff5g7ad118fedad2" version="1">Abklingzeit der Fertigkeit: Augenstrahl</content>
+  <content contentuid="h1d5d7979g7afag414bg8d42g5a6d8ff54aeb" version="1">Dämonenklinge</content>
+  <content contentuid="h113ba9cbgebe3g4971ga06ag961e06c51d52" version="1">Dämonenjäger</content>
+  <content contentuid="h90649d3fg3642g4a9ag858egbaeffa630a99" version="1">Dämonenjäger, Anhänger von Illidan Stormrage, bewahren ein dunkles Erbe, das ihren Verbündeten und Feinden gleichermaßen Angst macht. Die Illidari befürworten Teufels- und chaotische Magieenergien, die die Welt von Azeroth seit langem bedrohen, und glauben, dass sie notwendig sind, um die Brennende Legion herauszufordern.</content>
+  <content contentuid="h9f928758g9625g4756g800egae1a588b7304" version="1">Dämonenstacheln</content>
+  <content contentuid="hf12838c3ge4dcg42d2gae09g36ada326e6d3" version="1">Dämonenstacheln: Reaktion</content>
+  <content contentuid="h249ac3fagc421g42ccgbb3ega83e18c40190" version="1">Biss des Dämonen</content>
+  <content contentuid="hd2c4ea77gadb8g4baega24dg500507236933" version="1">Dämonisch</content>
+  <content contentuid="h1cce14c6gbd68g4d01g91e1ge40bc41d112f" version="1">Dämonisch</content>
+  <content contentuid="h5ac44fe3g42e0g4c8cga27eg209597899d82" version="1">Unterbrechen</content>
+  <content contentuid="hfd583f16ga9f9g4684ga8a3g75821ef3ab56" version="1">Verbraucht kein Zorn.</content>
+  <content contentuid="hfe6cac45ga019g4079g9dffg5926fb526c6c" version="1">Verdoppelt den Bonus &lt;LSTag Tooltip="ArmourClass"&gt;Rüstungsklasse&lt;/LSTag&gt; durch &lt;LSTag Type="Passive" Tooltip="DH_Mastery_FelBlood"&gt;Meisterschaft: Teufelsblut&lt;/LSTag&gt;.
+
+Wenn Ihr von einem gegnerischen Angriff getroffen werdet, zerspringen Eure Dämonenstacheln und fügen Gegnern in der Nähe [1] zu und blockieren den entsprechenden eintreffen den Schaden.</content>
+  <content contentuid="h7c3ed428gaa27g43ffg9486gadda196820ed" version="1">Umarmt den inneren Dämon, um Feinde zu verbrennen und ihre Verbündeten zu schützen.</content>
+  <content contentuid="hd605febcg6488g4fafg88b1g997bc04266f6" version="1">Verschlinge dich selbst in Flammen und strahle [1] in [2].</content>
+  <content contentuid="hf56e4ff4g5ba0g4207gab7bgfca6c7600097" version="1">Wenn Du &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_V_F"&gt;Metamorphose&lt;/LSTag&gt; betrittst, wird sofort dein &lt;LSTag Type="Spell" Tooltip="Shout_DH_DemonSpikes"&gt;Dämonenstachel&lt;/LSTag&gt; aktiviert. Immer wenn deine Dämonenstacheln zerbrechen, erhältst du 2 &lt;LSTag Type="Status" Tooltip="DH_Buff_Vengeance_SoulFragment"&gt;Seelenfragmente&lt;/LSTag&gt;.
+
+Wenn ihr tödlichen Schaden erleidet, verwandelt ihr euch stattdessen in die &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_V_F"&gt;Metamorphose&lt;/LSTag&gt;-Form und heilt euch um 50% Lebenspunkte. Dies kann einmal pro langer Ruhezeit geschehen.</content>
+  <content contentuid="h217d01a7gaf2bg4aa9g81cdgb5150615c2d6" version="1">Augenstrahl</content>
+  <content contentuid="h3370dbedg1596g4056g832dg56af3aac30b4" version="1">Teufelsverwüstung</content>
+  <content contentuid="hb25d19b3gffbcg40adg920fg8b4ff9ee8cfe" version="1">Teufelsrausch</content>
+  <content contentuid="h5ad6eb54gb2f5g4ef9g94fcg054e8bae0522" version="1">Furie</content>
+  <content contentuid="h4f0ca09cg9518g4b2bga21dgf79c98f4312e" version="1">Zorn ist die wichtigste Ressource von Dämonenjägern und wird für die Ausführung der meisten ihrer Schadensfähigkeiten benötigt. Zorn kann durch bestimmte Dämonenjäger-Fähigkeiten erzeugt werden.</content>
+  <content contentuid="hdf73135bgfc40g46e0g8bc2g167376c94e30" version="1">Erzeugt bei Treffer 20 Wut.</content>
+  <content contentuid="h0ab3f309g7064g4c75gbff7g36774838387b" version="1">Erzeugt bei einem Treffer 20 bis 30 Zorn.</content>
+  <content contentuid="hcda47dabgc7f2g4e0cg9d44gff2387b638c6" version="1">Verwüstung</content>
+  <content contentuid="h2cdddd33ge682g4eefg9f55g7f21ad985b29" version="1">Wenn das Ziel mehrere Arten von Zauberwirkungsressourcen besitzt, verbrennt Manabrand die höchste Stufe aller verfügbaren Ressourcen.</content>
+  <content contentuid="hd7acfdb9gf118g4851g943agcf99282db691" version="1">Aura der Verwüstung</content>
+  <content contentuid="he8624bf4g2c07g4bbcgba5ag0c288b5af9f2" version="1">Inhaftierung</content>
+  <content contentuid="h6f58d0d9ge7f1g453ag8755g36f016a0cfea" version="1">Sperrt einen Dämon, eine Bestie oder einen Humanoiden ein und macht ihn für 10 Runden handlungsunfähig. Der Effekt wird durch Schaden aufgehoben.</content>
+  <content contentuid="h2fcaa13bgabe4g440dgab88g4db969fe9981" version="1">Erhöht deine MaxHP um 25%.
+
+Du erhältst zusätzliche &lt;LSTag Tooltip="ArmourClass"&gt;Rüstungsklasse&lt;/LSTag&gt; basierend auf deinem Geschicklichkeitsmodifikator, und dieser Effekt wird verdoppelt, wenn &lt;LSTag Type="Spell" Tooltip="Shout_DH_DemonSpikes" &gt;Dämonenstacheln&lt;/LSTag&gt; aktiv ist.</content>
+  <content contentuid="h56170f38g3cc2g41d8g8918gaa2ef20f582a" version="1">Erhöht dein Bewegungstempo um [1].
+  
+Dein Feuerschaden wird um deinen Charisma-Modifikator erhöht, und dieser Effekt wird verdoppelt, solange deine &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; aktiv ist.</content>
+  <content contentuid="hb74e41ddg829ag4bb1ga323gb51fff1b50bc" version="1">Höllischer Schlag</content>
+  <content contentuid="hf9b933c5g0dbag4776g8f4bg3d4f7ca24c5e" version="1">Unterbricht das Zaubern des Gegners und bewirkt 1 Runde lang Stille.
+
+Zauber der Stufe 3 oder niedriger können immer unterbrochen werden. Höherstufige Zauber sind schwieriger.</content>
+  <content contentuid="h86d3a744g7bbfg4236ga61dgc87121c618bf" version="1">Springe in die Luft und lande mit explosiver Wucht, wobei du Gegnern innerhalb von [2] [1] Schaden zufügst.
+
+Bei der Landung verwandelst du dich für [3] Runden in einen höllischen Dämon.</content>
+  <content contentuid="h724f0134gec8ag47b1g9079g4eddb9237c3f" version="1">Springe durch die Luft auf einen Zielort zu und füge allen Gegnern im Umkreis von [2] [1] zu.</content>
+  <content contentuid="ha0dea0abg6821g4a97ga627gda600df3b7c2" version="1">Manabrand</content>
+  <content contentuid="he5cfa9e2g4c17g4cddgb1ebg4fe159e1188c" version="1">Beherrschung: Dämonische Anwesenheit</content>
+  <content contentuid="h3a9bc109g3c54g481ag99cfgfa198c6fe546" version="1">Meisterschaft: Teufelsblut</content>
+  <content contentuid="h807a1e61g495eg4caegb0eagb365d925008b" version="1">Metamorphose</content>
+  <content contentuid="h1adc6960ge122g447fg97f8g9a20587b9b16" version="1">Verursache bei einem &lt;LSTag Tooltip="CriticalHit"&gt;kritischen Treffer&lt;/LSTag&gt; mit einer Nahkampfwaffe zusätzlich [1]. Chaosschlag hat eine Chance von [2], 20 Zorn zu erstatten.</content>
+  <content contentuid="hf36d4b8bg961dg4b86gb435gfedf9061e332" version="1">Verursache bei einem Treffer mit einer Nahkampfwaffe zusätzlich [1]. Chaosschlag hat eine [2]-Chance, 20 Zorn zu erstatten.</content>
+  <content contentuid="h56dd6af9g6ad0g4531gabeag9f0f600bd473" version="1">Platziere ein Siegel der Ketten an der Zielposition.
+  
+Wenn es aktiviert wird, zieht es alle Feinde in der Nähe innerhalb von [1] in die Mitte. Gezogene Feinde werden verspottet und ihre Bewegungsgeschwindigkeit wird um 50 % reduziert.</content>
+  <content contentuid="hc1a91722gedc2g455dg8bb4gc0cfd5a87da5" version="1">Platziere ein Siegel der Flamme an der Zielposition.
+  
+Wenn sie aktiviert wird, fügt sie allen Gegnern, die vom Siegel betroffen sind, [1] zu und macht sie 1 Runde lang &lt;LSTag Tooltip="Vulnerable"&gt;Verwundbar&lt;/LSTag&gt; gegenüber Feuerschaden.</content>
+  <content contentuid="h451f8e85gfa74g4babgab2fg49ee01eee9dd" version="1">Schnellangriff für [1].</content>
+  <content contentuid="h348d289bgf0bcg48d1gad3bg884955bd1097" version="1">Unerbittliche Verfolgung</content>
+  <content contentuid="h3ff01d23ge73eg4e5ag9b8cga74daf98c0e9" version="1">Benötigt mindestens 1 Seelenfragment.</content>
+  <content contentuid="h0626b255g1074g4d86gb9fagb7fd65260ceb" version="1">Erfordert das Führen von zwei Nahkampfwaffen.
+  
+Abklingzeit: 2 Runden.</content>
+  <content contentuid="hbbf37763g9250g4a69gbab2gdc320a39d186" version="1">Schwelge im Schmerz</content>
+  <content contentuid="had489ac0gd716g40ebg84e7g5c9d98287ee2" version="1">Stürmt vorwärts und verbrennt alles, was sich euch in den Weg stellt, für [1]. Teufelsrausch kann im selben Zug kostenlos erneut gewirkt werden.</content>
+  <content contentuid="h405940deg6189g41f7gad45gdececae11ba0" version="1">Sendet einen Blitz aus negativer Energie aus, der [1] verursacht und den Zauberplatz der gegnerischen Einheit mit der höchsten Stufe verbrennt. Der verbrannte Zauberplatz verbrennt und verursacht [2] pro Stufe des Zauberplatzes.
+  
+Wenn das Ziel ein Zauberer ist, verbrennt Manabrand bis zu 4 Zauberpunkte und fügt [2] pro verbranntem Zauberpunkt zu.</content>
+  <content contentuid="hd83985f4g1f4ag4766g8d85gadc48c566d63" version="1">Zerschlagenes Schicksal</content>
+  <content contentuid="h9ae3e42ag968bg4a53gb4dfgcb19da7fdd16" version="1">Zerschmetterte Seelen</content>
+  <content contentuid="hce344cabg508bg4cbbgb582g9cfc90dab521" version="1">Zerschmettert die Seele des Ziels, verursacht [1] und spaltet 1-2 &lt;LSTag Type="Status" Tooltip="DH_Buff_Vengeance_SoulFragment"&gt;Seelenfragmente&lt;/LSTag&gt; ab.
+
+Scherung erzeugt 1 zusätzliches &lt;LSTag Type="Status" Tooltip="DH_Buff_Vengeance_SoulFragment"&gt;Seelenfragmente&lt;/LSTag&gt;, wenn &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_V_F"&gt;Metamorphose&lt;/LSTag&gt; aktiv ist.</content>
+  <content contentuid="heac611edg35efg4699ga2e2gd679c5d8cd11" version="1">Scheren</content>
+  <content contentuid="h62f58898g65a4g43afgb2b8g5dd97ae9a77d" version="1">Siegel der Ketten</content>
+  <content contentuid="h8a510743gd9f9g4cf5gb83dg344d33d8462f" version="1">Siegel der Flamme</content>
   <content contentuid="h9903e9afgc929g4da3gb8c5g24e532a215ea" version="1">Abklingzeit der Fertigkeit: Klingentanz</content>
+  <content contentuid="h9d314f50g0bc5g4ae2ga2bdg8adfdc619517" version="1">Abklingzeit der Fertigkeit: Dämonenstacheln</content>
+  <content contentuid="h24f30d7bg866dg46d8g9ff5g7ad118fedad2" version="1">Abklingzeit der Fertigkeit: Augenstrahl</content>
+  <content contentuid="hf1ac2a16g7428g4bccga301g52276778ce77" version="1">Abklingzeit der Fertigkeit: Teufelsverwüstung</content>
+  <content contentuid="h333cc0ddg2c7dg465dg97dag6bec817c46bc" version="1">Schneide dein Ziel für [1] auf. Chaosschlag hat eine [2]-Chance, 20 Zorn zu erstatten.</content>
+  <content contentuid="hfb383c2dg67ecg4788g9e9bg43843509e8e7" version="1">Seelenspaltung</content>
+  <content contentuid="h1f5956f4g55a5g4754g9c7dg5e1520eb3bf4" version="1">Seelenfragment</content>
+  <content contentuid="h9ca98390gfea7g4ad7g8c31g9bf83f4e83ca" version="1">Seelenfragmente werden von Feinden fallen gelassen, die von Dämonenjägern getötet wurden. &lt;LSTag Type="Spell" Tooltip="Target_DH_ChaosStrike"&gt;Chaosschlag&lt;/LSTag&gt; hat außerdem eine 5%ige Chance, dem Ziel ein Seelenfragment abzuspalten.</content>
+  <content contentuid="h11aee857g4ea9g405egadc8g5c89f6271f46" version="1">Spektrales Sehvermögen</content>
+  <content contentuid="h3de4f8d9g0729g4baegb6d2gbdb12c07594c" version="1">Geisterbombe</content>
+  <content contentuid="h0732da42g40c4g43f4gb17dg12d85c24a922" version="1">Schlagt 5 Mal mit beiden Waffen auf Feinde in der Nähe ein und verursacht dabei [1] pro Schlag. Der letzte Schlag verursacht 100% zusätzlichen Schaden.</content>
+  <content contentuid="h79f88e4bg16b1g44d8g8596g3341d12d0c05" version="1">Überschäumen Sie mit Teufelskraft und verdoppeln Sie Ihren Bonus &lt;LSTag Tooltip="ArmourClass"&gt;Rüstungsklasse&lt;/LSTag&gt; aus &lt;LSTag Type="Passive" Tooltip="DH_Mastery_FelBlood" &gt;Meisterschaft: Teufelsblut&lt;/LSTag&gt;.
+  
+Wenn Ihr von einem gegnerischen Angriff getroffen werdet, zerspringen Eure Dämonenstacheln und fügen Gegnern in der Nähe [1] zu und blockieren den entsprechenden eintreffenden Schaden.</content>
+  <content contentuid="h6f0c6b87g9439g4dcegb023gca5ea731af51" version="1">Wenn ihr tödlichen Schaden erleidet, verwandelt ihr euch stattdessen in die &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_V_F"&gt;Metamorphose&lt;/LSTag&gt;-Form und heilt euch um 50% Lebenspunkte.</content>
+  <content contentuid="h7b7dfdc0g7f25g4ba4gb05bg4d4d7f7695f8" version="1">Das Ziel wird handlungsunfähig gemacht. Wenn es Schaden erhält, wird der Effekt aufgehoben.</content>
+  <content contentuid="h5d7ba022g85f2g4daag853eg2e5fa7c637c9" version="1">Das Ziel wird verspottet und seine Bewegungsgeschwindigkeit wird um 50 % verringert.</content>
+  <content contentuid="h4c4f241cg2318g4d3fga6d8g75c64d7d2e5f" version="1">Das Ziel ist verspottet.</content>
+  <content contentuid="h7128b16dg773fg4b1cg8910g881227da3ada" version="1">Das Ziel ist anfällig für Feuerschaden.</content>
+  <content contentuid="heafa6217g8bfbg465fg9305g2cdbbf631632" version="1">Fordert das Ziel auf, dich anzugreifen.</content>
+  <content contentuid="haab9c51dgdca6g4ac4g8867ga26ce7437971" version="1">Wirf eine dämonische Klinge auf das Ziel, die [1] verursacht. Die Klinge kann innerhalb von [2] bis zu 3 Mal an 1 weiteren Feind abprallen.</content>
+  <content contentuid="ha62925e2g8eefg4a9bg9f4bg664391440736" version="1">Wurfklinge</content>
+  <content contentuid="h6cb0a183g8b67g4891gb5fcgf16a55d791a6" version="1">Folter</content>
+  <content contentuid="h756df832g5023g4feegbba0ga899a9c28691" version="1">Verwandle dich für [1] Runden in die Dämonengestalt. Fügt Gegnern in der Nähe [2] zu und macht sie 1 Runde lang &lt;LSTag Type="Status" Tooltip="DAZED"&gt;benommen&lt;/LSTag&gt;.</content>
+  <content contentuid="hd7ec2315g9f29g4aedga718g1d712beb3ccf" version="1">Entfesselt einen Ausbruch von Felsenergie, der [1] verursacht und &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;alle Feinde im Umkreis von [2] 1 Runde lang betäubt&lt;/LSTag&gt;.</content>
+  <content contentuid="hda01a83agb840g45a1gbd23g61a9372415bf" version="1">Entfesselt die Hölle in Euch und fügt Gegnern direkt vor Euch [1] lang Schaden zu. Heilt dich für 50% des verursachten Schadens.</content>
+  <content contentuid="h512639f9g80e6g4ed1g967egbdb0a0843f03" version="1">Rache</content>
+  <content contentuid="h3db42320g03f2g49efg86cdgc92d8faf3fa2" version="1">Schlage bis zu 5 Feinde vor dir für [1] und heile dich um 25% des verursachten Schadens.
+
+Verbraucht bis zu 2 verfügbare &lt;LSTag Type="Status" Tooltip="DH_Buff_Vengeance_SoulFragment"&gt;Seelenfragmente&lt;/LSTag&gt; und heilt dich für jedes verbrauchte &lt;LSTag Type="Status" Tooltip="DH_Buff_Vengeance_SoulFragment"&gt;Seelenfragment&lt;/LSTag&gt; um weitere 25% Schaden.</content>
+  <content contentuid="h49abb0f6g82beg4fbfg816fge8a97ecfd3a1" version="1">Das Kriegsgeschehen von Azzinoth</content>
+  <content contentuid="ha32d52dfga143g4954g8bfcgd55b6eb6d0ad" version="1">Während aktiv: Erzeugt 10 Zorn pro Runde.</content>
+  <content contentuid="h62ed4940gbc84g4d39gadb7g3be12d0f75d9" version="1">Während du dich in &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; befindest, hast du eine Chance von [1] pro ausgegebener Wut, deine aktive &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; um 1 Runde zu verlängern.
+  
+Der Eintritt in Metamorphose gewährt dir sofort kostenlosen &lt;LSTag Type="Spell" Tooltip="Shout_DH_BladeDance"&gt;Klingentanz&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Zone_DH_EyeBeam"&gt;Augenstrahl&lt;/LSTag&gt;.</content>
+  <content contentuid="h38b8141dgf527g41eaga488gce388313e5fe" version="1">Solange du dich nicht in &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; befindest, bewirkt das Wirken von &lt;LSTag Type="Spell" Tooltip="Zone_DH_EyeBeam" &gt;Augenstrahl&lt;/LSTag&gt;, dass du für 2 Runden in &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_F"&gt;Metamorphose&lt;/LSTag&gt; eintrittst.
+
+&lt;LSTag Type="Spell" Tooltip="Target_DH_ChaosStrike"&gt;Chaosschlag&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_DH_BladeDance" &gt;Klingentanz&lt;/LSTag&gt; Treffer haben eine [1] Chance, die &lt;LSTag Type="Spell" Tooltip="Zone_DH_EyeBeam"&gt;Augenstrahl&lt;/LSTag&gt; Abklingzeit um 1 Runde zu reduzieren.</content>
+  <content contentuid="h59d7e43dga8f3g4d99ga07cg056af3b40d45" version="1">Wenn du dich nicht im Zustand &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_V_F"&gt;Metamorphose&lt;/LSTag&gt; befindest, das Wirken von &lt;LSTag Type="Spell" Tooltip="Zone_DH_FelDevastation"&gt;Teufelsverwüstung&lt;/LSTag&gt; bewirkt, dass du für 2 Runden in &lt;LSTag Type="Status" Tooltip="WoWDH_POLYMORPH_DEMONFORM_V_F"&gt;Metamorphose&lt;/LSTag&gt; eintrittst.
+
+Der Verzehr eines &lt;LSTag Type="Status" Tooltip="DH_Buff_Vengeance_SoulFragment"&gt;Seelenfragments&lt;/LSTag&gt; hat eine [1] Chance, die Abklingzeit von &lt;LSTag Type="Spell" Tooltip="Zone_DH_FelDevastation"&gt;Teufelsverwüstung&lt;/LSTag&gt; um 1 Runde zu verringern.</content>
+  <content contentuid="h7c623ef3g6e54g4946g82f3g689ffc230bb3" version="1">Du bist im Besitz von Seelenfragmenten deiner Feinde. Du kannst bis zu 5 Seelenfragmente besitzen.</content>
+  <content contentuid="hb6178c63gdf88g48b5ga081gcd0e6e852746" version="1">Du verwandelst dich in einen mächtigen Dämon. Deine Angriffe erhalten einen Vorteil und ignorieren die Feuerresistenz des Ziels. Du erhältst außerdem 25% mehr Geschicklichkeit und Charisma.</content>
+  <content contentuid="hb3ee3bebgade7g4ce4g82c0geef7dd2a31a3" version="1">Du verwandelst dich in einen mächtigen Dämon. Ihre Angriffe gewinnen an Vorteil und ignorieren den Feuerwiderstand des Ziels. Außerdem erhältst du 25 % erhöhte Geschicklichkeit und Konstitution.</content>
+  <content contentuid="h343a4b7fg3e1cg4befgb11dg4bc7ae45e037" version="1">Deine Dämonenstacheln zersplittern, fügen Feinden in der Nähe [1] zu und blockieren den eingehenden Schaden.</content>
+  <content contentuid="h61af57f6g74e3g4ebag9fb8g1f17c6d3b8aa" version="1">Dein maximaler Zorn wird auf [1] erhöht.
+  
+Zorn ist die wichtigste Ressource von Dämonenjägern und wird für die Ausführung der meisten ihrer Schadensfähigkeiten benötigt. Wut kann durch bestimmte Dämonenjäger-Fähigkeiten erzeugt werden.</content>
+  <content contentuid="h9acc5e45g408eg445dg9013g9346d539d049" version="1">Deine Waffenangriffe verursachen zusätzlich [1] und erzeugen 5-10 Zorn.</content>
 </contentList>
