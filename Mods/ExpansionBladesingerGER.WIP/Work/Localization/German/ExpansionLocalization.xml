@@ -1,4 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
   <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="778fd309-ba52-40b6-8d5d-9236d6b4219c" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Rüstungsklasse&lt;/LSTag&gt; und Konstitution &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; zur Aufrechterhaltung der Konzentration um [1] erhöht und mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; über Akrobatik-&lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+  <content contentuid="da58aff0-6c4d-402b-8fe2-2243b7d2a993" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Der Effekt endet, wenn Sie weniger als die Hälfte Ihrer gesamten Bewegung haben.</content>
+  <content contentuid="8dacdd49-0efb-469a-be1e-e508dbfb2146" version="1">Aktivieren, um einen Bonus von +[1] zu &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitsprüfungen&lt;/LSTag&gt; hinzuzufügen.</content>
+  <content contentuid="27e203e5-3e29-4b09-99c9-fa7060784031" version="1">Füge einen Bonus von +[1] zu einem &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; oder einem &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; hinzu.</content>
+  <content contentuid="f19c7c75-299b-4dd1-bc0b-04597562abba" version="1">Klingengesang</content>
+  <content contentuid="h3c1d456cg3205g414bg83f3g3553efeefe16" version="1">Klingengesang: Zusätzlicher Angriff</content>
+  <content contentuid="a0c4c7aa-99de-455e-953e-c527019d4540" version="1">Klingengesang</content>
+  <content contentuid="hee205f06gca41g4dedg89cdg8bfb80bbd016" version="1">Klingengesang Angriff</content>
+  <content contentuid="5d65f927-a55e-44a9-a03e-bf1b7e1a0ae6" version="1">Kann nach einem unbewaffneten Angriff oder einem Waffenangriff einen zusätzlichen kostenlosen Angriff ausführen oder einen Zaubertrick wirken.</content>
+  <content contentuid="e79797137bc54f2ca5678209d5619edd" version="1">Kann nicht aktiviert werden, wenn man mittlere oder schwere Rüstung trägt oder mit einem Schild ausgestattet ist.</content>
+  <content contentuid="488c86d5-742a-4b09-a969-cd1f3d77852b" version="1">Cannot be used on a two handed weapon.</content>
+  <content contentuid="7c2d8b56-c598-4d53-b653-945b942f7730" version="1">Choose a type of one-handed melee weapon to gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in.</content>
+  <content contentuid="5538c5d1-bf81-4659-ba88-07222edd392a" version="1">Der Schaden Ihrer Nahkampfwaffenangriffe wurde um [1] erhöht, während Ihr Klingengesang aktiv ist.</content>
+  <content contentuid="2bbcd67e-c395-467e-9e41-ce0641ded232" version="1">Klingengesang abweisen</content>
+  <content contentuid="77abc5bdfbad49ef8d145ef2b15390a7" version="1">Die Wirkungen von Klingengesang aufheben.</content>
+  <content contentuid="49c9efca-dd76-4a37-9584-33bd3043618b" version="1">Schaffe ein mächtiges Band zwischen dir und deinen Verbündeten. Während der Verbundenheit können Kreaturen, die sich [1] voneinander entfernt befinden, einmal pro Runde einen [2]-Bonus auf einen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitscheck&lt;/LSTag&gt; oder &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswurf&lt;/LSTag&gt; erhalten.</content>
+  <content contentuid="c365a45c-2dac-40aa-9eee-c5be8a8109ec" version="1">Erhalte die Fähigkeit, deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; zu erhöhen, ohne &lt;LSTag Tooltip="OpportunityAttack" &gt;Gelegenheitsangriffe&lt;/LSTag&gt; zu provozieren, und stelle verbündeten Kreaturen innerhalb von [2] einmal [1] wieder her.</content>
+  <content contentuid="21066223-d5e8-444f-b0cc-4f649b3b5cc5" version="1">In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense.
+	
+	Level 2 -  &lt;LSTag Type="Passive" Tooltip="TrainingInWarAndSong"&gt;Training in War and Song&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Bladesong_Resource"&gt;Bladesong&lt;/LSTag&gt;
+	Level 6 - &lt;LSTag Type="Passive" Tooltip="ExtraAttack_Bladesinging"&gt;Extra Attack&lt;/LSTag&gt;
+	Level 10 - &lt;LSTag Type="Passive" Tooltip="SongOfDefense"&gt;Song of Defense&lt;/LSTag&gt;
+	Level 14 - &lt;LSTag Type="Passive" Tooltip="SongOfVictory"&gt;Song of Victory&lt;/LSTag&gt;</content>
+  <content contentuid="1b8729cc-9b3d-4126-b413-757e047437bf" version="1">Beschwöre eine elfische Magie namens „Klingengesang“, die dich mit übernatürlicher Geschwindigkeit, Beweglichkeit und Konzentration verleiht, solange du keine mittlere oder schwere Rüstung trägst oder einen Schild verwendest.</content>
+  <content contentuid="0a07d1346d794825bf36c51b03e0e555" version="1">Keine Kompetenz</content>
+  <content contentuid="fb87975e461a44c392ac30bcebfba43d" version="1">Der erlittene Schaden wurde um -[1] verringert.</content>
+  <content contentuid="b20e04c9-647b-48ab-99b6-5fa0fbd957ea" version="1">Lied der Verteidigung</content>
+  <content contentuid="76e7c6f3-e15a-40cc-9ee1-04f1993c78f7" version="1">Song of Victory</content>
+  <content contentuid="2a15fc63-ef81-4881-b7b4-e593ed7c394b" version="1">Training in War and Song</content>
+  <content contentuid="cdac1eaa-bf9e-43da-a352-deffeb061813" version="1">Weapon already affected by the Hex Warrior feature.</content>
+  <content contentuid="8d39dadd-360e-4469-a642-e8ae8973abd0" version="1">Wenn du Schaden erleidest, kannst du deine Reaktion nutzen, um einen Zauberslot der Stufe [1] zu verbrauchen und den erlittenen Schaden von [2] zu verringern.</content>
+  <content contentuid="e92507b0899a4e6b9c6fdd9688a116b5" version="1">When you take damage, you can use your reaction to expend a spell slot and reduce the damage taken by five times the spell slot's level.</content>
+  <content contentuid="fe4a7e6b-17d4-4e62-b28e-ed987cb4e3a5" version="1">When you would take damage, you can expend a Level [1] &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt; and reduce the damage dealt to you by [2].</content>
+  <content contentuid="8b644f45-4b53-4acb-a78b-780fc50b1c49" version="1">You can add your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active.</content>
+  <content contentuid="a85ab2e07b7d4cc5babd8694e19f778d" version="1">You can choose to not become proficient in a weapon.</content>
+  <content contentuid="1ae7c683-e5d1-4430-b72a-16cae830bd36" version="1">You can direct your magic to absorb damage while your Bladesong is active. When you take damage, you can use your reaction to expend one &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt; and reduce that damage to you by an amount equal to five times the &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot's&lt;/LSTag&gt; level.</content>
+  <content contentuid="bad85182-6102-4901-903d-590a3ba91e77" version="1">You can forge an empowering bond among people who are at peace with one another. As an action, you choose [1] allied creatures within [2] of you (including yourself) and create a magical bond among them or until you use this feature again. While any bonded creature is within [2] of another, the creature can add a bonus of +[3] to an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; it makes once per turn.</content>
+  <content contentuid="27adf46d-fa49-41a9-ab0e-d1590232c1bc" version="1">Du erlangst &lt;LSTag Tooltip="Proficiency" &gt;Fähigkeit&lt;/LSTag&gt; mit leichter Rüstung und du erlangst &lt;LSTag Tooltip="Proficiency" &gt;Fähigkeit&lt;/LSTag&gt; mit einem Typ einhändiger Nahkampfwaffen deiner Wahl. Du erhältst außerdem &lt;LSTag Tooltip="Proficiency" &gt;Befähigung&lt;/LSTag&gt; in der Fertigkeit Leistung, wenn du sie nicht bereits besitzt.</content>
+  <content contentuid="4c0c5808-0bb4-4a21-82cb-2b665052f53a" version="1">Dein Klingengesang endet vorzeitig, wenn du außer Gefecht gesetzt bist, eine mittlere oder schwere Rüstung oder einen Schild trägst oder wenn du mit zwei Händen einen Angriff mit einer Waffe ausführst.</content>
+  <content contentuid="84e070ec-9320-4423-88bb-e9b08b425d3c" version="1">Ihre Ressource für die Nutzung der Klingengesang-Funktion.</content>
 </contentList>
