@@ -4,6 +4,7 @@
   <content contentuid="h8f4aeec4g3e53g4355g97a1gb1de6ab9151d" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; wird um [1] erhöht und die Tragekapazität verdoppelt. Dieser Stärkungszauber endet, wenn sie Schaden erleiden.</content>
   <content contentuid="h6050c533gb416g4409g9deeg9fcb67a3b1b2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Die Bedingung endet, wenn ein Zauber gewirkt wird, der Konzentration erfordert.</content>
   <content contentuid="h50f64f86gb085g4c73g8b63g9925e37f3ea3" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Wenn die Bedingung endet, wird &lt;LSTag Type="Status" Tooltip="EXHAUSTED" &gt;Erschöpft&lt;/LSTag&gt;.</content>
+  <content contentuid="h3387091eg37eeg47b8g9cfdg42a11de3efba" version="1">Ein Standard Gambeson aus gestepptem Stoff. Gut, um Schläge abzufangen, aber fast unerträglich schweißtreibend.</content>
   <content contentuid="hfb528918g0592g4528gab28g424f15d2849b" version="1">Das betroffene Wesen verfügt über &lt;LSTag Tooltip="Immune"&gt;Immunität&lt;/LSTag&gt; gegen nekrotischen Schaden.</content>
   <content contentuid="h9b16907bg85d4g498egb54ag8370d014b864" version="1">Das betroffene Wesen verfügt über &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen nekrotischen Schaden.</content>
   <content contentuid="h99e4e6abg0492g4bb1g9ac6g6c45d97d2b8e" version="2">Dem betroffenen Wesen wird eine schreckliche Qual zugefügt</content>
@@ -44,7 +45,7 @@
   <content contentuid="h2695730dg14c8g47ccg8b9cg61d7097b2f62" version="1">Nekrotischer Widerstand</content>
   <content contentuid="h8f963fd9g5ddbg4becg8b61g39bc21e76154" version="1">Einmal in jedem deiner Züge, wenn du eine Kreatur mit einem Angriff triffst und Schaden gegen die Kreatur würfelst, kannst du die Schadensart durch Nekrotischen Schaden ersetzen.</content>
   <content contentuid="h3711ba99g49b4g43f3g9c4cg82ffcc67d03f" version="1">Zwinge die Kreatur zu einem Weisheitswurf, und wenn dieser misslingt, hat das Ziel bis zum Ende deines nächsten Zuges Angst vor dir.</content>
-  <content contentuid="h3711ba99g49b4g43f3g9c4cg82ffcc67d03f" version="1">Force the creature to make a Wisdom saving throw, and if the saving throw fails, the target is frightened of you until the end of your next turn.</content>
+  <content contentuid="hdf090126g87a4g45cdgacb4g3b01c016ca83" version="1">Gepolsterte Rüstung</content>
   <content contentuid="h04480a48g9d73g4ed7g9b1cga71c5a0e41bb" version="1">Gönner: Erzlich</content>
   <content contentuid="h9d934614g4b6fg4566g9ed4g9f0bdba7321f" version="1">Gönner: Uralte Untote</content>
   <content contentuid="h46cae778g1fb2g4086ga128g3cbf0895db9f" version="1">Gönner: Große Mumie</content>
@@ -57,9 +58,9 @@
   <content contentuid="h0d7f353fg90d1g474ag8871g61c7b18e2312" version="1">Übungsbonus +3</content>
   <content contentuid="h4a524f8bge902g46bbga01ag17ae362af23e" version="1">Übungsonus +4</content>
   <content contentuid="h9501cd1ag9d52g4932gb306gb1435cabcedf" version="1">Wählen Sie einen Gönner aus</content>
-  <content contentuid="h5c6a0f9eg253bg4fbbg8c6eg4f9b9c9f9aa5" version="1">Wähle einen deiner Level-7-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;STag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>
-  <content contentuid="h6fa11281g8898g423bgb6cag8c14c9c96056" version="1">Wähle einen deiner Level-8-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;STag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>
-  <content contentuid="h9c4775d7g0233g4e20gab5dg012d4581435a" version="1">Wähle einen deiner Level-8-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;STag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>
+  <content contentuid="h5c6a0f9eg253bg4fbbg8c6eg4f9b9c9f9aa5" version="1">Wähle einen deiner Level-7-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;LSTag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>
+  <content contentuid="h6fa11281g8898g423bgb6cag8c14c9c96056" version="1">Wähle einen deiner Level-8-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;LSTag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>
+  <content contentuid="h9c4775d7g0233g4e20gab5dg012d4581435a" version="1">Wähle einen deiner Level-8-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;LSTag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>
   <content contentuid="hcb993405g10f6g4bbfgbe3agbca8ede0081a" version="1">Geisterprojektion</content>
   <content contentuid="h80f98af5ga24cg4b79ga92eg4e36d2861582" version="1">Die Zielkreatur ist &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Verängstigt&lt;/LSTag&gt;.</content>
   <content contentuid="h0de7eadcgaa31g4412g93bagafcebfa2a3f0" version="1">Die Untoten</content>

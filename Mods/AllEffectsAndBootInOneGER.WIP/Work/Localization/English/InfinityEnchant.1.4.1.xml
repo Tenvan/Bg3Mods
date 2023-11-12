@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList date="17/07/2023 12:47">
+
+<content contentuid="h77b945c4gfd85g49f1ga503g9c8616574fe0" version="1">Ifinity Ring - Appearance</content>
+<content contentuid="h8da4d36agf52eg497eg81bfgdc192f803c57" version="1">Only Visual and Attack effects, zero boosts.</content>
+
+<content contentuid="h1532fbfdg4b59g4ddeg8e3agc69cce09f701" version="1">Ifinity Amulet - Appearance</content>
+<content contentuid="he428da9cgc18bg4d94ga79agf002e0ca6fb3" version="1">Only Visual and Attack effects, zero boosts.</content>
+
+<content contentuid="h5a7b17abg0ddcg4a4cga6d5g02efd41db806" version="1">Ifinity Ring - Invisible Powers</content>
+<content contentuid="he31743b7gd08ag4edcga79fgaa9923f2ec3c" version="1">Only Powers and Attack Effects, without Visuals on items.</content>
+
+<content contentuid="h45d75c55ga259g4387g9312ge3dd64675e8f" version="1">Ifinity Amulet - Invisible Powers</content>
+<content contentuid="h9bb87b22g9db8g4165g87e3gba85e1532067" version="1">Only Powers and Attack Effects, without Visuals on items.</content>
+
+
+
+<content contentuid="hbdec3235gffa6g4c55g8196g621ce52fd947" version="1">Ifinity Power</content>
+<content contentuid="h7ef9f443g6d09g4190g97bdgd7fdf4f6a58d" version="1">Contains all effects and boosts for weapons</content>
+
+<content contentuid="h0b2f3979g19e9g4138ga107gfe26e88d5f0a" version="1">Bloody Weapons Power</content>
+<content contentuid="hda868ecfg7bcdg427bgac8bg2fba728ac46c" version="1">Bloody, Red effects and Force, Vampiric based powers</content>
+
+<content contentuid="h3c743875gc7adg4d1ega557gf8c9451ac475" version="1">Psychic Weapons Power</content>
+<content contentuid="he96274cfgac29g4096gb130gee0ab166dfb0" version="1">Mages based powers, Ultraviolet, Psychic effects</content>
+
+<content contentuid="hd1b91bc2gc87ag41aag9135ge78b239f75ce" version="1">Lightning Weapons Power</content>
+<content contentuid="h3702e579ga1cfg48cegacb7g9fa0446931a7" version="1">Lightning, Mjolnir based effects and powers</content>
+
+<content contentuid="hd7a6ddceg9385g4a74ga8dbg4b479479fe14" version="1">Divine Weapons Power</content>
+<content contentuid="h772e903age995g4eb9g8518gf4d6e533bc3b" version="1">Sun, Divine, Radiant based effects and powers</content>
+
+<content contentuid="hf0f448c0g995fg4ab8g8b60g79e3b3c051c9" version="1">Fire Weapons Power</content>
+<content contentuid="h0042b089g1879g4f55g9dd3g673af1fe4e20" version="1">Fire effects and powers</content>
+
+<content contentuid="he5e56aa5gde21g4086g9d01gd892a5890b0b" version="1">Dark Weapons Power</content>
+<content contentuid="hc9bc6de4g9ecag49ddgb792g9b8f0f478d6a" version="1">Dark, Necrotic based effects and powers</content>
+
+<content contentuid="h054ea438g39d5g4bddg9870g08e73b04a7d7" version="1">Acid Weapons Power</content>
+<content contentuid="he1b3ce8eg7e13g4430g9529gc05e37720e34" version="1">Acid effect and powers</content>
+
+
+<content contentuid="hd6aa5407g198fg4d58g9f5bgfacfe3475862" version="1">Infinity Ring</content>
+<content contentuid="h2d6346d4g624fg48dagac84g115ba5131614" version="1">Infinity Amulet</content>
+
+<content contentuid="ha9267166g8b5dg4b9egaa2eg677442b9ffb4" version="1">FIVE</content>
+<content contentuid="h2e4711e1g75efg4a07gb908g067e9b769bd1" version="1">SIX</content>
+<content contentuid="h676c2c54g6756g49a2g8375g91a78aeb952b" version="1">SEVEN</content>
+
+<content contentuid="h81323f45g8ff6g41bfgbc95g342d9a7d5c74" version="1">Red Weapon Glow</content>
+<content contentuid="h5c8b2c1dg7a51g4cb0g8300gf0526c69685b" version="1">Visual Effect applies properly on any weapons. 
+
+Your weapons and unarmed attacks deals additional [1].</content>
+
+
+<content contentuid="h100aa48eg8e6eg454cgbc0eg1c63c410566f" version="1">Red Halo - Hand</content>
+<content contentuid="h87db6801gfdf0g4a21g9f30g1f78f28e3de7" version="1">Visual Effect applies on hands. 
+
+Your Spell attacks can &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Scare&lt;/LSTag&gt; the target for 2 turns. 
+Charisma saving throw.</content>
+
+
+<content contentuid="hc58954a9g9069g41feg9214g528c3d80e0c9" version="1">Red Halo - Weapon</content>
+<content contentuid="ha8abf6d2g2b26g40e9g9556g6823d60675dc" version="1">Visual Effect applies on top of the weapon.
+ 
+Your Weapon attacks can &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Scare&lt;/LSTag&gt; the target for 2 turns. 
+Charisma saving throw.</content>
+
+
+<content contentuid="hbf01fee3gf835g44a6g89cag6a0bba22bd8d" version="1">Force Core - Hand</content>
+<content contentuid="h273cbea2g8883g4c7eg9792ga2d8cb116248" version="1">Visual Effect applies on hands. 
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Spellcasting modifier&lt;/LSTag&gt;&lt;/b&gt; as bonus Force damage to spells.</content>
+
+
+<content contentuid="hbbbb1f3egdf4dg4bb9g99b7g298cda702d1b" version="1">Bloody Allegiance Power - Blades</content>
+<content contentuid="h105d9dcfg1e35g466cg8712g96974a0ecf5e" version="1">Visual Effect applies properly on Swords, Katanas, Rapiers.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;25%&lt;/LSTag&gt;&lt;/b&gt; of weapon damage dealt &lt;b&gt;&lt;LSTag Tooltip="test"&gt;reagin your hitpoints.&lt;/LSTag&gt;&lt;/b&gt;
+
+Your weapon deals additional [1], grows with your progression.</content>
+
+
+<content contentuid="h54829b14gf97ag4469g9c13gb57f1bce0059" version="1">Divine Allegiance Power - Blades</content>
+<content contentuid="h48ab6638g84e8g4f92gbff1g2a78de77b319" version="1">Visual Effect applies properly on Swords, Katanas, Rapiers.
+
+Your weapon deals additional [1], grows with your progression.
+
+Succefull hit on enemy produces small shockwave that deals [2] in 2m radius around the target.</content>
+<content contentuid="h63c41ea5g1964g4244gac9dgba689e5f049c" version="1">Divine Allegiance Shockwave</content>
+
+
+
+<content contentuid="ha900e387gff15g44a2g964age9dc7250424a" version="1">Heavens Divider Power - Weapon</content>
+<content contentuid="h01bf329bgb038g400dga607g62c3a6edc864" version="1">Visual Effect applies on top of the weapon.
+
+Your weapon deals additional [1], grows with your progression.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;15% of Spells damage dealt regain your hitpoints.&lt;/LSTag&gt;&lt;/b&gt;
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Spellcasting Modifier&lt;/LSTag&gt;&lt;/b&gt; as bonus Psychic damage to spells hits.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Proficiency Bonus&lt;/LSTag&gt;&lt;/b&gt; as bonus Psychic damage to Ranged attack hits.</content>
+
+
+<content contentuid="h1a4f64b8g2c94g4920g8cd8g2b39ef67d348" version="1">Heavens Divider Ultimate - Weapon</content>
+<content contentuid="hedb2fa7ag0876g4388gb36bgb4f68367d92d" version="1">Visual Effect applies on top of the weapon.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;+2 INT, WIS.&lt;/LSTag&gt;&lt;/b&gt;
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Resistance to Psychic Damage.&lt;/LSTag&gt;&lt;/b&gt;
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;15% of Spells damage dealt regain your hitpoints.&lt;/LSTag&gt;&lt;/b&gt;
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Spellcasting modifier&lt;/LSTag&gt;&lt;/b&gt; as bonus Psychic damage to spells hits.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Proficiency Bonus&lt;/LSTag&gt;&lt;/b&gt; as bonus Psychic damage to Ranged attack hits.
+
+</content>
+
+
+<content contentuid="h48aac6c8g8bb2g4f6fg870fg401220f68faf" version="1">Heavens Divider Ultimate</content>
+<content contentuid="h5f16ec12g3f46g4b81g96e6g6560f39ffe1c" version="1">&lt;b&gt;&lt;LSTag Tooltip="test"&gt;+2 INT, WIS.&lt;/LSTag&gt;&lt;/b&gt;
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Resistance to Psychic Damage.&lt;/LSTag&gt;&lt;/b&gt;</content>
+
+
+<content contentuid="he0ddb1a5gf558g43e1g8a79ge55a52ee65b6" version="1">Lightning Effect - Weapon</content>
+<content contentuid="h9d541f2ag180fg45f8g904dg789779cb4c68" version="1">Visual Effect applies properly on any weapons.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;+5% Critical Chance.&lt;/LSTag&gt;&lt;/b&gt;</content>
+
+
+<content contentuid="hf87dfeaag1603g44bbg83ccg7a492037d55d" version="1">Lightning Effect</content>
+<content contentuid="h8ae2eb2eg7deag4eafg9d29gd8cabcecbdc6" version="1">&lt;b&gt;&lt;LSTag Tooltip="test"&gt;+5% Critical Chance.&lt;/LSTag&gt;&lt;/b&gt;</content>
+
+
+<content contentuid="h4d1fbad1ga7a0g4d6dgb9b7g2c5ad3e0d27b" version="1">Lightning Dark Core - Weapon</content>
+<content contentuid="h3ea90f40g655fg4b2fga0f7gd18fcdac2bcc" version="1">Visual Effect applies on top of the weapon.
+
+Your &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Spellcasting Modifier&lt;/LSTag&gt;&lt;/b&gt; as Lightning Bonus damage for spells hits.
+
+If you deal critical hit with Spell or Cantrip you produce &lt;b&gt;&lt;LSTag Tooltip="test"&gt;ChainLightning to anyone in 10m&lt;/LSTag&gt;&lt;/b&gt; that deals [1].
+
+Your Spells and Cantrips imposes a &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shock&lt;/LSTag&gt; effect on targets.
+</content>
+<content contentuid="h3b133405g4778g4459g93d8g5636a044fc32" version="1">Critical ChainLightning</content>
+<content contentuid="h6ece2a2bg8fe7g4cd9g8275gf272845bec83" version="1">Deals [1] to anyone in 10m.</content>
+
+
+
+<content contentuid="h4885555bg525dg4dc4gbdacgd61591e675ec" version="1">Mjolnir Effect - Weapon</content>
+<content contentuid="ha32c3892gca08g4cc4g8a2bgbb8abdd89637" version="1">Visual Effect applies on top of the weapon.
+
+Your weapon deals additional [2], grows with your progression.
+
+If you deal critical hit with weapon you produce &lt;b&gt;&lt;LSTag Tooltip="test"&gt;ChainLightning to anyone in 10m&lt;/LSTag&gt;&lt;/b&gt; that deals [1].
+
+Your weapon attacks imposes a &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shock&lt;/LSTag&gt; effect on targets.</content>
+
+
+<content contentuid="hcc4d9716gf903g49b2gacdfgbe505d972402" version="1">Sun Halo - Weapon</content>
+<content contentuid="hc1f2be36g9fdag4aa4gaf53gb2f7dc574fee" version="1">Visual Effect applies on top of the weapon.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;1-4 Bonus Damage&lt;/LSTag&gt;&lt;/b&gt; to everything.</content>
+
+
+<content contentuid="hd740ae39gf1a9g44aagb562gc3a42508172a" version="1">SacredHeated - Weapon</content>
+<content contentuid="h78a863dfg4cb5g4b0cga168g82844be68728" version="1">Visual Effect applies properly on any weapons.
+
+On succesfull hit with weapons, spells, cantrips you melt enemies armor. &lt;b&gt;&lt;LSTag Tooltip="test"&gt;-4 AC, -2 STR to target.&lt;/LSTag&gt;&lt;/b&gt; </content>
+
+
+<content contentuid="h51c446d9gb0a0g49efg9efagfba6a76802c9" version="1">Radiant Glow - Weapon</content>
+<content contentuid="h416b3287g832ag4d8agada3gf54e496e11e7" version="1">Visual Effect applies properly on any weapons.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;1-4 to weapons attacks rolls.&lt;/LSTag&gt;&lt;/b&gt;
+
+Your weapon deals additional [1].</content>
+
+
+<content contentuid="h24138d3eg8e17g4976g87b2g735a830411c9" version="1">Sun Blade Ball - Hand</content>
+<content contentuid="h05476f4fg2fb1g4ed5g9cd6g2338162b4aa1" version="1">Visual Effect applies on hands.
+
+Your weapon attacks &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; targets.
+
+Undeads and Fiends take additional [1].</content>
+
+
+<content contentuid="h8710da59g030bg4e5bg996ag51af1734ef1e" version="1">Sun Blade Ball - Weapon</content>
+<content contentuid="h3dfd5eb8g98aag4c4fga495g0d498bcddb1a" version="1">Visual Effect applies on top of the weapon.
+
+Your Spells and Cantips &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; targets.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Spellcasting Modifier&lt;/LSTag&gt;&lt;/b&gt; as bonus Radiant damage on spells hits.
+
+Spells and Cantips deals additional [1] to Undeads and Fiends.</content>
+
+
+<content contentuid="h8123c586g41e4g499cg971cgf6c0448129f0" version="1">Fire - Weapon</content>
+<content contentuid="hff2f0dc0gf914g4c11gb1e1g88b9dc9ad796" version="1">Visual Effect applies properly on any weapon.
+
+Your weapon deals additional [2], grows with your progression.
+
+Your weapon attacks applyies &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; effect on targets.</content>
+
+
+<content contentuid="hf89ff18eg8624g42d1g8a90g2c8e58d7e451" version="1">Fire Ball - Weapon</content>
+<content contentuid="h2003076bgbcedg41eagbc88gee305a174cfe" version="1">Visual Effect applies on top of the weapon.
+
+Your Spells and Cantips deals additional [1], grows with your progression.</content>
+
+
+<content contentuid="hc24d92d0g4afcg4931gb0e3g1253df107967" version="1">Small Fire Ball - Hand</content>
+<content contentuid="h9047ca9ag6afag443aga5bbg0d3e9eec9734" version="1">Visual Effect applies on hands.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Your Spellcating modifier as Fire Bonus damage to spells hits.&lt;/LSTag&gt;&lt;/b&gt;
+
+Your Spells and Cantips applyies &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; effect on targets.</content>
+
+
+<content contentuid="he05289f1gef03g4972g838cg620797ea09d3" version="1">Searing Fire Ball - Hand</content>
+<content contentuid="h49c88499g5504g4fbcgab1eg4b7da814d717" version="1">Visual Effect applies on hands.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Your Spellcating modifier as Fire Bonus damage to spells hits.&lt;/LSTag&gt;&lt;/b&gt;
+
+Your Spells and Cantips applyies &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; effect on targets.</content>
+
+
+<content contentuid="h2419f905gaa92g4c93g8f0ag3b6708f3a0e5" version="1">Necrotic - Weapon</content>
+<content contentuid="h9379f625g6137g47c4ga4a5g5825de68a3b9" version="1">Visual Effect applies properly on any weapon.
+
+Your weapon and unarmed attacks deals additional [1], grows with your progression.</content>
+
+
+<content contentuid="hf29636f6g05f3g411fg9058gda88bc777e97" version="1">Dark Core Hadar - Weapon</content>
+<content contentuid="hc72d3f48g00e7g491dga623gf5be25e4396b" version="1">Visual Effect applies on top of the weapon.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Your Spellcating modifier as Necrotic Bonus damage to spells hits.&lt;/LSTag&gt;&lt;/b&gt;
+
+On a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, the target takes an extra [1] as long as it isn't a construct or an undead. You also gain [2].
+
+Your Spells and Cantips can &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Daze&lt;/LSTag&gt; targets.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Proficiency Bonus&lt;/LSTag&gt;&lt;/b&gt; as bonus Necrotic damage to Ranged attack hits.</content>
+
+
+<content contentuid="h811b2d9cg1cc4g4bf7gb7c5ga54308924635" version="1">Bound Weapon Core - Hand</content>
+<content contentuid="h5c21b617g1fccg43d2gb859gcab54a96058d" version="1">Visual Effect applies on hands.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Your Spellcating modifier as Necrotic Bonus damage to spells hits.&lt;/LSTag&gt;&lt;/b&gt;
+
+On a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, the target takes an extra [1] as long as it isn't a construct or an undead. You also gain [2].
+
+Your Spells and Cantips can &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Daze&lt;/LSTag&gt; targets.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Proficiency Bonus&lt;/LSTag&gt;&lt;/b&gt; as bonus Necrotic damage to Ranged attack hits.</content>
+
+
+<content contentuid="h1f938b02ga5b7g49b8gb80cg348438250028" version="1">Dark Halo - Hand</content>
+<content contentuid="hbb069ed5g3e74g46cdg8d94g5f8d71ff1961" version="1">Visual Effect applies on hands.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;+1 Acurracy bonus for Attacks, Spells, Cantrips every 6 LeveLs.&lt;/LSTag&gt;&lt;/b&gt;</content>
+
+
+<content contentuid="hfee2a2bcg7412g419agaadfg1ee41f9935ce" version="1">Dark Core Agatys - Weapon</content>
+<content contentuid="h95754f1dg4d99g432fg8aabg6aa39edcfb88" version="1">Visual Effect applies on top of the weapon.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Your Spellcating modifier as Necrotic Bonus damage to spells hits.&lt;/LSTag&gt;&lt;/b&gt;
+
+On a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, the target takes an extra [1] as long as it isn't a construct or an undead. You also gain [2].
+
+Your Spells and Cantips can &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Daze&lt;/LSTag&gt; targets.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Proficiency Bonus&lt;/LSTag&gt;&lt;/b&gt; as bonus Necrotic damage to Ranged attack hits.</content>
+
+
+<content contentuid="hadf17b1ag5685g4f52ga2dfg18174c817d1c" version="1">UltraViolet Core - Weapon</content>
+<content contentuid="h1ad72e9bg8165g4b0dgb6cbgaecafc4373fc" version="1">Visual Effect applies on top of the weapon.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;15% of Spells damage dealt regain your hitpoints.&lt;/LSTag&gt;&lt;/b&gt;
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Spellcasting modifier as bonus Psychic damage to spells hits.&lt;/LSTag&gt;&lt;/b&gt;
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Proficiency Bonus&lt;/LSTag&gt;&lt;/b&gt; as bonus Psychic damage to Ranged attack hits.</content>
+
+
+<content contentuid="h48a74894g7279g4028ga85fgdf7cd46f1db4" version="1">Acid Core - Weapon</content>
+<content contentuid="h16f6bdebgacc4g48f5ga89fg964ecc46ed59" version="1">Visual Effect applies on top of the weapon.
+
+Your weapon deals additional [1], grows with your progression.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Spellcasting modifier as bonus Acid damage to spells hits.&lt;/LSTag&gt;&lt;/b&gt;
+
+Your weapon attacks, Spells, Cantrips dissolve enemies armors. &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Enemy loose -3 DEX and become Vulnerable to Acid damage.&lt;/LSTag&gt;&lt;/b&gt;
+</content>
+
+
+
+
+<content contentuid="hdc6e00e5g1a41g4fe7gb54ag21d195c21a23" version="1">Melted Armor</content>
+<content contentuid="h52f6e4adg2896g449fgb62fge3e07c31e660" version="1">Heated Sacred weapon melt your armor, you loose 4 AC and 2 STR.</content>
+
+
+<content contentuid="h81b7e616g709eg4e3eg97d6g4b2b8f926f6a" version="1">Acid Destruction</content>
+<content contentuid="h22a9fb4bg4adeg49c7gba95g19cce51f5bd9" version="1">Your armor is stripped, -3 DEX, Vulnerable to Acid.</content>
+
+<content contentuid="hf60d7d45gc770g456eg8daegc2a79b83b6aa" version="1">Infinity Blood</content>
+<content contentuid="ha64788c4g40c9g432cg8e6cg47b616b55606" version="1">You have entered a murderous state of bloodlust. Once per turn, when you kill an enemy, you gain  [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; and an &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt;.</content>
+
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+
+<content contentuid="hb343d4feg2328g42d0gb737gbdbd3e94ac64" version="1">Bloody Weapons Power - Appearance</content>
+<content contentuid="h64a69a93g4db5g4affgba35g6df37a209689" version="1">Bloody, Red effects, only visuals</content>
+
+<content contentuid="hbd0147c2g21b4g4bfcg9e20g2213d20116a5" version="1">Psychic Weapons Power - Appearance</content>
+<content contentuid="h40df0753g598dg4e84gad2cg015e07c24db5" version="1">Ultraviolet, Psychic effects, only visuals</content>
+
+<content contentuid="h559d92fbg53c1g4571g9ca1g3cdeec3e3116" version="1">Lightning Weapons Power - Appearance</content>
+<content contentuid="h542cbc2ag7dccg466cgbd3cg77168378844c" version="1">Lightning, Mjolnir based effects, only visuals</content>
+
+<content contentuid="hf8934ef9g23f1g4008g85adgb45e469ee129" version="1">Divine Weapons Power - Appearance</content>
+<content contentuid="h662440fdgc80ag432eg98bagb0aaadb8c551" version="1">Sun, Divine, Radiant based effects, only visuals</content>
+
+<content contentuid="hcb0ac467gac30g4516gaeecg966ff25cceb5" version="1">Fire Weapons Power - Appearance</content>
+<content contentuid="he4d0e45bg8840g4f47ga0e8g0a866100f1af" version="1">Fire effects, only visuals</content>
+
+<content contentuid="h48b05a54gd383g497cg8767gc36ac36de093" version="1">Dark Weapons Power - Appearance</content>
+<content contentuid="hfd0cb18fgeafdg45d1g981fg9de1346b0a4d" version="1">Dark, Necrotic based effects, only visuals</content>
+
+<content contentuid="hec68801bgac63g4afdg8928gc31e78b8a89a" version="1">Acid Weapons Power - Appearance</content>
+<content contentuid="h6418db8fgcfe5g4736g8c02gd8780703a085" version="1">Acid effect, only visuals</content>
+
+<content contentuid="hf3485f14g5a0dg4fadgad31g6d20e111e32d" version="1">Red Weapon Glow - Appearance</content>
+<content contentuid="hd3cd32eeg94efg49c1g96dbgd5ce23939d68" version="1">Visual Effect applies properly on any weapons.</content>
+
+
+<content contentuid="hbd91ef16g5513g4ec1g9977gd026163055a9" version="1">Red Halo - Hand - Appearance</content>
+<content contentuid="he43047d2g25e9g4078g965cg95b9e0ef4fe9" version="1">Visual Effect applies on hands.</content>
+
+
+<content contentuid="h87b07edcgceeag4d8dg9c10g8b8153986c30" version="1">Red Halo - Weapon - Appearance</content>
+<content contentuid="hb682697cgec7ag466dgb7dbg50223147bf78" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="hb16f4b72gef09g4d00g8714g676b8ca69e2d" version="1">Force Core - Hand - Appearance</content>
+<content contentuid="h1c6f07d7g174cg471bg802dgcbb45e8049bc" version="1">Visual Effect applies on hands.</content>
+
+
+<content contentuid="h045b6bd1g48b8g4265gb756gcd9e8a783654" version="1">Bloody Allegiance Power - Blades - Appearance</content>
+<content contentuid="h799dd8b3gfc42g416bga9c4g783ea69e23dc" version="1">Visual Effect applies properly on Swords, Katanas, Rapiers.</content>
+
+
+<content contentuid="he0fd559dg89f6g4401gb5dega3ef662332d9" version="1">Divine Allegiance Power - Blades - Appearance</content>
+<content contentuid="haa504462g3cddg49cega0e4gdeea3e5559ae" version="1">Visual Effect applies properly on Swords, Katanas, Rapiers.</content>
+
+
+<content contentuid="h733d4d63g2fe9g4588gb9bcg299a490f0a94" version="1">Heavens Divider Power - Weapon - Appearance</content>
+<content contentuid="he772a716g4ac3g4845gb044gfe64309b6a25" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="h58e20f43g585fg4769g92a1gdf2509a06903" version="1">Heavens Divider Ultimate - Weapon - Appearance</content>
+<content contentuid="hf35f9b31g46e2g4f02g90abgb9050bfb4ffe" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="hf46296cbgb22fg4197ga50fgec7824584b9c" version="1">Heavens Divider Ultimate - Appearance</content>
+<content contentuid="hf96dce29g0ffeg4d3ega4f1g43feb9765f8d" version="1">Burning Hands.</content>
+
+
+<content contentuid="hac354c50g29fag4b6cg8474g27166a628de4" version="1">Lightning Effect - Weapon - Appearance</content>
+<content contentuid="h6cecf3afg961eg4615g9492g68adcb232c38" version="1">Visual Effect applies properly on any weapons.</content>
+
+
+<content contentuid="h479104a4g43b3g40a8ga452g461a527c9d91" version="1">Lightning Dark Core - Weapon - Appearance</content>
+<content contentuid="hbece98ebg48e0g47e7gb17eg0fe3149e5dc3" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="hdcac2545g98dag40f8ga86cgff7f470b339f" version="1">Mjolnir Effect - Weapon - Appearance</content>
+<content contentuid="h72370fbeg3ca6g49cdg9c6fg833497e54513" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="hab2d5d8bg3802g44d6gb170g2dafc58b6d55" version="1">Sun Halo - Weapon - Appearance</content>
+<content contentuid="h6e2c4639gdd4dg444fgbd76gdddaedba6ca2" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="h72becbb4gdd73g42d5g8838g48bc777131be" version="1">SacredHeated - Weapon - Appearance</content>
+<content contentuid="hf5595f8bgd8feg4a31g9a38gdc96d4ecc758" version="1">Visual Effect applies properly on any weapons.</content>
+
+
+<content contentuid="h06c09ce4g54ebg4419gb451ge96d09c37d88" version="1">Radiant Glow - Weapon - Appearance</content>
+<content contentuid="h3cfbc842g9d61g40aag83c2g6d43464035f2" version="1">Visual Effect applies properly on any weapons.</content>
+
+
+<content contentuid="h619a3a3cgc7adg47b9gb4d6g8efaaf140c99" version="1">Sun Blade Ball - Hand - Appearance</content>
+<content contentuid="h1a752e79g5ca3g49bfgbc46g1d735dc4cc11" version="1">Visual Effect applies on hands.</content>
+
+
+<content contentuid="h58b6bcbeg51dag4d54g995bgaa35560f0b0f" version="1">Sun Blade Ball - Weapon - Appearance</content>
+<content contentuid="hc6059d18gf64eg4110g8cbfge760ecac8863" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="h4497900ag3216g4b87g8c81g60ef3a976174" version="1">Fire - Weapon - Appearance</content>
+<content contentuid="h04a8a59ag9948g4672g9d6dg8a68544afd59" version="1">Visual Effect applies properly on any weapon.</content>
+
+
+<content contentuid="h3819f8a6g25e2g4b8fg9caag15cfc6a445d7" version="1">Fire Ball - Weapon - Appearance</content>
+<content contentuid="h92f6f1ffg8074g41f7g90b9g3c0980ceaab8" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="h53b7e163g831eg4acbg9774g3dff36637a98" version="1">Small Fire Ball - Hand - Appearance</content>
+<content contentuid="hd1abc55dgff3bg40d9ga664g09107455ed63" version="1">Visual Effect applies on hands.</content>
+
+
+<content contentuid="h4dc14ebagc669g4f09g8b0fgdc761e21cef1" version="1">Searing Fire Ball - Hand - Appearance</content>
+<content contentuid="h6016e0a2g4011g4fc0g98a1g994c1cf5beaf" version="1">Visual Effect applies on hands.</content>
+
+
+<content contentuid="he16ebbf6g0b69g4776g8440gcea21bc49e90" version="1">Necrotic - Weapon - Appearance</content>
+<content contentuid="hcf0d3d2dgac20g482fg9385g805a91a54327" version="1">Visual Effect applies properly on any weapon.</content>
+
+
+<content contentuid="hba404a05g9b9cg4d8fgb4c5g1ec6e19c251e" version="1">Dark Core Hadar - Weapon - Appearance</content>
+<content contentuid="h7b449fecg3990g4a0bg8f35gcd9629cd636a" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="h6af6af19g5ad1g48fdg8cf3g9f873d124453" version="1">Bound Weapon Core - Hand - Appearance</content>
+<content contentuid="hf667e69fg7d8ag4024gbb35g55e370ae6cdf" version="1">Visual Effect applies on hands.</content>
+
+
+<content contentuid="hd477dbfagfc78g4421ga186g5fce01b305dd" version="1">Dark Halo - Hand - Appearance</content>
+<content contentuid="h3b6ad21dg323ag4650g9825g4b127f524fbd" version="1">Visual Effect applies on hands.</content>
+
+
+<content contentuid="he75b8ea8g4253g4050gafbeg6dc230b76a4d" version="1">Dark Core Agatys - Weapon - Appearance</content>
+<content contentuid="hda2b61c9gd551g4107g90dcg2ee2729acd15" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="h56296c62g8b4cg465bg9d1bg5fcc2e7c7e95" version="1">UltraViolet Core - Weapon - Appearance</content>
+<content contentuid="h654d8bc8g128dg4e23gb811gb67f55a60c78" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+<content contentuid="hf6d040d0g2167g4537g80f6gaf22c7bf62ef" version="1">Acid Core - Weapon - Appearance</content>
+<content contentuid="h3ba178b8gce9bg42f6g89f5ga0c2f7bb1703" version="1">Visual Effect applies on top of the weapon.</content>
+
+
+
+
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+
+
+
+<content contentuid="h5c99f4b6g9d2dg40c8ga840gf4e910688492" version="1">Bloody Weapons Power - Invisible</content>
+<content contentuid="hfa234c37ge22dg4bf2g8746gc9217ecddcda" version="1">Vampiric based powers</content>
+
+<content contentuid="h87d9042ag5d96g4263g9ea0g7a91bd928600" version="1">Psychic Weapons Power - Invisible</content>
+<content contentuid="h3b12b1a2gbb45g4d78g93aeg2b75778b0b84" version="1">Mages based powers</content>
+
+<content contentuid="hddd0de1bgae12g465agb439ga37ca2a5188b" version="1">Lightning Weapons Power - Invisible</content>
+<content contentuid="h0d4d19b7g38c7g416eg865ag5eec39435c56" version="1">Lightning, Mjolnir based powers</content>
+
+<content contentuid="h4cb13033g4763g4553g8e68g022cf2b8c77a" version="1">Divine Weapons Power - Invisible</content>
+<content contentuid="hb935037dg33eag471aga95cg68de1c85ee69" version="1">Sun, Divine, Radiant based powers</content>
+
+<content contentuid="h9106d03bg0e1cg4160g84b1g7b8c3f426512" version="1">Fire Weapons Power - Invisible</content>
+<content contentuid="hd08699aeg869dg46e4g98e7g8d35380c751c" version="1">Fire powers</content>
+
+<content contentuid="h8a4c00e8gb757g4a7cgbd9bgf7580c68815b" version="1">Dark Weapons Power - Invisible</content>
+<content contentuid="hdfeb783bg2fdcg404fg99fcg65c7f560f5e3" version="1">Dark, Necrotic based powers</content>
+
+<content contentuid="h140fa00eg4913g4df6g8944g81036f451f24" version="1">Acid Weapons Power - Invisible</content>
+<content contentuid="h64932c4cg36aeg4856gaeaeg8f47b455d975" version="1">Acid powers</content>
+
+
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+<content contentuid="6969acbd8gb78eg4cf7g834bge5fb441d1399" version="1">Attunement</content>
+
+
+<content contentuid="h59d6f1bbg5196g4fb8g819ag55b35d7db4ce" version="1">Red Weapon Glow - Invisible</content>
+
+
+
+<content contentuid="h311fcd8bgbd53g4feag8f7dg952f4624641e" version="1">Red Halo - Hand - Invisible</content>
+
+
+
+<content contentuid="h1db50e6cge9c1g4c7bga1b7g9f17672acab8" version="1">Red Halo - Weapon - Invisible</content>
+
+
+
+<content contentuid="ha2c6f165g83cag44e5gb542g3a102c799c04" version="1">Force Core - Hand - Invisible</content>
+
+
+
+<content contentuid="hf1b3b6cag1632g4750gab9cgd21f36fcbd22" version="1">Bloody Allegiance Power - Blades - Invisible</content>
+
+
+
+<content contentuid="h66ed96b2gc3f4g4791ga575g935cbcdf215e" version="1">Divine Allegiance Power - Blades - Invisible</content>
+
+
+
+<content contentuid="h7debb671ge969g4de4g98eeg8c35f82be749" version="1">Heavens Divider Power - Weapon - Invisible</content>
+
+
+
+<content contentuid="h3a5d5423g16e3g42aagb03dge80b3bf53876" version="1">Heavens Divider Ultimate - Weapon - Invisible</content>
+
+
+
+<content contentuid="he857c2ebg1346g4627gbf5dg30663b7a58bd" version="1">Heavens Divider Ultimate - Invisible</content>
+
+
+
+<content contentuid="h0d3560d9g5b92g4f6cgb303g2f0dd61f37d8" version="1">Lightning Effect - Weapon - Invisible</content>
+
+
+
+<content contentuid="ha5562cbfg201ag4c6bg9febg1f9e8fd04ece" version="1">Lightning Dark Core - Weapon - Invisible</content>
+
+
+
+<content contentuid="h60a37865gcc1bg42c9g878cged50ff1ec46e" version="1">Mjolnir Effect - Weapon - Invisible</content>
+
+
+
+<content contentuid="h161fb67fg2254g4db6g9c1agdc4f927874e4" version="1">Sun Halo - Weapon - Invisible</content>
+
+
+
+<content contentuid="hfb5206bcg2b7cg470dg877ag60bcdba3967b" version="1">SacredHeated - Weapon - Invisible</content>
+
+
+
+<content contentuid="hdcc023d7geebfg42adg9fdcg97e7d1d88df4" version="1">Radiant Glow - Weapon - Invisible</content>
+
+
+
+<content contentuid="h9ef33ec9g6d6eg4136ga6efg4cac5c16e5ae" version="1">Sun Blade Ball - Hand - Invisible</content>
+
+
+
+<content contentuid="h0ec2ec78g3057g4537g81e5gecd49082e127" version="1">Sun Blade Ball - Weapon - Invisible</content>
+
+
+
+<content contentuid="h326298f4g1d2dg4e6cg91d8gd1a04c6736fa" version="1">Fire - Weapon - Invisible</content>
+
+
+
+<content contentuid="hb16d6e3fg13fdg4081g97a7g615caa06b041" version="1">Fire Ball - Weapon - Invisible</content>
+
+
+
+<content contentuid="h2b9fc335g7302g45e6g83b6g6be08369cbee" version="1">Small Fire Ball - Hand - Invisible</content>
+
+
+<content contentuid="h5f5d0284g3adfg4b83ga5d6gb7f71d4cc866" version="1">Searing Fire Ball - Hand - Invisible</content>
+
+
+
+<content contentuid="he43db64fg0e3dg4d52ga69fgd4a0b38ac605" version="1">Necrotic - Weapon - Invisible</content>
+
+
+
+<content contentuid="h733a6364g6927g4a11g9817g7536a0252f1d" version="1">Dark Core Hadar - Weapon - Invisible</content>
+
+
+<content contentuid="h21ca2ebcgc43bg4e5bg93b7gd889c9dad63f" version="1">Bound Weapon Core - Hand - Invisible</content>
+
+
+
+<content contentuid="h72cd5abbgcf57g462fg9a63gb48b6cf74232" version="1">Dark Halo - Hand - Invisible</content>
+
+
+<content contentuid="hf824955dg76f2g40e9gb28bg7d47ea236fee" version="1">Dark Core Agatys - Weapon - Invisible</content>
+
+
+<content contentuid="hb7632fd0g1c1cg4c25g8235ge1c15e44a85f" version="1">UltraViolet Core - Weapon - Invisible</content>
+
+
+<content contentuid="h21684d6cgb8e1g4111g8d95g0e1fe833ee5d" version="1">Acid Core - Weapon - Invisible</content>
+
+
+
+
+
+
+
+
+</contentList>

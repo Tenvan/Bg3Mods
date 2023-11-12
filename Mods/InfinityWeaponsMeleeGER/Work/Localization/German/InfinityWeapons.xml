@@ -40,7 +40,7 @@ Zusätzlich [1].
 + 2 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;V Zauberslot&lt;/LSTag&gt;&lt;/b&gt;
 + 2 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Kritische Chance&lt;/LSTag&gt;&lt;/b&gt;
 &lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;
-+ 2 Rollbonus auf &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Angriffe, Zauber, Zaubertricks&lt;/ LSTag&gt;&lt;/b&gt;</content>
++ 2 Rollbonus auf &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Angriffe, Zauber, Zaubertricks&lt;/LSTag&gt;&lt;/b&gt;</content>
   <content contentuid="h63344cecg2dddg40edgb0f0g0d7ab4a534f9" version="1">Unendliches Feuer Fire wächst mit deinem Fortschritt:
 &lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;
 + 1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;INT, WIS, DEX&lt;/LSTag&gt;&lt;/b&gt;
@@ -53,7 +53,7 @@ Zusätzlich [1].
 + 1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;V Zauberslot&lt;/LSTag&gt;&lt;/b&gt;
 + 1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Kritische Chance&lt;/LSTag&gt;&lt;/b&gt;
 &lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;
-+ 1 Rollbonus auf &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Angriffe, Zauber, Zaubertricks&lt;/ LSTag&gt;&lt;/b&gt;</content>
++ 1 Rollbonus auf &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Angriffe, Zauber, Zaubertricks&lt;/LSTag&gt;&lt;/b&gt;</content>
   <content contentuid="h287ff58egbe1cg4f81g8bdegfa5e6a287d64" version="1">Unendlichkeits-Großaxt</content>
   <content contentuid="h930ae72fg194bg4babg85ccg064878c31f61" version="1">Unendlichkeits-Großaxt Legendär</content>
   <content contentuid="h8d1d464ag7da9g4f20g958dg2091b290987d" version="1">Großschwert der Unendlichkeit</content>
@@ -90,5 +90,5 @@ Zusätzlich [1].
   <content contentuid="hdd36b20cg7594g46d9g98f8g34db7654747f" version="1">Die Unendlichkeitswaffe teilt ihre Macht mit dem Träger.</content>
   <content contentuid="h651c4d9cg2246g41f0ga29dg49c2bb1b389d" version="1">Deine &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Zaubertricks und Zauber&lt;/LSTag&gt;&lt;/b&gt; verursachen zusätzlichen &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Feuer Strahlen&lt;/LSTag&gt;&lt;/b&gt; Schaden und werden stärker mit deinem &lt;b&gt;
 &lt;LSTag Tooltip="test"&gt;Level&lt;/LSTag&gt;&lt;/b&gt;.
-Schadenskraft – &lt;b&gt;&lt;LSTag Tooltip="test"&gt;LvL/3, Feuer + LvL/3 Strahlend.&lt;/ LSTag&gt;&lt;/b&gt;</content>
+Schadenskraft – &lt;b&gt;&lt;LSTag Tooltip="test"&gt;LvL/3, Feuer + LvL/3 Strahlend.&lt;/LSTag&gt;&lt;/b&gt;</content>
 </contentList>

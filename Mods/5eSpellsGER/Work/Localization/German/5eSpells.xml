@@ -318,8 +318,8 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="12ecb521-e19d-4bea-977a-6ecc48ef1df7" version="1">Erdelementar</content>
   <content contentuid="bd3e7424756e4e31b062951831d677a3" version="1">Erdgleiten</content>
   <content contentuid="d949371a-01d6-4cca-be33-5751cea2bb16" version="1">Erdbeben</content>
-  <content contentuid="1ffa8946-3312-4392-8a07-1caf6daf6ae3" version="1">Die Waffe sendet einen Strahlenstoß aus, der möglicherweise Kreaturen &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;blendet&lt;/LSTag&gt;.</content>
-  <content contentuid="8d68db4e-8a50-4e3b-8972-bb2728ffa300" version="1">Verströmt einen Strahlenstoß aus deiner &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON"&gt;Heiligen Waffe&lt;/LSTag&gt;, wodurch feindliche Kreaturen &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;geblendet&lt;/LSTag&gt; werden und der Zauber endet.</content>
+  <content contentuid="1ffa8946-3312-4392-8a07-1caf6daf6ae3" version="1">Die Waffe sendet einen Strahlungsstoß aus, der möglicherweise Kreaturen &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;blendet&lt;/LSTag&gt;.</content>
+  <content contentuid="8d68db4e-8a50-4e3b-8972-bb2728ffa300" version="1">Aus deiner &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON"&gt;Heiligen Waffe&lt;/LSTag&gt; strömt ein Strahlen aus, das feindliche Kreaturen &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;blendet&lt;/LSTag&gt; und den Zauber beendet.</content>
   <content contentuid="1ee1b6d8-4e10-4cf0-98e5-a31f612c8475" version="1">Feinde im Überfluss</content>
   <content contentuid="137eff9e-cff5-4c20-86ec-b58b8dba2a00" version="1">Ausbrechende Erde</content>
   <content contentuid="8e566259-b88e-4f96-a40d-7147712a8413" version="1">Baue eine telepathische Verbindung mit einem befreundeten oder von dir verzauberten Biest auf. Die Bestie erhält &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen Kreaturen im Umkreis von [1] von dir.</content>
@@ -414,12 +414,12 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="ca250c966b2749ef8221c5ad9a2c075a" version="1">Hidden from divination magic and cannot be targeted by divination spells.</content>
   <content contentuid="46167340d5ba4fe0b1e773c7fa507e4f" version="1">Verstecken: Schatten-Tarnung</content>
   <content contentuid="d37dcc1d-1ca2-4a2c-9e4f-85359fd7c2cf" version="1">Holy Weapon</content>
-  <content contentuid="aac89da4-50c2-477a-9753-06449ff686f7" version="1">Heilige Waffe: Strahlenstoß</content>
-  <content contentuid="f7205cf1-2e50-43e3-8828-1fb92c181af1" version="1">Feindliche Kreaturen, die ihren Zug innerhalb von [1] um dich herum beginnen, haben ihre &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um [1] reduziert.</content>
+  <content contentuid="aac89da4-50c2-477a-9753-06449ff686f7" version="1">Holy Weapon: Burst of Radiance</content>
+  <content contentuid="f7205cf1-2e50-43e3-8828-1fb92c181af1" version="1">Hostile creatures that start their turns within [1] of you have its &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; reduced by [1].</content>
   <content contentuid="h3bc00b62g33e1g4f41ga4dbgc27870dac0e9" version="1">Schleudere eine Masse chaotischer Energie, die zufällig [1], [2], [3], [4], [5], [6], [7] oder [8] verursacht.</content>
-  <content contentuid="f04b97a8-af68-4d7f-b2bd-1b8ecd77fae0" version="1">Wenn vergiftete Kreaturen drei erfolgreiche Rettungswürfe haben, endet dieser Zauber. Wenn vergiftete Kreaturen drei misslungene Rettungswürfe haben, sind sie nicht mehr vergiftet, sondern erleiden eine zufällige Krankheit.</content>
+  <content contentuid="f04b97a8-af68-4d7f-b2bd-1b8ecd77fae0" version="1">If creatures Poisoned have three successful saves, this spell ends. If creatures Poisoned have three failed saves, they are no longer Poisoned but suffer a random disease.</content>
   <content contentuid="915d135d-2b77-4226-921e-a5dc36beb761" version="1">Verleihe der Waffe einer Kreatur heilige Kraft und verwandle sie in eine &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON"&gt;Heilige Waffe&lt;/LSTag&gt;.</content>
-  <content contentuid="6560f5d8-15d6-4392-b690-34d04ed1ba17" version="1">Verleiht einer Waffe heilige Macht. Sie wird zu einer magischen Waffe, strahlt Licht aus und verursacht einen zusätzlichen [1].</content>
+  <content contentuid="6560f5d8-15d6-4392-b690-34d04ed1ba17" version="1">Imbue a weapon with holy power. It becomes a magical weapon, emits light and deals an extra [1].</content>
   <content contentuid="24eb02e9-9d02-44df-98be-b6edfabe38b6" version="1">Verleihen Sie einem Verbündeten die Macht, Säure aus seinem Mund zu spucken.</content>
   <content contentuid="d466d90c-c0cc-42e1-a216-4f964fd111b7" version="1">Verleihe einem Verbündeten die Macht, Kälte aus seinem Mund zu spucken.</content>
   <content contentuid="e7b7de60-8279-4eb5-8972-3ce681fd4bec" version="1">Verleihe einem Verbündeten die Macht, Feuer aus seinem Mund zu spucken.</content>
@@ -431,12 +431,12 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
 Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die gewählte Kreatur durchgeführt wird, kann sie alternativ einen Malus von -[1] auf den Wurf erheben.</content>
   <content contentuid="02e1a6d1-6197-4ef6-9450-25fd93a8201a" version="1">Erfülle einen Gegenstand mit magischer Dunkelheit, die Kreaturen innerhalb von [1] um ihn herum stark verdunkelt und &lt;LSTag Type="Status" Tooltip="BLINDNESS"&gt;blendet&lt;/LSTag&gt;.</content>
   <content contentuid="3c1beecf-6508-4c72-a3e3-be452d67e412" version="1">Feuer sofort löschen oder Gegenstand entzünden.</content>
-  <content contentuid="fc72d020-6231-4618-8635-06defbc06c9f" version="1">Festung des Intellekts</content>
+  <content contentuid="fc72d020-6231-4618-8635-06defbc06c9f" version="1">Intellect Fortress</content>
   <content contentuid="84cef26e-3cc6-4dd0-a2c2-234b7cfdc390" version="1">Beschwört in einem Gebiet sowohl Tod als auch Leben, wodurch feindliche Kreaturen verdorren.</content>
   <content contentuid="6485b8a7-2721-459a-9802-5325ee091396" version="1">Kinetische Reise</content>
   <content contentuid="80183993-5362-4940-9e00-47b6da6101a7" version="1">Wirf ein zuvor ausgewähltes Objekt auf eine Kreatur.</content>
-  <content contentuid="f56ee772-a670-42ac-a54a-a15f11f9e34f" version="1">Übertragung des Lebens</content>
-  <content contentuid="f35081fb-cc96-44fc-8df7-97f25a3b5ff7" version="1">Das Licht der Morgendämmerung strahlt herab und schädigt jede Kreatur in seinem Bereich oder beendet seinen Zug im Licht.</content>
+  <content contentuid="f56ee772-a670-42ac-a54a-a15f11f9e34f" version="1">Life Transference</content>
+  <content contentuid="f35081fb-cc96-44fc-8df7-97f25a3b5ff7" version="1">Light of dawn shines down that damages any creature in its area or ends its turn in the light.</content>
   <content contentuid="5d99218e-d918-4682-affb-37b0ea072ae5" version="1">Blitzpfeil</content>
   <content contentuid="c745619a-bd5a-4e1e-8a08-68600ac69062" version="1">Blitzköder</content>
   <content contentuid="62e5bae3-3cd6-4977-a10c-8ea37b9b003a" version="1">Verrückt machende Dunkelheit</content>
@@ -526,7 +526,7 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="85322456b80b4bd5b1813ee6d0168fc7" version="1">Die Luft ergreifen und sie zwingen, ein Gewicht von bis zu 5 Pfund [2] wegzuschieben.</content>
   <content contentuid="878a9700-fe05-4a2a-aa2f-9f7e44fa7794" version="1">Send negative energy at a creature, dealing [1] if they aren't an undead. Targets killed by this damage rise up as a zombie at the start of your next turn and become hostile to all creatures. If the target is an undead, they gain [2] instead.</content>
   <content contentuid="8df9a52b-1702-4bcb-aaf4-ee2f66c9cea3" version="1">Send one meteor streaking towards an area.</content>
-  <content contentuid="23632ada-db01-480c-bbee-5194974bc667" version="1">Schicke einen oder zwei Meteore auf ein Gebiet zu.</content>
+  <content contentuid="23632ada-db01-480c-bbee-5194974bc667" version="1">Send one or two meteors streaking towards an area.</content>
   <content contentuid="0043fb1a-035a-47f3-9ba2-9d15dc2a1ac4" version="1">Schicke zwei Meteore in Richtung desselben Gebiets oder verschiedener Gebiete.</content>
   <content contentuid="c6ed69270baf4e5a8c2187b5e9785c60" version="1">Spüre die Anwesenheit von Magie in der Umgebung.
 Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, Zauber zu wirken, und verhindern, dass sie sich &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;versteckt&lt;/LSTag&gt; oder &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;unsichtbar&lt;/LSTag&gt; wird, während ihre Magie entdeckt werden kann.</content>
@@ -597,20 +597,20 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="f97794c7-36a2-4462-b221-e05553a6ed02" version="1">Biest beschwören</content>
   <content contentuid="e76c6060-3d27-4dfe-8b37-37257c449315" version="1">Biest beschwören: Luft</content>
   <content contentuid="2702ce3354604cc5a4e7233de9093a74" version="1">Biest beschwören: Land</content>
-  <content contentuid="397966e0-826b-4e2a-a62b-86c75bdbd970" version="1">Summon Draconic Spirit</content>
-  <content contentuid="9f43b7a1-7256-446f-bb67-835fe6537648" version="1">Summon Draconic Spirit: Chromatic</content>
-  <content contentuid="cdc068e3-f9cd-474f-a421-88e5b8601951" version="1">Summon Draconic Spirit: Gem</content>
-  <content contentuid="f1eb0e44-71c3-4df6-a405-cd37279b6608" version="1">Summon Elemental</content>
-  <content contentuid="6a066dff-c6d3-41a1-821b-4a114ad47c02" version="1">Summon Elemental: Air</content>
-  <content contentuid="32c2b390-a38b-40e3-91a7-64aa4e682445" version="1">Summon Elemental: Earth</content>
-  <content contentuid="c03c582d-69b8-4403-a396-94e22f1a5da5" version="1">Summon Elemental: Fire</content>
-  <content contentuid="0b6e1600-9d48-455a-bdf6-6a5bb4b17f35" version="1">Summon Elemental: Water</content>
+  <content contentuid="397966e0-826b-4e2a-a62b-86c75bdbd970" version="1">Drakonischen Geist beschwören</content>
+  <content contentuid="9f43b7a1-7256-446f-bb67-835fe6537648" version="1">Drakonischen Geist beschwören: Chromatisch</content>
+  <content contentuid="cdc068e3-f9cd-474f-a421-88e5b8601951" version="1">Drakonischen Geist beschwören: Edelstein</content>
+  <content contentuid="f1eb0e44-71c3-4df6-a405-cd37279b6608" version="1">Elementar beschwören</content>
+  <content contentuid="6a066dff-c6d3-41a1-821b-4a114ad47c02" version="1">Elementar beschwören: Luft</content>
+  <content contentuid="32c2b390-a38b-40e3-91a7-64aa4e682445" version="1">Elementar beschwören: Erde</content>
+  <content contentuid="c03c582d-69b8-4403-a396-94e22f1a5da5" version="1">Elementar beschwören: Feuer</content>
+  <content contentuid="0b6e1600-9d48-455a-bdf6-6a5bb4b17f35" version="1">Elementar beschwören: Wasser</content>
   <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Die Beschwörung erhält [1] AC, [2] und verursacht zusätzlich [1] Angriffsschaden pro Stufe und kann eine Anzahl von Angriffen ausführen, die der halben Stufe des Zaubers entspricht.</content>
   <content contentuid="1b745f89-847b-4dc3-91b2-40ed12a08414" version="1">Die Beschwörung erhält [1] zu AC, [2] und fügt bei Angriffen pro Level zusätzlich [1] Schaden zu.</content>
-  <content contentuid="c777d29e-f060-493e-aa19-2b3b5ce56cbe" version="1">Summon Shadowspawn</content>
-  <content contentuid="2cdb317b-3177-41d1-8edd-f629bf75ad1c" version="1">Summon Shadowspawn: Despair</content>
-  <content contentuid="8f6337b4-119a-4d54-a903-36c83826b6c7" version="1">Summon Shadowspawn: Fear</content>
-  <content contentuid="f033c414-1771-4176-a8b3-79014d4521e1" version="1">Summon Shadowspawn: Fury</content>
+  <content contentuid="c777d29e-f060-493e-aa19-2b3b5ce56cbe" version="1">Schattenbrut beschwören</content>
+  <content contentuid="2cdb317b-3177-41d1-8edd-f629bf75ad1c" version="1">Schattenbrut beschwören: Verzweiflung</content>
+  <content contentuid="8f6337b4-119a-4d54-a903-36c83826b6c7" version="1">Schattenbrut beschwören: Angst</content>
+  <content contentuid="f033c414-1771-4176-a8b3-79014d4521e1" version="1">Schattenbrut beschwören: Wut</content>
   <content contentuid="8a91bc343b23491b880ab0a2f0bc3ba3" version="1">Anfällig für einen zufälligen, magischen Effekt pro Runde.</content>
   <content contentuid="h68f92fc9gc8e5g4339gaa41g40b4b1cfdd8f" version="1">Anfällig für zusätzlichen Schaden durch den Zaubernden.</content>
   <content contentuid="9939b043-2f5c-4bb3-9fc2-920ebbd3a379" version="1">Swift Quiver</content>
@@ -620,6 +620,7 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="92fbd2bf-1d0f-4a2b-aac7-9a1baa809620" version="1">Das Ziel verursacht pro Level zusätzlich 1W6 Schaden der gewählten Schadensart.</content>
   <content contentuid="445cff2b-2785-40ec-a648-ea3addb363fe" version="1">Das Ziel wiederholt den Rettungswurf jedes Mal, wenn es Schaden erleidet.</content>
   <content contentuid="5c255d93-77e1-43e2-84c4-e9ed3d826467" version="1">Target still takes half damage and isn't &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;.</content>
+  <content contentuid="h0b792bd3geaefg468agb33fg927ac94f786e" version="1">Target's level is too low to use this.</content>
   <content contentuid="651cf6fbd122465fab868065dbbf2d2d" version="1">Wird von Chaos Bolt angegriffen und kann nicht erneut von ihm angegriffen werden.</content>
   <content contentuid="e8aa171a-ce73-4e22-b476-08af9a54edc4" version="1">Ziele erleiden immer noch halben Schaden und sind nicht &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;geblendet&lt;/LSTag&gt;.</content>
   <content contentuid="826a50c0-b8e4-4e4a-a6b3-677a5a064f88" version="1">Ziele erleiden immer noch den halben Schaden und werden nicht gezogen oder gestoßen.</content>
@@ -643,7 +644,8 @@ Die Kreatur und der Zauberer haben &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/
   <content contentuid="e91ceb65847146cb99509ba29976f60e" version="1">The elemental makes two attacks.</content>
   <content contentuid="3ec954b6743f4d1bb713209ff0392d0e" version="7">Das Wesen kann keine Reaktionen annehmen und kann nur Bewegungen ausführen oder entweder eine Aktion oder eine Bonusaktion ausführen.</content>
   <content contentuid="5ee3f097-80c0-4f6c-b76f-18f87b131a11" version="1">Der Naturgeist des Großen Baumes verwandelt dich in einen mächtigen Wächter.
-Du erhältst [1],  du machst &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt;, 
+Du erhältst [1], 
+du machst &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt;, 
 du machst &lt;LSTag ToolTip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; mit &lt;LSTag ToolTip="Advantage"&gt;Vorteil&lt;/LSTag&gt; 
 und der Boden in [2] Entfernung von dir ist &lt;LSTag Type="Status" ToolTip="DIFFICULT_TERRAIN"&gt;schwieriges Gelände&lt;/LSTag&gt;.</content>
   <content contentuid="69721fb2-02a9-481d-bc6d-cb3002b1dda3" version="1">The light damages any creature that ends its turn in the light.</content>
@@ -651,7 +653,7 @@ und der Boden in [2] Entfernung von dir ist &lt;LSTag Type="Status" ToolTip="DIF
   <content contentuid="h62b3c5a0g9c4cg4020g886ege0b178bec4b6" version="1">Die Anzahl der magischen Steine, die Sie besitzen.</content>
   <content contentuid="ba0d10c5-dd82-4f93-953c-f69c0c5601fc" version="1">Der Naturgeist der Urbestie verwandelt dich in einen mächtigen Wächter.
 Deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; wird um [1] erhöht, du erhältst eine Nachtsicht mit einer Reichweite von [2], deine auf Stärke basierenden &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; werden mit &lt;LSTag Tooltip="Advantage" &gt;Vorteil&lt;/LSTag&gt; ausgeführt und deine Angriffe mit Nahkampfwaffen verursachen zusätzlich [3].</content>
-  <content contentuid="7a6c7a219b3145f49d66451699b892b7" version="1">The shadowspawn makes a number of attacks equal to spell's level used to summon it.</content>
+  <content contentuid="7a6c7a219b3145f49d66451699b892b7" version="1">Die Schattenbrut führt eine Anzahl an Angriffen aus, die der Stufe des Zaubers entspricht, mit dem sie beschworen wurde.</content>
   <content contentuid="e42d6815-0749-4b58-a282-5d5b671eccd0" version="1">The spell ends on a creature once its &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; are depleted.</content>
   <content contentuid="971bb1b1e9cb4592b12b368057ae539c" version="1">Der Geist schreit, möglicherweise &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrecken&lt;/LSTag&gt;Kreaturen.</content>
   <content contentuid="fa118a5a-cabe-45e3-9aa6-1df58d6834b4" version="1">The surfaces include water, electrified water, electrified blood, mud, poison and grease.</content>

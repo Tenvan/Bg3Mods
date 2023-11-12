@@ -1,4 +1,5 @@
 <contentList date="26/10/2020 01:10">
+	<content contentuid="h0b792bd3geaefg468agb33fg927ac94f786e" version="1">Target's level is too low to use this.</content>
 	<content contentuid="h1618284ag0468g4bfdg8c6egf96dd1bd20c5" version="1">Ritual Caster</content>
 	<content contentuid="hdd4d4f77g39e3g4092gad53ga173914d5b61" version="1">Can cast spell without expending a spell slot.</content>
 	<content contentuid="f807b333f5e94104bd79e3252275de44" version="1">Difficult Terrain: Grease</content>
@@ -284,6 +285,8 @@
   <content contentuid="h6348031ag92d3g4017g89bcg95ec18bcb5bc" version="1">A blue flame that cannot be smothered or quenched springs forth from an object that you touch.</content>
   <content contentuid="h021d6009gb63ag4336g8a66ge44b22cfb3e3" version="1">Continual Flame: Red</content>
   <content contentuid="h0301b5d9gde58g42c7g9300g0a7c772fae9c" version="1">A red flame that cannot be smothered or quenched springs forth from an object that you touch.</content>
+  <content contentuid="h8caf9be1g35c3g4052ga404g0f39d723779b" version="1">Continual Flame: Dismiss</content>
+  <content contentuid="h783614ffg84b5g42d7g980dgda580829557f" version="1">Dismiss the effects of the Continual Flame spell.</content>
   <content contentuid="5770b7a5-0850-4c00-8b28-92474a8b2750" version="1">Darkness: Cloud</content>
   <content contentuid="f920a51e-9d3e-46f4-95ff-c1e262061686" version="1">Create a cloud of magical darkness that Heavily Obscures and &lt;LSTag Type="Status" Tooltip="BLINDNESS"&gt;Blinds&lt;/LSTag&gt; creatures within.</content>
   <content contentuid="d553c92e-7a75-4079-a045-efc2f4399812" version="1">Darkness: Item</content>
@@ -502,7 +505,7 @@
   <content contentuid="a6053f2f77314d628ef9c5c4e276c13f" version="1">Free attack after using Breath Weapon.</content>
   <content contentuid="46167340d5ba4fe0b1e773c7fa507e4f" version="1">Hide: Shadow Stealth</content>
   <content contentuid="9d5446c6c10b4788a576b32e5b5fae7b" version="1">Thunder Step</content>
-  <content contentuid="e46ef781-4e75-4f64-8042-c5b3a7f5d5bd" version="1">Teleport to an unoccupied space, causing a thunderous boom within [1] of the space you left.</content>
+  <content contentuid="e46ef781-4e75-4f64-8042-c5b3a7f5d5bd" version="1">Teleport yourself and possibly an ally to an unoccupied space, causing a thunderous boom within [1] of the space you left.</content>
   <content contentuid="d348c657-6866-492e-8756-003ee1c4d369" version="1">Water Walk</content>
   <content contentuid="15260388-dfe0-44dd-8125-822201172639" version="1">Grant allied creatures the ability to move across any liquid surface as if it were harmless solid ground.</content>
   <content contentuid="fa118a5a-cabe-45e3-9aa6-1df58d6834b4" version="1">The surfaces include water, electrified water, electrified blood, mud, poison and grease.</content>
@@ -641,7 +644,6 @@
   <content contentuid="a24ea52b-ee8e-4b7d-95d4-825d5bca20be" version="1">Steel Wind Strike</content>
   <content contentuid="81469115-e8f1-420d-aee9-c1eeeaf8ec28" version="1">Flourish a melee weapon and then vanish to strike like the wind, dealing [1] up to five creatures.</content>
   <content contentuid="72d37580bf7d41b59382896ad91f77cc" version="1">Can teleport to a creature targeted by the Steel Wind Strike spell. </content>
-  <content contentuid="b67aaabe-e37c-489d-84ce-c8aef94576dc" version="1">After using this spell, you can teleport to a space within 1.5m of one of spell's targets.</content>
   <content contentuid="12950519-598d-4946-be0c-14e7c4409d7b" version="1">Steel Wind Strike: Teleport</content>
   <content contentuid="b3d9e8f4-5a5b-4ac4-b444-982b19e1a2d1" version="1">Teleport to a target of your Steel Wind Strike.</content>
   <content contentuid="397966e0-826b-4e2a-a62b-86c75bdbd970" version="1">Summon Draconic Spirit</content>
@@ -673,4 +675,26 @@
   <content contentuid="hb3f4bfb9g83a5g4090g92c9g846144a096ef" version="1">Whenever a creature within [1] hits you with an attack, the shadows lash out at that creature, dealing [2].</content>
   <content contentuid="h041a9202gd475g44a1gb09bg68849ebfcb50" version="1">&lt;LSTag Type="Status" Tooltip="SNEAKING_HEAVILY_OBSCURED"&gt;Heavily Obscured&lt;/LSTag&gt; to others and &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistant&lt;/LSTag&gt; to radiant damage.</content>
   <content contentuid="he6842936ged43g4072gb88egdf2460a3d0d8" version="1">Must have 25 gold to cast this spell.</content>
+  <content contentuid="h33b54f2eg497cg48e7gb623g9bd0e1e34c34" version="1">Alter Self</content>
+  <content contentuid="h2ce06e95gd1afg4954g94c8g6cb33f52beb1" version="1">Change your appearance or gain natural weapons.</content>
+  <content contentuid="h829ff404g07e6g491bgb3e3g6eab7860ec33" version="1">Alter Self: Drow</content>
+  <content contentuid="hfffabd2dg932ag4071gbfedg565127e8b3d9" version="1">Change your appearance to that of a drow.</content>
+  <content contentuid="h6a603fe7gf5e5g45b0g9d58gd55e1cf0be10" version="1">Alter Self: Duergar</content>
+  <content contentuid="h24cc46c1gdd49g4a0agb7a4g016bd0cfc5a0" version="1">Change your appearance to that of a duergar.</content>
+  <content contentuid="hb273c7ddg4962g4972gb1c2g802246216b94" version="1">Alter Self: Dwarf</content>
+  <content contentuid="hbc137fa5gf0d3g4ef4g9261gde15fa850601" version="1">Change your appearance to that of a dwarf.</content>
+  <content contentuid="h15a3de20ge679g4ad2g8715g95bda96e2d64" version="1">Alter Self: Elf</content>
+  <content contentuid="he4d00524g78abg475cg8fdcg48b1270b8ef1" version="1">Change your appearance to that of a elf.</content>
+  <content contentuid="hb594688dg1d3cg4d40g8055g0d82f7807a57" version="1">Alter Self: Githyanki</content>
+  <content contentuid="h24f8afebg9ad8g41a8g872agabc6b590568b" version="1">Change your appearance to that of a githyanki.</content>
+  <content contentuid="h77f20a70ge796g4394g9c38g26fd32d3fa7d" version="1">Alter Self: Half Drow</content>
+  <content contentuid="h332086b7g2b69g418egb789gab95277526d3" version="1">Change your appearance to that of a half drow.</content>
+  <content contentuid="h9e6d229dga5c8g4086g91ccgf53cced5ded1" version="1">Alter Self: Half Elf</content>
+  <content contentuid="hf2bf3d7cg8ae9g48b2gbb1dg606b86f46d84" version="1">Change your appearance to that of a half elf.</content>
+  <content contentuid="h0d7fda08g7038g4761g8819g8445a71e45c3" version="1">Alter Self: Halfling</content>
+  <content contentuid="h697aecb7g16bbg4c2cga90dg69360fbc9571" version="1">Change your appearance to that of a halfling.</content>
+  <content contentuid="h7fbf4e4bgb5f3g45f6g95e1gd044c3d34fb9" version="1">Alter Self: Human</content>
+  <content contentuid="h9fa81870g5875g4835gaef1gf1e53bb4ecda" version="1">Change your appearance to that of a human.</content>
+  <content contentuid="hf0cf5adagaeebg403dgb057g86f2b7b5accc" version="1">Alter Self: Tiefling</content>
+  <content contentuid="h5790919cg84adg408fg8301gfe641fcb8e0a" version="1">Change your appearance to that of a tiefling.</content>
 </contentList>

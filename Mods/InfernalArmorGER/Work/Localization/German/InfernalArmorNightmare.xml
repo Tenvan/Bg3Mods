@@ -78,7 +78,7 @@ Schaltet den Teleport des Höllenkriechers frei
 +15 auf alle &lt;b&gt;&lt;LSTag Tooltip="test"&gt;INT, WIS, CHA&lt;/LSTag&gt;&lt;/b&gt; Fertigkeiten.
 &lt;b&gt;&lt;LSTag&gt;LvL 6:&lt;/LSTag&gt;&lt;/b&gt;
 +1 für alle &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Statistiken&lt;/LSTag&gt;&lt;/b&gt;.
-Schaltet &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Größere Unsichtbarkeit&lt;/LSTag&gt;&lt; frei /b&gt;.
+Schaltet &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Größere Unsichtbarkeit&lt;/LSTag&gt;&lt;/b&gt; frei .
 &lt;b&gt;&lt;LSTag&gt;LvL 11:&lt;/LSTag&gt;&lt;/b&gt;
 +1 für alle &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Statistiken&lt;/LSTag&gt;&lt;/b &gt;.
 &lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;

@@ -4,7 +4,6 @@
   <content contentuid="hd9014363ge687g40d8gab36g6f499ebfbe16" version="1">Ein legendäres Wissen verleiht dir +10 auf alle Geschicklichkeits-, Intelligenz-, Weisheits- und Charisma-Fähigkeiten</content>
   <content contentuid="h2834bfccge335g497cgb08eg919367bba864" version="1">Verbündete haben einen Bonus von 1W6 auf Angriffswürfe und Rettungswürfe für Charisma, Weisheit und Intelligenz.</content>
   <content contentuid="h8b6f7afag3ad4g40bcgbf85g4dd940204cfb" version="1">Uralter Funke</content>
-  <content contentuid="h8b6f7afag3ad4g40bcgbf85g4dd940204cfb" version="1">Infinity Test Sooka</content>
   <content contentuid="hf8905888g1bb7g43b1gabffgf30cf9c6c0b4" version="1">Kann einen &lt;LSTag Type="Spell" Tooltip="Infinity_SunbeamShot_Recreate"&gt;Unendlichkeitsstrahl&lt;/LSTag&gt; abfeuern.</content>
   <content contentuid="h669519dbg8277g4835ga6d0gbd871821f0ab" version="1">Verursacht [1] und explodiert in einem Strahl strahlender Energie. Von diesem Bolzen getroffene Ziele erleiden möglicherweise zusätzlich [2] und erhalten den Strahlenkugel-Debuff.</content>
   <content contentuid="h0c651f9cg7245g4c15ga826ge18da8eba860" version="1">Die doppelhändige Infinity-Fernkampfwaffe steigt mit deinem Fortschritt.
@@ -13,7 +12,7 @@
 &lt;b&gt;&lt;LSTag&gt;LvL 4:&lt;/LSTag&gt;&lt;/b&gt;
 +1 Rollbonus auf &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Angriff und Zauber. &lt;/LSTag&gt;&lt;/b&gt;
 +2 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;III Zauberslot.&lt;/LSTag&gt;&lt;/b&gt;
-&lt;b&gt;&lt;LSTag&gt;LvL 8:&lt;/ LSTag&gt;&lt;/b&gt;
+&lt;b&gt;&lt;LSTag&gt;LvL 8:&lt;/LSTag&gt;&lt;/b&gt;
 +1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;DEX, INT.&lt;/LSTag&gt;&lt;/b&gt;
 +1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt; Kritische Chance.&lt;/LSTag&gt;&lt;/b&gt;
 &lt;b&gt;&lt;LSTag&gt;LvL 12:&lt;/LSTag&gt;&lt;/b&gt;
@@ -50,7 +49,7 @@ Zusätzlich [1].
 &lt;b&gt;&lt;LSTag&gt;LvL 1:&lt;/LSTag&gt;&lt;/b&gt;
 +1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;DEX.&lt;/LSTag&gt;&lt;/b&gt;
 &lt;b&gt;&lt;LSTag&gt;LvL 4:&lt;/LSTag&gt;&lt;/b&gt;
-+1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Kritische Chance.&lt;/LSTag&gt;&lt;/ b&gt;
++1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Kritische Chance.&lt;/LSTag&gt;&lt;/b&gt;
 +2 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;III Zauberslot.&lt;/LSTag&gt;&lt;/b&gt;
 &lt;b&gt;&lt;LSTag&gt;LvL 8:&lt;/LSTag&gt;&lt;/b&gt;
 +1 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;WIS.&lt;/LSTag&gt;&lt;/b&gt;

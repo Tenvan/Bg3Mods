@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
   <!-- Translated Texts, ordered by origin text -->
-  <content contentuid="h05d9c49agbac9g41d9g94c8g50d43c8f40ba" version="1"></content>
   <content contentuid="hcbfa0974ge825g4c18g84b9g0932fb7040df" version="1">&lt;LSTag Tooltip="Strength"&gt;Stärke&lt;/LSTag&gt; um [1] erhöht.</content>
   <content contentuid="h2cd9b24eg3bf0g4c1dgb09dgde143be9b701" version="1">&lt;LSTag Tooltip="Wisdom"&gt;Weisheit&lt;/LSTag&gt; um [1] erhöht.</content>
   <content contentuid="h5e160202g878dg4da7gab1bgd0330185c24f" version="1">Ein Blitz schlägt in das Zielgebiet ein und kann &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Ziele in einem Radius von [1] beim Einschlag betäuben&lt;/LSTag&gt;.</content>
