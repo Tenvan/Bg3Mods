@@ -105,7 +105,7 @@
   <content contentuid="8a6e3d95-17df-4df3-9551-4f5b8e42f949" version="1">Befreie dich</content>
   <content contentuid="d4f5eff79bc347868c89acfdacbc4f12" version="1">Brechen Sie das Eis, das eine Kreatur behindert.</content>
   <content contentuid="179cf9ab-a77f-4cab-b6bd-3539150a4acb" version="1">Werde für kurze Zeit eins mit der Natur und erhalte Wissen über das umliegende Gebiet.
-Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und &lt;LSTag Tooltip="Survival" &gt;Überleben&lt;/LSTag&gt; Fertigkeitswürfe und verdoppelst deinen &lt;LSTag Tooltip="ProficiencyBonus" &gt;Übungs-Bonus&lt;/LSTag&gt; bei Fertigkeitwürfen.</content>
+Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und &lt;LSTag Tooltip="Survival" &gt;Überleben&lt;/LSTag&gt; Fertigkeitswürfe und verdoppelst deinen &lt;LSTag Tooltip="ProficiencyBonus" &gt;Bonus&lt;/LSTag&gt; bei Fertigkeitwürfen.</content>
   <content contentuid="0dcf2040-520a-49f7-a8bc-d0fab42a9880" version="1">Rufe einen drakonischen Geist herbei, der einem farbigen Drachen ähnelt und an deiner Seite kämpft.</content>
   <content contentuid="3b1ea766-b51c-468a-8a36-e31e29a0a549" version="1">Rufe einen drakonischen Geist herbei, der einem Farb-, Edelstein- oder Metalldrachen ähnelt und an deiner Seite kämpft.</content>
   <content contentuid="97f2f626-2157-498e-90de-72f733f7b1b9" version="1">Ruft einen drakonischen Geist herbei, der einem Edelsteindrachen ähnelt und an eurer Seite kämpft.</content>
@@ -395,7 +395,7 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="adf4b64bf350415eb806ec23d9e31d4c" version="1">Beherrscht Geschichte &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="c165304838144de29f1ea75b25a0555c" version="1">Beherrscht Einsicht &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="c9b7a9af42334d28aec4c27affb5418e" version="1">Beherrscht Einschüchterung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
-  <content contentuid="92819541867f4f4bbbef039c5d290482" version="1">Beherrscht Ermittlungs-&lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="92819541867f4f4bbbef039c5d290482" version="1">Hat Kenntnisse in Ermittlungs &lt;LSTag Tooltip="AbilityCheck" &gt;Überprüfungen&lt;/LSTag&gt;.</content>
   <content contentuid="e299516a004246a5bb358d2c7de1a3e0" version="1">Beherrscht Medizin &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="6285e8bccbbf4b56b223599c899a21d8" version="1">Beherrscht Natur &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="4d4adf512c464885b99e95308111bfec" version="1">Beherrscht Wahrnehmung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
@@ -657,7 +657,7 @@ Deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt
   <content contentuid="e42d6815-0749-4b58-a282-5d5b671eccd0" version="1">The spell ends on a creature once its &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; are depleted.</content>
   <content contentuid="971bb1b1e9cb4592b12b368057ae539c" version="1">Der Geist schreit, möglicherweise &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrecken&lt;/LSTag&gt;Kreaturen.</content>
   <content contentuid="fa118a5a-cabe-45e3-9aa6-1df58d6834b4" version="1">The surfaces include water, electrified water, electrified blood, mud, poison and grease.</content>
-  <content contentuid="c758d016-dc05-45cd-8cbd-c3b273593032" version="1">The target must be proficient in the chosen skill and cannot already benefit from an effect that doubles its &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+  <content contentuid="c758d016-dc05-45cd-8cbd-c3b273593032" version="1">Das Ziel muss die gewählte Fertigkeit beherrschen und darf nicht bereits von einem Effekt profitieren, der seinen &lt;LSTag Tooltip="ProficiencyBonus" &gt;Fertigkeitsbonus&lt;/LSTag&gt; verdoppelt.</content>
   <content contentuid="66c0ac2e056a4a04b668b23b6b221606" version="1">This attack deals an additional amount of damage equal to the spell slot used to create the elemental.</content>
   <content contentuid="43c787dd-bf8b-4042-b2d2-947ea6e966d8" version="1">Dieser Bogen schießt einen Blitz ab.</content>
   <content contentuid="4ca7c3de83ce4f899772656eb42e9053" version="1">Dies ist deine Ressource für die Heilung von Kreaturen durch den &lt;LSTag Type="Spell" Tooltip="Target_HealingSpirit_Heal" &gt;Heilender Geist&lt;/LSTag&gt;-Zauber.</content>
