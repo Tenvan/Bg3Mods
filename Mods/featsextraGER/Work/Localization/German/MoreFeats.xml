@@ -1,202 +1,163 @@
-<contentList date="12/12/2020 17:49">
-    <content contentuid="d82df8c8a9c445949de1deeeeeeeeeeeeeeee" version="1">Alert</content>
-    <content contentuid="47e2b9d868ae48aeabeddeeeeeeeeeeeeeeee" version="1">You are always on the lookout for danger. You can't be surprised while you are conscious, you gain a +5 to initiative and other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.</content>
-	<content contentuid="eb5f40e9a31946a5b7e8deeeeeeeeeeeeeeee" version="1">Charger</content>
-    <content contentuid="35370d2c3cf949918ee3deeeeeeeeeeeeeeee" version="1">Fearless in facing foes, you have the ability to charge into the battlefield. You can use an action to charge in a straight line, pushing any enemies in your way by 3m from the target point. After charging, you can use a bonus action to make one melee weapon attack and you gain a +5 bonus to the attack's damage roll.</content>
-	<content contentuid="47188d5c3de24b43a267deeeeeeeeeeeeeeee" version="1">Crossbow Expert</content>
-    <content contentuid="5e6d132771fd4777a080deeeeeeeeeeeeeeee" version="1">Thanks to extensive practice with the crossbow, when you use the Attack action and attack with a one handed weapon or crossbow, you can use a bonus action to attack with a crossbow you are holding. Also, being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.</content>
-	<content contentuid="067327b8eee9416199efdeeeeeeeeeeeeeeee" version="1">Crusher</content>
-    <content contentuid="111cf2a199684222be14deeeeeeeeeeeeeeee" version="1">You are practiced in the art of crushing your enemies. Increase your Strength or Constitution by 1, to a maximum of 20. Once per turn, when you hit a creature with a melee attack that deals bludgeoning damage, you move it 2m away from you, provided the target is no more than one size larger than you. Also, when you score a critical hit with a melee attack that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.</content>
-	<content contentuid="79712ea501944bc1a26adeeeeeeeeeeeeeeee" version="1">Durable</content>
-    <content contentuid="2cb840e6712f42c699c5deeeeeeeeeeeeeeee" version="1">Hardy and resilient, you increase your Constitution score by 1, to a maximum of 20 and gain extra hit points equal to twice your Constitution modifer on a short rest.</content>
-	<content contentuid="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1">Eldritch Adept</content>
-    <content contentuid="3033276959c341e59d57deeeeeeeeeeeeeeee" version="1">Studying occult lore, you have unlocked eldritch power within yourself: you learn one Eldritch Invocation option of your choice from the Warlock class.If you already have an Invocation, the one you choose must be different.</content>
-	<content contentuid="43c1b148bf6b46e7bc32deeeeeeeeeeeeeeee" version="1">Fey Touched: Charisma</content>
-    <content contentuid="36634b055190488cae71deeeeeeeeeeeeeeee" version="1">Your exposure to the Feywild's magic has changed you, increasing your chosen ability score by 1. You also learn the Misty Step spell (which can be cast at 1st-level once per day) and one 1st-level spell of your choice. The 1st-level spell must be from the Divination or Enchantment school of magic. The spells’ spellcasting ability is the ability increased by this feat.</content>
-	<content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">Fey Touched: Intelligence</content>
-    <content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">Fey Touched: Wisdom</content>
-	<content contentuid="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1">Fighting Initiate</content>
-	<content contentuid="182ca10953964f4aa71edeeeeeeeeeeeeeeee" version="1">Your martial training has helped you develop a particular style of fighting. As a result, you learn one Fighting Style option of your choice from the Fighter class. If you already have a style, the one you choose must be different.</content>
-	<content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">Gift of the Chromatic Dragon</content>
-    <content contentuid="d7213c671ff64e589ba7deeeeeeeeeeeeeeee" version="1">You’ve manifested some of the power of chromatic dragons, granting you the following benefits:</content>
-    <content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">Healer</content>
-	<content contentuid="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1">You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. As an action, you can tend to a creature's wounds. You restore 1d6+4 hit points to it, plus a number of hit points equal to your level. That creature can't regain hit points in this way again until they finish a long rest.</content>
-	<content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">Inspiring Leader</content>
-	<content contentuid="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1">You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to their level + your Charisma modifier. </content>
-	<content contentuid="fe7d38b35d04489f9549deeeeeeeeeeeeeeee" version="1">Medium Armor Master</content>
-	<content contentuid="957a4099e03b4339a99cdeeeeeeeeeeeeeeee" version="1">Wearing medium armor doesn't impose disadvantage on Dexterity (Stealth) checks, and wearing medium armor can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.</content>
-	<content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">Metamagic Adept</content>
-    <content contentuid="6ab66eb3364442bea764deeeeeeeeeeeeeeee" version="1">You've learned how to exert your will on your spells to alter how they function. You learn two Metamagic options of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. You also gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest.</content>
-	<content contentuid="55444130201e4b4b8cdfdeeeeeeeeeeeeeeee" version="1">Polearm Master</content>
-    <content contentuid="20eded91814c444088dbdeeeeeeeeeeeeeeee" version="1">You can keep your enemies at bay with reach weapons. When you take the Attack action and attack with only a glaive, halberd, or pike, you can use a bonus action to make a melee attack (that deals d4 bludgeoning damage on a hit) with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. Also, other creatures provoke an opportunity attack from you when they enter the reach you have with a glaive, halberd, or pike.</content>
-    <content contentuid="c2ec5b7dbdf84782b9e3deeeeeeeeeeeeeeee" version="1">Resilient</content>
-	<content contentuid="d9a899c2f26a46afb78ddeeeeeeeeeeeeeeee" version="1">Increase the chosen ability score by 1, to a maximum of 20 and you gain proficiency in saving throws using the chosen ability.</content>
-	<content contentuid="db701f08f8af44319470deeeeeeeeeeeeeeee" version="1">Ritual Caster: Bard</content>
-    <content contentuid="eb6321dcd57c4253b0dedeeeeeeeeeeeeeeee" version="1">Ritual Caster: Cleric</content>
-    <content contentuid="518244de5c9f4cf78a8bdeeeeeeeeeeeeeeee" version="1">Ritual Caster: Wizard</content>
-    <content contentuid="47768ac99c854d1f8085deeeeeeeeeeeeeeee" version="1">You acquire a ritual book holding two 1st level spells with the ritual tag, which must be on the list of the chosen class.</content>
-	<content contentuid="0934d878c3f846b1aa7fdeeeeeeeeeeeeeeee" version="1">Sentinel</content>
-    <content contentuid="c5c2623271b5484dbf7edeeeeeeeeeeeeeeee" version="1">You have mastered techniques to take advantage of every drop in any enemy's guard. When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn. When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.</content>
-	<content contentuid="3d8e0883bf6447b0b43edeeeeeeeeeeeeeeee" version="1">Shadow Touched: Charisma</content>
-    <content contentuid="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1">Your exposure to the Shadowfell's magic has changed you, increasing your chosen ability score by 1. You also learn the Invisibility spell (which can be cast at 1st-level once per day) and one 1st-level spell of your choice. The 1st-level spell must be from the Illusion or Necromancy school of magic. The spells’ spellcasting ability is the ability increased by this feat.</content>
-	<content contentuid="ecb90f47ea794594b8d2deeeeeeeeeeeeeeee" version="1">Shadow Touched: Intelligence</content>
-    <content contentuid="06d7fd92ea144aa6aff2deeeeeeeeeeeeeeee" version="1">Shadow Touched: Wisdom</content>
-	<content contentuid="b517e46a960f4d839ce8deeeeeeeeeeeeeeee" version="1">Sharpshooter</content>
-    <content contentuid="f74d35801cba40d887d6deeeeeeeeeeeeeeee" version="1">You have mastered ranged weapons and can make shots that others find impossible. You can perform a ranged weapon attack outside of your normal range without moving, and attacks outside of normal range do not impose disadvantage. Also, before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If that attack hits, you add +10 to the attack's damage.</content>
-	<content contentuid="fb9faddd99314a8fa271deeeeeeeeeeeeeeee" version="1">Skill Expert</content>
-	<content contentuid="eafd844a2e9a41eeb2a7deeeeeeeeeeeeeeee" version="1">You have honed your proficiency with particular skills. Increase one ability score by 1, to a maximum of 20. You gain one proficiency in one skill of your choice, and gain Expertise (double proficiency bonus) in one skill of your choice.</content>
-	<content contentuid="73f4c0a36dea4bed87d1deeeeeeeeeeeeeeee" version="1">Slasher</content>
-	<content contentuid="c96404926f204f97869fdeeeeeeeeeeeeeeee" version="1">You’ve learned where to cut to have the greatest results. Increase your Strength or Dexterity by 1, to a maximum of 20. Once per turn, when you hit a creature with a melee attack that deals slashing damage, you reduce the speed of the target by 10 feet until the start of your next turn. Also, when you score a critical hit with a melee attack that deals slashing damage to a creature, the target has disadvantage on all attack rolls.</content>
-	<content contentuid="25dd208f2a6548cf8b62deeeeeeeeeeeeeeee" version="1">Spell Sniper: Bard/Sorcerer/Warlock</content>
-    <content contentuid="170e550713eb470d8e31deeeeeeeeeeeeeeee" version="1">You have learned techniques to enhance your attacks with certain kinds of spells. When active, you can access a copy of all your spells that require an attack roll, which doubles the spell's range. You also learn one cantrip that requires an attack roll (melee or ranged). Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose: Charisma for bard, sorcerer, and warlock; Wisdom for cleric and druid; or Intelligence for artificer and wizard.</content>
-	<content contentuid="dbaca33ec18848369644deeeeeeeeeeeeeeee" version="1">Spell Sniper: Artificer/Wizard</content>
-    <content contentuid="958253d100604717919ddeeeeeeeeeeeeeeee" version="1">Spell Sniper: Cleric/Druid</content>
-	<content contentuid="68e2e4d0a7604becbe56deeeeeeeeeeeeeeee" version="1">Telekinetic</content>
-	<content contentuid="3e1ca57071e9485783d6deeeeeeeeeeeeeeee" version="1">You learn to move things with your mind. Increase the chosen ability score by 1, to a maximum of 20. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
-	<content contentuid="ee1962b8b1354baa8cc6deeeeeeeeeeeeeeee" version="1">War Caster</content>
-    <content contentuid="0300d191fbcc4db09a69deeeeeeeeeeeeeeee" version="1">You have practiced casting spells in the midst of combat. You have advantage on Constitution saving throws whilst maintaining your concentration on a spell. Also, when a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.</content>
-	<content contentuid="afe78e329cf84a9991acdeeeeeeeeeeeeeeee" version="1">Crossbow Expert: Negate Close Range</content>
-	<content contentuid="61b6136607144280864fdeeeeeeeeeeeeeeee" version="1">Attacking at close range (3m) doesn't impose disadvantage on your crossbow attack rolls.</content>
-	<content contentuid="f3322ca977eb4022bf7bdeeeeeeeeeeeeeeee" version="1">Crossbow Expert: Negate Threatened</content>
-	<content contentuid="d43b38b6bb5d4151bf28deeeeeeeeeeeeeeee" version="1">An enemy being close to you (Threatened status) doesn't impose disadvantage on your crossbow attack rolls.</content>
-	<content contentuid="0e0fedb809364bc5ac92deeeeeeeeeeeeeeee" version="1">Alert: Bonus Initiative</content>
-    <content contentuid="5a7fbec2aaca4d819b02deeeeeeeeeeeeeeee" version="1">You gain a +5 bonus to Initiative, increasing the chance of going first in combat.</content>
-	<content contentuid="3f7b9d4a098e4b1ba03cdeeeeeeeeeeeeeeee" version="1">Alert: Surprised immunity</content>
-    <content contentuid="b15a6e75e1fe442a8ee1deeeeeeeeeeeeeeee" version="1">You can't be surprised (Any character or monster that doesn't notice a threat is surprised at the start of combat, which prevents you from moving or taking actions in the first turn) while you are conscious.</content>
-	<content contentuid="7782e645c133482db65ddeeeeeeeeeeeeeeee" version="1">Dual Wielder: Bonus AC</content>
-    <content contentuid="655283cd569d4ff6b75bdeeeeeeeeeeeeeeee" version="1">You gain a +1 bonus to AC (armor class) while you are wielding a separate melee weapon in each hand.</content>
-	<content contentuid="1106d24b8497459198f0deeeeeeeeeeeeeeee" version="1">Ranged Attack Bonus: -5</content>
-	<content contentuid="4dba280cf1354062b109deeeeeeeeeeeeeeee" version="1">You take a -5 penalty to attack rolls you make with ranged weapons.</content>
-	<content contentuid="1e58b3849b794d13ac7bdeeeeeeeeeeeeeeee" version="1">Ranged Damage Bonus: +10</content>
-	<content contentuid="a38630b4862942d8aa10deeeeeeeeeeeeeeee" version="1">You gain a +10 bonus to damage rolls you make with ranged weapons.</content>
-	<content contentuid="e9ca21d2a8614a3fa497deeeeeeeeeeeeeeee" version="1">Sharpshooter: Longer Range</content>
-	<content contentuid="79590b18ec9e4cf2bf7adeeeeeeeeeeeeeeee" version="1">Increases the base attack range of ranged weapon attacks, and cancels out the disadvantage given when out of 18m range</content>
-	<content contentuid="a4af7f192699491aa220deeeeeeeeeeeeeeee" version="1">Spell Sniper: Longer range</content>
-	<content contentuid="9630bff14d8644ffb5dcdeeeeeeeeeeeeeeee" version="1">Test description</content>
-	<content contentuid="836fb35017ca41889b64deeeeeeeeeeeeeeee" version="1">War Caster: Advantage When Concentrating</content>
-	<content contentuid="40ebd9842a90499f8aa4deeeeeeeeeeeeeeee" version="1">You have advantage on Constitution saving throws whilst maintaining your concentration on a spell.</content>
-  <content contentuid="kt1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion</content>
-  <content contentuid="kt1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">As a bonus action, you can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra 1d4 damage of the chosen type when it hits. After you use this bonus action, you can’t do so again until you finish a long rest.</content>
-  <content contentuid="kt1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Crusher: Move</content>
-  <content contentuid="kt1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once per turn, when you hit a creature with a melee attack that deals bludgeoning damage, you move it away from you, provided the target is no more than one size larger than you.</content>
-  <content contentuid="kt1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Crusher: Crit</content>
-  <content contentuid="kt1056871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you score a critical hit with a melee attack that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.</content>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="d82df8c8a9c445949de1deeeeeeeeeeeeeeee" version="1">Warnung</content>
+  <content contentuid="0e0fedb809364bc5ac92deeeeeeeeeeeeeeee" version="1">Warnung: Bonus-Initiative</content>
+  <content contentuid="3f7b9d4a098e4b1ba03cdeeeeeeeeeeeeeeee" version="1">Warnung: Überraschte Immunität</content>
+  <content contentuid="kt1356871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Alle Kreaturen (einschließlich dir selbst) im Umkreis von 9 Metern um dich erhalten 5 temporäre Trefferpunkte. Erst nach einer kurzen oder langen Pause kann man wieder begeistern</content>
+  <content contentuid="d43b38b6bb5d4151bf28deeeeeeeeeeeeeeee" version="1">Ein Feind, der sich in Ihrer Nähe befindet (Status „Bedroht“), beeinträchtigt Ihre Angriffswürfe mit der Armbrust nicht.</content>
+  <content contentuid="kt1376871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Als Bonusaktion kannst du eine einfache oder Kriegswaffe berühren und ihr eine der folgenden Schadensarten zufügen: Säure, Kälte, Feuer, Blitz oder Gift. In der nächsten Minute verursacht die Waffe bei einem Treffer zusätzlich 1W4 Schaden des gewählten Typs.</content>
+  <content contentuid="kt1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Als Bonusaktion kannst du eine einfache oder Kriegswaffe berühren und ihr eine der folgenden Schadensarten zufügen: Säure, Kälte, Feuer, Blitz oder Gift. In der nächsten Minute verursacht die Waffe bei einem Treffer zusätzlich 1W4 Schaden der gewählten Schadensart. Wenn man diesen Bonus einmal benutzt hat, kann man ihn erst nach einer längeren Pause wieder einsetzen.</content>
+  <content contentuid="kt1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Als Aktion kannst du die Wunden einer Kreatur versorgen. Du stellst 1d6 HP wieder her, plus eine Anzahl von Trefferpunkten, die deiner Stufe entspricht. Die Kreatur kann erst nach einer langen Ruhepause wieder Trefferpunkte auf diese Weise erhalten.</content>
+  <content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Als Aktion kannst du die Wunden einer Kreatur versorgen. Du stellst 1d6 Trefferpunkte wieder her, plus eine Anzahl von Trefferpunkten, die deiner Stufe entspricht. Die Kreatur kann erst nach einer langen Ruhepause wieder Trefferpunkte auf diese Weise erhalten.</content>
+  <content contentuid="kt1626871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Attack rolls against this creature are made with advantage until the start of your next turn</content>
+  <content contentuid="61b6136607144280864fdeeeeeeeeeeeeeeee" version="1">Attacking at close range (3m) doesn't impose disadvantage on your crossbow attack rolls.</content>
+  <content contentuid="kt1786871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Can't use again until you finish a long rest</content>
+  <content contentuid="eb5f40e9a31946a5b7e8deeeeeeeeeeeeeeee" version="1">Ladegerät</content>
+  <content contentuid="kt1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion</content>
+  <content contentuid="kt1366871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion</content>
+  <content contentuid="kt1386871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Säure)</content>
+  <content contentuid="kt1516871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Säure)</content>
+  <content contentuid="kt1396871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (kalt)</content>
+  <content contentuid="kt1536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Kälte)</content>
+  <content contentuid="kt1406871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Feuer)</content>
+  <content contentuid="kt1556871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Feuer)</content>
+  <content contentuid="kt1416871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Blitz)</content>
+  <content contentuid="kt1576871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Blitz)</content>
+  <content contentuid="kt1426871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Gift)</content>
+  <content contentuid="kt1596871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Gift)</content>
+  <content contentuid="47188d5c3de24b43a267deeeeeeeeeeeeeeee" version="1">Armbrust-Experte</content>
+  <content contentuid="afe78e329cf84a9991acdeeeeeeeeeeeeeeee" version="1">Armbrustexperte: Nahkampf negieren</content>
+  <content contentuid="f3322ca977eb4022bf7bdeeeeeeeeeeeeeeee" version="1">Armbrustexperte: Bedroht negieren</content>
+  <content contentuid="kt1616871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Zerquetscht</content>
+  <content contentuid="067327b8eee9416199efdeeeeeeeeeeeeeeee" version="1">Brecher</content>
+  <content contentuid="kt1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Brecher: Krit</content>
+  <content contentuid="kt1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Brecher: Bewegen</content>
+  <content contentuid="kt1826871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Nachteil bei allen Angriffswürfen.</content>
+  <content contentuid="7782e645c133482db65ddeeeeeeeeeeeeeeee" version="1">Beidhändiger Kämpfer: Bonus AC</content>
+  <content contentuid="79712ea501944bc1a26adeeeeeeeeeeeeeeee" version="1">Haltbar</content>
+  <content contentuid="kt1666871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Jede Kreatur erhält 5 temporäre Trefferpunkte.</content>
+  <content contentuid="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1">Eldritch Adept</content>
+  <content contentuid="35370d2c3cf949918ee3deeeeeeeeeeeeeeee" version="1">Du hast die Fähigkeit, furchtlos auf das Schlachtfeld zu stürmen, wenn du dich deinen Feinden stellst. Du kannst eine Aktion verwenden, um in einer geraden Linie anzugreifen und alle Feinde, die sich dir in den Weg stellen, 3 m vom Zielpunkt wegzuschieben. Nach dem Angriff kannst du eine Bonusaktion nutzen, um einen Angriff mit einer Nahkampfwaffe auszuführen und erhältst einen Bonus von +5 auf den Schadenswurf des Angriffs.</content>
   <content contentuid="kt1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Fey Touched</content>
+  <content contentuid="43c1b148bf6b46e7bc32deeeeeeeeeeeeeeee" version="1">Fey Touched: Charisma</content>
+  <content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">Fey Touched: Intelligence</content>
+  <content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">Fey Touched: Wisdom</content>
+  <content contentuid="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1">Fighting Initiate</content>
+  <content contentuid="kt1526871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 acid when it hits.</content>
+  <content contentuid="kt1546871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 cold damage when it hits.</content>
+  <content contentuid="kt1566871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 fire damage when it hits.</content>
+  <content contentuid="kt1586871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 lightning damage when it hits.</content>
+  <content contentuid="kt1606871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 poison damage when it hits.</content>
+  <content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">Gift of the Chromatic Dragon</content>
+  <content contentuid="2cb840e6712f42c699c5deeeeeeeeeeeeeeee" version="1">Hardy and resilient, you increase your Constitution score by 1, to a maximum of 20 and gain extra hit points equal to twice your Constitution modifer on a short rest.</content>
+  <content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">Healer</content>
+  <content contentuid="kt1636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer</content>
+  <content contentuid="kt1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer: Tend to Wounds</content>
+  <content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer: Tend to Wounds</content>
+  <content contentuid="d9a899c2f26a46afb78ddeeeeeeeeeeeeeeee" version="1">Increase the chosen ability score by 1, to a maximum of 20 and you gain proficiency in saving throws using the chosen ability.</content>
+  <content contentuid="kt1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen ability score by 1. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
+  <content contentuid="kt1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen ability score by 1. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
+  <content contentuid="kt1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen ability score by 1. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
+  <content contentuid="79590b18ec9e4cf2bf7adeeeeeeeeeeeeeeee" version="1">Increases the base attack range of ranged weapon attacks, and cancels out the disadvantage given when out of 18m range</content>
+  <content contentuid="kt1656871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspired</content>
+  <content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">Inspiring Leader</content>
+  <content contentuid="kt1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspiring Leader</content>
+  <content contentuid="kt1346871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspiring Leader</content>
+  <content contentuid="fe7d38b35d04489f9549deeeeeeeeeeeeeeee" version="1">Medium Armor Master</content>
+  <content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">Metamagic Adept</content>
+  <content contentuid="kt1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Metamagic Adept</content>
+  <content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Movement reduced by 3 metres</content>
+  <content contentuid="kt1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once per turn, when you hit a creature with a melee attack that deals bludgeoning damage, you move it away from you, provided the target is no more than one size larger than you.</content>
+  <content contentuid="kt1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once per turn, when you hit a creature with a melee attack that deals slashing damage, you reduce the speed of the target by 3 metres until the start of your next turn.</content>
+  <content contentuid="55444130201e4b4b8cdfdeeeeeeeeeeeeeeee" version="1">Polearm Master</content>
+  <content contentuid="1106d24b8497459198f0deeeeeeeeeeeeeeee" version="1">Ranged Attack Bonus: -5</content>
+  <content contentuid="1e58b3849b794d13ac7bdeeeeeeeeeeeeeeee" version="1">Ranged Damage Bonus: +10</content>
+  <content contentuid="kt1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance</content>
+  <content contentuid="kt1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance</content>
+  <content contentuid="kt1676871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Acid)</content>
+  <content contentuid="kt1696871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Cold)</content>
+  <content contentuid="kt1716871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Fire)</content>
+  <content contentuid="kt1736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Lightning)</content>
+  <content contentuid="kt1756871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Poison)</content>
+  <content contentuid="kt1776871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance out of uses</content>
+  <content contentuid="c2ec5b7dbdf84782b9e3deeeeeeeeeeeeeeee" version="1">Resilient</content>
+  <content contentuid="kt1686871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Acid for one instance of damage.</content>
+  <content contentuid="kt1706871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Cold for one instance of damage.</content>
+  <content contentuid="kt1726871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Fire for one instance of damage.</content>
+  <content contentuid="kt1746871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Lightning for one instance of damage.</content>
+  <content contentuid="kt1766871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Poison for one instance of damage.</content>
+  <content contentuid="db701f08f8af44319470deeeeeeeeeeeeeeee" version="1">Ritual Caster: Bard</content>
+  <content contentuid="eb6321dcd57c4253b0dedeeeeeeeeeeeeeeee" version="1">Ritual Caster: Cleric</content>
+  <content contentuid="518244de5c9f4cf78a8bdeeeeeeeeeeeeeeee" version="1">Ritual Caster: Wizard</content>
+  <content contentuid="0934d878c3f846b1aa7fdeeeeeeeeeeeeeeee" version="1">Sentinel</content>
+  <content contentuid="kt1186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Shadow Touched</content>
+  <content contentuid="3d8e0883bf6447b0b43edeeeeeeeeeeeeeeee" version="1">Shadow Touched: Charisma</content>
+  <content contentuid="ecb90f47ea794594b8d2deeeeeeeeeeeeeeee" version="1">Shadow Touched: Intelligence</content>
+  <content contentuid="06d7fd92ea144aa6aff2deeeeeeeeeeeeeeee" version="1">Shadow Touched: Wisdom</content>
+  <content contentuid="b517e46a960f4d839ce8deeeeeeeeeeeeeeee" version="1">Sharpshooter</content>
+  <content contentuid="e9ca21d2a8614a3fa497deeeeeeeeeeeeeeee" version="1">Sharpshooter: Longer Range</content>
+  <content contentuid="fb9faddd99314a8fa271deeeeeeeeeeeeeeee" version="1">Skill Expert</content>
+  <content contentuid="73f4c0a36dea4bed87d1deeeeeeeeeeeeeeee" version="1">Slasher</content>
+  <content contentuid="kt1246871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Crit</content>
+  <content contentuid="kt1816871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Disadvantage</content>
+  <content contentuid="kt1226871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Reduce Speed</content>
+  <content contentuid="kt1796871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Reduced Speed</content>
+  <content contentuid="dbaca33ec18848369644deeeeeeeeeeeeeeee" version="1">Spell Sniper: Artificer/Wizard</content>
+  <content contentuid="25dd208f2a6548cf8b62deeeeeeeeeeeeeeee" version="1">Spell Sniper: Bard/Sorcerer/Warlock</content>
+  <content contentuid="958253d100604717919ddeeeeeeeeeeeeeeee" version="1">Spell Sniper: Cleric/Druid</content>
+  <content contentuid="a4af7f192699491aa220deeeeeeeeeeeeeeee" version="1">Spell Sniper: Longer range</content>
+  <content contentuid="3033276959c341e59d57deeeeeeeeeeeeeeee" version="1">Studying occult lore, you have unlocked eldritch power within yourself: you learn one Eldritch Invocation option of your choice from the Warlock class.If you already have an Invocation, the one you choose must be different.</content>
+  <content contentuid="68e2e4d0a7604becbe56deeeeeeeeeeeeeeee" version="1">Telekinetic</content>
+  <content contentuid="kt1456871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Mage Hand</content>
+  <content contentuid="kt1496871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Pull</content>
+  <content contentuid="kt1476871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Push</content>
+  <content contentuid="kt1306871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic: Charisma</content>
+  <content contentuid="kt1266871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic: Intelligence</content>
+  <content contentuid="kt1286871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic: Wisdom</content>
+  <content contentuid="9630bff14d8644ffb5dcdeeeeeeeeeeeeeeee" version="1">Test description</content>
+  <content contentuid="5e6d132771fd4777a080deeeeeeeeeeeeeeee" version="1">Thanks to extensive practice with the crossbow, when you use the Attack action and attack with a one handed weapon or crossbow, you can use a bonus action to attack with a crossbow you are holding. Also, being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.</content>
+  <content contentuid="kt1646871g90b2g4f18gab29g0a0a8f3fbdce" version="1">This creature can't regain hit points via the Healer feat again until they finish a long rest.</content>
+  <content contentuid="kt1136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Unlocks the Inspiring Leader spell, which gives all friendly creatures (including yourself) within 9 metres of you 5 temporary hit points.</content>
+  <content contentuid="ee1962b8b1354baa8cc6deeeeeeeeeeeeeeee" version="1">War Caster</content>
+  <content contentuid="836fb35017ca41889b64deeeeeeeeeeeeeeee" version="1">War Caster: Advantage When Concentrating</content>
+  <content contentuid="957a4099e03b4339a99cdeeeeeeeeeeeeeeee" version="1">Wearing medium armor doesn't impose disadvantage on Dexterity (Stealth) checks, and wearing medium armor can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.</content>
+  <content contentuid="kt1056871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you score a critical hit with a melee attack that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.</content>
+  <content contentuid="kt1256871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you score a critical hit with a melee attack that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.</content>
+  <content contentuid="kt1176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</content>
+  <content contentuid="kt1336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</content>
+  <content contentuid="47768ac99c854d1f8085deeeeeeeeeeeeeeee" version="1">You acquire a ritual book holding two 1st level spells with the ritual tag, which must be on the list of the chosen class.</content>
+  <content contentuid="47e2b9d868ae48aeabeddeeeeeeeeeeeeeeee" version="1">Du bist immer auf der Suche nach Gefahr. Solange du bei Bewusstsein bist, kannst du nicht überrascht werden, du erhältst +5 auf Initiative und andere Kreaturen erhalten keinen Vorteil bei Angriffswürfen gegen dich, weil sie sich vor dir verstecken.</content>
+  <content contentuid="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1">You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. As an action, you can tend to a creature's wounds. You restore 1d6+4 hit points to it, plus a number of hit points equal to your level. That creature can't regain hit points in this way again until they finish a long rest.</content>
+  <content contentuid="111cf2a199684222be14deeeeeeeeeeeeeeee" version="1">You are practiced in the art of crushing your enemies. Increase your Strength or Constitution by 1, to a maximum of 20. Once per turn, when you hit a creature with a melee attack that deals bludgeoning damage, you move it 2m away from you, provided the target is no more than one size larger than you. Also, when you score a critical hit with a melee attack that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.</content>
+  <content contentuid="20eded91814c444088dbdeeeeeeeeeeeeeeee" version="1">You can keep your enemies at bay with reach weapons. When you take the Attack action and attack with only a glaive, halberd, or pike, you can use a bonus action to make a melee attack (that deals d4 bludgeoning damage on a hit) with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. Also, other creatures provoke an opportunity attack from you when they enter the reach you have with a glaive, halberd, or pike.</content>
+  <content contentuid="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1">You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to their level + your Charisma modifier. </content>
+  <content contentuid="b15a6e75e1fe442a8ee1deeeeeeeeeeeeeeee" version="1">You can't be surprised (Any character or monster that doesn't notice a threat is surprised at the start of combat, which prevents you from moving or taking actions in the first turn) while you are conscious.</content>
+  <content contentuid="kt1156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You gain 2 sorcery points to spend on Metamagic. You regain all spent sorcery points when you finish a long rest.</content>
+  <content contentuid="655283cd569d4ff6b75bdeeeeeeeeeeeeeeee" version="1">You gain a +1 bonus to AC (armor class) while you are wielding a separate melee weapon in each hand.</content>
+  <content contentuid="a38630b4862942d8aa10deeeeeeeeeeeeeeee" version="1">You gain a +10 bonus to damage rolls you make with ranged weapons.</content>
+  <content contentuid="5a7fbec2aaca4d819b02deeeeeeeeeeeeeeee" version="1">You gain a +5 bonus to Initiative, increasing the chance of going first in combat.</content>
+  <content contentuid="40ebd9842a90499f8aa4deeeeeeeeeeeeeeee" version="1">You have advantage on Constitution saving throws whilst maintaining your concentration on a spell.</content>
+  <content contentuid="eafd844a2e9a41eeb2a7deeeeeeeeeeeeeeee" version="1">You have honed your proficiency with particular skills. Increase one ability score by 1, to a maximum of 20. You gain one proficiency in one skill of your choice, and gain Expertise (double proficiency bonus) in one skill of your choice.</content>
+  <content contentuid="170e550713eb470d8e31deeeeeeeeeeeeeeee" version="1">You have learned techniques to enhance your attacks with certain kinds of spells. When active, you can access a copy of all your spells that require an attack roll, which doubles the spell's range. You also learn one cantrip that requires an attack roll (melee or ranged). Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose: Charisma for bard, sorcerer, and warlock; Wisdom for cleric and druid; or Intelligence for artificer and wizard.</content>
+  <content contentuid="f74d35801cba40d887d6deeeeeeeeeeeeeeee" version="1">You have mastered ranged weapons and can make shots that others find impossible. You can perform a ranged weapon attack outside of your normal range without moving, and attacks outside of normal range do not impose disadvantage. Also, before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If that attack hits, you add +10 to the attack's damage.</content>
+  <content contentuid="c5c2623271b5484dbf7edeeeeeeeeeeeeeeee" version="1">You have mastered techniques to take advantage of every drop in any enemy's guard. When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn. When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.</content>
+  <content contentuid="0300d191fbcc4db09a69deeeeeeeeeeeeeeee" version="1">You have practiced casting spells in the midst of combat. You have advantage on Constitution saving throws whilst maintaining your concentration on a spell. Also, when a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.</content>
+  <content contentuid="kt1466871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible.</content>
+  <content contentuid="3e1ca57071e9485783d6deeeeeeeeeeeeeeee" version="1">You learn to move things with your mind. Increase the chosen ability score by 1, to a maximum of 20. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
+  <content contentuid="4dba280cf1354062b109deeeeeeeeeeeeeeee" version="1">You take a -5 penalty to attack rolls you make with ranged weapons.</content>
+  <content contentuid="kt1506871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You try to telekinetically shove one creature you can see within 9 metres of you. They must succeed on a Strength saving throw or be pulled 2 metres toward you.</content>
+  <content contentuid="kt1486871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You try to telekinetically shove one creature you can see within 9 metres of you. They must succeed on a Strength saving throw or be pushed 2 metres away from you.</content>
+  <content contentuid="6ab66eb3364442bea764deeeeeeeeeeeeeeee" version="1">You've learned how to exert your will on your spells to alter how they function. You learn two Metamagic options of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. You also gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest.</content>
+  <content contentuid="c96404926f204f97869fdeeeeeeeeeeeeeeee" version="1">You’ve learned where to cut to have the greatest results. Increase your Strength or Dexterity by 1, to a maximum of 20. Once per turn, when you hit a creature with a melee attack that deals slashing damage, you reduce the speed of the target by 10 feet until the start of your next turn. Also, when you score a critical hit with a melee attack that deals slashing damage to a creature, the target has disadvantage on all attack rolls.</content>
+  <content contentuid="d7213c671ff64e589ba7deeeeeeeeeeeeeeee" version="1">You’ve manifested some of the power of chromatic dragons, granting you the following benefits:</content>
   <content contentuid="kt1076871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Feywild's magic has changed you, increasing your Charisma score by 1.</content>
+  <content contentuid="36634b055190488cae71deeeeeeeeeeeeeeee" version="1">Your exposure to the Feywild's magic has changed you, increasing your chosen ability score by 1. You also learn the Misty Step spell (which can be cast at 1st-level once per day) and one 1st-level spell of your choice. The 1st-level spell must be from the Divination or Enchantment school of magic. The spells’ spellcasting ability is the ability increased by this feat.</content>
   <content contentuid="kt1086871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Feywild's magic has changed you, increasing your Intelligence score by 1.</content>
   <content contentuid="kt1096871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Feywild's magic has changed you, increasing your Wisdom score by 1.</content>
-  <content contentuid="kt1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer: Tend to Wounds</content>
-  <content contentuid="kt1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">As an action, you can tend to a creature's wounds. You restore 1d6 HP to it, plus a number of hit points equal to your level. That creature can't regain hit points in this way again until they finish a long rest.</content>
-  <content contentuid="kt1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspiring Leader</content>
-   <content contentuid="kt1136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Unlocks the Inspiring Leader spell, which gives all friendly creatures (including yourself) within 9 metres of you 5 temporary hit points.</content>
-  <content contentuid="kt1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Metamagic Adept</content>
-  <content contentuid="kt1156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You gain 2 sorcery points to spend on Metamagic. You regain all spent sorcery points when you finish a long rest.</content>
-  <content contentuid="kt1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance</content>
-  <content contentuid="kt1176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</content>
-  <content contentuid="kt1186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Shadow Touched</content>
   <content contentuid="kt1196871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Shadowfell's magic has changed you, increasing your Charisma score by 1.</content>
+  <content contentuid="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1">Your exposure to the Shadowfell's magic has changed you, increasing your chosen ability score by 1. You also learn the Invisibility spell (which can be cast at 1st-level once per day) and one 1st-level spell of your choice. The 1st-level spell must be from the Illusion or Necromancy school of magic. The spells’ spellcasting ability is the ability increased by this feat.</content>
   <content contentuid="kt1206871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Shadowfell's magic has changed you, increasing your Intelligence score by 1.</content>
   <content contentuid="kt1216871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your exposure to the Shadowfell's magic has changed you, increasing your Wisdom score by 1 .</content>
-  <content contentuid="kt1226871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Reduce Speed</content>
-  <content contentuid="kt1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once per turn, when you hit a creature with a melee attack that deals slashing damage, you reduce the speed of the target by 3 metres until the start of your next turn.</content>
-  <content contentuid="kt1246871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Crit</content>
-  <content contentuid="kt1256871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you score a critical hit with a melee attack that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.</content>
-  <content contentuid="kt1266871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic: Intelligence</content>
-  <content contentuid="kt1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen ability score by 1. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
-  <content contentuid="kt1286871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic: Wisdom</content>
-  <content contentuid="kt1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen ability score by 1. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
-  <content contentuid="kt1306871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic: Charisma</content>
-  <content contentuid="kt1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen ability score by 1. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
-  <content contentuid="kt1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance</content>
-  <content contentuid="kt1336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</content>
- <content contentuid="kt1346871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspiring Leader</content>
- <content contentuid="kt1356871g90b2g4f18gab29g0a0a8f3fbdce" version="1">All creatures (including yourself) within 9 metres of you gain 5 temporary hit points. You cannot inspire again until after a short or long rest</content>
- <content contentuid="kt1366871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion</content>
- <content contentuid="kt1376871g90b2g4f18gab29g0a0a8f3fbdce" version="1">As a bonus action, you can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra 1d4 damage of the chosen type when it hits.</content>
- <content contentuid="kt1386871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Acid)</content>
- <content contentuid="kt1396871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Cold)</content>
- <content contentuid="kt1406871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Fire)</content>
- <content contentuid="kt1416871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Lightning)</content>
- <content contentuid="kt1426871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Poison)</content>
- <content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer: Tend to Wounds</content>
- <content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">As an action, you can tend to a creature's wounds. You restore 1d6 to it, plus a number of hit points equal to your level. That creature can't regain hit points in this way again until they finish a long rest.</content>
- <content contentuid="kt1456871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Mage Hand</content>
- <content contentuid="kt1466871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible.</content>
- <content contentuid="kt1476871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Push</content>
- <content contentuid="kt1486871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You try to telekinetically shove one creature you can see within 9 metres of you. They must succeed on a Strength saving throw or be pushed 2 metres away from you.</content>
- <content contentuid="kt1496871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Pull</content>
- <content contentuid="kt1506871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You try to telekinetically shove one creature you can see within 9 metres of you. They must succeed on a Strength saving throw or be pulled 2 metres toward you.</content>
- <content contentuid="kt1516871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Acid)</content>
- <content contentuid="kt1526871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 acid when it hits.</content>
- <content contentuid="kt1536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Cold)</content>
- <content contentuid="kt1546871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 cold damage when it hits.</content>
- <content contentuid="kt1556871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Fire)</content>
- <content contentuid="kt1566871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 fire damage when it hits.</content>
- <content contentuid="kt1576871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Lightning)</content>
- <content contentuid="kt1586871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 lightning damage when it hits.</content>
- <content contentuid="kt1596871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Poison)</content>
- <content contentuid="kt1606871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 poison damage when it hits.</content>
- <content contentuid="kt1616871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Crushed</content>
- <content contentuid="kt1626871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Attack rolls against this creature are made with advantage until the start of your next turn</content>
- <content contentuid="kt1636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer</content>
- <content contentuid="kt1646871g90b2g4f18gab29g0a0a8f3fbdce" version="1">This creature can't regain hit points via the Healer feat again until they finish a long rest.</content>
- <content contentuid="kt1656871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspired</content>
- <content contentuid="kt1666871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Each creature gains 5 temporary hit points.</content>
- <content contentuid="kt1676871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Acid)</content>
- <content contentuid="kt1686871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Acid for one instance of damage.</content>
- <content contentuid="kt1696871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Cold)</content>
- <content contentuid="kt1706871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Cold for one instance of damage.</content>
- <content contentuid="kt1716871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Fire)</content>
- <content contentuid="kt1726871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Fire for one instance of damage.</content>
- <content contentuid="kt1736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Lightning)</content>
- <content contentuid="kt1746871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Lightning for one instance of damage.</content>
- <content contentuid="kt1756871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Poison)</content>
- <content contentuid="kt1766871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistant to Poison for one instance of damage.</content>
- <content contentuid="kt1776871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance out of uses</content>
- <content contentuid="kt1786871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Can't use again until you finish a long rest</content>
- <content contentuid="kt1796871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Reduced Speed</content>
- <content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Movement reduced by 3 metres</content>
- <content contentuid="kt1816871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Disadvantage</content>
- <content contentuid="kt1826871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Disadvantage on all attack rolls.</content>
- <content contentuid="kt1836871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1846871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1856871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1866871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1876871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1886871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1896871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1906871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1916871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1926871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1936871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1946871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1956871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1966871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1976871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1986871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt1996871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2006871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2016871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2026871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2036871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2046871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt20506871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2066871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2076871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2086871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2096871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2106871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2116871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2126871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2136871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2146871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2156871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2166871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2176871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2186871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2196871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2206871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2216871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2236871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
- <content contentuid="kt2246871g90b2g4f18gab29g0a0a8f3fbdce" version="1"></content>
+  <content contentuid="182ca10953964f4aa71edeeeeeeeeeeeeeeee" version="1">Your martial training has helped you develop a particular style of fighting. As a result, you learn one Fighting Style option of your choice from the Fighter class. If you already have a style, the one you choose must be different.</content>
 </contentList>
