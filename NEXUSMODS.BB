@@ -5,6 +5,7 @@ Tool for localizing BG3 mods, easy and fast editing of localization XML files.
 [b][size=5]The following features are currently available in the app:[/size][/b]
 [list]
 [size=3][b][/b][/size][*]Importing a mod pak file and converting it to a new translations mod
+[*]Tranlation in App with [url=https://rapidapi.com/hub]RapidAPIs[/url] Translation Services from [url=https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/microsoft-translator-text/]Microsoft[/url] and [url=https://rapidapi.com/translated/api/mymemory-translation-memory]MyMemory[/url]
 [*]Multi mod editing
 [*]Editing localization with easy clipboard feature
 [*]Quicksearch display in table and text fields
