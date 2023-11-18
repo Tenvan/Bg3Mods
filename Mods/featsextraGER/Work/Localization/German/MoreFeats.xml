@@ -10,9 +10,9 @@
   <content contentuid="kt1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Als Bonusaktion kannst du eine einfache oder Kriegswaffe berühren und ihr eine der folgenden Schadensarten zufügen: Säure, Kälte, Feuer, Blitz oder Gift. In der nächsten Minute verursacht die Waffe bei einem Treffer zusätzlich 1W4 Schaden der gewählten Schadensart. Wenn man diesen Bonus einmal benutzt hat, kann man ihn erst nach einer längeren Pause wieder einsetzen.</content>
   <content contentuid="kt1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Als Aktion kannst du die Wunden einer Kreatur versorgen. Du stellst 1d6 HP wieder her, plus eine Anzahl von Trefferpunkten, die deiner Stufe entspricht. Die Kreatur kann erst nach einer langen Ruhepause wieder Trefferpunkte auf diese Weise erhalten.</content>
   <content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Als Aktion kannst du die Wunden einer Kreatur versorgen. Du stellst 1d6 Trefferpunkte wieder her, plus eine Anzahl von Trefferpunkten, die deiner Stufe entspricht. Die Kreatur kann erst nach einer langen Ruhepause wieder Trefferpunkte auf diese Weise erhalten.</content>
-  <content contentuid="kt1626871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Attack rolls against this creature are made with advantage until the start of your next turn</content>
-  <content contentuid="61b6136607144280864fdeeeeeeeeeeeeeeee" version="1">Attacking at close range (3m) doesn't impose disadvantage on your crossbow attack rolls.</content>
-  <content contentuid="kt1786871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Can't use again until you finish a long rest</content>
+  <content contentuid="kt1626871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Angriffswürfe gegen diese Kreatur werden bis zum Beginn deines nächsten Zuges mit Vorteil ausgeführt</content>
+  <content contentuid="61b6136607144280864fdeeeeeeeeeeeeeeee" version="1">Ein Angriff auf kurze Distanz (3 m) hat keinen Nachteil für deine Armbrust-Angriffswürfe.</content>
+  <content contentuid="kt1786871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Kann erst wieder verwendet werden, wenn du eine lange Rast beendet hast</content>
   <content contentuid="eb5f40e9a31946a5b7e8deeeeeeeeeeeeeeee" version="1">Ladegerät</content>
   <content contentuid="kt1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion</content>
   <content contentuid="kt1366871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion</content>
@@ -37,42 +37,42 @@
   <content contentuid="7782e645c133482db65ddeeeeeeeeeeeeeeee" version="1">Beidhändiger Kämpfer: Bonus AC</content>
   <content contentuid="79712ea501944bc1a26adeeeeeeeeeeeeeeee" version="1">Haltbar</content>
   <content contentuid="kt1666871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Jede Kreatur erhält 5 temporäre Trefferpunkte.</content>
-  <content contentuid="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1">Eldritch Adept</content>
+  <content contentuid="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1">Unheimlicher Adept</content>
   <content contentuid="35370d2c3cf949918ee3deeeeeeeeeeeeeeee" version="1">Du hast die Fähigkeit, furchtlos auf das Schlachtfeld zu stürmen, wenn du dich deinen Feinden stellst. Du kannst eine Aktion verwenden, um in einer geraden Linie anzugreifen und alle Feinde, die sich dir in den Weg stellen, 3 m vom Zielpunkt wegzuschieben. Nach dem Angriff kannst du eine Bonusaktion nutzen, um einen Angriff mit einer Nahkampfwaffe auszuführen und erhältst einen Bonus von +5 auf den Schadenswurf des Angriffs.</content>
-  <content contentuid="kt1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Fey Touched</content>
-  <content contentuid="43c1b148bf6b46e7bc32deeeeeeeeeeeeeeee" version="1">Fey Touched: Charisma</content>
-  <content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">Fey Touched: Intelligence</content>
-  <content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">Fey Touched: Wisdom</content>
-  <content contentuid="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1">Fighting Initiate</content>
-  <content contentuid="kt1526871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 acid when it hits.</content>
-  <content contentuid="kt1546871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 cold damage when it hits.</content>
-  <content contentuid="kt1566871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 fire damage when it hits.</content>
-  <content contentuid="kt1586871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 lightning damage when it hits.</content>
-  <content contentuid="kt1606871g90b2g4f18gab29g0a0a8f3fbdce" version="1">For the next minute, this weapon deals an extra 1d4 poison damage when it hits.</content>
-  <content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">Gift of the Chromatic Dragon</content>
-  <content contentuid="2cb840e6712f42c699c5deeeeeeeeeeeeeeee" version="1">Hardy and resilient, you increase your Constitution score by 1, to a maximum of 20 and gain extra hit points equal to twice your Constitution modifer on a short rest.</content>
-  <content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">Healer</content>
-  <content contentuid="kt1636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer</content>
-  <content contentuid="kt1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer: Tend to Wounds</content>
-  <content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer: Tend to Wounds</content>
-  <content contentuid="d9a899c2f26a46afb78ddeeeeeeeeeeeeeeee" version="1">Increase the chosen ability score by 1, to a maximum of 20 and you gain proficiency in saving throws using the chosen ability.</content>
-  <content contentuid="kt1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen ability score by 1. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
-  <content contentuid="kt1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen ability score by 1. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
-  <content contentuid="kt1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Increase the chosen ability score by 1. You can cast an invisible mage hand without verbal or somantic components. You can also push and pull a creature telekinetically, using the chosen ability score as the spell DC.</content>
-  <content contentuid="79590b18ec9e4cf2bf7adeeeeeeeeeeeeeeee" version="1">Increases the base attack range of ranged weapon attacks, and cancels out the disadvantage given when out of 18m range</content>
-  <content contentuid="kt1656871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspired</content>
-  <content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">Inspiring Leader</content>
-  <content contentuid="kt1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspiring Leader</content>
-  <content contentuid="kt1346871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspiring Leader</content>
-  <content contentuid="fe7d38b35d04489f9549deeeeeeeeeeeeeeee" version="1">Medium Armor Master</content>
-  <content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">Metamagic Adept</content>
-  <content contentuid="kt1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Metamagic Adept</content>
-  <content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Movement reduced by 3 metres</content>
-  <content contentuid="kt1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once per turn, when you hit a creature with a melee attack that deals bludgeoning damage, you move it away from you, provided the target is no more than one size larger than you.</content>
-  <content contentuid="kt1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once per turn, when you hit a creature with a melee attack that deals slashing damage, you reduce the speed of the target by 3 metres until the start of your next turn.</content>
+  <content contentuid="kt1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Fey berührt</content>
+  <content contentuid="43c1b148bf6b46e7bc32deeeeeeeeeeeeeeee" version="1">Fey berührt: Charisma</content>
+  <content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">Fey berührt: Intelligenz</content>
+  <content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">Fey Berührt: Weisheit</content>
+  <content contentuid="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1">Kämpfender Initiator</content>
+  <content contentuid="kt1526871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Für die nächste Minute fügt diese Waffe eine zusätzliche 1W4-Säure zu, wenn sie trifft.</content>
+  <content contentuid="kt1546871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Für die nächste Minute verursacht diese Waffe zusätzlichen 1W4 Kälteschaden, wenn sie trifft.</content>
+  <content contentuid="kt1566871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Für die nächste Minute verursacht diese Waffe zusätzlich 1W4 Feuerschaden, wenn sie trifft.</content>
+  <content contentuid="kt1586871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Für die nächste Minute verursacht diese Waffe einen zusätzlichen 1W4 Blitzschaden, wenn sie zuschlägt.</content>
+  <content contentuid="kt1606871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Für die nächste Minute verursacht diese Waffe einen zusätzlichen 1W4 Giftschaden, wenn sie trifft.</content>
+  <content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">Geschenk des Chromatischen Drachen</content>
+  <content contentuid="2cb840e6712f42c699c5deeeeeeeeeeeeeeee" version="1">Robust und belastbar, erhöhst du deinen Konstitutionswert um 1 auf maximal 20 und erhältst zusätzliche Trefferpunkte, die dem Doppelten deines Konstitutionsmodifers entsprechen, wenn du dich kurz ausruhst.</content>
+  <content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">Heiler</content>
+  <content contentuid="kt1636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Heiler</content>
+  <content contentuid="kt1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Heiler: Neigt zu Wunden</content>
+  <content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Heiler: Neigt zu Wunden</content>
+  <content contentuid="d9a899c2f26a46afb78ddeeeeeeeeeeeeeeee" version="1">Erhöht den Wert der gewählten Fähigkeit um 1 bis zu einem Maximum von 20 und ihr erhaltet die Fähigkeit, Würfe mit der gewählten Fähigkeit zu parieren.</content>
+  <content contentuid="kt1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Erhöhe den gewählten Fähigkeitswert um 1. Du kannst eine unsichtbare Magierhand ohne verbale oder somantische Komponenten wirken. Du kannst eine Kreatur auch telekinetisch schieben und ziehen, indem du den gewählten Fähigkeitswert als Zauber-SG verwendest.</content>
+  <content contentuid="kt1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Erhöhe den gewählten Fähigkeitswert um 1. Du kannst eine unsichtbare Magierhand ohne verbale oder somantische Komponenten wirken. Du kannst eine Kreatur auch telekinetisch schieben und ziehen, indem du den gewählten Fähigkeitswert als Zauber-SG verwendest.</content>
+  <content contentuid="kt1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Erhöhe den gewählten Fähigkeitswert um 1. Du kannst eine unsichtbare Magierhand ohne verbale oder somantische Komponenten wirken. Du kannst eine Kreatur auch telekinetisch schieben und ziehen, indem du den gewählten Fähigkeitswert als Zauber-SG verwendest.</content>
+  <content contentuid="79590b18ec9e4cf2bf7adeeeeeeeeeeeeeeee" version="1">Erhöht die Grundangriffsreichweite von Fernkampfwaffenangriffen und hebt den Nachteil aus, der außerhalb einer Reichweite von 18 m entsteht.</content>
+  <content contentuid="kt1656871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspirierte</content>
+  <content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">Inspirierende Führungskraft</content>
+  <content contentuid="kt1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspirierende Führungskraft</content>
+  <content contentuid="kt1346871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspirierende Führungskraft</content>
+  <content contentuid="fe7d38b35d04489f9549deeeeeeeeeeeeeeee" version="1">Meister der mittleren Rüstung</content>
+  <content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">Metamagischer Adept</content>
+  <content contentuid="kt1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Metamagischer Adept</content>
+  <content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Die Bewegung wurde um 3 Meter verringert.</content>
+  <content contentuid="kt1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Einmal pro Spielzug, wenn du eine Kreatur mit einem Nahkampfangriff triffst, der Knüppelschaden verursacht, bewegst du sie von dir weg, vorausgesetzt, das Ziel ist nicht mehr als eine Nummer größer als du.</content>
+  <content contentuid="kt1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Einmal pro Spielzug, wenn du eine Kreatur mit einem Nahkampfangriff triffst, der Hiebschaden verursacht, verringerst du die Geschwindigkeit des Ziels um 3 Meter bis zum Beginn deines nächsten Zuges.</content>
   <content contentuid="55444130201e4b4b8cdfdeeeeeeeeeeeeeeee" version="1">Polearm Master</content>
-  <content contentuid="1106d24b8497459198f0deeeeeeeeeeeeeeee" version="1">Ranged Attack Bonus: -5</content>
-  <content contentuid="1e58b3849b794d13ac7bdeeeeeeeeeeeeeeee" version="1">Ranged Damage Bonus: +10</content>
+  <content contentuid="1106d24b8497459198f0deeeeeeeeeeeeeeee" version="1">Bonus für Fernkampfangriffe: -5</content>
+  <content contentuid="1e58b3849b794d13ac7bdeeeeeeeeeeeeeeee" version="1">Bonus auf Fernkampfschaden: +10</content>
   <content contentuid="kt1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance</content>
   <content contentuid="kt1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance</content>
   <content contentuid="kt1676871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reactive Resistance (Acid)</content>
