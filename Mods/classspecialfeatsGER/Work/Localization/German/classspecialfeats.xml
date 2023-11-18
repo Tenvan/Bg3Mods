@@ -1,86 +1,196 @@
-<contentList date="12/12/2020 17:49">
-    <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f610" version="1">Expert Assassin</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f611" version="1">You know the skills every good assassin has picked up. You are an expert infiltrator.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f612" version="1">Master Thief</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f613" version="1">You've mastered all the skills a thief can learn. Your sneaking skills are considered supreme.</content>
-	<content contentuid="h651ed8b8g46cdg43bcgaa5bgefe1d5513496" version="1">Rogue Imposter</content>
-	<content contentuid="haaa08dfbg7f2ag4b4fg9e97g12cb97f6b966" version="1">The world may mistake you for a rogue but deep down, you know you aren't one. Your actions have a certain cunning to them.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f616" version="1">Uncivilized</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f617" version="1">You think you're a barbarian, you are...but not the kind you want to be.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f618" version="1">Serial Killer</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f619" version="1">You once saw a tiefling slaughtering her way through enemies, you tried to imitate her but failed.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f620" version="1">Delusional</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f621" version="1">You pretend to be an animal when you're angry...and it works. You can speak to animals.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f622" version="1">Tone-deaf Bard</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f623" version="1">You can just barely convince someone you are a bard.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f624" version="1">Novice Cleric</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f625" version="1">You know some basic things about being a cleric.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f626" version="1">Novice Fighter</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f627" version="1">You have picked up some basic knowledge related to combat.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f628" version="1">Veteran Fighter</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f629" version="1">You were seasoned through blood and battle, you walk through battlefields with an air of confidence.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f630" version="1">Godless Paladin</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f631" version="1">You call yourself a Paladin but you've never taken an oath. You emit an aura of protection, courage...and hate.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f632" version="1">Novice Ranger</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f633" version="1">You've picked up the basic skills of being a ranger.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f634" version="1">Adept Stalker</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f635" version="1">You are proficient in the art of stalking prey.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f636" version="1">Adept Hunter</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f637" version="1">You are proficient in hunting prey.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f638" version="1">Apex Predator</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f639" version="1">Your prey always end up dead and few things can escape from you.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f640" version="1">Competent Spellcaster</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f641" version="1">You can differentiate friend from foe unlike some other spellcasters.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f642" version="1">Seer</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f643" version="1">Occasionally, you catch a glimpse of the future and predict your opponent's actions.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f644" version="1">Elemental Lord</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f645" version="1">You may not hold absolute dominion over the elements but they bend before your will, the elements almost seem to hesitate before you. Gain resistance to Fire, Cold, Lightning and Thunder damage.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f646" version="1">Insightful Spellcaster</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f647" version="1">You've learned to manipulate spells to a higher degree.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f648" version="1">Outer Gods' Servant</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f649" version="1">You've made a pact with something powerful and unknown, possibly outside of reality itself.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f650" version="1">Timeworn Paladin</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f651" version="1">You swore an oath long ago, all who can attest to it are gone and your god has long been silent. Only you know if your faith remains strong but those around you can perceive an aura of devotion and are warded from spells.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f652" version="1">Shapeshifter</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f653" version="1">You may be mistaken for a druid but a druid you most certaintly are not.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f654" version="1">Impatient Monk</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f655" version="1">The life of a monk was not one you were cut out for but that doesn't mean you learnt nothing. You've embraced the shadows and gained total control of yourself during combat.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f656" version="1">Descendant of Dragons</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f657" version="1">The blood of a dragon runs through your veins.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f658" version="1">Conjurer</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f659" version="1">You've dabbled in the arts of conjuration and call yourself a wizard.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f660" version="1">Mind Master</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f661" version="1">Your mind is your most important asset, you've mastered it and made it a fortress.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f662" version="1">Stormborn</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f663" version="1">There is a certain calm that washes over you during a storm, as if it's welcoming you home.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f664" version="1">Tainted</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f665" version="1">Your bloodline is one that has been sullied by fey energies.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f666" version="1">Eldritch Worshipper</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f667" version="1">You have made a pact with some unknown entity residing in the Far Realm.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f668" version="1">Student of Undeath</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f669" version="1">You have always found the dead to be both better company and more interesting than the living.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f670" version="1">Mortal Instrument</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f671" version="1">You have great power granted from your patron, their goals likely destructive...but such things are not your concern.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f672" version="1">Shaolin Monk</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f673" version="1">You have mastered mind, body, soul and fist.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f674" version="1">Swordsinger</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f675" version="1">Your title had no relation to your skill with the sword, you meant it  to be a bit more literal, a bard with a blade.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f676" version="1">Wordweaver</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f677" version="1">You spin tales and weave words to your liking.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f678" version="1">Witness of Heroes</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f679" version="1">You wander the land to witness and keep alive the deeds and memories of the mighty.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f680" version="1">Lunar Druid</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f681" version="1">You are sworn to the moon and can draw on its power to transform yourself.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f682" version="1">Fungal Druid</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f683" version="1">You manipulate spores to augment yourself and harm your foes.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f684" version="1">Unstable Sorcerer</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f685" version="1">Your powers come from ancient forces of chaos, they churn within you, waiting to burst free at any time.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f686" version="1">Transmigrator</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f687" version="1">Your soul is not native to this universe or even this body, inexplicably, none seem to be the wiser. Fortunately, you seem to have assimilated the skills and memories of your host.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f688" version="1">Reincarnator</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f689" version="1">How many lives you have lived, how much you have experienced, only you know.</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f690" version="1">Regressor</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f691" version="1">A dream? A hallucination? Haven't you been through this before? At least you remember your past experiences..or are they future ones?</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f692" version="1">Enigmatic Harbinger</content>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f693" version="1">Something beyond your comprehension has bestowed upon you the power to smite your foes. No oaths to be sworn, it only seeks amusement.</content>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f691" version="1">Ein Traum? Eine Halluzination? Hast du das nicht schon einmal durchgemacht? Du bist in der Zeit rückwärts gegangen. Zumindest erinnerst du dich an deine vergangenen Erfahrungen...oder sind es zukünftige? Zu Ihrem Repertoire gehört &lt;LSTag Type="Spell" Tooltip="Shout_AuraOf_Courage"&gt;eine Aura des Mutes&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f175" version="1">Eine Technik, die von einem der letzten Mitglieder einer großen Kriegerrasse entwickelt wurde. Ihr wisst, wie man das Bewusstsein vom Körper trennt, um dem Körper zu erlauben, sich unbewusst zu bewegen, sogar anzugreifen und auszuweichen. Sie erhalten eine zusätzliche Reaktion.</content>
+  <content contentuid="h684b5d78g714dg4f1egbc21g1e221c5a9371" version="1">Säurebeständigkeit</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f636" version="1">Geschickter Jäger</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f634" version="1">Geschickter Stalker</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f638" version="1">Spitzenprädator</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f122" version="1">Bahamut-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f124" version="1">Fluch-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f698" version="1">Barbar</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f100" version="1">Barde</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f126" version="1">Bhaal-Anbeter</content>
+  <content contentuid="ha2de215ag9e6dg434bgb83bgfbeca6f2fea9" version="1">Knüppel-Widerstand</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f102" version="1">Kleriker</content>
+  <content contentuid="h540af4c1g40f3g4aafga889gc7dc9b2b27c0" version="1">Kältebeständigkeit</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f640" version="1">Kompetenter Hexer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f658" version="1">Zauberer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f128" version="1">Corellon Larethian Verehrer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f620" version="1">Wahnhaft</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f656" version="1">Nachkomme der Drachen</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f104" version="1">Druide</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f130" version="1">Eilistraee-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f666" version="1">Unheimlicher Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f644" version="1">Elementarfürst</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f694" version="1">Rätsel</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f692" version="1">Rätselhafter Vorbote</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f610" version="1">Erfahrener Assassine</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f106" version="1">Kämpfer</content>
+  <content contentuid="h71fb07cegc2ceg4fd2g92b9gc7a5209e1b82" version="1">Feuerwiderstandsfähigkeit</content>
+  <content contentuid="h25d8b17fga0e0g4a96ga7b0g9f2fe1a45fd5" version="1">Kraftwiderstand</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f682" version="1">Pilz-Druide</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f132" version="1">Garl Glitzergold-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f630" version="1">Gottloser Paladin</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f134" version="1">Gruumsh-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f136" version="1">Helm-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f689" version="1">Wie viele Leben du gelebt hast, wie viel du erlebt hast, weißt nur du.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f138" version="1">Ilmater-Verehrer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f654" version="1">Ungeduldiger Mönch</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f646" version="1">Aufschlussreicher Hexer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f140" version="1">Kelemvor-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f142" version="1">Laduguer Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f144" version="1">Lathaner-Anbeter</content>
+  <content contentuid="hf2765fcaga29cg4d56ga0dbgaa8db6be31ee" version="1">Blitzschutz</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f146" version="1">Lolth-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f680" version="1">Mond-Druide</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f612" version="1">Meisterdieb</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f148" version="1">Mielikki-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f660" version="1">Meister der Gedanken</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f108" version="1">Mönch</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f150" version="1">Moradin-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f670" version="1">Sterbliches Instrument</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f152" version="1">Myrkul-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f154" version="1">Mystra-Anbeter</content>
+  <content contentuid="h3a48b756g37fbg406egb3fagc2c7ba5b3f98" version="1">Nekrotische Resistenz</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f624" version="1">Novizen-Kleriker</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f626" version="1">Unerfahrener Kämpfer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f632" version="1">Unerfahrener Ranger</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f643" version="1">Gelegentlich erhascht ihr einen Blick in die Zukunft und prognostiziert die Handlungen eures Gegners. Zu Ihrem Repertoire gehören &lt;LSTag Type="Spell" Tooltip="Shout_Darkvision_ThirdEye"&gt;Drittes Auge: Nachtsicht&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_SeeInvisibility_ThirdEye"&gt;Drittes Auge: Siehe Unsichtbarkeit&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f156" version="1">Oghma-Verehrer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f648" version="1">Diener der äußeren Götter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f110" version="1">Beschützer</content>
+  <content contentuid="had89d1eag5c35g4407ga0a4g79d5db76b810" version="1">Durchdringende Resistenz</content>
+  <content contentuid="h8fcb85f1g0743g450cga895gd9052d57754e" version="1">Gift-Resistenz</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f696" version="1">Pragmatisch</content>
+  <content contentuid="h25d8b17fga0e0g4a96ga7b0g9f2fe1a45fd3" version="1">Psychischer Widerstand</content>
+  <content contentuid="h048fd871ga008g42b6g8996g4b998780aa49" version="1">Strahlungswiderstand</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f112" version="1">Förster</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f690" version="1">Regressor</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f688" version="1">Reinkarnator</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f114" version="1">Schurke</content>
+  <content contentuid="h651ed8b8g46cdg43bcgaa5bgefe1d5513496" version="1">Schurken-Betrüger</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f642" version="1">Seher</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f158" version="1">Selune-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f618" version="1">Serienmörder</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f672" version="1">Shaolin-Mönch</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f652" version="1">Gestaltwandler</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f160" version="1">Shar-Verehrer</content>
+  <content contentuid="hc1f17ca8g93f8g4cf4g82a6gfee0d51650c5" version="1">Schnitt-Widerstand</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f695" version="1">Irgendetwas an dir ist anders, es ist schwer zu bestimmen. Liegt es dir im Blut, deiner Seele, deinen Fähigkeiten und Fertigkeiten? Es ist schwer, Sie in die gängigen Kategorien einzuordnen.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f693" version="1">Etwas, das über dein Verständnis hinausgeht, hat dir die Macht verliehen, deine Feinde zu schlagen. Es gibt keinen Eid, den man schwören kann, es geht nur um Unterhaltung. Dir wurde &lt;LSTag Type="Spell" Tooltip="Target_Smite_Divine"&gt;Divine Smite, Wrathful&lt;/LSTag&gt; &lt;LSTag Type="Spell" Tooltip="Target_Smite_Wrathful"&gt;Smite&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Smite_Searing"&gt;Searing Smite&lt;/LSTag&gt;, Thunderous &lt;LSTag Type="Spell" Tooltip="Target_Smite_Thunderous"&gt;Smite&lt;/LSTag&gt; und mehr gewährt.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f116" version="1">Zauberer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f662" version="1">Sturmgeborene</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f668" version="1">Schüler des Untodes</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f674" version="1">Schwertsänger</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f664" version="1">Verdorben</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f162" version="1">Talos-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f164" version="1">Tempus-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f657" version="1">The blood of a dragon runs through your veins.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f655" version="1">Das Leben eines Mönchs war nicht das, für das man geschaffen wurde, aber das bedeutet nicht, dass man nichts gelernt hat. Du hast die Schatten angenommen und im Kampf die totale Kontrolle über dich erlangt. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Target_ShadowStep"&gt;Shadow Step&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Hide_ShadowArts"&gt;Hide&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_PassWithoutTrace_Monk"&gt;Pass Without Trace&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Darkness_Monk"&gt;Darkness&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Darkvision_Monk"&gt;Darkvision&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Silence_Monk"&gt;Silence&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_CloakOfShadows_Monk"&gt;Cloak of Shadows&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_MinorIllusion"&gt;Minor Illusion&lt;/LSTag&gt;.</content>
+  <content contentuid="haaa08dfbg7f2ag4b4fg9e97g12cb97f6b966" version="1">Die Welt mag dich für einen Schurken halten, aber tief im Inneren weißt du, dass du keiner bist. Zu deinem Repertoire gehören &lt;LSTag Type="Spell" Tooltip="Shout_Hide_BonusAction"&gt;Listige Aktion: Verstecken&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Dash_CunningAction"&gt;Listige Aktion: Hechten&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_Disengage_CunningAction"&gt;Listige Aktion: Lösen&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f663" version="1">Es gibt eine gewisse Ruhe, die dich während eines Sturms überströmt, als ob es dich zu Hause willkommen heißt.</content>
+  <content contentuid="hdb5df10cgac54g4617gb202gbada95d36912" version="1">Donner-Resistenz</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f166" version="1">Tiamat-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f650" version="1">Abgewetzter Paladin</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f622" version="1">Tontauber Barde</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f686" version="1">Transmigrator</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f168" version="1">Tymora-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f170" version="1">Tyr-Anbeter</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f174" version="1">Ultra-Instinkt</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f616" version="1">Unzivilisiert</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f684" version="1">Instabiler Zauberer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f628" version="1">Erfahrener Kämpfer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f172" version="1">Vlaakith-Verehrer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f118" version="1">Zauberer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f678" version="1">Zeuge der Helden</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f120" version="1">Zauberer</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f676" version="1">Wortweber</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f699" version="1">Ihr seid im Herzen ein Barbar.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f101" version="1">Du bist im Herzen ein Barde.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f103" version="1">Du bist im Herzen ein Kleriker.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f105" version="1">Ihr seid im Herzen ein Druide.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f107" version="1">Du bist im Herzen ein Kämpfer.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f109" version="1">Du bist im Herzen ein Mönch.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f111" version="1">Ihr seid im Herzen ein Paladin.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f113" version="1">Du bist im Herzen ein Ranger.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f115" version="1">Du bist im Herzen ein Schurke.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f117" version="1">Du bist im Herzen ein Zauberer.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f119" version="1">Ihr seid im Herzen ein Hexenmeister.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f121" version="1">Du bist im Herzen ein Zauberer.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f123" version="1">Du bist ein Verehrer Bahamuts.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f125" version="1">Ihr seid ein Verehrer von Bane.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f127" version="1">Du bist ein Verehrer von Bhaal.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f129" version="1">Ihr seid ein Verehrer von Corellon Larethian.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f131" version="1">Ihr seid ein Verehrer von Eilistraee.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f133" version="1">Ihr seid ein Verehrer von Garl Glittergold.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f135" version="1">Ihr seid ein Verehrer von Gruumsh.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f137" version="1">Ihr seid ein Verehrer von Helm.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f139" version="1">Ihr seid ein Verehrer von Ilmater.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f141" version="1">Ihr seid ein Verehrer von Kelemvor.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f143" version="1">Du bist ein Verehrer von Laduguer.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f145" version="1">Du bist ein Verehrer Lathanders.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f147" version="1">Du bist ein Verehrer von Lolth.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f149" version="1">Du bist ein Verehrer von Mielikki.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f151" version="1">Ihr seid ein Verehrer Moradins.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f153" version="1">Ihr seid ein Verehrer von Myrkul.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f155" version="1">Ihr seid ein Verehrer von Mystra.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f157" version="1">Du bist ein Verehrer von Oghma.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f159" version="1">Ihr seid ein Verehrer von Selune.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f161" version="1">Du bist ein Verehrer von Shar.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f163" version="1">Du bist ein Verehrer von Talos.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f165" version="1">Du bist ein Verehrer von Tempus.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f167" version="1">Du bist ein Verehrer von Tiamat.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f169" version="1">Ihr seid ein Verehrer von Tymora.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f171" version="1">Ihr seid ein Verehrer von Tyr.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f173" version="1">Ihr seid ein Verehrer von Vlaakith.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f637" version="1">Du kannst gut Beute jagen. Ihr Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Target_Volley"&gt;Volley&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_Whirlwind"&gt;Whirlwind&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f635" version="1">Sie beherrschen die Kunst, Beute zu verfolgen. Zu deinem Repertoire gehören &lt;LSTag Type="Spell" Tooltip="Shout_Hide_DreadAmbusher"&gt;Dread Ambusher: Hide&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_UmbralCloak"&gt;Umbral Shroud&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f681" version="1">Du bist dem Mond geschworen und kannst auf seine Kraft zurückgreifen, um dich zu verwandeln. Ihr Repertoire umfasst folgende Kampf-Wildformen&lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat"&gt;:&lt;/LSTag&gt; &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Badger"&gt;Dachs&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Spider"&gt;Spinne&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Wolf_Dire"&gt;Wolf&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Cat"&gt;Katze&lt;/LSTag&gt;, Rothe&lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_DeepRothe"&gt;,&lt;/LSTag&gt; &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Bear_Polar"&gt;Bär&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Raven"&gt;Rabe&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Wildshape_Combat_Panther"&gt;Panther&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Owlbear"&gt;Eulenbär&lt;/LSTag&gt;.</content>
+  <content contentuid="h60547282g448eg476cg80edg6bc4210a9787" version="1">Sie werden resistent gegen Säureschäden.</content>
+  <content contentuid="h066c10ddgeadag4b6cgb56ag62ca91e39621" version="1">Du wirst resistent gegen Knüppelschaden.</content>
+  <content contentuid="h411e895agcf63g42a6ga063gbbc184d14a79" version="1">Sie werden resistent gegen Kälteschäden.</content>
+  <content contentuid="h9fbf68b4g5bf6g4b7cg90c0g122233ff6c53" version="1">Sie werden resistent gegen Feuerschäden.</content>
+  <content contentuid="h25d8b17fga0e0g4a96ga7b0g9f2fe1a45fd6" version="1">Du wirst resistent gegen Gewaltschäden.</content>
+  <content contentuid="hcb6a568fg62eag4e39ga8f9gb2c256625167" version="1">Sie werden resistent gegen Blitzschäden.</content>
+  <content contentuid="h716614f3gc768g4ab3gb57bgb01639f3f910" version="1">Ihr werdet resistent gegen nekrotischen Schaden.</content>
+  <content contentuid="h4952e3fcgb487g4119g8020gbfc84d404f02" version="1">Du wirst resistent gegen Piercing-Schäden.</content>
+  <content contentuid="h75feb7e2gfe6cg44beg9377gcdbb6d6d4272" version="1">Ihr werdet resistent gegen Giftschäden.</content>
+  <content contentuid="h25d8b17fga0e0g4a96ga7b0g9f2fe1a45fd4" version="1">Du wirst resistent gegen psychische Schäden.</content>
+  <content contentuid="he05d6fb1g79b0g4ca0g8700g4192642d4c90" version="1">Ihr werdet resistent gegen Strahlungsschaden.</content>
+  <content contentuid="h48d586a1gbae0g4841gbce1gcef9d0b14040" version="1">Ihr werdet resistent gegen Schnittschaden.</content>
+  <content contentuid="h8c4066dbgb68dg43eeg875bge94757e8daf9" version="1">Ihr werdet resistent gegen Donnerschaden.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f631" version="1">Du nennst dich selbst einen Paladin, aber du hast noch nie einen Eid abgelegt. Du strahlst eine Aura von &lt;LSTag Type="Spell" Tooltip="Shout_AuraOf_Protection"&gt;Schutz&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_AuraOf_Courage"&gt;Mut&lt;/LSTag&gt;...und &lt;LSTag Type="Spell" Tooltip="Shout_AuraOf_Hate"&gt;Hass&lt;/LSTag&gt; aus.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f641" version="1">Du kannst Freund und Feind unterscheiden, im Gegensatz zu einigen anderen Zauberern.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f623" version="1">Man kann kaum jemanden davon überzeugen, dass man ein Barde ist. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Shout_SongOfRest"&gt;Lieder der Ruhe&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_Countercharm"&gt;Gegenzauber&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f669" version="1">Du hast die Toten immer als bessere Gesellschaft und interessanter empfunden als die Lebenden.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f697" version="1">Sie waren immer der Meinung, dass man seine Fähigkeiten diversifizieren sollte, wenn man die Mittel dazu hat.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f671" version="1">Du hast große Macht, die dir von deinem Gönner verliehen wird, seine Ziele sind wahrscheinlich zerstörerisch... Aber solche Dinge gehen dich nichts an.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f667" version="1">Ihr habt einen Pakt mit einem unbekannten Wesen geschlossen, das sich im Fernen Reich befindet.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f673" version="1">Du hast Geist, Körper, Seele und Faust gemeistert. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Target_OpenHandTechnique_Knock"&gt;Kippen&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_OpenHandTechnique_NoReactions"&gt;Torkeln&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_OpenHandTechnique_Push"&gt;Schieben&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_KiResonation_Punch"&gt;Ki-Resonanz: Schlag&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_KiResonation_Blast"&gt;Ki-Resonanz: Explosion&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_WholenessOfBody"&gt;Ganzheit des Körpers&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f627" version="1">Du hast einige Grundkenntnisse im Zusammenhang mit dem Kampf erworben. Ihr Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Shout_SecondWind"&gt;Second Wind&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;Action Surge&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f625" version="1">Du weißt ein paar grundlegende Dinge darüber, ein Kleriker zu sein. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Shout_TurnUndead"&gt;Turn Undead&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f611" version="1">Du kennst die Fähigkeiten, die jeder gute Attentäter erworben hat. Ihr Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Shout_InfiltrationExpertise"&gt;Infiltrationsexpertise&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f683" version="1">Du manipulierst Sporen, um dich selbst zu vermehren und deinen Feinden zu schaden. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Target_HaloOfSpores"&gt;Halo of Spores&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_SymbioticEntity"&gt;Symbiotic Entity&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_ChillTouch"&gt;Chill Touch&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Blindness"&gt;Blindness&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_DetectThoughts"&gt;Detect Thoughts&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;Animate Dead&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_GaseousForm"&gt;Gaseous Form&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_FungalInfestation"&gt;Fungal Infestation&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f653" version="1">Du wirst vielleicht mit einem Druiden verwechselt, aber ein Druide bist du ganz sicher nicht. Ihr Repertoire umfasst folgende Wildformen&lt;LSTag Type="Spell" Tooltip="Shout_WildShape"&gt;:&lt;/LSTag&gt; &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Badger"&gt;Dachs&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Spider"&gt;Spinne&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Wolf_Dire"&gt;Wolf&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Cat"&gt;Katze&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_DeepRothe"&gt;Rothe&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Wildshape_Panther"&gt;Panther&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Owlbear"&gt;Eule&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f645" version="1">Du magst keine absolute Herrschaft über die Elemente haben, aber sie beugen sich deinem Willen, die Elemente scheinen fast vor dir zu zögern. Erhaltet Resistenz gegen Feuer-, Kälte-, Blitz- und Donnerschaden.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f619" version="1">Du hast einmal ein Tiefling gesehen, das sich durch Feinde geschlachtet hat, du hast versucht, sie nachzuahmen, bist aber gescheitert. Zu deinem Repertoire gehören &lt;LSTag Type="Spell" Tooltip="Target_IntimidatingPresence"&gt;Einschüchternde Präsenz&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_FrenziedStrike"&gt;Rasender Schlag&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Throw_FrenziedThrow"&gt;Rasender Wurf&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f621" version="1">Du tust so, als wärst du ein Tier, wenn du wütend bist...und es funktioniert. Zu Ihrem Repertoire gehört &lt;LSTag Type="Spell" Tooltip="Shout_SpeakWithAnimals_Barbarian"&gt;Speak With Animals&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f677" version="1">Du spinnst Geschichten und webst Wörter nach deinem Geschmack.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f651" version="1">Du hast vor langer Zeit einen Eid geschworen, alle, die es bezeugen können, sind weg und dein Gott hat lange geschwiegen. Nur du weißt, ob dein Glaube stark bleibt, aber die um dich herum können eine &lt;LSTag Type="Spell" Tooltip="Shout_AuraOf_Devotion"&gt;Aura der Hingabe&lt;/LSTag&gt; wahrnehmen und &lt;LSTag Type="Spell" Tooltip="Shout_AuraOf_Warding"&gt;werden vor&lt;/LSTag&gt; Zaubersprüchen bewahrt.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f617" version="1">Du denkst, du bist ein Barbar, du bist... aber nicht die Art, die du sein willst.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f679" version="1">Du wanderst durch das Land, um die Taten und Erinnerungen der Mächtigen zu bezeugen und lebendig zu halten.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f629" version="1">Du wurdest durch Blut und Kampf gewürzt, du gehst mit einem Hauch von Selbstvertrauen durch Schlachtfelder. Ihr Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Shout_SecondWind"&gt;Second Wind&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;Action Surge&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f659" version="1">Du hast dich mit den Künsten der Beschwörung beschäftigt und nennst dich einen Zauberer. Zu deinem Repertoire gehören &lt;LSTag Type="Spell" Tooltip="Target_CreateWater_MinorConjuration"&gt;Minor Conjuration: Create Water&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_BenignTransposition_Teleport"&gt;Benign Transposition: Teleport&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f647" version="1">Du hast gelernt, Zaubersprüche in höherem Maße zu manipulieren.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f649" version="1">Du hast einen Pakt mit etwas Mächtigem und Unbekanntem geschlossen, möglicherweise außerhalb der Realität selbst.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f613" version="1">Du hast alle Fähigkeiten gemeistert, die ein Dieb erlernen kann. Zu deinem Repertoire gehört &lt;LSTag Type="Spell" Tooltip="Shout_SupremeSneak"&gt;Supreme Sneak&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f633" version="1">Du hast dir die grundlegenden Fähigkeiten eines Rangers angeeignet.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f665" version="1">Deine Blutlinie ist eine, die von feigen Energien besudelt wurde. Du kannst deine &lt;LSTag Type="Spell" Tooltip="Shout_FeyPresence_Container"&gt;&lt;/LSTag&gt; Feenpräsenz nach Belieben ausstrahlen.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f661" version="1">Dein Verstand ist dein wichtigstes Gut, du hast ihn gemeistert und zu einer Festung gemacht. Du hast &lt;LSTag Type="Spell" Tooltip="Shout_StillnessOfMind"&gt;Stille des Geistes&lt;/LSTag&gt; erreicht.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f685" version="1">Deine Kräfte stammen von uralten Kräften des Chaos, sie wühlen in dir auf und warten darauf, jederzeit freizubrechen.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f639" version="1">Deine Beute endet immer tot und nur wenige Dinge können dir entkommen. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Target_Volley"&gt;Volley&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Whirlwind"&gt;Whirlwind&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Hide_DreadAmbusher"&gt;Dread Ambusher: Hide&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_UmbralCloak"&gt;Umbral Shroud&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt;.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f687" version="1">Your soul is not native to this universe or even this body, inexplicably, none seem to be the wiser. Fortunately, you seem to have assimilated the skills and memories of your host.</content>
+  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f675" version="1">Your title had no relation to your skill with the sword, you meant it  to be a bit more literal, a bard with a blade.</content>
 </contentList>
