@@ -4,7 +4,7 @@
   <content contentuid="h0e17c995g7d42g4cf8ga021gd513fd9a28f5" version="1">Abgründige Kälte</content>
   <content contentuid="h91728fe0g0929g4ee6g820cg01355476047a" version="1">Abgründige Peitsche</content>
   <content contentuid="h46193b3eg33ffg4ff2g8b3cgb5f44f6f802c" version="1">Ein Wesen aus einem jenseitigen Meer erlaubt dir nun, seine thalassischen Kräfte zu nutzen. Ist es nur dazu gedacht, mehr über die irdischen Gefilde zu erfahren, oder will es, dass du kosmische Schleusen öffnest und die Welt ertränkst?</content>
-  <content contentuid="h4525049cg1cdag471fg9103g50e40e978487" version="1">Als Bonusaktion kannst du einen geisterhaften Tentakel heraufbeschwören, der deine Feinde angreifen kann. Der Tentakel tut nichts von alleine. Er kann nur dann eine Aktion ausführen, wenn Sie ihm befehlen. Wie oft du dies verwenden kannst, hängt von deinem Fertigkeitsbonus ab, der nach einer langen Pause aktualisiert wird.</content>
+  <content contentuid="h4525049cg1cdag471fg9103g50e40e978487" version="1">Als Bonusaktion kannst du einen geisterhaften Tentakel heraufbeschwören, der deine Feinde angreifen kann. Der Tentakel tut nichts von alleine. Er kann nur dann eine Aktion ausführen, wenn Sie ihm befehlen. Wie oft du dies verwenden kannst, hängt von deinem Fertigkeitsbonus ab, der nach einer langen Rast aktualisiert wird.</content>
   <content contentuid="h85c1d715g4835g4d9ag9495gae8005eae956" version="1">Angriffs-Buff</content>
   <content contentuid="h69304e40g5fc0g4050g878fg92a2461a5847" version="1">Greife zweimal an, wobei jeder Treffer [1] verursacht.</content>
   <content contentuid="h32f49b7bg9efag4f38g9f64gda37fcd8fa0d" version="1">Bigbys Tentikular-Hand</content>
@@ -46,10 +46,10 @@
   <content contentuid="h93f6a2d0g083dg4e37g8115gb2c68ed51d38" version="1">Evards Tiefsee-Tentakel</content>
   <content contentuid="h9b855467g7270g4488g89c8g4645c3f7c93e" version="1">Erfrierung</content>
   <content contentuid="h4a799a70g68ebg4a6agb985g165aa5eac1c7" version="1">Erhaltet +3 m Bewegung, während ihr euch auf einer Wasseroberfläche befindet.</content>
-  <content contentuid="hdcca835bg5033g4a41gbcc4gddedbf4dce52" version="1">Ihr erhaltet Evards Schwarze Tentakel als Hexenmeisterzauber und Evards Tiefseetentakel als langen Ruhezauber. Wenn ihr Evards Schwarze Tentakel oder Evards Tiefseetentakel einsetzt, erhaltet ihr temporäre LP basierend auf eurer Hexenmeister-Klassenstufe. Außerdem kann Schaden deine Konzentration nicht beeinträchtigen, wenn du diese Zauber wirkst.</content>
+  <content contentuid="hdcca835bg5033g4a41gbcc4gddedbf4dce52" version="1">Du erhälst Evards Schwarze Tentakel als Hexenmeisterzauber und Evards Tiefseetentakel als langen Rast Zauber. Wenn du Evards Schwarze Tentakel oder Evards Tiefseetentakel einsetzt, erhälst du temporäre LP basierend auf deine Hexenmeister-Klassenstufe. Außerdem kann Schaden deine Konzentration nicht beeinträchtigen, wenn du diese Zauber wirkst.</content>
   <content contentuid="h1b820b24gf0b1g4d62g9b95g78bd16d073fe" version="1">Erhaltet Resistenz gegen Kälteschaden.</content>
   <content contentuid="hb6e8052ag0ed4g4e28gba70g2e53c1a42987" version="1">Geschenk des Meeres</content>
-  <content contentuid="ha10e9fe1g9d71g4d93gaf5fgbf80413e59fb" version="1">Gib deinem spektralen Tentakel einen Befehl, damit er sich bis zu 9 m bewegen und in seinem Zug einen Nahkampfangriff ausführen kann. Das Tentakel erhält einen Angriffsbonus, der auf Eurem Fertigkeits- und Charismamodifikator basiert.</content>
+  <content contentuid="ha10e9fe1g9d71g4d93gaf5fgbf80413e59fb" version="1">Gib deinem spektralen Tentakel einen Befehl, damit er sich bis zu 9 m bewegen und in seinem Zug einen Nahkampfangriff ausführen kann. Das Tentakel erhält einen Angriffsbonus, der auf deinem Fertigkeits- und Charismamodifikator basiert.</content>
   <content contentuid="h864357f9gadb8g4e40g80aeg6c26cb737fc4" version="1">Greifende Tentakel</content>
   <content contentuid="hc8f25956gbf90g4c88g9427g9c80be646091" version="1">Wächter-Spule</content>
   <content contentuid="hf06a1541gec04g4f97gaa41g3e5bc0ed006b" version="1">Schlagt auf einen Gegner ein, um [1] auszuteilen und seine Bewegungsgeschwindigkeit um 3 m zu verringern.</content>
@@ -68,7 +68,7 @@
   <content contentuid="h90be8043g03fag4efbgb837gd27f55f3ddb1" version="1">Spektraler Tentakel</content>
   <content contentuid="hd8e667cdge4e6g4a16ga330g2ce4bb0385bf" version="1">Stürmische Winde</content>
   <content contentuid="h9f1a7445gbe40g441bg8b22g20630f339c14" version="1">Stärkerer Tentakel-Temptext</content>
-  <content contentuid="h762e4f06gc069g458bgb879g360b68457a8c" version="1">Beschwört eine riesige Kugel mit einem Radius von 9 m, die auf einen Punkt zentriert ist, den ihr in Reichweite sehen könnt, der bis zu 10 Runden anhält. Das Gebiet wird zu schwierigem Terrain und jede Kreatur, die dort ihren Zug beginnt, muss einen DC19 Strength Saving Throw ausführen oder [1] nehmen und 3 Fuß in die Mitte gezogen werden.</content>
+  <content contentuid="h762e4f06gc069g458bgb879g360b68457a8c" version="1">Beschwöre eine riesige Kugel mit einem Radius von 9 m, die auf einen Punkt zentriert ist, den du in Reichweite sehen kannst, der bis zu 10 Runden anhält. Das Gebiet wird zu schwierigem Terrain und jede Kreatur, die dort ihren Zug beginnt, muss einen DC19 Stärke Rettungswurf ausführen oder [1] nehmen und 3 Fuß in die Mitte gezogen werden.</content>
   <content contentuid="ha6e9f795g72dfg4bddgb0e7g41b71e294f4d" version="1">Luftelementar beschwören</content>
   <content contentuid="h8ab9b0b1gd402g405bgaf26gbc8b6bb5f4fc" version="1">Erdelementar beschwören</content>
   <content contentuid="h379e3665g724bg4de9ga07cg2744403496eb" version="1">Elementar beschwören</content>
@@ -82,7 +82,7 @@
   <content contentuid="h1c6b521cgbb81g4607g8f42g6a2120e68977" version="1">Wasserspeier</content>
   <content contentuid="ha78ffa73g27ddg4494g84a1ga80335335f73" version="1">Auf Befehl kann sich der Tentakel bis zu 9 m bewegen, [1] verursachen und die Bewegungsgeschwindigkeit des Gegners um 3 m verringern. Feinde ignorieren den Tentakel und der Tentakel kann nicht verletzt werden.</content>
   <content contentuid="h3697aa2fg2db7g40bagadd4ga05076c5472f" version="1">Strudel</content>
-  <content contentuid="hd90f46aagb551g450fg855ege5a46ac2be60" version="1">Ihr könnt Eure Reaktion einsetzen, um einen Verbündeten zu beschützen, der sich innerhalb von 3 m von Eurem Spektraltentakel befindet, um den erlittenen Schaden zu verringern.</content>
+  <content contentuid="hd90f46aagb551g450fg855ege5a46ac2be60" version="1">Du kannst deine Reaktion einsetzen, um einen Verbündeten zu beschützen, der sich innerhalb von 3 m von deinem Spektraltentakel befindet, um den erlittenen Schaden zu verringern.</content>
   <content contentuid="h054d4ac9g2b97g4c9ega667ge98678ae9520" version="1">Du kannst Kontrollwasser erneut wirken, ohne einen Zauberplatz zu verbrauchen.</content>
-  <content contentuid="h1c0c6b30gb4ccg4d07gbb75ga93e83a23347" version="1">Euer Tentakel der Tiefe kann Euch oder Eure Verbündeten verteidigen. Ihr könnt Eure Reaktion einsetzen, um Verbündete im Umkreis von 3 m zu schützen und den erlittenen Schaden um [1] zu verringern.</content>
+  <content contentuid="h1c0c6b30gb4ccg4d07gbb75ga93e83a23347" version="1">Deine Tentakel der Tiefe kann dich oder deine Verbündeten verteidigen. Du kannst deine Reaktion einsetzen, um Verbündete im Umkreis von 3 m zu schützen und den erlittenen Schaden um [1] zu verringern.</content>
 </contentList>
