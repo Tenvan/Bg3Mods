@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
   <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69f14" version="1">Ein Wesen von außerhalb deiner Realität hat versprochen, dich unter seine Fittiche zu nehmen und dir ein Stück seines Wissens zu schenken. Erwerbe Fachwissen in zwei Fähigkeiten.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f691" version="1">Ein Traum? Eine Halluzination? Hast du das nicht schon einmal durchgemacht? Du bist in der Zeit rückwärts gegangen. Zumindest erinnerst du dich an deine vergangenen Erfahrungen...oder sind es zukünftige? Zu Ihrem Repertoire gehört &lt;LSTag Type="Spell" Tooltip="Shout_AuraOf_Courage"&gt;eine Aura des Mutes&lt;/LSTag&gt;.</content>
-  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f175" version="1">Eine Technik, die von einem der letzten Mitglieder einer großen Kriegerrasse entwickelt wurde. Ihr wisst, wie man das Bewusstsein vom Körper trennt, um dem Körper zu erlauben, sich unbewusst zu bewegen, sogar anzugreifen und auszuweichen. Sie erhalten eine zusätzliche Reaktion.</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb4" version="1">Eine Technik, die von einem der letzten Mitglieder einer großen Kriegerrasse entwickelt wurde. Du weisst, wie man das Bewusstsein vom Körper trennt, um dem Körper zu erlauben, sich unbewusst zu bewegen, sogar anzugreifen und auszuweichen. Du erhälst eine zusätzliche Reaktion.</content>
   <content contentuid="h684b5d78g714dg4f1egbc21g1e221c5a9371" version="1">Säurebeständigkeit</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f636" version="1">Geschickter Jäger</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f634" version="1">Geschickter Stalker</content>
@@ -35,6 +36,7 @@
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f630" version="1">Gottloser Paladin</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f134" version="1">Gruumsh-Anbeter</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f136" version="1">Helm-Anbeter</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69f13" version="1">Hermaeus Moras Auserwählter</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f689" version="1">Wie viele Leben du gelebt hast, wie viel du erlebt hast, weißt nur du.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f138" version="1">Ilmater-Verehrer</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f654" version="1">Ungeduldiger Mönch</content>
@@ -69,6 +71,7 @@
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f112" version="1">Förster</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f690" version="1">Regressor</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f688" version="1">Reinkarnator</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69f12" version="1">Denkt daran, welche Waffe ihr verkörpert, und ignoriert den Widerstand gegen Hieb-, Knüppel- oder Durchbohrungsschaden.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f114" version="1">Schurke</content>
   <content contentuid="h651ed8b8g46cdg43bcgaa5bgefe1d5513496" version="1">Schurken-Betrüger</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f642" version="1">Seher</content>
@@ -87,8 +90,11 @@
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f664" version="1">Verdorben</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f162" version="1">Talos-Anbeter</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f164" version="1">Tempus-Anbeter</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb5" version="1">Die Klinge selbst</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f657" version="1">The blood of a dragon runs through your veins.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f655" version="1">Das Leben eines Mönchs war nicht das, für das man geschaffen wurde, aber das bedeutet nicht, dass man nichts gelernt hat. Du hast die Schatten angenommen und im Kampf die totale Kontrolle über dich erlangt. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Target_ShadowStep"&gt;Shadow Step&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Hide_ShadowArts"&gt;Hide&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_PassWithoutTrace_Monk"&gt;Pass Without Trace&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Darkness_Monk"&gt;Darkness&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Darkvision_Monk"&gt;Darkvision&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Silence_Monk"&gt;Silence&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_CloakOfShadows_Monk"&gt;Cloak of Shadows&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_MinorIllusion"&gt;Minor Illusion&lt;/LSTag&gt;.</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb7" version="1">Der Hammer selbst</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb9" version="1">Der Speer selbst</content>
   <content contentuid="haaa08dfbg7f2ag4b4fg9e97g12cb97f6b966" version="1">Die Welt mag dich für einen Schurken halten, aber tief im Inneren weißt du, dass du keiner bist. Zu deinem Repertoire gehören &lt;LSTag Type="Spell" Tooltip="Shout_Hide_BonusAction"&gt;Listige Aktion: Verstecken&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Dash_CunningAction"&gt;Listige Aktion: Hechten&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_Disengage_CunningAction"&gt;Listige Aktion: Lösen&lt;/LSTag&gt;.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f663" version="1">Es gibt eine gewisse Ruhe, die dich während eines Sturms überströmt, als ob es dich zu Hause willkommen heißt.</content>
   <content contentuid="hdb5df10cgac54g4617gb202gbada95d36912" version="1">Donner-Resistenz</content>
@@ -98,15 +104,17 @@
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f686" version="1">Transmigrator</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f168" version="1">Tymora-Anbeter</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f170" version="1">Tyr-Anbeter</content>
-  <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f174" version="1">Ultra-Instinkt</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb3" version="1">Ultra-Instinkt</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f616" version="1">Unzivilisiert</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f684" version="1">Instabiler Zauberer</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f628" version="1">Erfahrener Kämpfer</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f172" version="1">Vlaakith-Verehrer</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f118" version="1">Zauberer</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69f11" version="1">Inkarnierte Waffe</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f678" version="1">Zeuge der Helden</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f120" version="1">Zauberer</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f676" version="1">Wortweber</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb1" version="1">Yondalla-Verehrer</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f699" version="1">Ihr seid im Herzen ein Barbar.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f101" version="1">Du bist im Herzen ein Barde.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f103" version="1">Du bist im Herzen ein Kleriker.</content>
@@ -145,6 +153,7 @@
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f169" version="1">Ihr seid ein Verehrer von Tymora.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f171" version="1">Ihr seid ein Verehrer von Tyr.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f173" version="1">Ihr seid ein Verehrer von Vlaakith.</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb2" version="1">Du bist ein Verehrer von Yondalla.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f637" version="1">Du kannst gut Beute jagen. Ihr Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Target_Volley"&gt;Volley&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_Whirlwind"&gt;Whirlwind&lt;/LSTag&gt;.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f635" version="1">Sie beherrschen die Kunst, Beute zu verfolgen. Zu deinem Repertoire gehören &lt;LSTag Type="Spell" Tooltip="Shout_Hide_DreadAmbusher"&gt;Dread Ambusher: Hide&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_UmbralCloak"&gt;Umbral Shroud&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt;.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f681" version="1">Du bist dem Mond geschworen und kannst auf seine Kraft zurückgreifen, um dich zu verwandeln. Ihr Repertoire umfasst folgende Kampf-Wildformen&lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat"&gt;:&lt;/LSTag&gt; &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Badger"&gt;Dachs&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Spider"&gt;Spinne&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Wolf_Dire"&gt;Wolf&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Cat"&gt;Katze&lt;/LSTag&gt;, Rothe&lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_DeepRothe"&gt;,&lt;/LSTag&gt; &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Bear_Polar"&gt;Bär&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Raven"&gt;Rabe&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Wildshape_Combat_Panther"&gt;Panther&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_WildShape_Combat_Owlbear"&gt;Eulenbär&lt;/LSTag&gt;.</content>
@@ -188,6 +197,9 @@
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f613" version="1">Du hast alle Fähigkeiten gemeistert, die ein Dieb erlernen kann. Zu deinem Repertoire gehört &lt;LSTag Type="Spell" Tooltip="Shout_SupremeSneak"&gt;Supreme Sneak&lt;/LSTag&gt;.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f633" version="1">Du hast dir die grundlegenden Fähigkeiten eines Rangers angeeignet.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f665" version="1">Deine Blutlinie ist eine, die von feigen Energien besudelt wurde. Du kannst deine &lt;LSTag Type="Spell" Tooltip="Shout_FeyPresence_Container"&gt;&lt;/LSTag&gt; Feenpräsenz nach Belieben ausstrahlen.</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb6" version="1">Eure Beherrschung der Klinge erlaubt es euch, den Widerstand gegen Hiebschaden zu ignorieren.</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69f10" version="1">Deine Beherrschung des Speers überträgt sich auf alle Waffen, wobei durchdringender Widerstand ignoriert wird.</content>
+  <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb8" version="1">Deine Macht ist unübertroffen, deine Angriffe ignorieren die Resistenz gegen Knüppelschaden.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f661" version="1">Dein Verstand ist dein wichtigstes Gut, du hast ihn gemeistert und zu einer Festung gemacht. Du hast &lt;LSTag Type="Spell" Tooltip="Shout_StillnessOfMind"&gt;Stille des Geistes&lt;/LSTag&gt; erreicht.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f685" version="1">Deine Kräfte stammen von uralten Kräften des Chaos, sie wühlen in dir auf und warten darauf, jederzeit freizubrechen.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f639" version="1">Deine Beute endet immer tot und nur wenige Dinge können dir entkommen. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Target_Volley"&gt;Volley&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Whirlwind"&gt;Whirlwind&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Hide_DreadAmbusher"&gt;Dread Ambusher: Hide&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_UmbralCloak"&gt;Umbral Shroud&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt;.</content>
