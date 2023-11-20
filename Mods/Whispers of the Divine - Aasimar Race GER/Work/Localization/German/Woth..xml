@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="h60ee6f28gd0d4g411bg9babg73a83f814365" version="1">... und die gerechte Klinge.</content>
+  <content contentuid="h0a8879b2gd333g457dg888fg7f34a5af4788" version="1">&lt;LSTag Tooltip="Resistant"&gt;Beständig gegen&lt;/LSTag&gt; nekrotische Schäden.</content>
+  <content contentuid="h81ffe134g7d8ag401agba37gd5ea7fb9ed28" version="1">&lt;LSTag Tooltip="Resistant"&gt;Beständig gegen&lt;/LSTag&gt; Durchbohrungsschaden.</content>
+  <content contentuid="h6bbb9fe2g905cg4ef2ga543g1b6cbae1696d" version="1">&lt;LSTag Tooltip="Resistant"&gt;Beständig gegen&lt;/LSTag&gt; Strahlenschäden.</content>
+  <content contentuid="hbed6bfddg8353g4199gb7e1g02cd8f65c7df" version="1">Eine stärkere Verbindung zu deinen Ahnenbindungen hat es dir ermöglicht, deine Flügel nach Belieben zu manifestieren.</content>
+  <content contentuid="haf93d995g7905g4663g9f14g1b95579af9f2" version="1">Aasimar</content>
+  <content contentuid="h56721999gf8ffg41e7g87c1g4f8e5c5b577b" version="1">Am Ende jedes Zuges müssen andere Kreaturen im Umkreis von 10 Metern um dich, die dich sehen können, jeweils einen &lt;LSTag Tooltip="SavingThrow"&gt;Charisma-Rettungswurf&lt;/LSTag&gt; machen oder bis zum Ende deines nächsten Zuges &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Angst vor&lt;/LSTag&gt; dir haben.</content>
+  <content contentuid="haf344699gf5efg436dg804dg5e5d45868813" version="1">Am Ende jeder Runde müssen andere Kreaturen im Umkreis von 10 Metern von dir, die dich sehen können, jeweils einen &lt;LSTag Tooltip="SavingThrow"&gt;Konstitutionsrettungswurf&lt;/LSTag&gt; durchführen oder zwei Runden lang Flaggelants Wunde erhalten.</content>
+  <content contentuid="h68e765e7gc069g42cega77cg394a0ee9569f" version="1">Am Ende deines Zuges nimmst du und jede gegnerische Kreatur im Umkreis von 10 Metern [1]. Sie werfen auch helles Licht in einem Radius von 10 Metern.</content>
+  <content contentuid="h020df2abg03beg4e5dg93c4g598e00223472" version="1">Blutet einmal pro Spielzug für [1]. Benötigt bei Beschädigung ein zusätzliches [5].</content>
+  <content contentuid="h4e4a1f8eg8be5g4914g8a89g709e30a87c8d" version="1">Himmlische Offenbarung</content>
+  <content contentuid="h18f631efgdfeeg4683gac99g72a7dff7e657" version="1">Darkvision (Dunkelsicht)</content>
+  <content contentuid="h37b630dag3cc7g481fgbbeeg67d7f5770b36" version="1">Verursache zusätzlich [1] auf Angriffe oder Zauber, aber du nimmst die Hälfte von [1] selbst, wenn du diese Funktion verwendest. Wenn dieser Effekt nachlässt, stelle [2] Gesundheit wieder her.</content>
+  <content contentuid="h3b50a476g26b0g46ffgb876g239463c0367a" version="1">Als Nachkommen der Himmlischen der Oberen Ebenen sind die Aasimars eine seltene Spezies, die in ganz Faerûn oft als messianische Figuren angesehen wird. Angesichts der hohen Erwartungen der Gesellschaft und der göttlichen Einmischung in ihre Gedanken und Gefühle müssen Aasimars oft um die Kontrolle über ihr eigenes Leben kämpfen.</content>
+  <content contentuid="h52d7266cg2c25g4c08g9104geb6f29877847" version="1">Die Geißel Aasimars, die von Kreuzzugsengeln abstammen, erben einen brennenden Hass auf die Mächte des Bösen und sind bestrebt, sie zu vernichten, wo immer sie zu finden sind. Sie können ihre engelhafte Blutlinie anzapfen, um ihre Feinde in heiligem Feuer zu verbrennen.</content>
+  <content contentuid="h784431d2g3a49g4f43g81a2g1333eb183a8e" version="1">Von gefallenen Engeln abstammend oder selbst gefallen, haben gefallene Aasimars ihre Verbindungen zum Göttlichen beschädigt und verspüren Impulse, das Gute ebenso zu zerstören wie zu schützen. Ihre göttlichen Fähigkeiten werden in etwas Dunkleres verwandelt.</content>
+  <content contentuid="h0e98342agff55g4afaga2fbg5e6251ae267a" version="1">Von Schutzengeln abstammend, schätzen die Beschützer Aasimars das Leben der Sterblichen sehr und fühlen sich verpflichtet, die Menschen um sie herum zu beschützen. Sie können ihre engelhafte Blutlinie anzapfen, um andere zu schützen und zu heilen.</content>
+  <content contentuid="h8097cf13gaef2g48e4gb34ag7e301ae95f25" version="1">Von den frommsten Engeln abstammend und auf die strengste Weise erzogen, haben die Aasimars der Vorboten ihre Entschlossenheit und Frömmigkeit durch Buße für die Sünden des allgemeinen Volkes gestärkt. Sie tragen die Lasten der Welt auf ihrem Rücken und sind eine wahre Abrechnung.</content>
+  <content contentuid="h4efdee8bg80c1g4facg96f2g38fe55cbfa96" version="1">Manifestation verwerfen</content>
+  <content contentuid="h52d8d509gb618g4932g92dbg0208e52ff5d0" version="1">Göttliche Krone - Gefallen</content>
+  <content contentuid="h47a58ca7g9275g44c1gb283gdf9eae9b042f" version="1">Göttliche Krone - Vorbote</content>
+  <content contentuid="hb27968f0g364ag4a4fgaadag253a32f2e24d" version="1">Göttliche Krone - Beschützer</content>
+  <content contentuid="hd243e29ege7f1g4a9eg99a6g991730d99377" version="1">Göttliche Krone - Geißel</content>
+  <content contentuid="h42b96546g51ffg453bg9930g4692f957113b" version="1">Umarmung der Gefallenen</content>
+  <content contentuid="h112918e9g580fg4ea8g8aecg172048c86aa0" version="1">Umarmung der gefallenen Aura</content>
+  <content contentuid="h4fd6225ag5000g4085g8b18gd366a3343ec6" version="1">Exanimate's Apex - Gefallen von Dissidia</content>
+  <content contentuid="h1c43ee77g0636g4a3egb56cgcd732868ee97" version="1">Exanimate's Apex - Vorbote von Dissidia</content>
+  <content contentuid="h30beb732g114bg44ccgab6bgcf1fc8b4c72d" version="1">Exanimate's Apex - Beschützer von Dissidia</content>
+  <content contentuid="h4c8285f9gbd36g4870gb30ege4499e2097ca" version="1">Exanimate's Apex - Geißel von Dissidia</content>
+  <content contentuid="h4db9db53gebfcg4044g990ag62ec73dae466" version="1">Der Ruhm von Exanimate</content>
+  <content contentuid="h7c6af3a5ge868g45b8gac01g509380877d9f" version="1">Gefallene Aasimar</content>
+  <content contentuid="h6b0081d6g2e4cg42e0g8225gef1cbd92bf9f" version="1">Heruntergefallene Risse 01</content>
+  <content contentuid="hc5dee8c2g0a8bg482dg8fc3g568be60e6e7f" version="1">Heruntergefallene Risse 02</content>
+  <content contentuid="h106d5d26g2159g4598g82b6g069be912e3ff" version="1">Heruntergefallene Risse 03</content>
+  <content contentuid="h5f552cfeg0b1eg48ebgbb00gb452526957f9" version="1">Heruntergefallene Risse 04</content>
+  <content contentuid="h3e4403eagc79fg469agb4c5g9b69090df7aa" version="1">Heruntergefallene Risse 05</content>
+  <content contentuid="hda2f0fdfge8b0g47d0gb6cbgd2aadd99c122" version="1">Gefallene Risse von Engels</content>
+  <content contentuid="h94806a6bgd3e9g45a1gaa29ga6425178049f" version="1">Flagellants Wunden</content>
+  <content contentuid="h2ee15314gb35eg4225g9c97g243ec5d0b3cc" version="1">FLAGGELANT: DEBUGGEN</content>
+  <content contentuid="hcfd55c57g688dg43bdg8f72gfb20137f1c3b" version="1">Zorn der Geißel</content>
+  <content contentuid="h491254c1ge5c9g47adgab07gf3af7a8c4067" version="1">Aura des Zorns der Geißel</content>
+  <content contentuid="hff7d712eg7428g47eeg9e96gd46aaacb513a" version="1">Bereitet den Erwachsenen Albträume...</content>
+  <content contentuid="hbc2c7eb3g8231g4acfga0dfgc41c6479a222" version="1">Vorbote Aasimar</content>
+  <content contentuid="h49e0c12bgcb29g4e08gba71gbf22575b44db" version="1">Vorboten-Risse 01</content>
+  <content contentuid="h31cfed91g510ag437fg9c46ge47790078953" version="1">Vorboten-Risse 02</content>
+  <content contentuid="hcdea0b02g1791g4da2g8f4ag2245d27d174d" version="1">Vorboten-Risse 03</content>
+  <content contentuid="h32e79f2dg2595g4446g9c5egdfea133008cd" version="1">Vorboten-Risse 04</content>
+  <content contentuid="h05152997g7b21g4ed0ga316g6a2e2e96843c" version="1">Vorboten-Risse 05</content>
+  <content contentuid="h59cc61eeg6236g42cbga191g8a5abd1b6b8b" version="1">Vorbotenrisse von Engels</content>
+  <content contentuid="h2194c3acg41cag4667gb7cbgbe2683b5d44e" version="1">VORBOTENKREATUR: DEBUGGEN</content>
+  <content contentuid="h7d700342gb5c6g4cdfg8c0ag520aeb8b4a49" version="1">VORBOTEN-DEBUFF: DEBUGGEN</content>
+  <content contentuid="h5c44181cga722g495fgb5c6g7eb7176ad5b0" version="1">VORBOTEN-FLAGGELANT-WUNDEN 1: DEBUGGEN</content>
+  <content contentuid="h7ec2e0c1ga04cg4f5bg8616g3d33aa16eded" version="1">HARBINGER TECHNISCH: DEBUGGEN</content>
+  <content contentuid="h8d8c6bb7g7ebeg4521ga545gb90438274953" version="1">HARBINGER VULN 2: DEBUGGEN</content>
+  <content contentuid="h657a9882g5327g4fd8ga327gcef9913862bd" version="1">Erbe - Gefallen</content>
+  <content contentuid="h398c4381gf9a4g4669g9298g86941fa5a3e8" version="1">Erbe - Vorbote</content>
+  <content contentuid="h0ed0e90eg8f21g43ddga7e4gf0388dadf1c2" version="1">Erbe - Beschützer</content>
+  <content contentuid="h2bbb96a6gc8d1g4625g9566gdf83cf99b56b" version="1">Erbe - Geißel</content>
+  <content contentuid="h91c77b28g130fg46d8g806ag05f230b564aa" version="1">Level 10 Flügel: DEBUGGEN</content>
+  <content contentuid="he0025637gff81g4533gbf11ge84057fcce0d" version="1">Mantel des Beschützers</content>
+  <content contentuid="hecf071a6g399dg4a6cgbf4eg422d9bc3473f" version="1">Mantel der Beschützer-Aura</content>
+  <content contentuid="h095f9fbeg7213g4ee2ga944g2b25d36b82d7" version="1">Markieren Sie Ladung</content>
+  <content contentuid="h828c4101g6508g4daag9055g394f13f47b7d" version="1">Zeichen der Gefallenen</content>
+  <content contentuid="h6316b9a1ga8c3g46e0gb652g1b21eefb8015" version="1">Zeichen des Vorboten</content>
+  <content contentuid="hc63dd4b1g50f6g4064gad21gb2a5c8e0b84e" version="1">Zeichen des Beschützers</content>
+  <content contentuid="h989f2ecage565g4e72ga2c5g81e1d3f265dc" version="1">Malzeichen der Geißel</content>
+  <content contentuid="hdd002048ge382g467aga7feg473c03ebaa8a" version="1">Nekrotische Resistenz</content>
+  <content contentuid="hdd751efdg7b9ag49a7g9ce3g23eba4d17245" version="1">Nekrotische Seele</content>
+  <content contentuid="h8dad7039g3b15g46eaga1c9g2e4f822984e4" version="1">Never See - Fallen</content>
+  <content contentuid="hfdf2f328gd1e2g4dbfga801g9ea68aeeb741" version="1">Niemals sehen - Vorbote</content>
+  <content contentuid="h548e4fcfg99f8g48cdg8b4fg294669e3990c" version="1">Nie sehen - Protector</content>
+  <content contentuid="h478c625eg59eeg4467ga0c6gb5d15a95a8b8" version="1">Niemals sehen - Geißel</content>
+  <content contentuid="hd02a1981gf6adg4cd9gaf8dgba586ab1d878" version="1">Einmal pro Spielzug kannst du deine himmlische Kraft herbeirufen, um bei einem erfolgreichen Angriff eine zusätzliche [1] zu verursachen.</content>
+  <content contentuid="h6455bc6fgd4b1g4b89g8ab9g2541a7df15f4" version="1">Einmal pro Spielzug kannst du deine himmlische Kraft herbeirufen, um bei einem erfolgreichen Angriff eine zusätzliche [1] zu verursachen.</content>
+  <content contentuid="h40b7ecf5g8c44g4839g8725g2765a68414bb" version="1">Einmal pro Spielzug kannst du deine himmlische Kraft herbeirufen, um bei einem erfolgreichen Angriff zusätzlichen Schaden zu verursachen.</content>
+  <content contentuid="he3757c2bgdce5g4092gabb2ge7f2da4df8b9" version="1">Buße des Sündenfressers</content>
+  <content contentuid="h37ea89aag4aefg499fgb700g76fa359e3e1e" version="1">Buße der Sündenfresser-Aura</content>
+  <content contentuid="hdf85bcb4gf35dg4e18gbe7agc9b5ec28c6dc" version="1">Durchdringende Resistenz</content>
+  <content contentuid="h62a92649ge35dg480egba44gb984f394e6bf" version="1">Leistungsstarke Verbindung</content>
+  <content contentuid="hbd053ca5g5678g4239g9abdg4b08e63e676c" version="1">Beschützer Aasimar</content>
+  <content contentuid="h2b1cc186g04b7g49edga7c6gac1c997f5e93" version="1">Protektoren-Risse 01</content>
+  <content contentuid="h253e0d9dgcb71g4b13g9639ga608fb6cbe67" version="1">Protektoren-Risse 02</content>
+  <content contentuid="h6508367ag8bb9g4fa4ga92egc201bd8ad897" version="1">Protektoren-Risse 03</content>
+  <content contentuid="h24629ff1gcba5g40edg92e5gfe654be9a233" version="1">Protektoren-Risse 04</content>
+  <content contentuid="hd5d4b206g3e60g4409g89b3gf427a7e953ba" version="1">Protektoren-Risse 05</content>
+  <content contentuid="haf43243cge15ag4922g9e83ga0652f9a4d86" version="1">Protector Cracks von Engels</content>
+  <content contentuid="h21a956d9gd655g4936g9540g61b251f7c6ac" version="1">Strahlungswiderstand</content>
+  <content contentuid="h285fbd86gc4d6g40e6gaa1dg55ebed3c4e18" version="1">Strahlende Seele</content>
+  <content contentuid="h794e5c6fg17d0g4b7eg894dgad4573a18d8a" version="1">Strahlende Seelenladung</content>
+  <content contentuid="h443a44b2ge90ag411dg8a55g797715a13836" version="1">Kehre von deiner himmlischen Gestalt zurück.</content>
+  <content contentuid="h91a77d44gefbeg4cd4g82b4g4ef0a77fc0f9" version="1">Geißel Aasimar</content>
+  <content contentuid="h15662ff8ga9ddg410bg8f01g14dc297f6666" version="1">Geißel-Risse 01</content>
+  <content contentuid="hd8c0d07cgb938g469fg85e8ge5db112507fc" version="1">Geißel-Risse 02</content>
+  <content contentuid="h3e88b235gde24g49f2g88eag5b87aecd560c" version="1">Geißel-Risse 03</content>
+  <content contentuid="h3ec4a2a3g317fg46fegb3d0gd317f9d2162c" version="1">Geißel-Risse 04</content>
+  <content contentuid="heeb6f2a9g8cd7g4d6dg825bg34fa1163104a" version="1">Geißel-Risse 05</content>
+  <content contentuid="h569caffbg702bg49bfg80a4g8ba95c121625" version="1">Geißelrisse von Engels</content>
+  <content contentuid="h096f9074g47bag4578g8473gd26d1cf2b204" version="1">Meridian des Sündenfressers - Gefallen von Dissidia</content>
+  <content contentuid="h1fd6410egb326g4e96gae6eg88ab417400ef" version="1">Meridian des Sündenfressers - Vorbote von Dissidia</content>
+  <content contentuid="hc6d45875g5285g47e2gb6b4g9b248dd2ab28" version="1">Meridian des Sündenfressers - Beschützer von Dissidia</content>
+  <content contentuid="ha5850445g4bd5g45e8gafb2g9c1903d4ca2e" version="1">Meridian des Sündenfressers - Geißel von Dissidia</content>
+  <content contentuid="habaeac65g267eg4ddbg9a08g1899c385a376" version="1">Starlight - Gefallen</content>
+  <content contentuid="hf2fd68ecg5b71g4b5agb57ag162cd9b553de" version="1">Sternenlicht - Vorbote</content>
+  <content contentuid="h0dcda976gb52fg44d6g80a3gfe41621bdfc6" version="1">Starlight - Beschützer</content>
+  <content contentuid="h433b8200g9944g4d1egb127g062bb89ddaae" version="1">Sternenlicht - Geißel</content>
+  <content contentuid="h8cae7f98g879dg4967g9a22ge121f7804c56" version="1">Fliehen</content>
+  <content contentuid="h32d42a8fg2f00g4c7eg8f6bgefdf60a2b9fe" version="1">Die Häufigkeit, mit der Sie eine Markierung platzieren können.</content>
+  <content contentuid="h117b0532gb0f1g4fefg89c8g931e23013963" version="1">Der glühende Schild...</content>
+  <content contentuid="hf969b80bge4a6g48f4gba52gc45f4861a1f7" version="1">Der Sündenfresser verdunkelt deine Tür...</content>
+  <content contentuid="hb9cf9239g6903g4805g9078g991396c2a9b6" version="1">Entfessle die Dunkelheit im Inneren. Du erhältst Flug und am Ende jeder Runde müssen andere Kreaturen innerhalb von 10 Metern von dir, die sehen können, dass du erfolgreich bist, einen &lt;LSTag Tooltip="SavingThrow"&gt;Charisma-Rettungswurf&lt;/LSTag&gt; machen oder bis zum Ende deiner nächsten Runde &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Angst vor&lt;/LSTag&gt; dir haben. Füge einem Ziel einmal pro Zug zusätzlich [1] zu, wenn du ihm mit einem Angriff oder einem Zauberspruch Schaden zufügst.</content>
+  <content contentuid="hd9e16e71gcc98g40f7g8a5fg7701452ea08d" version="1">FLÜGEL-FÄHIGKEITEN: DEBUGGEN</content>
+  <content contentuid="hfbcc0df1g829dg489fga7a1g19e7a45b9521" version="1">Flügel der Gefallenen</content>
+  <content contentuid="he7b798c6g8b46g4806g8472gd9b7912f7e6c" version="1">Flügel des Vorboten</content>
+  <content contentuid="h5b712fcdg285dg4077g800dg91447da2f552" version="1">Flügel des Beschützers</content>
+  <content contentuid="h56d3999fg5af0g49fbgac25g0950ced60a5f" version="1">Flügel der Geißel</content>
+  <content contentuid="hb6b05e7cgcdbeg425fg9b85g2ea5e38dce5b" version="1">Du bist durch eine Wache gesegnet, die [3] verringerten Schaden erleidet, wenn du das nächste Mal verletzt wirst.</content>
+  <content contentuid="h058b0fb2g82ecg4967gbcbcgbc9702464e72" version="1">Du wirst von einer Geißel des Lichts mit göttlichem Zorn erfüllt, die deinem nächsten Angriff oder Zauber einen zusätzlichen [1] hinzufügt.</content>
+  <content contentuid="hcf2d0a4dgd447g4012ga1f8gc2040b90bf12" version="1">Du wirst von der inneren Dunkelheit eines gefallenen Aasimar abgewehrt, was den nächsten Feind, der dich im Nahkampf angreift, dazu zwingt, einen &lt;LSTag Tooltip="SavingThrow"&gt;Charisma-Rettungswurf&lt;/LSTag&gt; zu machen oder [4] Runden lang &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Angst&lt;/LSTag&gt; zu haben.</content>
+  <content contentuid="hac53a6a1gf295g489eg942ag2b7d28e39f36" version="1">Du wirst durch die blutige Buße eines Sündenessers bewahrt. Wenn du die Hälfte deiner gesamten maximalen Gesundheit unterschreitest, erhältst &lt;LSTag Type="Status" Tooltip="TRIPS_MARK_EXANIMATE"&gt;du zwei Runden lang Exanimats Ruhm&lt;/LSTag&gt;.</content>
+  <content contentuid="hfcf2eb88g90aeg4562gb506g2df739217cc0" version="1">Du kannst fliegen.</content>
+  <content contentuid="hb1c0e0d5g1cbag401agb788gc5a4fa133bac" version="1">Sie können in normaler Dunkelheit bis zu einem Bereich von [1] sehen.</content>
+  <content contentuid="h94a37e95g1d56g4ccag959cg884a36fdb57f" version="1">Du umarmst die Tiefen deiner Sünde. Du erhältst Flucht, und am Ende jeder Runde müssen du und jeder Feind, den du sehen kannst, einen &lt;LSTag Tooltip="SavingThrow"&gt;verfassungsrettenden Wurf&lt;/LSTag&gt; bestehen oder &lt;LSTag Type="Status" Tooltip="TRIPS_FLAGGELANT_WOUNDS"&gt;Geißlerwunden&lt;/LSTag&gt; für zwei Runden erhalten. Füge einmal pro Zug [2] Extra zu, wenn du mit einem Angriff oder Zauberspruch Schaden verursachst, aber nimm [3] im Gegenzug.</content>
+  <content contentuid="h3ac27425g6e0cg402fga27eg09972025d4ff" version="1">Du hast dich in eine Manifestation deiner himmlischen Vorfahren verwandelt.</content>
+  <content contentuid="hb67cf8d2g0323g483fg81aeg46461c2211ba" version="1">Du kannst dich selbst oder ein Ziel segnen, um [3] verringerten Schaden zu erleiden, wenn es das nächste Mal verletzt wird.</content>
+  <content contentuid="h0babd2c7gea14g4b2egb138g9079abe86152" version="1">Du kannst dich selbst oder ein Ziel mit göttlichem Zorn durchdringen und dem nächsten Angriff oder Zauber, der trifft, einen zusätzlichen [1] hinzufügen.</content>
+  <content contentuid="h4ef10c0fgfb8bg48bfgb7b5g6912cfa35da9" version="1">Sie können [1] nehmen, um sich selbst oder einen Verbündeten zu schützen. Wenn das abgewehrte Ziel unter die Hälfte seiner Gesamtgesundheit gebracht wird, erhält &lt;LSTag Type="Status" Tooltip="TRIPS_MARK_EXANIMATE"&gt;es zwei Runden lang Exanimats Ruhm&lt;/LSTag&gt;.</content>
+  <content contentuid="h20926a3bga055g47f5gae22g6eacb2522321" version="1">Du kannst dich selbst oder einen Verbündeten mit deiner inneren Dunkelheit abwehren und den nächsten Feind, der sie im Nahkampf angreift, zwingen, einen &lt;LSTag Tooltip="SavingThrow"&gt;Charisma-Rettungswurf&lt;/LSTag&gt; zu machen, oder [3] Runden lang &lt;LSTag Type="Status" Tooltip="FEARED"&gt;ängstlich&lt;/LSTag&gt; werden.</content>
+  <content contentuid="h9ea2caadgf8bag4269ga137gdc14e611491b" version="1">Dein Bedürfnis, andere zu beschützen, manifestiert sich als göttliche Macht. Du erhältst Flug und am Ende jeder Runde gewinnst du und Verbündete innerhalb von 10 Metern um dich herum [2]. Füge einmal pro Spielzug einem gewählten Ziel einen zusätzlichen [1] zu, wenn du mit einem Angriff oder Zauberspruch triffst.</content>
+  <content contentuid="hd64be7f7g8461g4eabg8a46g81eefbbfb8e5" version="1">Dein gerechter Zorn kocht über. Du erhältst Flug, wirfst helles Licht in einem Radius von 10 Fuß und am Ende deines Zuges nimmst du und jede gegnerische Kreatur im Umkreis von 10 Metern um dich herum [1]. Einmal pro Spielzug füge einem gewählten Ziel eine zusätzliche [1] zu, wenn du es mit einem Angriff oder einem Zauberspruch triffst.</content>
+</contentList>

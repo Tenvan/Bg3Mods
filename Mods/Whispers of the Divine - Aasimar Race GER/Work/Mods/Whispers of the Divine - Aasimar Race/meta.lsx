@@ -8,20 +8,20 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="Tenvan" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSString" value="new translation" />
-          <attribute id="Folder" type="LSString" value="featsextra119" />
+          <attribute id="Description" type="LSString" value="Whispers of the Divine - Aasimar Race GER" />
+          <attribute id="Folder" type="LSString" value="WotD-AasimarGER" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="featsextra119" />
+          <attribute id="Name" type="FixedString" value="Whispers of the Divine - Aasimar Race GER" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
           <attribute id="Tags" type="LSString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
-          <attribute id="UUID" type="FixedString" value="54e18e2d-020a-47ed-8ab6-beb4aa1c60fc" />
+          <attribute id="UUID" type="FixedString" value="d5264004-1338-4f0f-8205-6438b95850c2" />
           <attribute id="Version" type="int64" value="36028797018963968" />
           <children>
             <node id="PublishVersion">

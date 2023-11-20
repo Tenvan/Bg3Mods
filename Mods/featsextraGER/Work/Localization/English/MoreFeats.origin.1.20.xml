@@ -17,7 +17,7 @@ You also learn the &lt;LSTag Type="Spell" Tooltip="Target_MistyStep_FeyTouched"&
 	<content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">Gift of the Chromatic Dragon</content>
 	<content contentuid="d7213c671ff64e589ba7deeeeeeeeeeeeeeee" version="1">You’ve manifested some of the power of chromatic dragons, granting you the following benefits:</content>
 	<content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">Healer</content>
-	<content contentuid="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1">As an action, you can &lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;Heal&lt;/LSTag&gt; another creature. That creature can't regain hit points in this way again until they finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1">As an action, you can &lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;Heal&lt;/LSTag&gt; another creature. That creature can't regain hit points in this way again until they finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">Inspiring Leader</content>
 	<content contentuid="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1">You can spend 10 minutes &lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;Inspiring&lt;/LSTag&gt; your companions, shoring up their resolve to fight.</content>
 	<content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">Metamagic Adept</content>
@@ -92,7 +92,7 @@ After you use this bonus action, you can’t do so again until you finish a long
   <content contentuid="hd5609c5eg4b78g4389gb373gd7219022e6b2" version="1">You can touch a simple or martial weapon and infuse it with poison. For the next minute, the weapon deals an extra [1] when it hits.</content>
 	<content contentuid="kt1426871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Poison)</content>
 	<content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer: Tend to Wounds</content>
-	<content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can tend to a creature's wounds. You restore [1] to it. That creature can't regain hit points in this way again until they finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can tend to a creature's wounds. You restore [1] to it. That creature can't regain hit points in this way again until they finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="kt1456871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Mage Hand</content>
 	<content contentuid="kt1466871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You learn the &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;Mage Hand&lt;/LSTag&gt; cantrip. You can cast it without verbal or somatic components.</content>
 	<content contentuid="kt1476871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetic Push</content>

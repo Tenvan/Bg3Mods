@@ -72,6 +72,7 @@ thx
 [url=https://www.nexusmods.com/baldursgate3/mods/3383]Thor - God of Thunder GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3385]Transmog Enhanced GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3347]Warlock Undead GER[/url]
+[url=https://www.nexusmods.com/baldursgate3/mods/4412]Whispers of the Divine - Aasimar Race GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3318]WoWDeathKnightClassGER[/url]
 [/b]
 

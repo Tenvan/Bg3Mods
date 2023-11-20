@@ -31,6 +31,7 @@ Vor seinem Ausschluss aus dem Tower äußerte das Konsortium seine Besorgnis üb
 
 ... dann verstummen Schreie aus dem Buch und die Ranken, die dich suchen, lösen sich auf. Worte tauchen auf, die die Geschichte eines dunklen Rituals erzählen, mit dem der Geist einer mächtigen Todesfee in einem lebenden Seelenkäfig gefangen gehalten werden soll. An den Rändern des Buches erscheinen feine Kritzeleien, die darauf hinweisen, dass Vorsicht geboten ist, damit der Nekromant nicht besessen wird.</content>
   <content contentuid="h7feac757g2004g4e67ga3b5g8a7277fc2098" version="1">In den markanten Kopf dieses grauenhaft aussehenden Dreschflegels, einer Standardwaffe eines Schreckenskultisten, der unter dem Banner des Ordens des Dracolich kämpft, wurde ein Schädel eingearbeitet.</content>
+  <content contentuid="hee111b4fg4142g424dg8341g24a2a6bd1de7" version="1">Ein Knochenstück, das zu einer scharfen Sichel geformt wurde, einer Standardwaffe eines Schreckenskultisten, der unter dem Banner des Dracolich-Ordens kämpft.</content>
   <content contentuid="h4abe4ebag47f8g472cg987bg3f4160296b70" version="1">Die Seele einer kürzlich getöteten Kreatur weint vor Qual, als sie in einem &lt;LSTag Type="Spell" Tooltip="Shout_DreadOverlord_Soulshield"&gt;Seelenschild&lt;/LSTag&gt; verschwindet.
 
 Bietet +[1] für &lt;LSTag Tooltip= „ArmorClass“&gt;Rüstungsklasse&lt;/LSTag&gt; bis &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt;.</content>
@@ -111,7 +112,6 @@ Du hast von einem dunklen Ritual erfahren, mit dem du dich in einen lebenden &lt
 
 Du bist auch &lt;LSTag Tooltip="Proficiency"&gt;beherrscht&lt;/LSTag&gt; in mittlerer und schwerer Rüstung, wenn du Reaper's Embrace trägst.</content>
   <content contentuid="h1d4cf372g2075g403dg98b5g44c22b9b4227" version="1">Vertrauten finden: Teufelshund</content>
-  <content contentuid="h4ed4cac7g9cf9g42ffg9b19g5d6c409e34db" version="1">Dreschflegel des Dread Overlord</content>
   <content contentuid="h3bb43152g923eg4d2aga8edg096b745342c8" version="1">Flammende Erscheinung</content>
   <content contentuid="h20eb14dagd9c0g431egb33eg6c721ddc0017" version="1">Verbotene Überlieferung</content>
   <content contentuid="h0a87d574g5350g41c4g847fg5ae1b5f508cc" version="1">Verbotene Überlieferung: Libor Mortis</content>
@@ -161,7 +161,6 @@ Ein Auszug zu &lt;LSTag Type="Passive" Tooltip="DreadOverlord_LORE_Aeternusvitae
   <content contentuid="h2cb70e8bg6150g4533gac64g67e47b195e34" version="1">Kleine Untote</content>
   <content contentuid="hb9474babg6bd4g4e00gb39fg72231630d280" version="1">Monolith des Terrors</content>
   <content contentuid="h1cb04f42gb3d9g4947g8229ge29d46396384" version="1">Krähenmord</content>
-  <content contentuid="h80a2633dgb616g4a30ga4ceg15024a673241" version="1">Benannt nach einem großen Zauberer, schlägt er mit einem widerlichen Strahl zu, der &lt;i&gt;nicht verfehlen&lt;/i&gt; kann und untoten Zielen immer Schaden zufügt, wobei &lt;LSTag Tooltip="Resistant"&gt;Widerstand&lt;/LSTag&gt; und &lt;LSTag Tooltip="Immune". &gt;Immunität&lt;/LSTag&gt; gegen toxische Schäden. Möglicherweise &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Vergiftet&lt;/LSTag&gt; das Ziel.</content>
   <content contentuid="had1b2c78gbf90g4871gb3b2g8d9cf64e1fdd" version="1">Nekrotische Bewaffnung</content>
   <content contentuid="h1500da70gd0f0g4e45gb93eg204d3007ef7d" version="1">Nekrotische Bewaffnung (wilder Angreifer)</content>
   <content contentuid="h0d78cbadg02a6g493ag9ceeg939a9be4d318" version="1">Nekrotische Energien</content>
@@ -172,6 +171,8 @@ Ein Auszug zu &lt;LSTag Type="Passive" Tooltip="DreadOverlord_LORE_Aeternusvitae
   <content contentuid="ha560e8b1g749eg4c41g97a4gcc748594d71d" version="1">Nacht der lebenden Toten</content>
   <content contentuid="h4d7f6429gcb97g494fga886gca5de7173f5d" version="1">Pakt des ewigen Lebens</content>
   <content contentuid="h30fe1de9g865eg4867gb296gde147c326eb4" version="1">Führe ein Ritual durch, um die Seele einer getöteten Kreatur an deinen &lt;LSTag Type="Spell" Tooltip="Shout_DreadOverlord_Soulshield"&gt;Schild der Seelen&lt;/LSTag&gt; zu binden. Jede &lt;LSTag Type="Status" ToolTip="DREADOVERLORD_HARVESTED_SOUL"&gt;Gefangene Seele&lt;/LSTag&gt; addiert +[1] zu deiner &lt;LSTag ToolTip="ArmorClass"&gt;Rüstungsklasse&lt;/LSTag&gt; bis zu &lt;LSTag ToolTip="LongRest"&gt;Lange Rast&lt;/LSTag&gt;.</content>
+  <content contentuid="h0dc6a173g7532g497dg8c42g2562a3f1433a" version="1">Wähle die Waffe aus, die du verwenden möchtest. Dies sind Standardwaffen für Kultisten, die für den Dracolich-Orden kämpfen.</content>
+  <content contentuid="h80a2633dgb616g4a30ga4ceg15024a673241" version="1">Benannt nach einem großen Zauberer, schlägt er mit einem widerlichen Strahl zu, der &lt;i&gt;nicht verfehlen&lt;/i&gt; kann und untoten Zielen immer Schaden zufügt, wobei &lt;LSTag Tooltip="Resistant"&gt;Widerstand&lt;/LSTag&gt; und &lt;LSTag Tooltip="Immune". &gt;Immunität&lt;/LSTag&gt; gegen toxische Schäden. Möglicherweise &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Vergiftet&lt;/LSTag&gt; das Ziel.</content>
   <content contentuid="h2795d986g045ag475egbff7g1350c1bf61d0" version="1">Mächtige Wesen im Bündnis mit dem Dread Overlord und seinen Kultisten, die unter dem Banner des Dracolich-Ordens kämpfen.</content>
   <content contentuid="h50423c57g13d5g4068ga8edgda2b1dfd4b5b" version="1">Profaner Segen</content>
   <content contentuid="h55de4b20gf507g4399gab7dg17765dc4d667" version="1">Profaner Segen: Verderbte Rüstung</content>
@@ -199,6 +200,7 @@ Ein Auszug zu &lt;LSTag Type="Passive" Tooltip="DreadOverlord_LORE_Aeternusvitae
 
 &lt;i&gt;Ermächtigter Seelenschild:&lt;/i&gt; Die Poltergeister schlagen wütend um sich und verursachen [2] oder die Hälfte davon, wenn Ziele mit ihrem Charisma einen &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; schaffen.</content>
   <content contentuid="h14e36a58g71c0g4e7dgbcf1gf069bc9552a5" version="1">Ziehe die dunklen Ranken zurück, die aus deinem Vampir-Leichentuch hervorgehen.</content>
+  <content contentuid="h17d78113g8b84g4388ga9dcgb2e3f09f4c5e" version="1">Ritual Sichel</content>
   <content contentuid="h1838b20egbb78g4678gbd2ag92971a82d2c2" version="1">Schreiender Geist</content>
   <content contentuid="hf6a6c24dg8f9cg44f4g8f7cge17248e68937" version="1">Schreiender Geist</content>
   <content contentuid="hcc33c2f8g2f25g43bagb138g1da300081ddb" version="1">Schreiender Geist</content>
@@ -209,6 +211,8 @@ Ein Auszug zu &lt;LSTag Type="Passive" Tooltip="DreadOverlord_LORE_Aeternusvitae
   <content contentuid="h7764ff44ga22fg423dg8563g640fb7f59f67" version="1">Leichentuch von Aeternus Vitae</content>
   <content contentuid="hc73709abg4a67g4acagb35dga33dffc731a6" version="1">Skelettriese</content>
   <content contentuid="he246e995g80b8g4564g819ag4836157d20fd" version="1">Skelett-Hexenmeister</content>
+  <content contentuid="h4ed4cac7g9cf9g42ffg9b19g5d6c409e34db" version="1">Dreschflegel des Dread Overlord</content>
+  <content contentuid="he83852b7g5816g4c25g9d45g1b114abefecf" version="1">Zuschlagen</content>
   <content contentuid="ha786d31bg56d0g4bccg910dgf268fce23bc2" version="1">Schlägt die gewaltige Waffe mit ungezügelter Kraft auf Feinde ein, erzeugt eine kleine Schockwelle, die sich auf das Ziel konzentriert und alle Kreaturen &lt;LSTag Type="Status" Tooltip="PRONE"&gt;zu Boden&lt;/LSTag&gt; wirft.</content>
   <content contentuid="ha5e2cb69gf43ag4bcdgb66cg04514deb9c0e" version="1">Manche halten die Auferweckung der Großen Untoten für ein Sakrileg. Niemand kann die pure Verwüstung in Frage stellen, die ein Riese oder ein mächtiger Hexenmeister zu Lebzeiten anrichten kann, aber noch schlimmer, wenn er mit den unheiligen Kräften der Nekromantie verbunden ist. Hexenmeister, denen es nicht gelungen ist, Lichdom zu erlangen oder ihren Tod zu verhindern, haben ihre Namen in den &lt;i&gt;&lt;LSTag Type="Passive" Tooltip="DreadOverlord_LORE_LiborMortis"&gt;Libor Mortis&lt;/LSTag&gt;&lt;/i&gt; eingetragen, in der Hoffnung, dass ihre verdammten Seelen es schaffen von einem würdigen Nekromanten in einem &lt;LSTag Type="Spell" Tooltip="Target_DreadOverlord_Animate_SkeletalMage"&gt;Anschein von Unleben&lt;/LSTag&gt; in die materielle Ebene zurückgebracht werden. Nur ein böser Hexenmeister würde sich bereitwillig auf eine solche Weise erziehen lassen. Glücklicherweise verfügen nur wenige über die nötige Kraft, um solche Untoten zum Leben zu erwecken ...
 
@@ -224,6 +228,7 @@ Jede gefangene Seele verleiht der &lt;LSTag Tooltip="ArmorClass"&gt;Rüstungskla
 Sie haben so viele Seelen gefangen, wie die verbleibenden Runden verbleiben.</content>
   <content contentuid="h1c0afcdag61d4g4becga9acg972e425b3417" version="1">Seelen der Toten</content>
   <content contentuid="h0a14ea99g3b2dg48c2gadf0g0dde8528a6cc" version="1">Die Seelen der Toten schreien voller Angst um diese Kreatur herum, bevor sie ihrem &lt;LSTag Type="Spell" Tooltip="Shout_DreadOverlord_Soulshield"&gt;Seelenschild&lt;/LSTag&gt; erliegen.</content>
+  <content contentuid="had52ff6ag4f82g4c40ga368g1d6120e4246c" version="1">Startwaffe</content>
   <content contentuid="h529699edg641dg49d1g904ag8819787ecedf" version="1">Durchdringt eure nekrotischen Angriffe mit einem Fluch, der die Lebenden nach ihrem Tod an ein Leben ohne Dienst bindet.
 
 Schalte ihn ein, damit deine Zauber, Zaubertricks und Waffenangriffe &lt;LSTag Type="Status" Tooltip="NIGHTOFTHELIVINGDEAD"&gt;Nacht der lebenden Toten&lt;/LSTag&gt; anwenden können. Begrenzt durch deine aktuellen &lt;LSTag Type="Status" Tooltip="DREADOVERLORD_MINIONPOINTS"&gt;Minionspunkte&lt;/LSTag&gt;.</content>
