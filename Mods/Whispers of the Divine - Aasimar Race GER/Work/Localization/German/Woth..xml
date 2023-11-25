@@ -12,7 +12,9 @@
   <content contentuid="h68e765e7gc069g42cega77cg394a0ee9569f" version="1">Am Ende deines Zuges nimmst du und jede gegnerische Kreatur im Umkreis von 10 Metern [1]. Sie werfen auch helles Licht in einem Radius von 10 Metern.</content>
   <content contentuid="h020df2abg03beg4e5dg93c4g598e00223472" version="1">Blutet einmal pro Spielzug für [1]. Benötigt bei Beschädigung ein zusätzliches [5].</content>
   <content contentuid="h4e4a1f8eg8be5g4914g8a89g709e30a87c8d" version="1">Himmlische Offenbarung</content>
+  <content contentuid="h65026c46g2f79g4f35g94f0gbd880e695230" version="3">Cressa Moonfair</content>
   <content contentuid="h18f631efgdfeeg4683gac99g72a7dff7e657" version="1">Darkvision (Dunkelsicht)</content>
+  <content contentuid="h7965fc46g770bg420cg9dbeg3a3e1b7c240d" version="3">Daybreaker Cressa</content>
   <content contentuid="h37b630dag3cc7g481fgbbeeg67d7f5770b36" version="1">Verursache zusätzlich [1] auf Angriffe oder Zauber, aber du nimmst die Hälfte von [1] selbst, wenn du diese Funktion verwendest. Wenn dieser Effekt nachlässt, stelle [2] Gesundheit wieder her.</content>
   <content contentuid="h3b50a476g26b0g46ffgb876g239463c0367a" version="1">Als Nachkommen der Himmlischen der Oberen Ebenen sind die Aasimars eine seltene Spezies, die in ganz Faerûn oft als messianische Figuren angesehen wird. Angesichts der hohen Erwartungen der Gesellschaft und der göttlichen Einmischung in ihre Gedanken und Gefühle müssen Aasimars oft um die Kontrolle über ihr eigenes Leben kämpfen.</content>
   <content contentuid="h52d7266cg2c25g4c08g9104geb6f29877847" version="1">Die Geißel Aasimars, die von Kreuzzugsengeln abstammen, erben einen brennenden Hass auf die Mächte des Bösen und sind bestrebt, sie zu vernichten, wo immer sie zu finden sind. Sie können ihre engelhafte Blutlinie anzapfen, um ihre Feinde in heiligem Feuer zu verbrennen.</content>
@@ -90,6 +92,7 @@
   <content contentuid="h21a956d9gd655g4936g9540g61b251f7c6ac" version="1">Strahlungswiderstand</content>
   <content contentuid="h285fbd86gc4d6g40e6gaa1dg55ebed3c4e18" version="1">Strahlende Seele</content>
   <content contentuid="h794e5c6fg17d0g4b7eg894dgad4573a18d8a" version="1">Strahlende Seelenladung</content>
+  <content contentuid="hcd11fdefg5b27g44a3g99b6g2fde6935890c" version="3">Als Vorbote des reinen Bösen erzogen, widerstand dieser Aasimar der Gehirnwäsche durch eine Gruppe stiller Kultisten. Sie durchstreifte das Land zur Erlösung, die sie schließlich fand, als Mahnwache wiedergeboren wurde und ihre himmlische Stimme wiedererlangte.</content>
   <content contentuid="h443a44b2ge90ag411dg8a55g797715a13836" version="1">Kehre von deiner himmlischen Gestalt zurück.</content>
   <content contentuid="h91a77d44gefbeg4cd4g82b4g4ef0a77fc0f9" version="1">Geißel Aasimar</content>
   <content contentuid="h15662ff8ga9ddg410bg8f01g14dc297f6666" version="1">Geißel-Risse 01</content>

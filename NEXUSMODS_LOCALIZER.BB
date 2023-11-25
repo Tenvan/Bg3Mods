@@ -61,6 +61,7 @@ thx
 [url=https://www.nexusmods.com/baldursgate3/mods/4175]Dread Overlord GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3897]Enemies Enhanced GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4165]Expansion (Bladesinger Only) GER[/url]
+[url=https://www.nexusmods.com/baldursgate3/mods/4563]Fantastical Multiverse GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/2724]Fathomless Patron For Warlocks GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4349]Feats Extra FullGameReady GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3178]Infernal Armor Nightmare GER[/url]
