@@ -45,10 +45,6 @@ With 'Save Source XML' the translation is then saved at the end - or in between.
 When you save the Xml, it write automatical the loca-File in the same directory.
 No more need for extra use of the ConverterApp.
 
-[color=#00ff00][size=3][b]The loca-Code part was imported from Norbyte excelent LSLib[/b][/size][/color]:
-[url=https://github.com/Norbyte/lslib]https://github.com/Norbyte/lslib[/url]
-thx
-
 [b][size=4]See my other Mods for translation samples:[/size]
 [url=https://www.nexusmods.com/baldursgate3/mods/3298]5e Spells GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4147]All Effects And Boot In One GER[/url]
@@ -56,6 +52,7 @@ thx
 [url=https://www.nexusmods.com/baldursgate3/mods/3103]Artificer GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3402]Auto Loot Seller V3 GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3384]Bard Subclass - College of Glamour GER[/url]
+[url=https://www.nexusmods.com/baldursgate3/mods/4564]Custom Item Pack GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4348]Class Specialization Feats GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3305]Demon Hunter Class GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4175]Dread Overlord GER[/url]
@@ -78,3 +75,7 @@ thx
 [/b]
 
 Sourcecodes for translated mods can you find here: [url=https://github.com/Tenvan/Bg3Mods]Bg3Mods[/url]
+
+[color=#00ff00][size=3][b]Credits to Norbyte excelent LSLib[/b][/size][/color]: [url=https://github.com/Norbyte/lslib]https://github.com/Norbyte/lslib[/url]
+thx
+

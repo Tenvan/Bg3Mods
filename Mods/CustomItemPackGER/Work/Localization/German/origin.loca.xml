@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="h666ae73agac71g403ag82e0gc2a0e9844fe1" version="1">Das betroffene Wesen ist in die Astralebene gewechselt und hat eine Projektion hinterlassen.
+
+Es ist unverwundbar und hat  &lt;LSTag Tooltip="Advantage"&gt;Vorteile&lt;/LSTag&gt; bei &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfen&lt;/LSTag&gt;. Es hat &lt;LSTag Tooltip="Disadvantage"&gt;Nachteile&lt;/LSTag&gt; bei gegnerischen Angriffswürfen.
+
+Die Astralprojektion endet vorzeitig, wenn das Wesen angreift, einen anderen Zauber wirkt oder eine andere Aktion ausführt.</content>
+  <content contentuid="hc607ae37g6870g43acgabbfgcc4bcd61ed14" version="1">Betroffene Wesen folgen dem Zaubernden und kämpfen an seiner Seite.</content>
+  <content contentuid="h37452a9aga9e6g4fcfg9639g862a4edd6754" version="1">Astraler Buckler</content>
+  <content contentuid="h7c949a46g5aa8g4d27g84c6g80efcc690470" version="1">Astralprojektion</content>
+  <content contentuid="hce7388c2g2dfag4057ga88eg7b1a46d06bf9" version="1">Ob du es glaubst oder nicht, ich bin kein Steel Watcher.</content>
+  <content contentuid="h63cf441bge666g4409gac07ga0b33119187f" version="1">Bhaals Antlitz</content>
+  <content contentuid="h5c254375ge64ag414fg849egf2281b732e6d" version="1">Gefesselt durch höllische Ketten konnte Orpheus niemals gehen. An die Pflicht gebunden, würde seine Wache das niemals tun.</content>
+  <content contentuid="h4c72d735gea16g4468gbd16gc55665a20dc4" version="1">Aber Gith hatte einen Sohn großgezogen. Orpheus, Prinz des Kometen, der wahre Erbe! Er versammelte Giths Ehrengarde und erklärte den Thron für sich.</content>
+  <content contentuid="hbaddf7f4gb4e5g45c1g92c7g9db0ee217eb7" version="1">Bei den Göttern, ich höre es UND ich sehe es UND ich weiß es UND ich fühle es. Aber ich kann es nicht schreiben. Oder doch?</content>
+  <content contentuid="h72d61f44ge89cg4bcfga4b1gc28dbad3be02" version="1">Truhe mit vielen Dingen</content>
+  <content contentuid="ha0defd94g68a7g4d75g8b03g06b13a68d5c4" version="1">Enthält die Gegenstände aus dem benutzerdefinierten Gegenstandspaket.</content>
+  <content contentuid="h1d40dea2g322bg4525g96fagd6ba4cf218bd" version="1">Krone von Karsus</content>
+  <content contentuid="h856b7629g6cdeg4f84g8108g4f72b3a16110" version="1">Richte den Blick des Blinden Auges auf ein Ziel, &lt;LSTag Type="Status" Tooltip="VERSTEINERT"&gt;Versteinere&lt;/LSTag&gt; es, bis es das nächste Mal Schaden erleidet.</content>
+  <content contentuid="hfa14d9cbgf1f1g4515g91f3g86a64341dc7b" version="1">Dominiere den Geist einer lebenden oder untoten Kreatur für 10 Runden. Verbündete können nicht dominiert werden.</content>
+  <content contentuid="hc764c6a6gc83cg42c6gb9b2g24a94fefa6e2" version="1">Beherrscht</content>
+  <content contentuid="hcc7b7dd2ga86cg40beg9d84g4e1c4ac09358" version="1">Fokussiere Bhaals Blick auf ein Ziel, wenn das Ziel weniger als 33% &lt;LSTag Tooltip="HitPoints"&gt;Maximum LP&lt;/LSTag&gt; hat, wird es aufgelöst, andernfalls nimmt es 25% seiner &lt;LSTag Tooltip="HitPoints"&gt;Maximum LP als&lt;/LSTag&gt; Machtschaden ab.</content>
+  <content contentuid="h4d38f55bgc82fg4741g80a1g92d78c3f34c4" version="1">Blick des Todes</content>
+  <content contentuid="hd345be0bgada6g45b1gac13g2c52563e13a0" version="1">Vergoldet</content>
+  <content contentuid="h29f4efb7g242bg4b66g9981g52a05b25893a" version="1">Vergoldetes Bollwerk</content>
+  <content contentuid="h180ce6bfg1519g430cgacf0g980e790336b9" version="1">Vergoldetes Bollwerk</content>
+  <content contentuid="h04671e7eg07c6g4493gb61ag36741cd9ece5" version="1">Gib mir meine Freiheit von dieser Form, entlasse meine Seele den Astralmeeren, solange ich noch eines habe, das ich mein Eigen nennen kann.</content>
+  <content contentuid="h0e086446g7b9cg41e4gbb69ga3f4449ad113" version="1">Gewährt Immunität gegen bewusstseinsverändernde Effekte wie &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrecken&lt;/LSTag&gt; und &lt;LSTag Type="Status" Tooltip="MADNESS" &gt;Wahnsinn&lt;/LSTag&gt;.</content>
+  <content contentuid="hab6b2e59g01afg4092gbe15g9a811b17ae32" version="1">Höllenfeuerfäuste</content>
+  <content contentuid="hdb60d901g2058g4e39ga178g8336b457d9b7" version="1">Wenn Bhaal Blut verlangt, soll er es für ihn vergießen.</content>
+  <content contentuid="h2409ed40gddd1g4229gb3b8g812a44549c61" version="1">Erfüllt Euren Körper mit der Formbarkeit von Gold, der Euch +2 &lt;LSTag Tooltip="Rüstungsklasse"&gt;Rüstungsklasse und&lt;/LSTag&gt; [1] Eure Waffenangriffe gewährt.</content>
+  <content contentuid="h00819575g55abg4360g9219g5201015f6c37" version="1">Höllische Armschienen</content>
+  <content contentuid="hb8bb47e4g78f1g4740g8afag683876203897" version="1">Höllischer Blick</content>
+  <content contentuid="hbd9c8794g7e74g4592g9788g34fcbed9822d" version="1">Höllenmaske</content>
+  <content contentuid="h88b14fceg0e02g463dg9f06g7b86f2034d32" version="1">Mentale Dominanz</content>
+  <content contentuid="hebcc3f57gadfeg4390g8469ge23714d0580a" version="1">Könnte Ihr Spiel zum Absturz bringen</content>
+  <content contentuid="h6cf4c154gecb0g4f53g8769g2519c5594835" version="1">Mykonischer Chor: Melodie</content>
+  <content contentuid="hdc276fbcg7692g4c7ag8c30g354e154d4c79" version="1">Mykonischer Chor: Shreik</content>
+  <content contentuid="h22569f6eg8cfbg4d8fg8b79gfbb6308bb1ab" version="1">Mykonischer Chor: Shreiking</content>
+  <content contentuid="hea63ef04gfb78g4052g9fd4gb5b303f0fbfb" version="1">Myconic Choir: Singen</content>
+  <content contentuid="h6e027273g6512g43b0gb28bg41386dca8a13" version="1">Myconic Choir: Singen</content>
+  <content contentuid="h0702977fge680g4824g9be4g247fc180fa11" version="1">Mykonischer Chor: Lied</content>
+  <content contentuid="h992e5fc0gfbfeg4adfgb12fg90b0a16d6b73" version="1">Mykonischer Schild</content>
+  <content contentuid="h6350250agcc2ag4a55gacd8g4eda54b5daf1" version="1">Mykonisches Schwert</content>
+  <content contentuid="hcc6c37a7g6becg4b8cgab29g85a77053f4f0" version="1">Mykonische Symbiose</content>
+  <content contentuid="h11174eb0gdeb6g4639g9762g19de4c00b03a" version="1">Versteinerung</content>
+  <content contentuid="hc616f8c5gfb9eg456eg9a58gef6f0fe5f707" version="1">Sear und &lt;LSTag Type="Status" Tooltip="BRENNEN"&gt;Brenne&lt;/LSTag&gt; ein Ziel mit nichts als deinem Glühen. </content>
+  <content contentuid="hba9d3d17g96d1g46b4gac52g8156f385c432" version="1">Verschiebe dich in die Astralebene, um unverwundbar zu werden und &lt;LSTag Type="Status" Tooltip="UNSICHTBAR"&gt;Unsichtbar&lt;/LSTag&gt;. &lt;br&gt;&lt;Br&gt;Astralprojektion endet vorzeitig, wenn das Wesen angreift, einen weiteren Zauber wirkt oder eine andere Aktion ausführt.</content>
+  <content contentuid="h5ebb57d7gc5f2g42e5g8b11gfb86fd37c41d" version="1">Blindes Auge</content>
+  <content contentuid="h7b43829bg63a6g414bg9344g6d5a4194675d" version="1">Die chaotische Fuge der Timmask-induzierten Verwirrung ist in vielerlei Hinsicht das genaue Gegenteil der Mykoniden-Meditation, die ruhig und spirituell ist und nicht einmal ein bisschen verwirrtes Sabbern beinhaltet.</content>
+  <content contentuid="hd41c8290g1102g49b0g9423g345af863741f" version="1">Das Schwert summt in Erwartung, bereit zum &lt;LSTag Type="Spell" Tooltip="Shout_SUM_SingingSword_Sing"&gt;Singen&lt;/LSTag&gt; oder &lt;LSTag Type="Spell" Tooltip="Shout_SUM_SingingingSword_Shriek" &gt;Schreien&lt;/LSTag&gt;.</content>
+  <content contentuid="h44736b6dgebb8g42bag9577gba3242965901" version="1">Diese Kreatur steht unter dem Einfluss der Mykonischen Symbiose. Sie ist immun gegen bewusstseinsverändernde Effekte wie &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrecken&lt;/LSTag&gt; und &lt;LSTag Type="Status" Tooltip="MADNESS" &gt;Wahnsinn&lt;/LSTag&gt;.</content>
+  <content contentuid="ha59e9650g5a45g4a92g9d3ag4a85e63a3a13" version="1">Dieses Wesen steht unter dem Effekt &lt;LSTag Type="Status" Tooltip="GILDED"&gt;Vergoldetes Bollwerk&lt;/LSTag&gt;, der ihm +2 &lt;LSTag Tooltip="ArmourClass"&gt;Rüstungsklasse&lt;/LSTag&gt; und [1] bei Waffenangriffen gewährt.</content>
+  <content contentuid="h03d83d1age348g4d53g8841g18a32e2912ad" version="1">Obwohl Karsus die Krone nur für wenige Augenblicke tragen konnte, gelang es ihm, ein Imperium zu zerstören und dabei Tausende zu töten.</content>
+  <content contentuid="h61efe9d4g72c1g42a6gb62cge46e308a06b0" version="1">Umschalten der VFX für die Krone von Karsus</content>
+  <content contentuid="ha4f1bddagb6eag4624gacebg74d896b8849a" version="1">Schalte die VFX für die Höllenarmschienen um</content>
+  <content contentuid="hecf78f51gdb9bg4950g9431ge2f269c28e77" version="1">Umschalten der VFX für die Höllenmaske</content>
+  <content contentuid="h9ba529efgabeag40e7g8f2cgd4cc52e28a6f" version="1">Umschalten der VFX für den Mykonischen Schild</content>
+  <content contentuid="hc74235c9g3367g471cg812dg2871ab1f2cd6" version="1">Versuchen Sie, nicht ins Auge zu fallen. Es sei denn, Sie haben Lust auf eine Festanstellung an der Plaza-Promenade.</content>
+  <content contentuid="h50e1cad5g56deg4394g9d03g06a8836f7a7d" version="1">Eure Fäuste pulsieren mit 'Höllisches Höllenfeuer', das Euch [1] unbewaffnete Angriffe gewährt.</content>
+</contentList>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hebcc3f57gadfeg4390g8469ge23714d0580a" version="1">Might Crash Your Game</content>
+	<content contentuid="h61efe9d4g72c1g42a6gb62cge46e308a06b0" version="1">Toggle the VFX for the Crown Of Karsus</content>
+	<content contentuid="hecf78f51gdb9bg4950g9431ge2f269c28e77" version="1">Toggle the VFX for the Infernal Mask</content>
+	<content contentuid="ha4f1bddagb6eag4624gacebg74d896b8849a" version="1">Toggle the VFX for the Infernal Bracers</content>
+	<content contentuid="h9ba529efgabeag40e7g8f2cgd4cc52e28a6f" version="1">Toggle the VFX for the Myconic Shield</content>
+	<content contentuid="h72d61f44ge89cg4bcfga4b1gc28dbad3be02" version="1">Chest Of Many Things</content>
+	<content contentuid="ha0defd94g68a7g4d75g8b03g06b13a68d5c4" version="1">Contains the items from Custom Item Pack.</content>
+	<content contentuid="h1d40dea2g322bg4525g96fagd6ba4cf218bd" version="1">Crown Of Karsus</content>
+	<content contentuid="h03d83d1age348g4d53g8841g18a32e2912ad" version="1">Though Karsus could only have worn the crown for mere moments, he managed to destroy an empire, killing thousands in the process.</content>
+	<content contentuid="hbd9c8794g7e74g4592g9788g34fcbed9822d" version="1">Infernal Mask</content>
+	<content contentuid="h4c72d735gea16g4468gbd16gc55665a20dc4" version="1">But Gith had nurtured a son. Orpheus, Prince of the Comet, the True Heir! He rallied Gith's Honour Guard and declared the throne for himself.</content>
+	<content contentuid="h6350250agcc2ag4a55gacd8g4eda54b5daf1" version="1">Myconic Sword</content>
+	<content contentuid="hbaddf7f4gb4e5g45c1g92c7g9db0ee217eb7" version="1">By the Gods, I hear it AND I see it AND I know it AND I feel it. But I can't write it. Or can I?</content>
+	<content contentuid="h992e5fc0gfbfeg4adfgb12fg90b0a16d6b73" version="1">Myconic Shield</content>
+	<content contentuid="h7b43829bg63a6g414bg9344g6d5a4194675d" version="1">The chaotic fugue of Timmask-induced confusion is in many ways the exact opposite of Myconid meditation, which is calm, spiritual, and does not involve even a little bit of puzzled drooling.</content>
+	<content contentuid="h29f4efb7g242bg4b66g9981g52a05b25893a" version="1">Gilded Bulwark</content>
+	<content contentuid="hce7388c2g2dfag4057ga88eg7b1a46d06bf9" version="1">Believe it or not, I'm not a Steel Watcher.</content>
+	<content contentuid="h5ebb57d7gc5f2g42e5g8b11gfb86fd37c41d" version="1">Sightless Eye</content>
+	<content contentuid="hc74235c9g3367g471cg812dg2871ab1f2cd6" version="1">Try not to catch its eye. Unless you fancy a permanent position in the plaza promenade.</content>
+	<content contentuid="h37452a9aga9e6g4fcfg9639g862a4edd6754" version="1">Astral Buckler</content>
+	<content contentuid="h04671e7eg07c6g4493gb61ag36741cd9ece5" version="1">Give me my freedom from this form, release my soul to the Astral Seas while I still have one to call my own.</content>
+	<content contentuid="h63cf441bge666g4409gac07ga0b33119187f" version="1">Bhaal's Visage</content>
+	<content contentuid="hdb60d901g2058g4e39ga178g8336b457d9b7" version="1">If Bhaal demands blood, thoust shall spill it for him.</content>
+	<content contentuid="h00819575g55abg4360g9219g5201015f6c37" version="1">Infernal Bracers</content>
+	<content contentuid="h5c254375ge64ag414fg849egf2281b732e6d" version="1">Bound by infernal chains, Orpheus could never leave. Bound by duty, his guard never would.</content>
+	<content contentuid="h6cf4c154gecb0g4f53g8769g2519c5594835" version="1">Myconic Choir: Melody</content>
+	<content contentuid="hd41c8290g1102g49b0g9423g345af863741f" version="1">The sword hums in anticipation, ready to &lt;LSTag Type="Spell" Tooltip="Shout_SUM_SingingSword_Sing"&gt;Sing&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="Shout_SUM_SingingSword_Shriek"&gt;Shriek&lt;/LSTag&gt;.</content>
+	<content contentuid="hea63ef04gfb78g4052g9fd4gb5b303f0fbfb" version="1">Myconic Choir: Sing</content>
+	<content contentuid="hdc276fbcg7692g4c7ag8c30g354e154d4c79" version="1">Myconic Choir: Shreik</content>
+	<content contentuid="h6e027273g6512g43b0gb28bg41386dca8a13" version="1">Myconic Choir: Singing</content>
+	<content contentuid="h22569f6eg8cfbg4d8fg8b79gfbb6308bb1ab" version="1">Myconic Choir: Shreiking</content>
+	<content contentuid="h0702977fge680g4824g9be4g247fc180fa11" version="1">Myconic Choir: Song</content>
+	<content contentuid="h11174eb0gdeb6g4639g9762g19de4c00b03a" version="1">Petrification</content>
+	<content contentuid="h856b7629g6cdeg4f84g8108g4f72b3a16110" version="1">Direct the Sightless Eye's gaze upon a target, &lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;Petrifying&lt;/LSTag&gt; them until they next take damage.</content>
+	<content contentuid="h4d38f55bgc82fg4741g80a1g92d78c3f34c4" version="1">Gaze Of Death</content>
+	<content contentuid="hcc7b7dd2ga86cg40beg9d84g4e1c4ac09358" version="1">Focus Bhaal's gaze upon a target, if the target has less than 33% &lt;LSTag Tooltip="HitPoints"&gt;Maximum HP&lt;/LSTag&gt;, it is disintegrated, otherwise, it takes 25% of its &lt;LSTag Tooltip="HitPoints"&gt;Maximum HP&lt;/LSTag&gt; as Force Damage.</content>
+	<content contentuid="h180ce6bfg1519g430cgacf0g980e790336b9" version="1">Gilded Bulwark</content>
+	<content contentuid="h2409ed40gddd1g4229gb3b8g812a44549c61" version="1">Imbue your body with the malleability of gold, granting you +2 &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;, and [1] with your Weapon Attacks.</content>
+	<content contentuid="hb8bb47e4g78f1g4740g8afag683876203897" version="1">Infernal Gaze</content>
+	<content contentuid="hc616f8c5gfb9eg456eg9a58gef6f0fe5f707" version="1">Sear and &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burn&lt;/LSTag&gt; a target with nothing but your glower. </content>
+	<content contentuid="h7c949a46g5aa8g4d27g84c6g80efcc690470" version="1">Astral Projection</content>
+	<content contentuid="hba9d3d17g96d1g46b4gac52g8156f385c432" version="1">Shift into the Astral Plane to become Invulnerable and &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt;. &lt;br&gt;&lt;Br&gt;Astral Projection ends early if the entity attacks, casts another spell or takes another action.</content>
+	<content contentuid="h666ae73agac71g403ag82e0gc2a0e9844fe1" version="1">Affected entity has shifted into the Astral Plane, leaving behind a projection. They are Invulnerable, have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and impose &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on enemy Attack Rolls. &lt;br&gt;&lt;Br&gt;Astral Projection ends early if the entity attacks, casts another spell or takes another action.</content>
+	<content contentuid="h88b14fceg0e02g463dg9f06g7b86f2034d32" version="1">Mental Domination</content>
+	<content contentuid="hfa14d9cbgf1f1g4515g91f3g86a64341dc7b" version="1">Dominate the mind of any living or undead creature for 10 Turns. Allies cannot be dominated.</content>
+	<content contentuid="hcc6c37a7g6becg4b8cgab29g85a77053f4f0" version="1">Myconic Symbiosis</content>
+	<content contentuid="h0e086446g7b9cg41e4gbb69ga3f4449ad113" version="1">Grants immunity to Mind-Altering affects such as &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="MADNESS"&gt;Madness&lt;/LSTag&gt;.</content>
+	<content contentuid="h44736b6dgebb8g42bag9577gba3242965901" version="1">This creature is under the influence of Myconic Symbiosis. They are Immune to Mind-Altering affects such as &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="MADNESS"&gt;Madness&lt;/LSTag&gt;.</content>
+	<content contentuid="hd345be0bgada6g45b1gac13g2c52563e13a0" version="1">Gilded</content>
+	<content contentuid="ha59e9650g5a45g4a92g9d3ag4a85e63a3a13" version="1">This entity is under the effect &lt;LSTag Type="Status" Tooltip="GILDED"&gt;Gilded Bulwark&lt;/LSTag&gt; granting it +2 &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;, and [1] with Weapon Attacks.</content>
+	<content contentuid="hc764c6a6gc83cg42c6gb9b2g24a94fefa6e2" version="1">Dominated</content>
+	<content contentuid="hc607ae37g6870g43acgabbfgcc4bcd61ed14" version="1">Affected entity will follow and fight alongside the caster of this spell.</content>
+	<content contentuid="hab6b2e59g01afg4092gbe15g9a811b17ae32" version="1">Hellfire Fists</content>
+	<content contentuid="h50e1cad5g56deg4394g9d03g06a8836f7a7d" version="1">Your fists pulse with Infernal Hellfire granting you [1] with Unarmed Attacks.</content>
+</contentList>
