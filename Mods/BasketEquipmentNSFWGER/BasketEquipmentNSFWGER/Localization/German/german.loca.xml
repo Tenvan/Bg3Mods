@@ -141,14 +141,14 @@
   <content contentuid="h5ed62b4ag7731g4ae1g9ecbgcb661a924807" version="1">Amulett Lied der Engel A</content>
   <content contentuid="h4ccd71d6gb4a2g41dfg95edg03b02dcc715d" version="1">Amulett Lied der Engel B</content>
   <content contentuid="hb1f4d34fg8aabg4cfdgbbe7g16ce7d5f3800" version="1">Darksong-Amulett A</content>
-  <content contentuid="hbede11d6gd1f9g46e7gacc6gf9a4cf0e2d3b" version="1">Darksong B Amulett</content>
+  <content contentuid="hbede11d6gd1f9g46e7gacc6gf9a4cf0e2d3b" version="1">Darksong-Amulett B</content>
   <content contentuid="h3713af5fg57f9g4ca9g9c57ge83d10dae32a" version="1">Darksong-Amulett C</content>
   <content contentuid="h86a1addbg9c5dg42d2gb59eg53dfad2fd5c4" version="1">Amulett des silbernen Mönchs</content>
   <content contentuid="h1416337dg2436g4663g9f37gef13235753a5" version="1">Goldenes Mönchs-Amulett</content>
   <content contentuid="he9dbff9fg217ag4d60ga569g06ee2e54302c" version="1">Amulett des eleganten Kleides B in Originalfarben. - Sichtbar bei Männern und Frauen, Elfen und weiblichen Tieflingen.</content>
   <content contentuid="h6427c3e2gbfe0g47ebga42dgd6bd992766ff" version="1">Amulett des Liedes der Nacht A</content>
   <content contentuid="hc81b66fbg8935g49deg8f31gb169574739e1" version="1">Amulett des Nachtliedes B</content>
-  <content contentuid="hb4e129befge62ag47c1g812g8384bef71dde" version="1">Amulett-Beschwörungskorb</content>
+  <content contentuid="hb4e129befge62ag47c1g812g8384bef71dde" version="1">Amulett "Evoca Cesto"</content>
   <content contentuid="hfe982157g04a5g4712g9cecg9d7592cd5122" version="1">Mizora Amulett A</content>
   <content contentuid="hedb02066gea87g4bffgb13bgff6866592b56" version="1">Mizora Amulett B</content>
   <content contentuid="h4b4e2283g08a4g40ffg8c23g4e0d90c2cd65" version="1">Überlegenes Amulett der verlorenen Stimmen</content>
@@ -243,7 +243,7 @@
   <content contentuid="ha1bd25bcgdda0g4c87gbc17gb938146ed4f2" version="1">Schwarze Räuberrüstung mit Rubinen 1A</content>
   <content contentuid="h6d3449d1gbcd9g4789g8119gc08f5b397524" version="1">Schwarze Räuberrüstung mit Rubinen 1B</content>
   <content contentuid="hc3a5f741g57efg48f6gb595g0aab8b4d6702" version="1">Schwarze Räuberrüstung mit Rubinen 2A</content>
-  <content contentuid="hcc7d6d3fg9fd6g45fegbbe2ged2ef8a26ac6" version="1">Schwarze Rubine Rüstung des Räubers 2B</content>
+  <content contentuid="hcc7d6d3fg9fd6g45fegbbe2ged2ef8a26ac6" version="1">Schwarze Räuberrüstung mit Rubinen 2B</content>
   <content contentuid="h592642f2gf1b0g4ffdgaed5g131b34ec11a8" version="1">Rüstung des Todesritters</content>
   <content contentuid="h2693ecdbg0b9eg4706gbb1ag8a6f322bb0b7" version="1">Rüstung des Todesritters</content>
   <content contentuid="hd31762aegb2d3g4833g8bcagf4b4411a82c4" version="1">Ärmellose Todesritter-Rüstung mit Shorts. - Sichtbar bei menschlichen Männern und Frauen, Elfen, Tieflingen und männlichen Robosti.</content>
@@ -308,28 +308,28 @@
   <content contentuid="h627fba60g5c36g49a1gbce7gd0a0aa892674" version="1">Rote BG-Wachrüstung 2</content>
   <content contentuid="h241bc0a2g3940g4c74g8814g034366f0934b" version="1">Braune Lederrüstung 2A</content>
   <content contentuid="h76754d3bgda57g411eg8f15gd79dd864a6e3" version="1">Braune Lederrüstung 2B</content>
-  <content contentuid="h1d4d6d17g17c7g4ab2gad7fgfc2295ef16fb" version="1">2C Braune Lederrüstung</content>
-  <content contentuid="h23b99ad0ge1aeg42f8gbcbdgdfbcc08e7b51" version="1">2D-Rüstung aus braunem Leder</content>
+  <content contentuid="h1d4d6d17g17c7g4ab2gad7fgfc2295ef16fb" version="1">Braune Lederrüstung 2C</content>
+  <content contentuid="h23b99ad0ge1aeg42f8gbcbdgdfbcc08e7b51" version="1">Braune Lederrüstung 2D</content>
   <content contentuid="h3c5c7883g1134g4215gaeaeg1671ef2dbded" version="1">Braune Lederrüstung 2E</content>
   <content contentuid="h322d8cd9ge9eag4906gb8c1gfef936d8c0bb" version="1">Braune Lederrüstung 3A</content>
   <content contentuid="h29064ecegc132g452cg962dg5827ed1b7bfd" version="1">Braune Lederrüstung 3B</content>
-  <content contentuid="ha4bd5516g46f2g4c73g8f92gd8a25f107238" version="1">3C Braune Lederrüstung</content>
-  <content contentuid="h388b7a52gfd9eg4202g93ffg252bb8d1c095" version="1">3D-Rüstung aus braunem Leder</content>
-  <content contentuid="hbf109456g6e06g48bdg954cg6263149182fa" version="1">3E Braune Lederrüstung</content>
+  <content contentuid="ha4bd5516g46f2g4c73g8f92gd8a25f107238" version="1">Braune Lederrüstung 3C</content>
+  <content contentuid="h388b7a52gfd9eg4202g93ffg252bb8d1c095" version="1">Braune Lederrüstung 3D</content>
+  <content contentuid="hbf109456g6e06g48bdg954cg6263149182fa" version="1">Braune Lederrüstung 3E</content>
   <content contentuid="h36f6cf00g3044g44bcgb110g3ae61e0c48e5" version="1">Schwarze Lederrüstung 2A</content>
   <content contentuid="h6b978d0fg9f4dg4306g8c0ag58eea99eec25" version="1">Schwarze Lederrüstung 2B</content>
   <content contentuid="h2f2e3d07g2707g4a2eg865eg7d087bb5040a" version="1">Schwarze Lederrüstung 2C</content>
-  <content contentuid="h1417bcd7g9ed7g40efgbcf2g575cf147259c" version="1">2D-Rüstung aus schwarzem Leder</content>
+  <content contentuid="h1417bcd7g9ed7g40efgbcf2g575cf147259c" version="1">Schwarze Lederrüstung 2D</content>
   <content contentuid="hb1b8ab28gcc53g4533g95e5gbb82b045ce26" version="1">Schwarze Lederrüstung 2E</content>
-  <content contentuid="hff39828cg9a5dg40cbg80adgb22ade9af843" version="1">3A Schwarze Lederrüstung</content>
+  <content contentuid="hff39828cg9a5dg40cbg80adgb22ade9af843" version="1">Schwarze Lederrüstung 3A</content>
   <content contentuid="h25f8a689gb9fag40f3g84c0g6a0fde862f9c" version="1">Schwarze Lederrüstung 3B</content>
-  <content contentuid="hb993dc30g1869g4040gb9ddg5270e456e171" version="1">3C Rüstung aus schwarzem Leder</content>
-  <content contentuid="h031d36daga288g4244g9e11g16a5af81c1ca" version="1">3D-Rüstung aus schwarzem Leder</content>
-  <content contentuid="ha58ce542g1ab2g4da3gbbe2g4aee5d0eef87" version="1">3E Rüstung aus schwarzem Leder</content>
+  <content contentuid="hb993dc30g1869g4040gb9ddg5270e456e171" version="1">Rüstung aus schwarzem Leder 3C</content>
+  <content contentuid="h031d36daga288g4244g9e11g16a5af81c1ca" version="1">Rüstung aus schwarzem Leder 3D</content>
+  <content contentuid="ha58ce542g1ab2g4da3gbbe2g4aee5d0eef87" version="1">Rüstung aus schwarzem Leder 3E</content>
   <content contentuid="hb1e77efbgb6a7g4012ga84cga87a5b1151d3" version="1">Versilberte Panzerung 1A</content>
   <content contentuid="h0e610160ge252g4e24ga742g0fbb555e3a92" version="1">Versilberte Rüstung 1B</content>
   <content contentuid="hc4be9228g2c90g48cega773g1acb4bab5db9" version="1">Rüstung in Jurorenplatten</content>
-  <content contentuid="h6dd7ae5fgf998g4cc6g9b37gfb275cd5dbc2" version="1">1A Vergoldete Rüstung</content>
+  <content contentuid="h6dd7ae5fgf998g4cc6g9b37gfb275cd5dbc2" version="1">Vergoldete Rüstung 1A</content>
   <content contentuid="h15cacc41gd712g4866gb1f8gbe7dd2fd394c" version="1">Vergoldete Rüstung 1B</content>
   <content contentuid="h49c3ef4egc62fg4ea5ga13eg18bf903ddbdf" version="1">Sexy Plattenrüstung mit goldener Hose und Schulterpolstern. - Sichtbar bei Männern und Frauen, Elfen, Tieflingen und Githyanki.</content>
   <content contentuid="hd51e8b5dge712g4401gb08ag250f57b9bb0d" version="1">Sexy Plattenrüstung mit silbernem Rock. - Sichtbar bei Männern und Frauen, Elfen, Tieflingen und Githyanki.</content>

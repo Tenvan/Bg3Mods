@@ -10,11 +10,12 @@
   <content contentuid="h56721999gf8ffg41e7g87c1g4f8e5c5b577b" version="1">Am Ende jedes Zuges müssen andere Kreaturen im Umkreis von 10 Metern um dich, die dich sehen können, jeweils einen &lt;LSTag Tooltip="SavingThrow"&gt;Charisma-Rettungswurf&lt;/LSTag&gt; machen oder bis zum Ende deines nächsten Zuges &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Angst vor&lt;/LSTag&gt; dir haben.</content>
   <content contentuid="haf344699gf5efg436dg804dg5e5d45868813" version="1">Am Ende jeder Runde müssen andere Kreaturen im Umkreis von 10 Metern von dir, die dich sehen können, jeweils einen &lt;LSTag Tooltip="SavingThrow"&gt;Konstitutionsrettungswurf&lt;/LSTag&gt; durchführen oder zwei Runden lang Flaggelants Wunde erhalten.</content>
   <content contentuid="h68e765e7gc069g42cega77cg394a0ee9569f" version="1">Am Ende deines Zuges nimmst du und jede gegnerische Kreatur im Umkreis von 10 Metern [1]. Sie werfen auch helles Licht in einem Radius von 10 Metern.</content>
+  <content contentuid="hf8b8bb2ag9e5fg4e20g81d8gb580df138c0c" version="1">Blutung</content>
   <content contentuid="h020df2abg03beg4e5dg93c4g598e00223472" version="1">Blutet einmal pro Spielzug für [1]. Benötigt bei Beschädigung ein zusätzliches [5].</content>
   <content contentuid="h4e4a1f8eg8be5g4914g8a89g709e30a87c8d" version="1">Himmlische Offenbarung</content>
-  <content contentuid="h65026c46g2f79g4f35g94f0gbd880e695230" version="3">Cressa Moonfair</content>
+  <content contentuid="h65026c46g2f79g4f35g94f0gbd880e695230" version="3">Cressa Mondmesse</content>
   <content contentuid="h18f631efgdfeeg4683gac99g72a7dff7e657" version="1">Darkvision (Dunkelsicht)</content>
-  <content contentuid="h7965fc46g770bg420cg9dbeg3a3e1b7c240d" version="3">Daybreaker Cressa</content>
+  <content contentuid="h7965fc46g770bg420cg9dbeg3a3e1b7c240d" version="3">Tagelöhnerin Cressa</content>
   <content contentuid="h37b630dag3cc7g481fgbbeeg67d7f5770b36" version="1">Verursache zusätzlich [1] auf Angriffe oder Zauber, aber du nimmst die Hälfte von [1] selbst, wenn du diese Funktion verwendest. Wenn dieser Effekt nachlässt, stelle [2] Gesundheit wieder her.</content>
   <content contentuid="h3b50a476g26b0g46ffgb876g239463c0367a" version="1">Als Nachkommen der Himmlischen der Oberen Ebenen sind die Aasimars eine seltene Spezies, die in ganz Faerûn oft als messianische Figuren angesehen wird. Angesichts der hohen Erwartungen der Gesellschaft und der göttlichen Einmischung in ihre Gedanken und Gefühle müssen Aasimars oft um die Kontrolle über ihr eigenes Leben kämpfen.</content>
   <content contentuid="h52d7266cg2c25g4c08g9104geb6f29877847" version="1">Die Geißel Aasimars, die von Kreuzzugsengeln abstammen, erben einen brennenden Hass auf die Mächte des Bösen und sind bestrebt, sie zu vernichten, wo immer sie zu finden sind. Sie können ihre engelhafte Blutlinie anzapfen, um ihre Feinde in heiligem Feuer zu verbrennen.</content>
@@ -40,6 +41,8 @@
   <content contentuid="h5f552cfeg0b1eg48ebgbb00gb452526957f9" version="1">Heruntergefallene Risse 04</content>
   <content contentuid="h3e4403eagc79fg469agb4c5g9b69090df7aa" version="1">Heruntergefallene Risse 05</content>
   <content contentuid="hda2f0fdfge8b0g47d0gb6cbgd2aadd99c122" version="1">Gefallene Risse von Engels</content>
+  <content contentuid="h7bda13eageb63g4469g8867g0872665bc52d" version="1">Flagellants Heiterkeit</content>
+  <content contentuid="h5e334490g76cag4206ga9aage6f926169526" version="1">Flagellants Schwäche</content>
   <content contentuid="h94806a6bgd3e9g45a1gaa29ga6425178049f" version="1">Flagellants Wunden</content>
   <content contentuid="h2ee15314gb35eg4225g9c97g243ec5d0b3cc" version="1">FLAGGELANT: DEBUGGEN</content>
   <content contentuid="hcfd55c57g688dg43bdg8f72gfb20137f1c3b" version="1">Zorn der Geißel</content>
@@ -101,6 +104,7 @@
   <content contentuid="h3ec4a2a3g317fg46fegb3d0gd317f9d2162c" version="1">Geißel-Risse 04</content>
   <content contentuid="heeb6f2a9g8cd7g4d6dg825bg34fa1163104a" version="1">Geißel-Risse 05</content>
   <content contentuid="h569caffbg702bg49bfg80a4g8ba95c121625" version="1">Geißelrisse von Engels</content>
+  <content contentuid="h9e096080g26fbg47a4ga4a2gdca471643942" version="1">SELF: DEBUGGEN</content>
   <content contentuid="h096f9074g47bag4578g8473gd26d1cf2b204" version="1">Meridian des Sündenfressers - Gefallen von Dissidia</content>
   <content contentuid="h1fd6410egb326g4e96gae6eg88ab417400ef" version="1">Meridian des Sündenfressers - Vorbote von Dissidia</content>
   <content contentuid="hc6d45875g5285g47e2gb6b4g9b248dd2ab28" version="1">Meridian des Sündenfressers - Beschützer von Dissidia</content>
@@ -110,6 +114,7 @@
   <content contentuid="h0dcda976gb52fg44d6g80a3gfe41621bdfc6" version="1">Starlight - Beschützer</content>
   <content contentuid="h433b8200g9944g4d1egb127g062bb89ddaae" version="1">Sternenlicht - Geißel</content>
   <content contentuid="h8cae7f98g879dg4967g9a22ge121f7804c56" version="1">Fliehen</content>
+  <content contentuid="h2b6ea711g322ag4652g9229g8e4e86cb26fc" version="1">ZIEL: DEBUGGEN</content>
   <content contentuid="h32d42a8fg2f00g4c7eg8f6bgefdf60a2b9fe" version="1">Die Häufigkeit, mit der Sie eine Markierung platzieren können.</content>
   <content contentuid="h117b0532gb0f1g4fefg89c8g931e23013963" version="1">Der glühende Schild...</content>
   <content contentuid="hf969b80bge4a6g48f4gba52gc45f4861a1f7" version="1">Der Sündenfresser verdunkelt deine Tür...</content>
@@ -119,18 +124,21 @@
   <content contentuid="he7b798c6g8b46g4806g8472gd9b7912f7e6c" version="1">Flügel des Vorboten</content>
   <content contentuid="h5b712fcdg285dg4077g800dg91447da2f552" version="1">Flügel des Beschützers</content>
   <content contentuid="h56d3999fg5af0g49fbgac25g0950ced60a5f" version="1">Flügel der Geißel</content>
+  <content contentuid="hf56e0913g958dg4440ga621geb78d06cc2bd" version="1">Du blutest.</content>
   <content contentuid="hb6b05e7cgcdbeg425fg9b85g2ea5e38dce5b" version="1">Du bist durch eine Wache gesegnet, die [3] verringerten Schaden erleidet, wenn du das nächste Mal verletzt wirst.</content>
+  <content contentuid="h392e18deg8ee0g422dg980dgca8c21ac5577" version="1">Du wirst durch Angriffe tiefer verletzt.</content>
   <content contentuid="h058b0fb2g82ecg4967gbcbcgbc9702464e72" version="1">Du wirst von einer Geißel des Lichts mit göttlichem Zorn erfüllt, die deinem nächsten Angriff oder Zauber einen zusätzlichen [1] hinzufügt.</content>
   <content contentuid="hcf2d0a4dgd447g4012ga1f8gc2040b90bf12" version="1">Du wirst von der inneren Dunkelheit eines gefallenen Aasimar abgewehrt, was den nächsten Feind, der dich im Nahkampf angreift, dazu zwingt, einen &lt;LSTag Tooltip="SavingThrow"&gt;Charisma-Rettungswurf&lt;/LSTag&gt; zu machen oder [4] Runden lang &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Angst&lt;/LSTag&gt; zu haben.</content>
   <content contentuid="hac53a6a1gf295g489eg942ag2b7d28e39f36" version="1">Du wirst durch die blutige Buße eines Sündenessers bewahrt. Wenn du die Hälfte deiner gesamten maximalen Gesundheit unterschreitest, erhältst &lt;LSTag Type="Status" Tooltip="TRIPS_MARK_EXANIMATE"&gt;du zwei Runden lang Exanimats Ruhm&lt;/LSTag&gt;.</content>
   <content contentuid="hfcf2eb88g90aeg4562gb506g2df739217cc0" version="1">Du kannst fliegen.</content>
   <content contentuid="hb1c0e0d5g1cbag401agb788gc5a4fa133bac" version="1">Sie können in normaler Dunkelheit bis zu einem Bereich von [1] sehen.</content>
-  <content contentuid="h94a37e95g1d56g4ccag959cg884a36fdb57f" version="1">Du umarmst die Tiefen deiner Sünde. Du erhältst Flucht, und am Ende jeder Runde müssen du und jeder Feind, den du sehen kannst, einen &lt;LSTag Tooltip="SavingThrow"&gt;verfassungsrettenden Wurf&lt;/LSTag&gt; bestehen oder &lt;LSTag Type="Status" Tooltip="TRIPS_FLAGGELANT_WOUNDS"&gt;Geißlerwunden&lt;/LSTag&gt; für zwei Runden erhalten. Füge einmal pro Zug [2] Extra zu, wenn du mit einem Angriff oder Zauberspruch Schaden verursachst, aber nimm [3] im Gegenzug.</content>
   <content contentuid="h3ac27425g6e0cg402fga27eg09972025d4ff" version="1">Du hast dich in eine Manifestation deiner himmlischen Vorfahren verwandelt.</content>
   <content contentuid="hb67cf8d2g0323g483fg81aeg46461c2211ba" version="1">Du kannst dich selbst oder ein Ziel segnen, um [3] verringerten Schaden zu erleiden, wenn es das nächste Mal verletzt wird.</content>
   <content contentuid="h0babd2c7gea14g4b2egb138g9079abe86152" version="1">Du kannst dich selbst oder ein Ziel mit göttlichem Zorn durchdringen und dem nächsten Angriff oder Zauber, der trifft, einen zusätzlichen [1] hinzufügen.</content>
-  <content contentuid="h4ef10c0fgfb8bg48bfgb7b5g6912cfa35da9" version="1">Sie können [1] nehmen, um sich selbst oder einen Verbündeten zu schützen. Wenn das abgewehrte Ziel unter die Hälfte seiner Gesamtgesundheit gebracht wird, erhält &lt;LSTag Type="Status" Tooltip="TRIPS_MARK_EXANIMATE"&gt;es zwei Runden lang Exanimats Ruhm&lt;/LSTag&gt;.</content>
   <content contentuid="h20926a3bga055g47f5gae22g6eacb2522321" version="1">Du kannst dich selbst oder einen Verbündeten mit deiner inneren Dunkelheit abwehren und den nächsten Feind, der sie im Nahkampf angreift, zwingen, einen &lt;LSTag Tooltip="SavingThrow"&gt;Charisma-Rettungswurf&lt;/LSTag&gt; zu machen, oder [3] Runden lang &lt;LSTag Type="Status" Tooltip="FEARED"&gt;ängstlich&lt;/LSTag&gt; werden.</content>
+  <content contentuid="h94a37e95g1d56g4ccag959cg884a36fdb57f" version="1">Du umarmst die Tiefen deiner Sünde. Du erhältst Flucht, und am Ende jeder Runde müssen du und jeder Feind, den du sehen kannst, einen &lt;LSTag Tooltip="SavingThrow"&gt;verfassungsrettenden Wurf&lt;/LSTag&gt; bestehen oder &lt;LSTag Type="Status" Tooltip="TRIPS_FLAGGELANT_WOUNDS"&gt;Geißlerwunden&lt;/LSTag&gt; für zwei Runden erhalten. Füge einmal pro Zug [2] Extra zu, wenn du mit einem Angriff oder Zauberspruch Schaden verursachst, aber nimm [3] im Gegenzug.</content>
+  <content contentuid="h4a683e1fgf9bag4f3cg8028gbc85c8be0f22" version="1">Du nimmst [1] und führst ein zusätzliches [1] aus, wenn du diejenigen triffst, die von &lt;LSTag Type="Status" Tooltip="TRIPS_FLAGGELANT_WOUNDS"&gt;Flagellants Wunden&lt;/LSTag&gt; betroffen sind.</content>
+  <content contentuid="h4ef10c0fgfb8bg48bfgb7b5g6912cfa35da9" version="1">Sie können [1] nehmen, um sich selbst oder einen Verbündeten zu schützen. Wenn das abgewehrte Ziel unter die Hälfte seiner Gesamtgesundheit gebracht wird, erhält &lt;LSTag Type="Status" Tooltip="TRIPS_MARK_EXANIMATE"&gt;es zwei Runden lang Exanimats Ruhm&lt;/LSTag&gt;.</content>
   <content contentuid="h9ea2caadgf8bag4269ga137gdc14e611491b" version="1">Dein Bedürfnis, andere zu beschützen, manifestiert sich als göttliche Macht. Du erhältst Flug und am Ende jeder Runde gewinnst du und Verbündete innerhalb von 10 Metern um dich herum [2]. Füge einmal pro Spielzug einem gewählten Ziel einen zusätzlichen [1] zu, wenn du mit einem Angriff oder Zauberspruch triffst.</content>
   <content contentuid="hd64be7f7g8461g4eabg8a46g81eefbbfb8e5" version="1">Dein gerechter Zorn kocht über. Du erhältst Flug, wirfst helles Licht in einem Radius von 10 Fuß und am Ende deines Zuges nimmst du und jede gegnerische Kreatur im Umkreis von 10 Metern um dich herum [1]. Einmal pro Spielzug füge einem gewählten Ziel eine zusätzliche [1] zu, wenn du es mit einem Angriff oder einem Zauberspruch triffst.</content>
 </contentList>
