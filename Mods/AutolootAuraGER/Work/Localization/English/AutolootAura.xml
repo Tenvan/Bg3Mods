@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="ha7d6785eg412fg436fgb1a1gedf3252b1583" version="1">Waukeen's Veil</content>
+  <content contentuid="h17766de3gbb60g402dgb802g956bd029883d" version="1">Mask's Cloak</content>
+  <content contentuid="ha1ae65fcgb441g4adegabc0g11080d3ae9ea" version="1">Toggle autoloot on or off. Attack to open config. Attack unarmed to start uninstall.</content>
+  <content contentuid="h0b9b7a80g2af5g40cdg9dcfg519e1e117707" version="1">Toggle stealing-enabled autoloot on or off. Attack to open config. Attack unarmed to start uninstall.</content>
+  <content contentuid="h3bdd7a3egb763g4fbdg998cg190ae72091fb" version="1">Passively pick up all nearby items.</content>
+  <content contentuid="hb38a26a5g4d1ag4a9egb016gf4c7957411cc" version="1">Passively pick up or steal all nearby items.</content>
+  <content contentuid="h81632e58gf464g46fbg84c7g7d472eb61c53" version="1">Extradimensional Storage</content>
+  <content contentuid="hcbcade0fg68aeg43b1ga6d2g7b9c6fef5225" version="1">If in your inventory, stores everything you automatically loot and makes it weightless. Attack unarmed to delete contents.</content>  
+  <content contentuid="h9946d187gbde8g4025gab95ge86aa0358e6d" version="1">It's strange that such a mysterious artifact looks like a regular leather sack.</content>
+  <content contentuid="hd41ba9aagddf5g46d2g8bfege4f9632648bc" version="1">Autoloot mod is installed correctly!</content>
+  <content contentuid="ha2ad5afeg93cdg453eg9ee1g4bd4a9652ad0" version="1">Deleted contents!</content>
+  <content contentuid="h0e87145bg9ac5g4853g9143gdc13898fb498" version="1">Long rest and save. Uninstall.</content>
+  <content contentuid="h68ef9f08ga42fg401dg9dc9g8ce0277ba8f4" version="1">Not empty.</content>
+  <content contentuid="h9863dbd8gc56eg4225gab95g2c45c860626b" version="1">Autoloot Menu</content>
+  <content contentuid="h73b3a39bgbd3cg441fg84f8gafaca183ba75" version="1">Get mod items?</content>
+  <content contentuid="h02aef575g1bccg46beg8f2eg508ec9380d5a" version="1">Add non-stealing toggle item?</content>
+  <content contentuid="h757dae5agf470g418bgaf01g0166a01d5a9b" version="1">Add stealing-enabled toggle item?</content>
+  <content contentuid="h7854cfcag1499g48d0gb2a3g6993cf5e0c51" version="1">Add extra bag?</content>
+  <content contentuid="h15709f70g1a72g462fg8e50g4c7610327ec2" version="1">Yes = config, No = get items</content>
+  <content contentuid="hb4c2bb1bg11e5g4ad9ga5eeg965600f97a3a" version="1">Done!</content>
+  <content contentuid="h09a9e746g7933g454aga287g36b6f2e2e466" version="1">Start uninstall?</content>
+  <content contentuid="hc3ffefeeg03e9g417aga69agd8c4ce2193e5" version="1">Highlight containers with items left inside?</content>
+  <content contentuid="hc4d949bdg64f7g4523ga040gf45d5343451b" version="1">Only loot gold?</content>
+  <content contentuid="h394b3264gac40g439fga5c1gc14a982600da" version="1">Only loot valuables?</content>
+  <content contentuid="hc9549e46g3f92g456bg93c3g382f6fe9c064" version="1">Only loot junk?</content>
+  <content contentuid="h90d0849eg7c6bg4f00gb7a2g309b88e0eb54" version="1">Pick up filled barrels?</content>
+  <content contentuid="h4380f543ge09bg481fga309g6d6ca010d17b" version="1">Reenable picking up quest items?</content>
+  <content contentuid="h6d9b2e45g6b44g49b4ga094g87a84182c869" version="1">Unlock allowed locked containers?</content>
+  <content contentuid="hc1c681dfg6379g46aega04eg324849fec459" version="1">Give blacklist/whitelist bags to make additional filters?</content>
+  <content contentuid="hc38d448dgd98ag4ea7gb39cg661b4aafef26" version="1">Autoloot Blacklist</content>
+  <content contentuid="h5ae5162agdb71g4e8dga77bga35bbe327f7c" version="1">Autoloot Whitelist</content>
+  <content contentuid="h534338aagc526g40dfgb9bdgf2680b7fcc3b" version="1">Put an item in this to make sure it is ALWAYS looted when possible. Item does not have to stay in bag. Attack bag to reset list.</content>
+  <content contentuid="ha93e9c5cg8b5fg436bga05bg2b89179d28a3" version="1">Put an item in this to make sure it is NEVER looted. Item does not have to stay in bag. Attack bag to reset list.</content>
+</contentList>

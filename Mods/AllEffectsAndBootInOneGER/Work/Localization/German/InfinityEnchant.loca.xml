@@ -5,6 +5,7 @@
 
 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Widerstand gegen psychischen Schaden.&lt;/LSTag&gt;&lt;/b&gt;</content>
   <content contentuid="h8ae2eb2eg7deag4eafg9d29gd8cabcecbdc6" version="1">&lt;b&gt;&lt;LSTag Tooltip="test"&gt;+5 % kritische Chance.&lt;/LSTag&gt;&lt;/b&gt;</content>
+  <content contentuid="h74b17956g750cg44bcga615g1e15e895a949" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; halbiert.</content>
   <content contentuid="h48a74894g7279g4028ga85fgdf7cd46f1db4" version="1">Säure Kern – Waffe</content>
   <content contentuid="hf6d040d0g2167g4537g80f6gaf22c7bf62ef" version="1">Säure Kern – Waffe – Aussehen</content>
   <content contentuid="h21684d6cgb8e1g4111g8d95g0e1fe833ee5d" version="1">Säure Kern – Waffe – Unsichtbar</content>
@@ -28,6 +29,12 @@
   <content contentuid="h6af6af19g5ad1g48fdg8cf3g9f873d124453" version="1">Gebundener Waffenkern – Hand – Aussehen</content>
   <content contentuid="h21ca2ebcgc43bg4e5bg93b7gd889c9dad63f" version="1">Gebundener Waffenkern – Hand – Unsichtbar</content>
   <content contentuid="hf96dce29g0ffeg4d3ega4f1g43feb9765f8d" version="1">Brennende Hände.</content>
+  <content contentuid="h2b15a2dbg3ab1g4e2fg8248g7da1932e9d06" version="1">Kälteeffekte und Kräfte</content>
+  <content contentuid="h3026d737g8d6cg4054g93f7gf9f0302b6539" version="1">Kalte Effekte, nur Aussehen</content>
+  <content contentuid="h363792a1gfcf0g402eg812egb1a0e76bd0e0" version="1">Kalte Kräfte</content>
+  <content contentuid="hbcd08f6eg7430g4b5ega8bdgaf143ddc551a" version="1">Macht der kalten Waffen</content>
+  <content contentuid="h1dc1a91dgac9bg4facg9b23ga4ffe6737dc9" version="1">Kalte Waffenmacht – Aussehen</content>
+  <content contentuid="he59d9a9dgbf05g4465gb373gbae7318a68f1" version="1">Kalte Waffenmacht - Unsichtbar</content>
   <content contentuid="h7ef9f443g6d09g4190g97bdgd7fdf4f6a58d" version="1">Enthält alle Effekte und Boosts für Waffen</content>
   <content contentuid="h3b133405g4778g4459g93d8g5636a044fc32" version="1">Kritischer Kettenblitz</content>
   <content contentuid="hfee2a2bcg7412g419agaadfg1ee41f9935ce" version="1">Dunkler Kern Agatys - Waffe</content>
@@ -36,9 +43,22 @@
   <content contentuid="hf29636f6g05f3g411fg9058gda88bc777e97" version="1">Dunkler Kern Hadar - Waffe</content>
   <content contentuid="hba404a05g9b9cg4d8fgb4c5g1ec6e19c251e" version="1">Dunkler Kern Hadar - Waffe - Aussehen</content>
   <content contentuid="h733a6364g6927g4a11g9817g7536a0252f1d" version="1">Dunkler Kern Hadar - Waffe - Unsichtbar</content>
+  <content contentuid="heff333efg3e3cg4d32gb28ag5337db036cdb" version="1">Dunkler Frostkern - Hand</content>
+  <content contentuid="h06c5f731gec97g4d7bgbaabgc8f0292baef0" version="1">Dunkler Frostkern - Hand - Aussehen</content>
+  <content contentuid="h96b332e6gc571g400ega32cgcf444cc137fb" version="1">Dunkler Frostkern - Hand - Unsichtbar</content>
+  <content contentuid="h33363699g902eg4f64gada2g3a0f459573f4" version="1">Dunkler Frostkern – Waffe</content>
+  <content contentuid="hcc8f9a9egba76g4ae8g8d9egf539b2cfb573" version="1">Dunkler Frostkern – Waffe – Aussehen</content>
+  <content contentuid="hb400778cge252g4d4dgb972g47ad39f3d642" version="1">Dunkler Frostkern - Waffe - Unsichtbar</content>
   <content contentuid="h1f938b02ga5b7g49b8gb80cg348438250028" version="1">Dunkler Heiligenschein - Hand</content>
   <content contentuid="hd477dbfagfc78g4421ga186g5fce01b305dd" version="1">Dunkler Heiligenschein - Hand - Aussehen</content>
   <content contentuid="h72cd5abbgcf57g462fg9a63gb48b6cf74232" version="1">Dunkler Heiligenschein - Hand - Unsichtbar</content>
+  <content contentuid="h440b704eg7df6g4b0cg9f20g3e203003b3f8" version="1">Dunkler Rauch - Hand</content>
+  <content contentuid="h0e891344g9464g4a9cga947gf75897034bbf" version="1">Dunkler Rauch - Hand - Aussehen</content>
+  <content contentuid="he249382dgebcfg4e28ga860gbaa2b157dfc2" version="1">Dunkler Rauch - Unsichtbar</content>
+  <content contentuid="h580f626ega5fag4793g9c8fg89c11f275ecc" version="1">Dunkler Rauch - Waffe</content>
+  <content contentuid="hd6be819cga6b0g4640g8798g417102a626a5" version="1">Dunkler Rauch - Waffe - Aussehen</content>
+  <content contentuid="hedf7bd85g6092g4c98gb324g354fe5c17731" version="1">Dunkler Rauch - Waffe - Unsichtbar</content>
+  <content contentuid="h1dafca1eg088bg474eg8f50gd9c036bcf12c" version="1">Dunkle Waffe</content>
   <content contentuid="he5e56aa5gde21g4086g9d01gd892a5890b0b" version="1">Macht der Dunklen Waffen</content>
   <content contentuid="h48b05a54gd383g497cg8767gc36ac36de093" version="1">Macht der Dunklen Waffen – Aussehen</content>
   <content contentuid="h8a4c00e8gb757g4a7cgbd9bgf7580c68815b" version="1">Macht der Dunklen Waffen - Unsichtbar</content>
@@ -53,6 +73,9 @@
   <content contentuid="hd7a6ddceg9385g4a74ga8dbg4b479479fe14" version="1">Göttliche Waffenmacht</content>
   <content contentuid="hf8934ef9g23f1g4008g85adgb45e469ee129" version="1">Göttliche Waffenmacht – Aussehen</content>
   <content contentuid="h4cb13033g4763g4553g8e68g022cf2b8c77a" version="1">Göttliche Waffenmacht - Unsichtbar</content>
+  <content contentuid="h90c8d380g7166g4edbgaacdg2bfb100be698" version="1">Falscher Sonnenkern</content>
+  <content contentuid="h5e664a8dgfb12g4536ga82dgbf7800c3681c" version="1">Falscher Sonnenkern - Aussehen</content>
+  <content contentuid="h266e0fc2g2fbdg4ba9g901ag10b01b80953e" version="1">Falscher Sonnenkern - Unsichtbar</content>
   <content contentuid="h8123c586g41e4g499cg971cgf6c0448129f0" version="1">Feuer - Waffe</content>
   <content contentuid="h4497900ag3216g4b87g8c81g60ef3a976174" version="1">Feuer - Waffe - Aussehen</content>
   <content contentuid="h326298f4g1d2dg4e6cg91d8gd1a04c6736fa" version="1">Feuer - Waffe - Unsichtbar</content>
@@ -62,6 +85,7 @@
   <content contentuid="h0042b089g1879g4f55g9dd3g673af1fe4e20" version="1">Feuereffekte und -kräfte</content>
   <content contentuid="he4d0e45bg8840g4f47ga0e8g0a866100f1af" version="1">Feuereffekte, nur Visuals</content>
   <content contentuid="hd08699aeg869dg46e4g98e7g8d35380c751c" version="1">Feuerkräfte</content>
+  <content contentuid="h5fa406d0gc756g4407g990eg1e2df5de8c23" version="1">Brand-Schwachstelle</content>
   <content contentuid="hf0f448c0g995fg4ab8g8b60g79e3b3c051c9" version="1">Feuerwaffen - Power</content>
   <content contentuid="hcb0ac467gac30g4516gaeecg966ff25cceb5" version="1">Feuerwaffenkraft - Aussehen</content>
   <content contentuid="h9106d03bg0e1cg4160g84b1g7b8c3f426512" version="1">Feuerwaffen Macht - Unsichtbar</content>
@@ -69,6 +93,23 @@
   <content contentuid="hbf01fee3gf835g44a6g89cag6a0bba22bd8d" version="1">Kraftkern - Hand</content>
   <content contentuid="hb16f4b72gef09g4d00g8714g676b8ca69e2d" version="1">Kraftkern - Hand - Aussehen</content>
   <content contentuid="ha2c6f165g83cag44e5gb542g3a102c799c04" version="1">Kraftkern - Hand - Unsichtbar</content>
+  <content contentuid="h2accb189g87fbg4276gbf53g5b1c00936d98" version="1">Schwachstelle erzwingen</content>
+  <content contentuid="h81b50b56g0878g4f37ga56agdf7235b164e9" version="1">Waffen-Debuff von Forst.</content>
+  <content contentuid="ha6db5797g89e5g49cdgb927g8484186afb19" version="1">Frost-Klinge</content>
+  <content contentuid="h1e833caag49b3g423egbafeg1b11e331e5d3" version="1">Frostklinge - Aussehen</content>
+  <content contentuid="h194c6e98g9d9ag4cd0gb27fgb99426e7a74c" version="1">Frostklinge - Unsichtbar</content>
+  <content contentuid="h5e9f5f34ged0fg4cf0g84bfg07a50e001c52" version="1">Frostkern - Hand</content>
+  <content contentuid="hcd027748ge633g4363gbbddg639688997d03" version="1">Frostkern - Hand - Aussehen</content>
+  <content contentuid="h52215a78g8026g4b79gab5age4b9ff41f855" version="1">Frostkern - Hand - Unsichtbar</content>
+  <content contentuid="hc709005eg1f24g4ae2g8432gb19ca7b8118e" version="1">Frostkern – Waffe</content>
+  <content contentuid="hc80b023dg7faeg421dg89a0g5c78b6314759" version="1">Frostkern - Waffe - Aussehen</content>
+  <content contentuid="hf8e0e8ddg8035g402eg9eaag0e218345773b" version="1">Frostkern - Waffe - Unsichtbar</content>
+  <content contentuid="hd5ea6d98ge8b0g4577g9320gbbf8572a1938" version="1">Leiter des Froststabs</content>
+  <content contentuid="hef74790agafd8g4316g82cfgbbf17bcde43b" version="1">Froststabkopf - Aussehen</content>
+  <content contentuid="h063434fcga821g459dg8d23g033e6fb05002" version="1">Froststabkopf - Unsichtbar</content>
+  <content contentuid="h142b1db0g1290g4d97g9e59gbd6a72553c89" version="1">Metall erhitzen</content>
+  <content contentuid="h7cbddc03g0580g4394g99cbg3ba47366ba38" version="1">Heat Metal - Aussehen</content>
+  <content contentuid="h7d5e4d4eg27bbg4c7dgbf62gfa40136be3dd" version="1">Metall erhitzen - Unsichtbar</content>
   <content contentuid="h52f6e4adg2896g449fgb62fge3e07c31e660" version="1">Heiße Heilige Waffe schmilzt deine Rüstung, du verlierst 4 AC und 2 STR.</content>
   <content contentuid="ha900e387gff15g44a2g964age9dc7250424a" version="1">Himmelsteiler Macht - Waffe</content>
   <content contentuid="h733d4d63g2fe9g4588gb9bcg299a490f0a94" version="1">Himmelsteiler Macht - Waffe - Aussehen</content>
@@ -109,6 +150,9 @@
   <content contentuid="h2419f905gaa92g4c93g8f0ag3b6708f3a0e5" version="1">Nekrotisch - Waffe</content>
   <content contentuid="he16ebbf6g0b69g4776g8440gcea21bc49e90" version="1">Nekrotisch - Waffe - Aussehen</content>
   <content contentuid="he43db64fg0e3dg4d52ga69fgd4a0b38ac605" version="1">Nekrotisch - Waffe - Unsichtbar</content>
+  <content contentuid="h4b597977g9a93g4dbagac57gf5556c6ad6ee" version="1">Nekrotisches Waffen-Overlay</content>
+  <content contentuid="ha94d72ceg7061g4e20g9ccag907a128e7317" version="1">Nekrotisches Waffen-Overlay - Waffe - Aussehen</content>
+  <content contentuid="h2e238884g4f86g40c1g9bb0g61542ea4110c" version="1">Nekrotisches Waffen-Overlay - Waffe - Unsichtbar</content>
   <content contentuid="he31743b7gd08ag4edcga79fgaa9923f2ec3c" version="1">Nur Kräfte und Angriffseffekte, ohne Visuals auf Gegenständen.</content>
   <content contentuid="h9bb87b22g9db8g4165g87e3gba85e1532067" version="1">Nur Kräfte und Angriffseffekte, ohne Visuals auf Gegenständen.</content>
   <content contentuid="h8da4d36agf52eg497eg81bfgdc192f803c57" version="1">Nur visuelle und Angriffseffekte, null Boosts.</content>
@@ -119,6 +163,9 @@
   <content contentuid="h51c446d9gb0a0g49efg9efagfba6a76802c9" version="1">Strahlender Schein - Waffe</content>
   <content contentuid="h06c09ce4g54ebg4419gb451ge96d09c37d88" version="1">Strahlender Schein - Waffe - Aussehen</content>
   <content contentuid="hdcc023d7geebfg42adg9fdcg97e7d1d88df4" version="1">Strahlendes Leuchten - Waffe - Unsichtbar</content>
+  <content contentuid="hc159cdb4gb93bg4713g9e70g5fbc7ca63c48" version="1">Wutblutkern - Waffe</content>
+  <content contentuid="h2d757798g42c7g4a62gb550g1a8e0ca5e8c2" version="1">Wutblutkern - Waffe - Aussehen</content>
+  <content contentuid="hd91a9a27gc4bdg411dgacc5gd7f5abdfa458" version="1">Wutblutkern - Waffe - Unsichtbar</content>
   <content contentuid="h100aa48eg8e6eg454cgbc0eg1c63c410566f" version="1">Roter Heiligenschein - Hand</content>
   <content contentuid="hbd91ef16g5513g4ec1g9977gd026163055a9" version="1">Roter Heiligenschein - Hand - Erscheinungsbild</content>
   <content contentuid="h311fcd8bgbd53g4feag8f7dg952f4624641e" version="1">Roter Heiligenschein - Hand - Unsichtbar</content>
@@ -136,6 +183,9 @@
   <content contentuid="h5f5d0284g3adfg4b83ga5d6gb7f71d4cc866" version="1">Sengender Feuerball - Hand - Unsichtbar</content>
   <content contentuid="h676c2c54g6756g49a2g8375g91a78aeb952b" version="1">SIEBEN</content>
   <content contentuid="h2e4711e1g75efg4a07gb908g067e9b769bd1" version="1">SECHS</content>
+  <content contentuid="hde4dfd5dg7cd1g4bc2g8641g75fe2fcc47da" version="1">Kleiner göttlicher Halo-Kern</content>
+  <content contentuid="h188066dcg2658g41e8g8ea0g13f5dcb7524a" version="1">Kleiner göttlicher Heiligenscheinkern - Hand - Aussehen</content>
+  <content contentuid="hb886a72dg269fg4898gbdc8g4bd077087970" version="1">Kleiner göttlicher Halo-Kern - Hand - Unsichtbar</content>
   <content contentuid="hc24d92d0g4afcg4931gb0e3g1253df107967" version="1">Kleiner Feuerball - Hand</content>
   <content contentuid="h53b7e163g831eg4acbg9774g3dff36637a98" version="1">Kleiner Feuerball - Hand - Aussehen</content>
   <content contentuid="h2b9fc335g7302g45e6g83b6g6be08369cbee" version="1">Kleiner Feuerball - Hand - Unsichtbar</content>
@@ -156,6 +206,10 @@
   <content contentuid="hb7632fd0g1c1cg4c25g8235ge1c15e44a85f" version="1">Ultravioletter Kern - Waffe - Unsichtbar</content>
   <content contentuid="h40df0753g598dg4e84gad2cg015e07c24db5" version="1">Ultraviolett, Psychische Effekte, nur Visuals</content>
   <content contentuid="hfa234c37ge22dg4bf2g8746gc9217ecddcda" version="1">Vampirische Kräfte</content>
+  <content contentuid="h372b87bcgc057g40b7g8b61gbe6f47207f4a" version="1">Visueller Effekt wendet Hände an.</content>
+  <content contentuid="h72f37b67gd8ddg44e5gb79bga6f00864dd43" version="1">Visueller Effekt gilt für Hände.
+
+Deine Waffen und unbewaffneten Angriffe werden um [1] erhöht.</content>
   <content contentuid="he43047d2g25e9g4078g965cg95b9e0ef4fe9" version="1">Der visuelle Effekt wird auf die Hände angewendet.</content>
   <content contentuid="h1c6f07d7g174cg471bg802dgcbb45e8049bc" version="1">Der visuelle Effekt wird auf die Hände angewendet.</content>
   <content contentuid="h1a752e79g5ca3g49bfgbc46g1d735dc4cc11" version="1">Der visuelle Effekt wird auf die Hände angewendet.</content>
@@ -163,9 +217,18 @@
   <content contentuid="h6016e0a2g4011g4fc0g98a1g994c1cf5beaf" version="1">Der visuelle Effekt wird auf die Hände angewendet.</content>
   <content contentuid="hf667e69fg7d8ag4024gbb35g55e370ae6cdf" version="1">Der visuelle Effekt wird auf die Hände angewendet.</content>
   <content contentuid="h3b6ad21dg323ag4650g9825g4b127f524fbd" version="1">Der visuelle Effekt wird auf die Hände angewendet.</content>
+  <content contentuid="h23382b4fga218g41d0g94ceg4d2fcd0a85e8" version="1">Der visuelle Effekt wird auf die Hände angewendet.</content>
+  <content contentuid="h945290cfg5bedg4988g97b1gd86c7f3f9b84" version="1">Der visuelle Effekt wird auf die Hände angewendet.</content>
+  <content contentuid="h0dba6261g10b4g44bag8053gaa5f9252c560" version="1">Der visuelle Effekt wird auf die Hände angewendet.</content>
+  <content contentuid="h168f3b66gcc01g442cgb53ag5345ed2b73b5" version="1">Der visuelle Effekt wird auf die Hände angewendet.</content>
   <content contentuid="hbb069ed5g3e74g46cdg8d94g5f8d71ff1961" version="1">Der visuelle Effekt wird auf die Hände aufgetragen.
 
 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;+1 Genauigkeitsbonus für Angriffe, Zauber, Zauertricks alle 6 Stufen.&lt;/LSTag&gt;&lt;/b&gt;</content>
+  <content contentuid="hd138c34fg7d6fg4e94gacdagc587028ff4aa" version="1">Der visuelle Effekt wird auf die Hände angewendet.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Dein Rollbonus für Angriffe, Zauber und Cantrips wurde um die Hälfte deines Geschicklichkeitsmodifikators erhöht.&lt;/LSTag&gt;&lt;/b&gt;
+
+Waffenangriffe und Zauberangriffe verleihen Ihnen &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Momentum&lt;/LSTag&gt;.</content>
   <content contentuid="h9047ca9ag6afag443aga5bbg0d3e9eec9734" version="1">Der visuelle Effekt wird auf die Hände angewendet.
 
 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Dein Zaubermodifikator als Feuerbonusschaden bei Zaubertreffern.&lt;/LSTag&gt;&lt;/b&gt;
@@ -185,11 +248,20 @@ Bei einem &lt;LSTag Tooltip="CriticalHit"&gt;Kritischen Treffer&lt;/LSTag&gt; be
 Deine Zauber und Zaubertricks können Ziele &lt;LSTag Type="Status" Tooltip="DAZED"&gt;benebeln&lt;/LSTag&gt;.
 
 Effizienzbonus als&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Bonus&lt;/LSTag&gt;&lt;/b&gt; Nekrotischer Schaden bei Fernangriffstreffern.</content>
+  <content contentuid="h3990e630g75e1g4bb8g9decgd03b50e28d28" version="1">Visueller Effekt gilt für Hände.
+
+Waffenangriffe verleihen Gegnern den &lt;LSTag Type="Status" Tooltip="CHILLED" &gt;Kältezustand&lt;/LSTag&gt; und reduzieren ihre Bewegung um 50%.</content>
+  <content contentuid="h718f1a24gba0fg4440ga710g159ad49e8594" version="1">Visueller Effekt gilt für Hände.
+
+Waffenangriffe verleihen Gegnern den &lt;LSTag Type="Status" Tooltip="CHILLED" &gt;Kältezustand&lt;/LSTag&gt; Status und reduzieren ihre Bewegung um 50%.</content>
   <content contentuid="h05476f4fg2fb1g4ed5g9cd6g2338162b4aa1" version="1">Der visuelle Effekt wird auf die Hände aufgetragen.
 
 Deine Waffe greift Ziele mit &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blindheit&lt;/LSTag&gt;  an.
 
 Untote und Bösewichte nehmen zusätzliche [1].</content>
+  <content contentuid="h52bd77a8gf90ag42ddg92degfa428a0b008a" version="1">Der visuelle Effekt wird auf die Hände angewendet.
+
+Deine Waffen-, Unbewaffneten- und Zauberangriffe &lt;b&gt;&lt;LSTag Tooltip="test"&gt;drängen Feinde 1,5 m weit weg&lt;/LSTag&gt;&lt;/b&gt;</content>
   <content contentuid="h273cbea2g8883g4c7eg9792ga2d8cb116248" version="1">Der visuelle Effekt wird auf die Hände angewendet.
 
 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Zaubernder Modifikator&lt;/LSTag&gt;&lt;/b&gt; als Bonus Kraftschaden an Zaubersprüchen.</content>
@@ -209,6 +281,10 @@ Charisma-Rettungswurf.</content>
   <content contentuid="hda2b61c9gd551g4107g90dcg2ee2729acd15" version="1">Visueller Effekt wird auf die Waffe angewendet.</content>
   <content contentuid="h654d8bc8g128dg4e23gb811gb67f55a60c78" version="1">Visueller Effekt wird auf die Waffe angewendet.</content>
   <content contentuid="h3ba178b8gce9bg42f6g89f5ga0c2f7bb1703" version="1">Visueller Effekt wird auf die Waffe angewendet.</content>
+  <content contentuid="h8d95218agcc56g44f4gbab7g6788003fddc8" version="1">Der visuelle Effekt wird auf die Waffe angewendet.</content>
+  <content contentuid="hde2ffa2bgd427g4577g9780g258a7999afee" version="1">Der visuelle Effekt wird auf die Waffe angewendet.</content>
+  <content contentuid="h4c718058g78b6g4316g8bb9g9c8e9c32bee5" version="1">Der visuelle Effekt wird auf die Waffe angewendet.</content>
+  <content contentuid="h25428ef9g7e14g4a1eg9399g7a12646ab733" version="1">Der visuelle Effekt wird auf die Waffe angewendet.</content>
   <content contentuid="hedb2fa7ag0876g4388gb36bgb4f68367d92d" version="1">Visueller Effekt wird auf die Waffe angewendet.
 
 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;+2 INT, WIS.&lt;/LSTag&gt;&lt;/b&gt;
@@ -230,6 +306,11 @@ Charisma-Rettungswurf.</content>
 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Zauberspruch-Modifikator als psychischer Bonusschaden bei Zauberspruch-Treffern.&lt;/LSTag&gt;&lt;/b&gt;
 
 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Leistungsbonus&lt;/LSTag&gt;&lt;/b&gt; als psychischer Bonusschaden bei Fernangriffstreffern.</content>
+  <content contentuid="h6a383274gdc45g46e1gb0ccge96360082090" version="1">Der visuelle Effekt wird auf die Waffe angewendet.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"]&gt;Dein Wurfbonus für Angriffe, Zauber und Zaubersprüche wird um die Hälfte deines Geschicklichkeitsmodifikators erhöht.&lt;/LSTag&gt;&lt;/b&gt;
+
+Waffen- und Zauberangriffe geben dir &lt;LSTag Type="Status" Tooltip="MAG_MOMENTUM"&gt;Momentum&lt;/LSTag&gt;.</content>
   <content contentuid="hc72d3f48g00e7g491dga623gf5be25e4396b" version="1">Visueller Effekt wird auf die Waffe angewendet.
 
 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Dein Zaubermodifikator als Nekrotischer Bonusschaden bei Zaubertreffern.&lt;/LSTag&gt;&lt;/b&gt;
@@ -248,6 +329,23 @@ Bei einem &lt;LSTag Tooltip="CriticalHit"&gt;Kritischen Treffer&lt;/LSTag&gt; be
 Deine Zauber und Cantips können Ziele &lt;LSTag Type="Status" Tooltip="DAZED"&gt;benebeln&lt;/LSTag&gt;.
 
 Effizienzbonus als&lt;b&gt;&lt;LSTag Tooltip="test"&gt; Bonus&lt;/LSTag&gt;&lt;/b&gt; Nekrotischer Schaden bei Fernangriffstreffern.</content>
+  <content contentuid="h90678001gb878g4896gbfd1gc864dfa4aa09" version="1">Der visuelle Effekt wird auf die Waffe angewendet.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Deine Waffenangriffe machen Feinde anfällig für Machtschaden, aber resistent gegen Strahlung.&lt;/LSTag&gt;&lt;/b&gt;</content>
+  <content contentuid="h42579238g43e1g49d7gaf74g7f7d3e022fa7" version="1">Der visuelle Effekt wird auf die Waffe angewendet.
+
+Zauber wirken zusätzlich [1]. (Zaubermodifikator).
+
+Das Wirken von Zaubersprüchen verleiht Feinden den Status &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Unterkühlt&lt;/LSTag&gt; und verringert ihre Bewegung um 50 %.
+
+Fernkampfangriffe verursachen zusätzlich [2]. (Kompetenzbonus).</content>
+  <content contentuid="hdd195976gf23dg463fgbb40gfc20603bb5a8" version="1">Der visuelle Effekt gilt für die Oberseite der Waffe.
+
+Zauber wirken zusätzlich [1]. (ZauberWirken-Modifikator).
+
+Zauber wirken den &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Kältezustand&lt;/LSTag&gt; auf Feinde und reduzieren ihre Bewegung um 50%.
+
+Fernkampfangriffe verursachen zusätzlich [2]. (Beherrschungsbonus).</content>
   <content contentuid="h3ea90f40g655fg4b2fga0f7gd18fcdac2bcc" version="1">Visueller Effekt wird auf die Waffe angewendet.
 
 &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Dein Zaubernder Modifikator&lt;/LSTag&gt;&lt;/b&gt; als Blitzbonusschaden für Zaubertreffer.
@@ -294,6 +392,10 @@ Deine Waffenangriffe können das Ziel 2 Runden lang &lt;LSTag Type="Status" Tool
 Charisma-Rettungswurf.</content>
   <content contentuid="h04a8a59ag9948g4672g9d6dg8a68544afd59" version="1">Der visuelle Effekt wird wie vorgesehen auf jede Waffe angewendet.</content>
   <content contentuid="hcf0d3d2dgac20g482fg9385g805a91a54327" version="1">Der visuelle Effekt wird wie vorgesehen auf jede Waffe angewendet.</content>
+  <content contentuid="hdf780bf5gaa78g468fgb925g6d051a6c9fb0" version="1">Der visuelle Effekt wird wie vorgesehen auf jede Waffe angewendet.</content>
+  <content contentuid="h09117d3cgd56dg442cg80d9gf68515793e5c" version="1">Der visuelle Effekt wird ordnungsgemäß auf jede Waffe angewendet.
+
+&lt;b&gt;&lt;LSTag Tooltip="test"&gt;Deine Waffen- und Zauberangriffe machen Feinde anfällig für Feuerschaden, aber resistent gegen Kälte.&lt;/LSTag&gt;&lt;/b&gt;</content>
   <content contentuid="h9379f625g6137g47c4ga4a5g5825de68a3b9" version="1">Der visuelle Effekt wird wie vorgesehen auf jede Waffe angewendet.
 
 Deine Waffen- und unbewaffneten Angriffe verursachen zusätzliche [1] und wachsen mit deinem Fortschritt.</content>
@@ -320,6 +422,12 @@ Bei einem erfolgreichen Treffer mit Waffen, Zaubersprüchen und Zaubertricks sch
   <content contentuid="h5c8b2c1dg7a51g4cb0g8300gf0526c69685b" version="1">Der visuelle Effekt wird wie vorgesehen auf jede Waffe angewendet.
 
 Deine Waffen und unbewaffneten Angriffe verursachen zusätzliche [1].</content>
+  <content contentuid="hab6e145bgea62g4e6eg8691g8973ee4f6190" version="1">Der visuelle Effekt wird wie vorgesehen auf superlange Schwerter, Piken, Stäbe und Speere angewendet.</content>
+  <content contentuid="ha6a40e1fg98b6g4f79g9401g7b73931e9229" version="1">Visueller Effekt wird korrekt auf superlange Schwerter, Piken, Stäbe und Speere angewendet.
+
+Waffen- und unbewaffnete Angriffe um [1] erhöht.
+
+Waffenangriffe wenden den &lt;LSTag Type="Status" Tooltip="CHILLED" &gt;Kältezustand&lt;/LSTag&gt; auf Feinde an und reduzieren ihre Bewegung um 50%.</content>
   <content contentuid="h799dd8b3gfc42g416bga9c4g783ea69e23dc" version="1">Der visuelle Effekt gilt ordnungsgemäß für Schwerter, Katanas und Rapiers.</content>
   <content contentuid="haa504462g3cddg49cega0e4gdeea3e5559ae" version="1">Der visuelle Effekt gilt ordnungsgemäß für Schwerter, Katanas und Rapiers.</content>
   <content contentuid="h105d9dcfg1e35g466cg8712g96974a0ecf5e" version="1">Der visuelle Effekt wird richtig auf Schwerter, Katanas und Rapiere angewendet.
@@ -332,6 +440,19 @@ Deine Waffe verursacht zusätzliche [1] und wächst mit deinem Fortschritt.</con
 Deine Waffe verursacht zusätzliche [1] und wächst mit deinem Fortschritt.
 
 Ein erfolgreicher Treffer auf den Feind erzeugt eine kleine Schockwelle, die im Radius von 2 m um das Ziel herum [2] verursacht.</content>
+  <content contentuid="hd8bdad88g84d4g4401gb2b7g00461eab7ac8" version="1">Der visuelle Effekt wird wie vorgesehen auf die Stäbe, Piken und Speere angewendet.</content>
+  <content contentuid="h2ec0c374gd43cg43ccg9b39gf5696870dd1a" version="1">Der visuelle Effekt wird ordnungsgemäß auf Stäbe, Piken und Speere angewendet.
+
+Zauber wirken zusätzlich [1]. (Zaubermodifikator).
+
+Das Wirken von Zaubersprüchen verleiht Feinden den Status &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Unterkühlt&lt;/LSTag&gt; und verringert ihre Bewegung um 50 %.</content>
+  <content contentuid="h7afa052bgfb82g4e93gb087g947ac827805f" version="1">Effektualer Effekt auf jeder Waffe korrekt.</content>
+  <content contentuid="h2c5e87b8g4a8fg4f3fg898fg52ea57e6b3d2" version="1">Visueller Effekt richtig auf jede Waffe.
+
+Deine Angriffe mit Waffen, unbewaffneten Waffen und Zaubern werden um [1] erhöht.</content>
   <content contentuid="ha64788c4g40c9g432cg8e6cg47b616b55606" version="1">Du bist in einen mörderischen Zustand der Blutgier eingetreten. Einmal pro Zug, wenn du einen Feind tötest, erhältst du [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporäre Trefferpunkte&lt;/LSTag&gt; und eine &lt;LSTag Tooltip="Action"&gt;Aktion&lt;/LSTag&gt;.</content>
+  <content contentuid="h01a2bf5aga067g4b50g93edg30d46b4c8aa2" version="1">Ihr seid verwundbar gegen Feuerschaden, aber resistent gegen Kälte.</content>
+  <content contentuid="h15097e56gc60fg4f5fg89cdg2ee5cdd01869" version="1">Ihr seid verwundbar gegen Machtschaden, aber resistent gegen Strahlend.</content>
   <content contentuid="h22a9fb4bg4adeg49c7gba95g19cce51f5bd9" version="1">Deine Rüstung ist entfernt, -3 DEX, anfällig für Säure.</content>
+  <content contentuid="hefdce7f2g618fg4d17gbff6g723787639988" version="1">Euer Wurfbonus für Angriffe, Zauber und Cantrips wurde um die Hälfte Eures Geschicklichkeitsmodifikators erhöht.</content>
 </contentList>

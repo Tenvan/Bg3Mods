@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="h7854cfcag1499g48d0gb2a3g6993cf5e0c51" version="1">Zusätzliche Tasche hinzufügen?</content>
+  <content contentuid="h02aef575g1bccg46beg8f2eg508ec9380d5a" version="1">Nicht-stehlendes Umschaltelement hinzufügen?</content>
+  <content contentuid="h757dae5agf470g418bgaf01g0166a01d5a9b" version="1">Diebstahlfähiges Umschaltelement hinzufügen?</content>
+  <content contentuid="hc38d448dgd98ag4ea7gb39cg661b4aafef26" version="1">Schwarze Liste für Autoloot</content>
+  <content contentuid="h9863dbd8gc56eg4225gab95g2c45c860626b" version="1">Autoloot-Menü</content>
+  <content contentuid="hd41ba9aagddf5g46d2g8bfege4f9632648bc" version="1">Der Autoloot-Mod ist korrekt installiert!</content>
+  <content contentuid="h5ae5162agdb71g4e8dga77bga35bbe327f7c" version="1">Autoloot-Whitelist</content>
+  <content contentuid="ha2ad5afeg93cdg453eg9ee1g4bd4a9652ad0" version="1">Gelöschte Inhalte!</content>
+  <content contentuid="hb4c2bb1bg11e5g4ad9ga5eeg965600f97a3a" version="1">Fertig!</content>
+  <content contentuid="h81632e58gf464g46fbg84c7g7d472eb61c53" version="1">Extradimensionale Speicherung</content>
+  <content contentuid="h73b3a39bgbd3cg441fg84f8gafaca183ba75" version="1">Mod-Items bekommen?</content>
+  <content contentuid="hc1c681dfg6379g46aega04eg324849fec459" version="1">Blacklist-/Whitelist-Taschen geben, um zusätzliche Filter zu erstellen?</content>
+  <content contentuid="hc3ffefeeg03e9g417aga69agd8c4ce2193e5" version="1">Markieren Sie Behälter mit Gegenständen, die sich darin befinden?</content>
+  <content contentuid="hcbcade0fg68aeg43b1ga6d2g7b9c6fef5225" version="1">Wenn es sich in deinem Inventar befindet, speichert es alles, was du automatisch plünderst, und macht es schwerelos. Greifen Sie unbewaffnet an, um Inhalte zu löschen.</content>
+  <content contentuid="h9946d187gbde8g4025gab95ge86aa0358e6d" version="1">Es ist seltsam, dass ein so mysteriöses Artefakt wie ein normaler Ledersack aussieht.</content>
+  <content contentuid="h0e87145bg9ac5g4853g9143gdc13898fb498" version="1">Lange Pause und Rettung. Deinstallieren.</content>
+  <content contentuid="h17766de3gbb60g402dgb802g956bd029883d" version="1">Umhang der Maske</content>
+  <content contentuid="h68ef9f08ga42fg401dg9dc9g8ce0277ba8f4" version="1">Nicht leer.</content>
+  <content contentuid="hc4d949bdg64f7g4523ga040gf45d5343451b" version="1">Nur Gold erbeuten?</content>
+  <content contentuid="hc9549e46g3f92g456bg93c3g382f6fe9c064" version="1">Nur Plünder-Schrott?</content>
+  <content contentuid="h394b3264gac40g439fga5c1gc14a982600da" version="1">Nur Wertsachen plündern?</content>
+  <content contentuid="h3bdd7a3egb763g4fbdg998cg190ae72091fb" version="1">Heben Sie passiv alle Gegenstände in der Nähe auf.</content>
+  <content contentuid="hb38a26a5g4d1ag4a9egb016gf4c7957411cc" version="1">Hebe oder stiehl passiv alle Gegenstände in der Nähe.</content>
+  <content contentuid="h90d0849eg7c6bg4f00gb7a2g309b88e0eb54" version="1">Gefüllte Fässer abholen?</content>
+  <content contentuid="h534338aagc526g40dfgb9bdgf2680b7fcc3b" version="1">Lege einen Gegenstand hinein, um sicherzustellen, dass er nach Möglichkeit IMMER geplündert wird. Der Artikel muss nicht in der Tasche bleiben. Angriffstasche zum Zurücksetzen der Liste.</content>
+  <content contentuid="ha93e9c5cg8b5fg436bga05bg2b89179d28a3" version="1">Lege einen Gegenstand hinein, um sicherzustellen, dass er NIEMALS geplündert wird. Der Artikel muss nicht in der Tasche bleiben. Angriffstasche zum Zurücksetzen der Liste.</content>
+  <content contentuid="h4380f543ge09bg481fga309g6d6ca010d17b" version="1">Das Aufnehmen von Questgegenständen wieder aktivieren?</content>
+  <content contentuid="h09a9e746g7933g454aga287g36b6f2e2e466" version="1">Deinstallieren starten?</content>
+  <content contentuid="ha1ae65fcgb441g4adegabc0g11080d3ae9ea" version="1">Schalte die automatische Beute ein oder aus. Angriff auf offene Konfiguration. Greifen Sie unbewaffnet an, um die Deinstallation zu starten.</content>
+  <content contentuid="h0b9b7a80g2af5g40cdg9dcfg519e1e117707" version="1">Schalte die automatische Beute ein- oder aus, die für Diebstahl aktiviert ist. Angriff auf offene Konfiguration. Greifen Sie unbewaffnet an, um die Deinstallation zu starten.</content>
+  <content contentuid="h6d9b2e45g6b44g49b4ga094g87a84182c869" version="1">Erlaubte verschlossene Container entsperren?</content>
+  <content contentuid="ha7d6785eg412fg436fgb1a1gedf3252b1583" version="1">Waukeens Schleier</content>
+  <content contentuid="h15709f70g1a72g462fg8e50g4c7610327ec2" version="1">Ja = Konfiguration, Nein = Elemente abrufen</content>
+</contentList>

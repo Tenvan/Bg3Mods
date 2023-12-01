@@ -54,6 +54,7 @@ No more need for extra use of the ConverterApp.
 [url=https://www.nexusmods.com/baldursgate3/mods/4565]Basket Full of Equipment. NSFW version GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3384]Bard Subclass - College of Glamour GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4564]Custom Item Pack GER[/url]
+[url=https://www.nexusmods.com/baldursgate3/mods/2342]Customizable Auto Loot Aura GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4348]Class Specialization Feats GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3305]Demon Hunter Class GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4175]Dread Overlord GER[/url]
