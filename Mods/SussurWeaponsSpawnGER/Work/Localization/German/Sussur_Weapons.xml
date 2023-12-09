@@ -99,6 +99,8 @@
   <content contentuid="h3a9f656eg4259g4605gba9ega7757ce00122" version="1">Gesättigter Sussur-Dreizack</content>
   <content contentuid="h1ef6c789g5dc0g4b0ag9fffg5dfb2595780b" version="1">Gesättigte Sussur Kriegshacke</content>
   <content contentuid="h3a94f364g0e3dg4ae3gb37fge4c370f0eaa4" version="1">Gesättigter Sussur-Kriegshammer</content>
+  <content contentuid="hdf216496g064cg4584g9db0gfdbc572d8108" version="1">Sickle +1</content>
+  <content contentuid="h29d442fcgc4d7g447fgb3ffg10d9df61f4e1" version="1">Sickle +2</content>
   <content contentuid="h5377ba40gda8bg4517ga5ccg6de44b106a3b" version="1">Sussur-Zauber verschlingen</content>
   <content contentuid="h4964c477g8580g44cbgad19g7b3409a9e9e0" version="1">Sussur geworfen passiv 1</content>
   <content contentuid="h37a80ff1gebddg4c37gbac1gc618c5560d25" version="1">Sussur geworfen passiv 2</content>
@@ -153,4 +155,6 @@
   <content contentuid="h60b906d7gd6f4g44f3g9888g935b5d612f1f" version="1">Durstiger Sussur-Kriegshammer</content>
   <content contentuid="h438de858g5ab2g4f9ag9514g33d0b66b8668" version="1">Diese Passivität dient nur dazu, dass Sussur-Waffen beim Werfen zum Schweigen gebracht werden können.</content>
   <content contentuid="h26a62f62gc3d0g491dga5e2g9e98ab545931" version="1">Nutze die Kraft des mächtigen Sussur-Baums in deiner Waffe, um jeden Zauber der Stufe 6 oder niedriger sofort zu annullieren. Wenn der Zauber, den du bekämpfen willst, Stufe 7, 8 oder 9 hat, musst du einen &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; bestehen, um ihn zu annullieren, dessen Schwierigkeitsgrad von der Stufe des Zaubers abhängt.</content>
+  <content contentuid="hc2058bf1g35cbg44ddg9249gff7a3d4eb52a" version="1">You have a +1 bonus to attack and damage rolls made with this magic Sickle.</content>
+  <content contentuid="hcebb3085g81f0g4802gb42fgaa0a0a2b5490" version="1">You have a +2 bonus to attack and damage rolls made with this magic Sickle.</content>
 </contentList>

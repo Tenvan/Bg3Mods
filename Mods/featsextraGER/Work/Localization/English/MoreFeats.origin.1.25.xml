@@ -82,14 +82,14 @@ After you use this bonus action, you can’t do so again until you finish a long
 	<content contentuid="kt1366871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion</content>
 	<content contentuid="kt1376871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra [1] of the chosen type when it hits.</content>
 	<content contentuid="h057718b6gb4e1g4e69g8ee4gc02ff95b825a" version="1">You can touch a simple or martial weapon and infuse it with acid. For the next minute, the weapon deals an extra [1] when it hits.</content>
-  <content contentuid="kt1386871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Acid)</content>
-  <content contentuid="h4c7b04beg361bg4f77ga7b5gf16d77993b8f" version="1">You can touch a simple or martial weapon and infuse it with cold. For the next minute, the weapon deals an extra [1] when it hits.</content>
+	<content contentuid="kt1386871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Acid)</content>
+	<content contentuid="h4c7b04beg361bg4f77ga7b5gf16d77993b8f" version="1">You can touch a simple or martial weapon and infuse it with cold. For the next minute, the weapon deals an extra [1] when it hits.</content>
 	<content contentuid="kt1396871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Cold)</content>
-  <content contentuid="hba7a5ba3g8282g4d7bg87b2g7d88945dc789" version="1">You can touch a simple or martial weapon and infuse it with fire. For the next minute, the weapon deals an extra [1] when it hits.</content>
+	<content contentuid="hba7a5ba3g8282g4d7bg87b2g7d88945dc789" version="1">You can touch a simple or martial weapon and infuse it with fire. For the next minute, the weapon deals an extra [1] when it hits.</content>
 	<content contentuid="kt1406871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Fire)</content>
-  <content contentuid="h96792cedg4f3eg4e40gba9fg55b2db0a829c" version="1">You can touch a simple or martial weapon and infuse it with lightning. For the next minute, the weapon deals an extra [1] when it hits.</content>
+	<content contentuid="h96792cedg4f3eg4e40gba9fg55b2db0a829c" version="1">You can touch a simple or martial weapon and infuse it with lightning. For the next minute, the weapon deals an extra [1] when it hits.</content>
 	<content contentuid="kt1416871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Lightning)</content>
-  <content contentuid="hd5609c5eg4b78g4389gb373gd7219022e6b2" version="1">You can touch a simple or martial weapon and infuse it with poison. For the next minute, the weapon deals an extra [1] when it hits.</content>
+	<content contentuid="hd5609c5eg4b78g4389gb373gd7219022e6b2" version="1">You can touch a simple or martial weapon and infuse it with poison. For the next minute, the weapon deals an extra [1] when it hits.</content>
 	<content contentuid="kt1426871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatic Infusion (Poison)</content>
 	<content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Healer: Tend to Wounds</content>
 	<content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can tend to a creature's wounds. You restore [1] to it. That creature can't regain hit points in this way again until they finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>

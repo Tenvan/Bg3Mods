@@ -109,7 +109,7 @@ You gain  &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in the At
 
 You can grow retractable claws from the tips of your fingers. The claws are natural weapons, which you can use to make &lt;LSTag Type="Spell" Tooltip="Target_DragonHide_Melee"&gt;Unarmed Strikes&lt;/LSTag&gt;.</content>
 	<content contentuid="h5da4df8dg24e0g4373g8530g3ab91cc7abb5" version="1">While you aren't wearing armor, you can calculate your &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt; as 13 + your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; modifier.</content>
-  <content contentuid="hg99d268ag49b0g48cbgaf37g76cec2369e9e" version="1">Observant</content>
+	<content contentuid="hg99d268ag49b0g48cbgaf37g76cec2369e9e" version="1">Observant</content>
 	<content contentuid="hg99e268ag49b0g48cbgaf37g76cec2369e9e" version="1">Increase your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; or &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score by 1, to a maximum of 20.
 
 You have a +5 bonus to your Perception and Investigation scores.</content>

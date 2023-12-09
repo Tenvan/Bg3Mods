@@ -47,6 +47,7 @@ No more need for extra use of the ConverterApp.
 
 [b][size=4]See my other Mods for translation samples:[/size]
 [url=https://www.nexusmods.com/baldursgate3/mods/3298]5e Spells GER[/url]
+[url=https://www.nexusmods.com/baldursgate3/mods/4769]5e Arcane Archer - Fighter Subclasss[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4147]All Effects And Boot In One GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3395]Appearance Edit Enhanced GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3103]Artificer GER[/url]
