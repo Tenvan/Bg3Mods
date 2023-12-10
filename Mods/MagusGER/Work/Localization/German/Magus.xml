@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="2599813974df8b7dadd4b5dfd1b7607060c7f" version="1">Ein Reservoir mystischer arkaner Energie, das deine Kräfte antreibt und deine Waffe verbessert.</content>
+  <content contentuid="f52b7e029236838ab1ab3a85a223eb544c654" version="1">Ein Zauberschwert, das sowohl das Arkane als auch die Klinge schwingt</content>
+  <content contentuid="hd1d340dagd87ag43afgb6c7g6cc05fcff7b4" version="1">Ein Foliant, der Euch 1 Zauber von 'Element absorbieren' gewährt.</content>
+  <content contentuid="h08cffaf6gaa83g404cg98fag9a354c6d863e" version="1">Ein Foliant, der dir 1 Schildzauber gewährt.</content>
+  <content contentuid="h6f6773c1g1076g47cfgacccgc5c00e76da4e" version="1">Säure-Anreicherung</content>
+  <content contentuid="h60ece2cdg2f2dg4107gb449g0cf2a1b4ecca" version="1">Gib nach einem Zauberschlag mit einem Stufenzauber 1 Arkanbeckenpunkt aus, um die Energie in einen Strahlenangriff gegen eine andere Kreatur innerhalb von 60 Fuß zu kanalisieren, der Schaden verursacht, der dem Typ deiner Arkankaskade entspricht.</content>
+  <content contentuid="1146e3e00e8d43260eb714bbddad995f3c4f8" version="1">Arkane Genauigkeit</content>
+  <content contentuid="6c2ae8d8ffb34fe6aca74c86f0d121d465c06" version="1">Arkane Genauigkeit</content>
+  <content contentuid="18af9bd9f1014128c819a0de53eef1860d978" version="1">Arkane Kaskade</content>
+  <content contentuid="262cf1a588aae0cf83dfa4b39c73ccf781bea" version="1">Arkane Kaskaden-Augmentierung</content>
+  <content contentuid="1e49666c44316c13150e8d58b86f4578ac0ba" version="1">Arkane Kaskade – Temporäre LP</content>
+  <content contentuid="2ce0b0e4e5849d19b23b1132f90508b29ede3" version="1">Arkaner Umhang</content>
+  <content contentuid="7920db2696feed7222879a4f63dfcaad039fb" version="1">Arkaner Umhang</content>
+  <content contentuid="h713c8323gcd0dg4f24gbf38g013b40cf2c13" version="1">Arkane Verbesserung</content>
+  <content contentuid="4179ca579e520782d8d5ad2647a1c2e1f2b64" version="1">Arkane Verbesserung</content>
+  <content contentuid="hc7102261ge276g4a85gb139g85772a7c5890" version="1">Arkanes Grimoire</content>
+  <content contentuid="99d7b8be73b16957796985f19d597e5b6cb0c" version="1">Arkane Punkte</content>
+  <content contentuid="f0a7671f2fc247ebf47ace0014f88a7a5adc1" version="1">Arkane Wiederherstellung</content>
+  <content contentuid="92ec002ea7f0ce45dd922ad8ed1f8f1d95414" version="1">Arkanes Leichentuch</content>
+  <content contentuid="857a092ce96366843ebf8c6ec4d179ab97565" version="1">Arkaner Schlag</content>
+  <content contentuid="f7f0d47b3ca49a24b01180efa8d265f17553b" version="1">Arkaner Schlag</content>
+  <content contentuid="6505ca8de452eee1426481c2ca93eadd56a4f" version="1">Als Bonusaktion erhaltet ihr einmal pro Kampfbegegnung Arkane Poolpunkte in Höhe der Hälfte eures Intelligenzmodifikators.</content>
+  <content contentuid="d38c6c0ef4e182e8f90d20832821b1e364b7e" version="1">Als Bonusaktion stürmst du nach vorne und ziehst Objekte und Kreaturen auf deinem Weg [1] zu dir.</content>
+  <content contentuid="36f68b48b9b5854bcadc5f391a6bcbf4203ef" version="1">Als Bonusaktion erhaltet ihr durch das Ausgeben von 1 Arkanpunkt bis zum Ende eures Zuges einen Bonus von +2 auf eure Angriffswürfe</content>
+  <content contentuid="3621bbc00b118fc77a268253b135161b7b28a" version="1">Als Bonusaktion wirkst du einen echten Schlag, der dir einen Vorteil für deinen nächsten Angriff gegen das Ziel gewährt.</content>
+  <content contentuid="23fb561d9627e68ece884e48b7052403d9407" version="1">Als Gipfel der magischen und kriegerischen Fähigkeiten könnt ihr, wenn ihr einen Zauberschlag verpasst, 5 Arkane Punkte ausgeben und stattdessen einen Treffer landen</content>
+  <content contentuid="79fd5383375f816448419151d0f52315e1da4" version="1">Als Gipfel der magischen und kriegerischen Fähigkeiten erhaltet Ihr Fertigkeit im Charisma-Rettungswurf</content>
+  <content contentuid="45f03b466c0d9eea9048d2ff70752b26865c2" version="1">Als Gipfel der magischen und kriegerischen Fähigkeiten erhaltet ihr Geschicklichkeit rettender Wurf</content>
+  <content contentuid="56a7688822c4825c55f11103ecf05fe6800f4" version="1">Als Gipfel magischer und kriegerischer Fähigkeiten erhaltet ihr Fertigkeiten im Kraftsparenden Wurf</content>
+  <content contentuid="b5ee0f8a089c9af839e465b9619911f3717a5" version="1">Als Gipfel der magischen und kriegerischen Fähigkeiten erhaltet ihr Fertigkeit im Wurf der Weisheitsrettung</content>
+  <content contentuid="heba1cc23g6ab4g4592gab27ga40e539fd46a" version="1">Als Reaktion auf einen Treffer erhaltet ihr Resistenz gegen den erlittenen Schaden sowie temporäre LP bis zum Beginn eures nächsten Zuges.</content>
+  <content contentuid="520b2a61276081b3734b3753aa8d20e7fb743" version="1">Am Ende deiner Züge hast du die Chance, von deiner Existenzebene zu verschwinden und auf der ätherischen Ebene zu erscheinen. Kehre in der ätherischen Ebene zu Beginn deines Zuges oder am Ende des Zauberspruchs zu einem Feld innerhalb [1] deines vorherigen Feldes zurück.</content>
+  <content contentuid="h5fe0705fg5d58g4897ga70dg91b56fc513b8" version="1">Greife mit deiner Waffe an und erzeuge einen Ausbruch von Elementarenergie.</content>
+  <content contentuid="hc56b8a73gfcebg4636g97d0g1caade665e46" version="1">Angriffe gegen dieses Ziel haben einen Vorteil.</content>
+  <content contentuid="936b0ca6c728e63d0440faa5ccf02fde88591" version="1">Fluch-Klinge</content>
+  <content contentuid="f768254e66b8a9ee0adf6df9876fed4f968bc" version="1">Blinzeln</content>
+  <content contentuid="dae5616b4fd671ab3c6dd7a4a276e29ed56b6" version="1">Blutdurstig: Wenn du eine Kreatur triffst, erhältst du 1W4 Trefferpunkte zurück.</content>
+  <content contentuid="409fbc5f60e68e625af8029786c8f1eb3a3de" version="1">Körper aus Nebel</content>
+  <content contentuid="edccd60e1b4d85c6004f70699fdd7b1df7fc8" version="1">Stärkt Euch mit einem nekromantischen Nachbild des Lebens, um 1W4 + 14 Temporäre Trefferpunkte zu erhalten.</content>
+  <content contentuid="e227ba10708b53321be2fc7663715e2c9dc4c" version="1">Magie einfangen</content>
+  <content contentuid="00d67577708637c95fc3bbec22122596dd67f" version="1">Capture Magic - Abschwörung und Beschwörung</content>
+  <content contentuid="fd13bf3e0676956fb9f1081e1cf547293acce" version="1">Fangmagie - Beschwörung und Transmutation</content>
+  <content contentuid="bf169a5a20bba73b0620ee9d043f61b896c4a" version="1">Capture Magic – Weissagung, Illusion und Verzauberung</content>
+  <content contentuid="d716dc96a303378666726d041e299e9447421" version="1">Magie einfangen - Nekromantie</content>
+  <content contentuid="0c1c17d6d9484db2cb4616635d5ad03488c99" version="1">Kaskaden-Gegenmaßnahme</content>
+  <content contentuid="hd22a3c29g2f43g44a6ga082gc74b2e3fd4c9" version="1">Kaskadierender Strahl</content>
+  <content contentuid="645830759f8c7a5325e1c4caccb4f6ac2fafc" version="1">Kaskadierender Strahl</content>
+  <content contentuid="cf07054b12c8b2707759f1d36fd9c0227a020" version="1">Wirke Gegenzauber auf der 3. Stufe als Reaktion für 3 Arkanpunkte</content>
+  <content contentuid="h3c170410g1052g47bdgbcc2gdf2aac103095" version="1">Das Wirken eines beliebigen gelevelten Zaubers füllt 1 Fokuspunkt des Fluxes wieder auf.</content>
+  <content contentuid="ce2e6a6ad4ffa24cd78de2386b257ad217687" version="1">Stürze nach vorne und ziehe Objekte und Kreaturen auf deinem Weg [1] zu dir.</content>
+  <content contentuid="c335e88433a7203a52b17c40abb0b9a1e9e81" version="1">Ladung der Heiligen Drei Könige</content>
+  <content contentuid="79ae8724ca27a9020293b28bc03d96d0592c9" version="1">Ladung der Heiligen Drei Könige</content>
+  <content contentuid="h3596e5aag4646g47d9g882bg7a67b7d1bc0d" version="1">Kälte-Verbesserung</content>
+  <content contentuid="h66733c15g9a0bg425dgae98ga396bfe0282e" version="1">Conflux-Fokus</content>
+  <content contentuid="h6be9b9f6gf77ag42f2gb42eg606a9c2236f2" version="1">Conflux Neuausrichtung</content>
+  <content contentuid="h671765bdgc6fdg4fe0gafe2g438113c50b4c" version="1">Conflux-Quelle</content>
+  <content contentuid="he048350bg7934g42b9g8f51gd6f96f27d890" version="1">Wandelt Euren Waffenschaden in [1] um</content>
+  <content contentuid="413eeaf5ae39191a46958f3c66bca7c2bcaae" version="1">Schillernder Block</content>
+  <content contentuid="95434a15cb721dc2143d3ca120885e8321809" version="1">Schillernder Block</content>
+  <content contentuid="827b36c77f1ae5dd5e6a1048f735deec1619d" version="1">Todestrinken: Wenn du eine Kreatur tötest, erhältst du 2W8 Trefferpunkte zurück.</content>
+  <content contentuid="h4395021eg96f7g4fc8g863agc942cbf8143a" version="1">Verheerender Zauberschlag</content>
+  <content contentuid="c72ffa2321512054bc381503a9db971530594" version="1">Verheerender Zauberschlag</content>
+  <content contentuid="h718be9f4ge386g4ef4g91c1g91b096fb5f5e" version="1">Dimensionaler Angriff</content>
+  <content contentuid="744ce386c3ea09363adc57634d3832f4fb219" version="1">Dimensionales Verschwinden</content>
+  <content contentuid="593dc01665aa14a756d7ff04cb029d34c21c3" version="1">Entwaffnender Angriff</content>
+  <content contentuid="hf605ea40g087ag494eg87fcg33a98b29e5ee" version="1">Löse dich, sprinte, verstecke oder greife an.</content>
+  <content contentuid="h39c24081g48ebg4d0ag9b1bg744cbb47ad44" version="1">Ablenkender Zauberschlag</content>
+  <content contentuid="a1b32463e699d28fc05174df9f489fce05180" version="1">Ablenkender Zauberschlag</content>
+  <content contentuid="b8728df5a12bcbaad239ab0c51a6d00cf26b6" version="1">Elementare Klingensäure</content>
+  <content contentuid="01a94b962ca7508924f8eeb0a4ce36192288b" version="1">Elementarklinge Kälte</content>
+  <content contentuid="a6ca98845678e4fff4375e39aae36246b35af" version="1">Elementares Klingenfeuer</content>
+  <content contentuid="3b9fefe92e85e1c79a613fc7cd90cdf3ded0f" version="1">Elementar-Klingen-Blitz</content>
+  <content contentuid="415d46adb60981eb033a9133b6c2b22ba66f3" version="1">Elementar-Explosion</content>
+  <content contentuid="h6f1fcc4dg1d2bg4422gbd9dg725ef7a7c4e9" version="1">Elementar-Explosion</content>
+  <content contentuid="h56e8c0b1g6806g48eag9e4bg4d8a0dfeba2a" version="1">Elementare Eruption</content>
+  <content contentuid="67ab0b0682da267836bf1e071699da2e4b6e6" version="1">Notfall-Targe</content>
+  <content contentuid="h90968157g5d5bg4714gb835g53b292f51b96" version="1">Notfall-Abschirmung</content>
+  <content contentuid="h12f01481g97bfg4c34gafd0ga214f4d97369" version="1">Notfall-Targe</content>
+  <content contentuid="54fdf2410d7c93f53d62a20a0f238b7b97275" version="1">Ausdauernde Klinge</content>
+  <content contentuid="hbd4dea81g2324g420ega1fagb52e85f2abf0" version="1">Erweiterte Kaskade</content>
+  <content contentuid="dbadf5af22e7cc50b7d28680cbeb9f3c4a6db" version="1">Expansiver Zauberschlag</content>
+  <content contentuid="hf1016c41gdd71g44fag82bdge07e3ad1d91a" version="1">Verlängerter Zauber</content>
+  <content contentuid="15df068671cef711166044b0836da59fbda02" version="1">Verlängerter Zauberschlag</content>
+  <content contentuid="he3537064g56ddg43cdgb902ga5ccaeb59502" version="1">Zusätzliche Zauberplätze - Level 1</content>
+  <content contentuid="hc00116c8gc34eg47e8gb202gc5f256953b01" version="1">Zusätzliche Zauberplätze - Level 2</content>
+  <content contentuid="ccd1f4072d87219694582cfab77022e5bcfb1" version="1">Falsches Leben (3)</content>
+  <content contentuid="96ce48e8de6c4330847845c220afb98c555b8" version="1">Vertraut</content>
+  <content contentuid="1928664d539a52bf8a24cdfd9f6d1e83f6df5" version="1">Weiter Schritt</content>
+  <content contentuid="h41f1443bg26edg45a5g9d2egbbcd768097c3" version="1">Feuer-Verbesserung</content>
+  <content contentuid="ed5f8d3362f0d7be3a65a06cb1229d4c8dbf8" version="1">Feuerschild</content>
+  <content contentuid="e94eedf99204356430248aba73bb57fd8adaa" version="1">Flammen durchziehen deinen Körper, werfen Licht in einem [1] Radius und gewähren einen warmen oder kühlen Schutzschild, je nachdem, was du wählst. Der warme Schild gewährt dir Resistenz gegen Kälteschaden und der Kälteschild gewährt dir Resistenz gegen Feuerschaden. Immer wenn dich eine Kreatur innerhalb von [2] von dir mit einem Nahkampfangriff trifft, nimmt der Angreifer [3] von einem warmen Schild oder [4] von einem kalten Schild.</content>
+  <content contentuid="a87671a635e57e51beac6d7a96bb367f3d9a9" version="1">Erhalte eine 10 Fuß hohe Aura magischer Energie. Verbündete in deiner Aura erhalten zusätzlichen Schaden durch deine Arkane Kaskade, wobei mehrere Widerhallende Kaskaden nicht auf derselben Kreatur gestapelt werden können.</content>
+  <content contentuid="hfcaffcc1gd0eeg458bgb75fg9d7da077fdf4" version="1">Erhaltet Täuschungsfähigkeit, indem ihr Intelligenz anstelle von Charisma einsetzt. Ihr könnt 1 Arkaner Poolpunkt ausgeben, damit euer Zauberschlag ein Ziel aus dem Gleichgewicht bringt.</content>
+  <content contentuid="0f69ce97189d66caeb3c582be05bac4a5bd09" version="1">Größere Unsichtbarkeit</content>
+  <content contentuid="h218b4b9fgc3b8g4c00g8252g2a181f0fd815" version="1">Übereilte Aktionen</content>
+  <content contentuid="09c55aab594ca745cc728237ea441ba5122e8" version="1">Hastiger Angriff</content>
+  <content contentuid="e78475f4992218367561078ca4f032362d407" version="1">Hastiger Angriff</content>
+  <content contentuid="165af598588def2ba744024a99ef9c690c54f" version="1">Hooked: Du kannst mit deiner Waffe Umsturzangriffe ausführen.</content>
+  <content contentuid="h577d922eg603cg423cg9646gc4fb627e2727" version="1">Zusätzlich zu eurem Kaskadenschaden dehnt ihr den Kaskaden-Verstärkungseffekt eurer Hybridstudie auch auf eure Verbündeten aus.</content>
+  <content contentuid="h321bf5d1g3b1cg444fgba17gf051b783d843" version="1">Unerbittliches Eisen</content>
+  <content contentuid="dc6cc9b02903e8674849e37d7791a7a298f17" version="1">Verleiht eurem Körper oder euren Waffen magische Kraft, um sowohl physische als auch magische Angriffe zu parieren, und erhaltet als Reaktion einen Bonus von +5 AC.</content>
+  <content contentuid="d6096f9087033cead7fd9eee51d04f96c3d87" version="1">Wissen ist Macht</content>
+  <content contentuid="hb06eb0aage069g4e27g80deg459e18316d23" version="1">Lachender Schatten</content>
+  <content contentuid="2d88a45ef1e54723d7bfa0ff5ff4a32520477" version="1">Hinterlasse eine Spur instabiler Energie, die deinem Pfeil folgt und Schaden basierend auf deiner Arkanen Kaskade verursacht.</content>
+  <content contentuid="h4a3e5833g5a21g440bgbf1cg7b645f3b9dff" version="1">Blitz-Verbesserung</content>
+  <content contentuid="5516d15cc2d335b69248567229a61b6ced3c3" version="1">Ausfallschritt Zauberschlag</content>
+  <content contentuid="hd9360954g6fd9g43d6g8ac4gb405ab5a6afa" version="1">Magie ist befreiend, ein Mittel zu deinen Zwecken, und du kannst sie benutzen, um zu gehen, wohin du willst, zu tun, was du willst, und die Konsequenzen zu vermeiden. Du bist ein lachender Schatten aus Zauber und Klinge, deinen Gegnern immer einen Schritt voraus, immer mit einem Trick im Ärmel.</content>
+  <content contentuid="54a6bd26e7ef9fd649711f2fa6be7a11c4318" version="1">Magischer Sinn</content>
+  <content contentuid="b709376e1614036e22a58ec5951a7dde5736e" version="1">Magische Energie ergießt sich über die Kreatur hinaus, die du getroffen hast. Wenn du eine Kreatur mit deinem Zauberschlag getroffen hast, kannst du 1 Arkanpunkt ausgeben, um einen Fernkampfzauberangriff gegen ein anderes Ziel innerhalb von 60 Fuß auszuführen. Bei einem Treffer erleidet die Kreatur Machtschaden in Höhe von zwei Würfen Deiner Arkanen Kaskade.</content>
+  <content contentuid="hcb7a5e5agbec8g4bf2g83ceg418d7ad63d50" version="1">Magische Widerstandsfähigkeit</content>
+  <content contentuid="heeb6ddb3g39efg4709g8e06gc039ef84f180" version="1">Magus</content>
+  <content contentuid="d3dce3e0523e38fad7f10d10b9f5661c07244" version="1">Magus</content>
+  <content contentuid="21c29c6b7632e01b942fb51b4e209e35b1ec9" version="1">Magus schaltet Kaulquappen-Kraft frei</content>
+  <content contentuid="d6f09efe67bd264ad71f12c1b120e8f832d0f" version="1">Analyse des Magus</content>
+  <content contentuid="717cc692b29231958a7353fb7862fdfdc0312" version="1">Magus' Analyse - Wahrer Schlag</content>
+  <content contentuid="h55ce8609gb077g461fg8dc2gcf6f8aa43d25" version="1">Schlag des Magus</content>
+  <content contentuid="184d680b642a7307d093cf34380d3a965120e" version="1">Führe einen Nahkampfangriff aus und stoße dein Ziel 10 Fuß weit weg.</content>
+  <content contentuid="ha7591b7eg29bfg4e33g85bcgfd498be9fea6" version="1">Führe einen Zauberschlag als Bonusaktion mit deiner Nebenhandwaffe aus.</content>
+  <content contentuid="73bcc24acf93b11045780a05dc1d1aa12ccbb" version="1">Mittlere Panzerung</content>
+  <content contentuid="a76bb92616864bbc5c912ab76292152c218c3" version="1">Bedrohlicher Angriff</content>
+  <content contentuid="0e1e00d093326a9cca62e397d9a6e821964bf" version="1">Meteorischer Schuss</content>
+  <content contentuid="3c32ac96ca34bdf5ac6a4751d91e15b44d0a4" version="1">Meteorischer Schuss</content>
+  <content contentuid="1f45c15e0b9862db67443f73874bc7d306780" version="1">Einmal pro Begegnung stellt Ihr die Hälfte Eures Intelligenz-Modifikators in Arkan-Pool-Punkten wieder her.</content>
+  <content contentuid="f1c9a736e846aaabd32dfee05ee9a8ca5c011" version="1">Einmal pro kurzer Pause erhaltet ihr Arkansammelpunkte in Höhe eures Intelligenzmodifikators.</content>
+  <content contentuid="h913d68a7g6e45g4b3ag8e2fgb92c625934d6" version="1">Wenn du einmal einen Weg beschritten hast, kann dich nichts davon abhalten, sein Ende zu erreichen. Du verwandelst die Masse einer Großaxt, eines Großschwerts oder einer Stangenwaffe in eine unaufhaltsame Kraft, um deine eigene Schlagkraft zu verstärken oder dich auf dem Schlachtfeld zu halten.</content>
+  <content contentuid="h1a6042e2gf0aeg4731gaa68gde9e6c223145" version="1">Überwältigender Zauberschlag</content>
+  <content contentuid="3a27b2393e4742ac26d41afccd15b3439369e" version="1">Führe einen Gegenangriff aus, wenn du Zauberparieren verwendest.</content>
+  <content contentuid="h7b53a76cg8eadg4720gb258g89b3bfa38551" version="1">Stoßt einen Pfeil in einen Feind und entzündet ihn mit Feenfeuer.</content>
+  <content contentuid="2c14193db85c17fb8421e9c39313971d161e2" version="1">Übernatürliche Parade</content>
+  <content contentuid="55560534a94b90553b6590ede75e83c5021a3" version="1">Push-Attacke</content>
+  <content contentuid="126c7b6fd97aa8c6e40297ce632e4407b5d5b" version="1">Heben Sie einen Folianten auf</content>
+  <content contentuid="0a1d64c0db1f242e503bb805aa0e29e8fd39a" version="1">Erhebe deinen Schild, um Widerstand und temporäre Trefferpunkte gegen eingehende Angriffe zu erhalten.</content>
+  <content contentuid="48b2d6260242381fc52fdff06ce067c5b4e96" version="1">Rallye</content>
+  <content contentuid="h13913085g2b6ag4c52g953ag3d38287e16da" version="1">Fernkampf-Zauberschlag</content>
+  <content contentuid="347e5e7b918f2c358b8aab9c6e3d3ad5a43f7" version="1">Schnelles Aufladen</content>
+  <content contentuid="a7e9761edf239e9a0f4b405fcf7a000dde371" version="1">Schnelles Aufladen</content>
+  <content contentuid="he78c4025g49f3g4811ga146g397579cbfb5a" version="1">Resonante Klinge Zauberschlag</content>
+  <content contentuid="hc1c0f9dfg95a0g4ab4gaa90ga7a48119c8bd" version="1">Resonante Klingen</content>
+  <content contentuid="5ed7f65b5ae7ac925862fa79fd534480abd1d" version="1">Rauschende Kaskade</content>
+  <content contentuid="6c38a33e79b8b39bf7830f72c8f24dba3ec25" version="1">Neu beleben</content>
+  <content contentuid="f74fa94b48170811d1d71d723cf3ceaa2fed4" version="1">Platziert</content>
+  <content contentuid="d564042aa3a35f90b14fe1fc9baf9b1f9ad57" version="1">Runenabdruck</content>
+  <content contentuid="02a144c257acf2f7a9bb269762af9bf2ddc67" version="1">Runenabdruck - Bloodthisty</content>
+  <content contentuid="b81985020c61dc91d5d0f13e85104c2172559" version="1">Runenabdruck - Todestrinken</content>
+  <content contentuid="a7abba636d040d0753f993dac8948939fc2e0" version="1">Runenabdruck - Haken</content>
+  <content contentuid="5bec3f03a7e97f79571c9fbc62e62a4e3ad50" version="1">Runenabdruck - Geschwindigkeit</content>
+  <content contentuid="865ac87dd2726cc21f61829b512f978794b7d" version="1">Runenabdruck - Verwundung</content>
+  <content contentuid="h8266a934g6fd8g495fg9ff1gb85cf08b683e" version="1">Schild des Prügelns</content>
+  <content contentuid="hb9dcff85gb1a0g411fg8d6cg3f7661afbd6d" version="1">Schild der Schläge +1</content>
+  <content contentuid="h9af72a10g80bag4450g8273g584f6337fc98" version="1">Schutzschild der Notabschirmung</content>
+  <content contentuid="hc95bff68ge454g43bdgb4bcg657b6021979c" version="1">Schild der Notabschirmung +1</content>
+  <content contentuid="h1eda5c27g1a1eg473ag9e91ga2ab21205db9" version="1">Schild der Notabschirmung +2</content>
+  <content contentuid="ea76e89b64209700aa95bc04301458f4bddd3" version="1">Schild-Fertigkeit</content>
+  <content contentuid="16127355843626be7000bc57b069f854cd2f4" version="1">Abgeschirmter Foliant</content>
+  <content contentuid="h9fa5c2c6g26f0g424bg884bga2775a997fc3" version="1">Schild-Schlag</content>
+  <content contentuid="h95f9f9a3gbcd6g40adga189g4d2474336044" version="1">Abschirm-Schlag AC</content>
+  <content contentuid="hea83bcf5g39bdg4106ga813g9ef4986e4c5a" version="1">Sternschnuppe</content>
+  <content contentuid="h138c33e3g6e54g4e66g93bag711b9ce0867d" version="1">Sternschnuppen-Vorteil</content>
+  <content contentuid="h790e7bb6gdfafg473dga291g746e2221160e" version="1">Zerschmettert Euer Ziel für eine zusätzliche [1].</content>
+  <content contentuid="924eac1179098935c26d60376e97af8e63755" version="1">Schleich-Angriff</content>
+  <content contentuid="h85ceba3bg9cc5g4031gb43ag96c5aeb983eb" version="1">Prickelnde Targe</content>
+  <content contentuid="c7d7281a203422a1e3e2f274f9a7eaf8233bf" version="1">Geschwindigkeit: Du kannst einen Angriff mit dieser Waffe als Bonusaktion für halben Schaden ausführen.</content>
+  <content contentuid="a1461f595ee9d26307d8294f229e6c47e4570" version="1">Zaubermischung der 1. Stufe - Barde</content>
+  <content contentuid="0f88ffd17e323c5ec7e18815808f0d1430a96" version="1">Zauber der 1. Stufe verschmelzen - Kleriker</content>
+  <content contentuid="3fdde3a53d29b9bc6c7ac6149e4c981ca84cb" version="1">Zaubermischung der 1. Stufe - Druide</content>
+  <content contentuid="d66e0660fc8a598330b8db6e881f960e066d6" version="1">Zaubermischung der 1. Stufe - Paladin</content>
+  <content contentuid="2e356f2072ffb25943629129409d3b3ecbc13" version="1">Zaubermischung der 1. Stufe - Waldläufer</content>
+  <content contentuid="2d11c2d7693ee36afb36ce1deb688f72789ef" version="1">Zauber der 1. Stufe mischen - Hexenmeister</content>
+  <content contentuid="ec18310ccdd5e5d83d31e672db5c301a2ddfb" version="1">Zauber-Misch-Cantrips - Barde</content>
+  <content contentuid="4a08bf6f98f844aeff7d5e7de068bbc1bbd71" version="1">Zauber-Misch-Cantrips - Kleriker</content>
+  <content contentuid="a0cba18297f53d4809b4c71acf0f506ca50ea" version="1">Zauber-Misch-Cantrips - Druide</content>
+  <content contentuid="5d46a5727dc1486ad6894059ceacc3f14beaa" version="1">Zauber-Misch-Cantrips - Hexenmeister</content>
+  <content contentuid="04ba6b5d2daa75ce5330e21e337ff4f2ba0df" version="1">Zauber-Kampf</content>
+  <content contentuid="b46f93019df6cfa3dc0372013057cd4ad296f" version="1">Zauber Parieren</content>
+  <content contentuid="a702ec70ea148ae69724ba4a2840c941dbc91" version="1">Zauber Parieren</content>
+  <content contentuid="03ef16769df101f46ad35fe8bb61a490a398d" version="1">Zauberschlag</content>
+  <content contentuid="50ce430ccb71d70111e029af5d1be3b678058" version="1">Zauberschlag – Fernkampf</content>
+  <content contentuid="79035caa88f0424a36bd3c713c8b81250aed5" version="1">Zauber-Swipe</content>
+  <content contentuid="440231116e97b2c3fef3f02dcf33871fa37cb" version="1">Zauber-Swipe</content>
+  <content contentuid="hf3023c76g2d8ag4811gad69gccfbc52a6934" version="1">Zauberschlag</content>
+  <content contentuid="hef1c9dc0g432eg40f2ga89fg13b299e21ff6" version="1">Gebt 1 Arkanpunkt aus und führt einen Waffenangriff aus, um das Gleichgewicht Eures verzauberten Ziels zu stören.</content>
+  <content contentuid="h036c9d78g4a2cg413cgba89g2e30e47d6e91" version="1">Gebt 1 Arkanpunkt aus, führt einen Waffenangriff aus und entfesselt eine Explosion um Euer Ziel herum, basierend auf dem Schadenswürfel Eurer Arkankaskade.</content>
+  <content contentuid="3d9d4c095f8b6dd2bf440911b531156a959de" version="1">Gib 1 Punkt aus deinem Arkanen Vorrat als Bonusaktion aus, um deinen Waffenangriffen bis zum Ende deines Zuges einen Bonus von +2 auf Angriffswürfe zu gewähren.</content>
+  <content contentuid="h5346c498geebcg419eg9fe8gd89d0f336be2" version="1">Nehmen Sie sich 10 Minuten Zeit, um Ihren Konflux-Fokuspunkt wiederzuerlangen.</content>
+  <content contentuid="hbd34bebfgef3bg4da6g9346g4af88f9a9d4c" version="1">gib 2 AP aus, um 1 Runde lang alle Resistenzen gegen Schaden zu ignorieren</content>
+  <content contentuid="5fbc1a5b8f2da394405a33efe75c82ddf7b24" version="1">Gebt 2 Arkane Poolpunkte als Zauberschlag aus, um alle Gegner in eurer Reichweite gleichzeitig anzugreifen.</content>
+  <content contentuid="572d643e22558fee03e16bcf8a9854093e7d6" version="1">Wenn du 1 Arkanpunkte ausgibst, versuchst du, dein Ziel mit deinem Zauberschlag aus dem Gleichgewicht zu bringen.</content>
+  <content contentuid="h46285ab6gf469g4d38gb45cg843feac2dd89" version="1">Drehen Sie Ihren Stab herum und schleudern Sie jeden Feind im Umkreis von 10 Fuß von Ihnen weg.</content>
+  <content contentuid="heb6e7109gfd6dg4684ga2a2g4a647704ae39" version="1">Drehstab</content>
+  <content contentuid="hac5509f3gffd5g41f4ga545g4277279b4aa7" version="1">Sternenhelle Augen</content>
+  <content contentuid="hfe6aa11bg0036g4db7ga45fg1d1bf7f2e974" version="1">Sternenbeschienene Spannweite</content>
+  <content contentuid="41d9fbd62c56e4312fe62bf5809deb2dcfc12" version="1">Stetiges Zaubern</content>
+  <content contentuid="0545119d7745a052800ba4a10d891ec33d635" version="1">Steinhaut</content>
+  <content contentuid="2357bf4a1c93b56a8c30cebaa2f102b3b5ad8" version="1">Studentin des Kollegiums</content>
+  <content contentuid="a236f75862e15343b220804c580c3df288cc1" version="1">Schüler des Stabes - Shove</content>
+  <content contentuid="h86cba3degadfag4286ga16cg24c60ddc0fa4" version="1">Beschwört einen magischen Folianten, der Euch 1 Zauber des Zaubers "Element absorbieren" gewährt.</content>
+  <content contentuid="h3577c26ag79e1g41c3g860aga089674a4d70" version="1">Beschwört einen magischen Folianten, der Euch 1 Zauber des Schildzaubers gewährt.</content>
+  <content contentuid="h58ecbdc2g991eg4ad7gb216g1605a610d2c8" version="1">Beschwöre einen magischen Folianten, der dir einen rettenden Wurfbonus gewährt.</content>
+  <content contentuid="h67616e20g135cg44e8gacd7g7855365dc99a" version="1">Beschwört einen magischen Folianten, der euch temporäre Trefferpunkte gewährt, wenn ihr weniger Gesundheit habt.</content>
+  <content contentuid="hbc9638c8gad67g4619gac42gb735bda37c2e" version="1">Beschwöre einen magischen Folianten, mit dem du deine Reaktion zum Schildschlag verwenden kannst.</content>
+  <content contentuid="hf293a113gb1b6g4ceeg96b8g1591e9612f91" version="1">Beschwört einen Arkanen Grimore, der wie ein Schild wirkt und euch bei allen Intelligenzwürfen einen Vorteil verschafft.</content>
+  <content contentuid="h30df7ea9g7ef9g4c88g88d0gcab5ad6adc2b" version="1">Foliant beschwören - Element absorbieren.</content>
+  <content contentuid="he382dd80g1b85g485cgbdf1g2428509813d8" version="1">Beschwörung des Folianten - Arkaner Grimore.</content>
+  <content contentuid="h5b04888cg85c5g4ffdga40dg3c484d96e178" version="1">Foliant beschwören - Notfall-Abschirmung.</content>
+  <content contentuid="h71dd7211gf1cfg4772g9c8bg5bd14ac53139" version="1">Foliant beschwören – Abhärtung.</content>
+  <content contentuid="h298cc159g7de0g40ffga933gf818ec4d1fb1" version="1">Foliant beschwören - Riposte.</content>
+  <content contentuid="h9dc668b3gd58cg4adagbf35gc8efcaded72d" version="1">Foliant beschwören - Schild.</content>
+  <content contentuid="h30b817c8g3661g4c02g8bd6ge3d52c65e389" version="1">Höchster Zauberschlag</content>
+  <content contentuid="0499215066476339a7d58095e22d1fee3b338" version="1">Nachhaltiger Stahl</content>
+  <content contentuid="a26f8657e65739785e9d4d8bfe8e5384731ed" version="1">Schwinge deine Waffe in einem weiten Bogen, um bis zu [1] Gegner gleichzeitig anzugreifen.</content>
+  <content contentuid="16c3cfd6682bca8d50dfa782c9e0abcde9b6d" version="1">Teleportiere dich 30 Fuß zu einem sichtbaren, unbewohnten Feld als Bonusaktion.</content>
+  <content contentuid="10a649b46792ca2f5f2d6393d4ee4702543e9" version="1">Teleportiere dich zu einem unbewohnten Feld, das du sehen kannst. Du kannst dich auf diese Weise wieder als Bonusaktion in deinen Zügen teleportieren.</content>
+  <content contentuid="h11b4ee7egb42bg4194g8367g82d678fc0c00" version="1">Der Magus ist gleichzeitig ein Schüler zweier Philosophien, die magische Fähigkeiten und kriegerisches Können zu etwas völlig Einzigartigem verschmelzen, einer Disziplin, in der sowohl Zauber als auch Stahl mit verheerender Wirkung eingesetzt werden.</content>
+  <content contentuid="h8c3b14ceg67f2g4b78ga687g6396f4e15597" version="1">Die Ressource für das Wirken von Konfluxzaubern kann außerhalb des Kampfes wieder aufgefüllt werden.</content>
+  <content contentuid="h9be33bc2g6565g4569gb429gba40731b0e46" version="1">Der Stab ist vielleicht eine der einfachsten Waffen, aber diese Einfachheit täuscht über seine Eleganz und Vielseitigkeit hinweg. Für dich ist ein Stab sowohl ein Wirkgerät als auch eine Kampfwaffe – die Grundlage eines Kampfstils.</content>
+  <content contentuid="hbfc18446gda45g45e1gaa05g8221ef818aa1" version="1">Diese Attacke ist Teil eines Zauberschlags.</content>
+  <content contentuid="hd48fa30bg4c6bg46a5g800bg863071af0783" version="1">Der Angriffswurf und die Reichweite dieses Zaubers stimmen mit dem Angriffswurf deiner Nahkampfwaffe überein.</content>
+  <content contentuid="h2a0187d2g858bg4b06g8e0eg99798f72ea69" version="1">Der Angriffswurf und die Reichweite dieses Zaubers stimmen mit dem Angriffswurf deiner Fernkampfwaffe überein.</content>
+  <content contentuid="hed52f0cdgafe0g43a1g9002ge217f7cbd25e" version="1">Stoßt Euren Schild nach vorne und verspottet Euren Gegner, um einen Bonus von +2 auf Rüstungsklasse und Rettungswürfe zu erhalten.</content>
+  <content contentuid="h674222b2g2638g4f84gb5ceg877a03f35787" version="1">Donner-Verbesserung</content>
+  <content contentuid="f003da19face47119640768e698341465b24a" version="1">Donnernde Vergeltung</content>
+  <content contentuid="hd17e8c49gd843g4e3cg9c15ge0c75f9f6287" version="1">Donnernder Schlag</content>
+  <content contentuid="h901595f5g6ef0g4ec2g926bg90f4c27a4969" version="1">Foliant der Elementarabsorption +1.</content>
+  <content contentuid="h7148cf2fge91bg40dag90dbg34042e7b8947" version="1">Foliant der Elementarabsorption +2.</content>
+  <content contentuid="h50d455d7gbf53g495fgab95g81ff883a2754" version="1">Foliant der Elementarabsorption.</content>
+  <content contentuid="hf0a3a07ag9f9ag4973gb993gfda320780832" version="1">Foliant der Resilienz</content>
+  <content contentuid="h466528f4g71dbg429fg973dg997005197c6a" version="1">Foliant der Belastbarkeit +1</content>
+  <content contentuid="h638eaabeg2880g4501g8203gd4b77721aa62" version="1">Foliant der Belastbarkeit +2</content>
+  <content contentuid="h91be8b3fg40c6g4665g8a68gd485bc50b26a" version="1">Foliant des Schildes +1.</content>
+  <content contentuid="hf785454cg4334g4e3egabe3g7162cd48111d" version="1">Foliant des Schildes +2.</content>
+  <content contentuid="hf8f8383fg9291g4a05g8bbdg7abe096e6ab6" version="1">Foliant der Abschirmung.</content>
+  <content contentuid="c104f5d392821c3abe3bdb7078b0b41dec263" version="1">Berühre eine Kreatur, um sie unsichtbar zu machen.</content>
+  <content contentuid="80dbbb133a5195bd36c359735346ef176775f" version="1">Verwandle deinen Stab mit deiner Arkanen Kaskade, erhöhe seinen Schaden auf 1W8 und erhalte die Eigenschaft Reichweite.</content>
+  <content contentuid="87c4da96669234c433361829f7d795e51b261" version="1">Stolper-Attacke</content>
+  <content contentuid="7a1905a79a8e82d09045ef7131184d1e78aa1" version="1">Wahrmagus-Charisma-Rettungswurf</content>
+  <content contentuid="2ae009551e4b88ae4740605b521c7bead3349" version="1">Wahrmagischer Geschicklichkeits-Rettungswurf</content>
+  <content contentuid="1b6f4313d460d9284639554295e22d3d7afe8" version="1">Wahrer Magus-Kraftrettungswurf</content>
+  <content contentuid="f0f9e5304f533de765672c35cb3d5c2378a5e" version="1">Wahrer Magus UnfehlbarZauberschlag</content>
+  <content contentuid="04f7e0026d3d97d870e3e7a18825ab1b08e08" version="1">Wahrmagischer Weisheits-Rettungswurf</content>
+  <content contentuid="hab7e4d15g6ffbg4935g839cg42e01e329ada" version="1">Stolpere durch den Weltraum und mache einen kurzen dimensionalen Sprung, um dich für einen Angriff besser zu positionieren. Teleportiere dich in die Nähe einer Kreatur in Reichweite und greife sie an.</content>
+  <content contentuid="2a38540f9945b70a03ffd38f8fb1e2a228c04" version="1">Verwende das Fleisch einer Kreatur, die du berührst, so hart wie Stein, um dem Ziel Resistenz gegen nichtmagischen Knüppel-, Durchbohrungs- und Hiebschaden zu gewähren.</content>
+  <content contentuid="573d0e03fc7dcb3ee26dbae5f0a204d1c3d6e" version="1">Verdrehter Stab</content>
+  <content contentuid="h32365b79g54c5g4864gaa7cg9db88b78cf6e" version="1">Verschlungener Baum</content>
+  <content contentuid="804e9e73e6c7e7b67504fff4222b431db8204" version="1">Wenn Ihr Eure Arkane Kaskade auslöst, erhaltet Ihr kurzzeitig einen Zauber, abhängig von der Zauberschule, die ihn ausgelöst hat.</content>
+  <content contentuid="1792aa536a83ad6d8ef3a58fd253a7acd3189" version="1">Vakuum-Tunnel</content>
+  <content contentuid="70d9baa718038539e3264ba253141cb527e67" version="1">Waffenangriff, der den Angriff des Ziels verringert und Würfe für die nächste Minute um [1] speichert.</content>
+  <content contentuid="8ab5aed4b628becbb8edb00bf1d6436723e6c" version="1">Wenn ein Zauber auf dich gewirkt wird und gezielt auf dich abzielt, nimmst du einen Teil seiner Magie für deinen eigenen Gebrauch auf. Du gehst in deine Arkane Kaskade und bestimmst mit dem Auslösezauber, welche Art von Schaden deine Arkane Kaskade verursacht. Zusätzlich erhaltet ihr 1 Fokusmessfeld.</content>
+  <content contentuid="3d26b11e5c82b85ddded1065c65b52c0beb2e" version="1">Wenn ihr von einem Angriff anvisiert werdet, gebt ihr 1 Arkaner Poolpunkt aus, um einen blendenden Blitz in einem 15-Fuß-Kegel zu erzeugen, der möglicherweise mehrere Gegner blendet.</content>
+  <content contentuid="663eea0ef1fd3ec2e7b96bb625571e3d5c487" version="1">Wenn Ihr von einem Angriff anvisiert werdet, gebt Ihr 1 Arkaner Poolpunkt aus, um eine donnernde Explosion zu erzeugen, die Angreifer als Reaktion wegstößt.</content>
+  <content contentuid="c5f499e0d3921d90ee851cad17cd7575d74a8" version="1">Wenn Ihr von einem Angriff angegriffen werdet, könnt Ihr Eure Reaktion einsetzen und 1 Arkanpunkt ausgeben, um einen brillanten Blitz zu erzeugen und zu versuchen, die Menschen um Euch herum zu blenden.</content>
+  <content contentuid="a56501a6bae7e3e3da5f753a08c9060fbea76" version="1">Wenn du einen Schild führst, erhöhst du die AK und die Rettungswürfe des Schildes um 1</content>
+  <content contentuid="2d43cc9dcbe03f0eb641f78433f772010ae84" version="1">Wenn du einen Zauber wirkst, speicherst du einen Teil der Magie in deiner Klinge und dein nächster Zauber verbraucht keinen Zauberplatz.</content>
+  <content contentuid="9b86412e426bea7e5d67648c6ba761b4e470a" version="1">Wenn du Arkane Kaskade betrittst, erhältst du doppelt so viele temporäre Trefferpunkte.</content>
+  <content contentuid="f8da3e8fa7e0b2336c05613a71d3fa4500c94" version="1">Wenn du einen Zauberschlag ausführst, kannst du 2 Arkanpunkte ausgeben und eine Spur aus arkaner Energie erzeugen, die du auf dem ganzen Weg beschädigen kannst. Der Schaden wird durch Euren Arkankaskadenwürfel verursacht.</content>
+  <content contentuid="557322d523cb45f5ba904a683a9e300315eb7" version="1">Wenn du einen Zauberschlag mit einem gelevelten Zauberspruch ausführst, kannst du 1 Arkanpunkt ausgeben, um zwei Kreaturen anzugreifen, die sich in einem Abstand von 5 Fuß zueinander befinden.</content>
+  <content contentuid="hf7263d8dgd133g42f6ga872g5e85394a4386" version="1">Wenn du einen Zauberschlag mit deiner Haupthandwaffe verfehlst, kannst du einen weiteren Zauberschlag als Bonusaktion mit deiner Nebenhandwaffe versuchen. Das Fehlen des Angriffsteils eines Expansive Spellstrike würde dies nicht auslösen.</content>
+  <content contentuid="8b2ec4c78a4a0a0e00d9b963df37f1d1789b5" version="1">Wenn du die Angriffsaktion ausführst, kannst du auch einen Zauberschlag ausführen</content>
+  <content contentuid="2aa35630f15a704e39f284e6c3a4caed8b4f3" version="1">Wenn du 'Arkane Verstärkung' einsetzt, erhält deine Waffe zusätzlich 1W8 Schaden dieses Schadenstyps, der sich auf 1W10 auf Stufe 14 und 1W12 auf Stufe 17 erhöht. Wenn du mit einem Waffenangriff einen kritischen Treffer erzielst, erzeugst du außerdem eine Elementarexplosion, die den Bonusschaden umkreisenden Kreaturen innerhalb von 5 Fuß zufügt.</content>
+  <content contentuid="hb8c8631cgd465g470bgba10gb9ca936047f8" version="1">Wenn deine Trefferpunkte unter 50% fallen, erhältst du [1].</content>
+  <content contentuid="he7e9f071g1aaeg4aeag99d6ge7974ce09bb1" version="1">Während du dieses in Leder gebundene Buch hältst, kannst du es als Zauberfokus für deine Zauberzauber verwenden, und du erhältst einen Bonus auf Zauberangriffswürfe und auf die rettenden Wurf-DCs deiner Zauberzauber. Der Bonus richtet sich nach der Seltenheit des Buches.</content>
+  <content contentuid="h786b6a83g44b4g4d1fgbe9fgc2de351c4df6" version="1">Während du diesen Folianten in der Hand hältst, erhältst du einen Bonus auf Rettungswürfe.</content>
+  <content contentuid="h025b4a04gbae5g4b85g83fag1b8182790ef4" version="1">Während du diesen Folianten in der Hand hältst, erhältst du vorübergehend Trefferpunkte, wenn du auf niedrige Gesundheit fällst</content>
+  <content contentuid="h90ce7c0agf6ebg44dfga183gae2e8372f28d" version="1">Während du diesen Folianten in der Hand hältst, kannst du eine Reaktion einsetzen, um eine Kreatur zu verprügeln, die dich angreift.</content>
+  <content contentuid="f0ecd8764d129bce48fad612d7da835cccf48" version="1">Während du dich in der Haltung "Arkane Kaskade" befindest und einen Schild führst, erleidest du [1] weniger Schaden aus allen Quellen.</content>
+  <content contentuid="27cd82542d92bb63eb3b1d21150c4d2c4f8d8" version="1">Während du dich in der Haltung "Arkane Kaskade" befindest, erhältst du 5 Fuß zusätzliche Bewegung und verursachst doppelten Schaden mit "Arkane Kaskade".</content>
+  <content contentuid="394b35bd3d53c127bbb6935c6383c4c4a1599" version="1">Während du dich in der Haltung "Arkane Kaskade" befindest, erhältst du vorübergehend Trefferpunkte in Höhe des Doppelten deines Intelligenzmodifikators.</content>
+  <content contentuid="110c68843e3257b86b5c845bd910f8ffd96f8" version="1">Während du dich in der Haltung "Arkane Kaskade" befindest, erhältst du vorübergehend Trefferpunkte in Höhe deines Intelligenzmodifikators.</content>
+  <content contentuid="f73f05cde875860f6311dc133cee4b53b7e0a" version="1">Während du dich in der Haltung "Arkane Kaskade" befindest, verursacht dein Stab stattdessen 1W10 Knüppelschaden und erhält die Eigenschaft "Reichweite".</content>
+  <content contentuid="e77831daf0f376e2522e5fc502c7bf8acd829" version="1">Wirbelwind-Zauber</content>
+  <content contentuid="h8aa7c8f4ga9aeg4574g8035g0a6e8b96ee23" version="1">Bei der Magie ist der Himmel die Grenze, und Sie können nicht an die Grenzen der physischen Nähe gebunden sein. Deine Kraft reicht so weit, wie deine Sinne wahrnehmen können, und transzendiert den Raum zwischen dir und deinem Ziel, selbst bei Zaubersprüchen, die normalerweise direkten Körperkontakt erfordern.</content>
+  <content contentuid="9d72ba17237bf2faf1c4ba7642d98b478cfe0" version="1">Verwundung: Wenn du eine Kreatur triffst, blutet sie und erleidet zu Beginn ihres Zuges für die nächsten 10 Runden 1W6 Schaden.</content>
+  <content contentuid="h3ffa3255g1248g4feagb0d4g66f300cfc321" version="1">Ihr erhaltet immer den Vorteil von 'Hastiger Angriff'.</content>
+  <content contentuid="e73bf13bffb116f7a79e6c2566773262eec91" version="1">Du kannst deinen Intelligenz-Modifikator zu deinem Waffenschaden hinzufügen</content>
+  <content contentuid="f1975d0cb3127b82c83bcecd202254c327364" version="1">Du kannst den Schild mit einem Arkanpunkt anstelle eines Zauberplatzes wirken</content>
+  <content contentuid="h8c28e6a3g9b1dg4640ga2bag8e24c46241de" version="1">Du kannst 1 Arkanpunkt als Bonusaktion ausgeben, um den Schadenstyp deiner Waffe für 1 Minute in Feuer, Kälte, Säure, Blitz oder Donner zu ändern, und auf Stufe 5 kannst du zusätzliche Arkanpunkte ausgeben, um die Dauer weiter zu erhöhen.</content>
+  <content contentuid="7d0b504853508f6508d9caaf711df20225ba3" version="1">Du kannst 1 Arkanpunkt als Bonusaktion ausgeben, um einer Nahkampfwaffe, die du besitzt, für die Dauer deiner Arkanverstärkung eine zusätzliche Eigenschaft zu gewähren.</content>
+  <content contentuid="54a765d16ea397d97d9d3a2bb05afdcb6b031" version="1">Du kannst eine zusätzliche Aktion ausführen, bei der es sich entweder um die Aktionen Angriff (Angriff mit einer Waffe), Sprint, Rückzug oder Sprint handeln muss.</content>
+  <content contentuid="c743298196391c046c549a0d0e4e3b272d7f8" version="1">Du stürmst 30 Fuß nach vorne, als Bonusaktion.</content>
+  <content contentuid="22c4bb51de274b510dce2462431cab0f534ee" version="1">Du lenkst einen Teil der magischen Kraft des Zaubers ab und lässt sie durch deinen Körper und deine Waffe kreisen, indem du spezielle Formen, Atmung oder Beinarbeit verwendest. Wenn du einen Zauberspruch wirkst oder einen Zauberschlag mit einem Zauberspruch der 1. Stufe oder höher einsetzt, verursachen deine Waffenangriffe je nach Schule des Zaubers einen zusätzlichen Schaden von 1W4, der sich auf Stufe 5 auf 1W6, auf Stufe 10 auf 1W8, auf Stufe 14 auf 1W10 und auf Stufe 17 auf 1W12 erhöht.</content>
+  <content contentuid="h7048c593ge719g42ecgb76bg47dec0b8db61" version="1">Ihr erhaltet +[1] zu AC und rettenden Würfen.</content>
+  <content contentuid="h2fb992f9g424ag4d3bg9b6dg5e7cfd24a42a" version="1">Ihr erhaltet 1 zusätzlichen Zauberplatz der Stufe 1</content>
+  <content contentuid="hfa5263b1g6d0cg4174g9c94g27c1ef59bcf7" version="1">Ihr erhaltet 1 zusätzlichen Zauberplatz der Stufe 2</content>
+  <content contentuid="f912e583af2752d013e2c0e660698565588da" version="1">Du erhältst 1 Schleichangriffswürfel</content>
+  <content contentuid="bb27e20ef8634745346cc3ec2a7a6ecce0c69" version="1">Du erhältst 1 Überlegenheitswürfel und ein Kampfmeister-Manöver.</content>
+  <content contentuid="a721426d30b8f8f39aff72c66a3e0773e98e6" version="1">Du erhältst 1 Überlegenheitswürfel und ein Kampfmeister-Manöver.</content>
+  <content contentuid="3b2f489cc8ac03aef15ef45585820513677d9" version="1">Du erhältst 1 Überlegenheitswürfel und ein Kampfmeister-Manöver.</content>
+  <content contentuid="02ad15a49b4f671a01ce20e339d58285d4a5d" version="1">Du erhältst 1 Überlegenheitswürfel und ein Kampfmeister-Manöver.</content>
+  <content contentuid="f3ab01423bfe4139cd5de802656fd111367d2" version="1">Du erhältst 1 Überlegenheitswürfel und ein Kampfmeister-Manöver.</content>
+  <content contentuid="7a60766cde3d9dd99de7d8d2e058cd3560239" version="1">Du erhältst 1 Überlegenheitswürfel und ein Kampfmeister-Manöver.</content>
+  <content contentuid="16a9d22cfe2bc6ce3439ec98cee8d79be4a85" version="1">Ihr erhaltet einen Bonus von + [1] auf Waffenangriffe und Schadenswürfe für die Dauer</content>
+  <content contentuid="c5c175465073d4f3d939f0d6a0a965f0421ee" version="1">Ihr erhaltet einen Bonus von + [1] auf Waffenangriffe und Schadenswürfe.</content>
+  <content contentuid="he13468ffgfb0dg4a55gad27g7d270e67139d" version="1">Du erhältst +[1] auf Rettungswürfe.</content>
+  <content contentuid="af72212365f2a685bdb08b166ff2a17a097bd" version="1">Ihr erhaltet einen Bonus auf Konzentrationswürfe in Höhe eures Intelligenzmodifikators</content>
+  <content contentuid="99124c1d0879d911602c9b75056822b6dd2a5" version="1">Ihr erhaltet einen Bonus auf Verstohlenheit, Täuschung und Überredungswurf in Höhe eures Intelligenzmodifikators. Darüber hinaus können Sie sich als Bonusaktion verstecken.</content>
+  <content contentuid="h1281f924g4901g4531gaae8geaab00e9bc8c" version="1">Du wirst blind.</content>
+  <content contentuid="87e7794318749a922d13a8254ae9820b13fe9" version="1">Ihr erhaltet Fertigkeiten mit mittlerer Rüstung</content>
+  <content contentuid="99bea78067100c16887f2f1682b35a311b999" version="1">Ihr erhaltet Fertigkeit im Umgang mit Schilden</content>
+  <content contentuid="796537703e55dd3a6c1e7bb5988ea985609c9" version="1">Ihr habt die Magie eines anderen eingefangen, um in die Arkane Kaskade einzutreten.</content>
+  <content contentuid="0e394f6b7015c83d54e4d6dc37f2a754841f2" version="1">Ihr wisst, wie man einen Nahkampfangriff in einen Schlag oder Schwertstoß kanalisiert, um einen kombinierten Angriff auszuführen.</content>
+  <content contentuid="28b897b7a5ae5f15042e972fe272a44d38e84" version="1">Ihr wisst, wie man einen Zauber in einen Schlag oder Schwertstoß kanalisiert, um einen kombinierten Angriff auszuführen.</content>
+  <content contentuid="0a3d34906388e3ec29a4cba4f1f4c689efdab" version="1">Du lernst 2 Barden-Cantrips</content>
+  <content contentuid="1288680e0ee26f15704c0f5faa5e718607211" version="1">Du lernst 2 Bardenzauber der 1. Stufe</content>
+  <content contentuid="a86f5eadf667e145b81e8e45558c1073b3822" version="1">Du lernst 2 Kleriker-Cantrips</content>
+  <content contentuid="1ce6cd0c49af3c8978fe7261c9f2ec89219e4" version="1">Du lernst 2 Klerikerzauber der 1. Stufe</content>
+  <content contentuid="6407f2ca98c06cd275a17821ab410d21b3e20" version="1">Ihr lernt 2 Druiden-Cantrips</content>
+  <content contentuid="df7b0cb0d88e3ee9a5fd5583340f323a72c1d" version="1">Du lernst 2 Druidenzauber der 1. Stufe - Druide</content>
+  <content contentuid="1b4e0220fa6ac5decdd2906bf0d75536f6566" version="1">Du lernst 2 Paladin-Zauber der 1. Stufe</content>
+  <content contentuid="fff081429bcb855c1a6807a953a7c14b54f2d" version="1">Du lernst 2 Waldläuferzauber der 1. Stufe</content>
+  <content contentuid="14576f1f1ff0009c86f76792ddf89bab6d8bf" version="1">Ihr erlernt 2 Hexenmeister-Cantrips</content>
+  <content contentuid="da35b45289c3e9f402f1a4d8de62b14127722" version="1">Du erlernst 2 Hexenmeisterzauber der 1. Stufe</content>
+  <content contentuid="52d757068b5371909041923bb636c2752a27c" version="1">Du lernst den Zauberspruch Magie aufspüren.</content>
+  <content contentuid="624eed311287ddbaec4b7de5a02c3c6a79233" version="1">Du lernst den Zauberspruch "Vertraut finden".</content>
+  <content contentuid="d1757a8e29b8a8f138a891400a40622c9368f" version="1">Du erlernst den Zauberschritt "Nebel" und kannst ihn mit einem Arkanpunkt statt mit einem Zauberplatz wirken</content>
+  <content contentuid="3f91e733121ed7ffc1fa1eb501810052b16ee" version="1">Du lernst den Zauber Vakuumtunnel</content>
+  <content contentuid="0d3414a4c0fb4fdc0b0e1558bae7a0c0f30ee" version="1">Du kannst deine Berührungszauber auf eine Reichweite von 30 Fuß erweitern.</content>
+  <content contentuid="708c0ed4f4f5fcfe3c14007ae370b7c95d43d" version="1">Du kannst 2 Arkanpunkte ausgeben, um eine zusätzliche Aktion zu erhalten. Diese Aktion kann nur verwendet werden, um die Aktion "Angriff" (nur ein Waffenangriff), "Sprinten", "Ausschalten", "Verstecken" oder "Objekt verwenden" auszuführen.</content>
+  <content contentuid="a682a9123bded4a9daa3018b77526d19f1cfd" version="1">Ihr könnt zusätzliche Arkanpunkte ausgeben, um die Dauer eurer Arkanverbesserung auf bis zu 8 Stunden zu verlängern.</content>
+  <content contentuid="22baa721bee3becc0f4193692a3c58a282083" version="1">Du kannst einen magischen Folianten beschwören, der wie ein Schild wirkt und dir bei allen Intelligenzwürfen einen Vorteil verschafft. Ihr gilt als geübt im Umgang mit Schilden, die auf diese Weise beschworen werden.</content>
+  <content contentuid="a4795078b4f04513c9a8d8195fb17e2a08827" version="1">Ihr setzt die Macht Eures Zauberstoßes frei, um Euch um das 5-fache der Stufe des Zaubers zu heilen.</content>
+  <content contentuid="hf7b10c62g109cg4f34g8fe8g2f11f8ba91fb" version="1">Du schleuderst deine Waffe auf einen Feind und schleuderst ihn und Gegner in der Nähe auf dem Boden.</content>
+  <content contentuid="6d78f500edcccdb1fe98fd7faaf103a773b10" version="1">Du gibst 1 Arkanpunkt aus und verursachst eine Explosion, die 1W4 Machtschaden um deinen zaubertreffenden Gegner herum verursacht. Dieser Schaden erhöht sich auf Stufe 5 auf 1W6, auf Stufe 10 auf 1W8, auf Stufe 14 auf 1W10 und auf Stufe 17 auf 1W12</content>
+  <content contentuid="a6d0c4629c0a7b9ee387b02ccc5020b767c34" version="1">Du nutzt die Teleportation, um deine Position besser zu verbergen. Wenn du 'Nebelschritt', 'Nebelkörper', 'Donnerschritt', 'Dimensionstür' oder 'Ferner Schritt' wirkst, wirst du am Ende des Teleporters für 1 Stunde unsichtbar. Darüber hinaus kann diese Unsichtbarkeit in der ersten Runde, in der sie angewendet wird, nicht gebrochen werden.</content>
+  <content contentuid="67d1fb62ec19467ceef2f32b8783670abf49a" version="1">Ihr habt eine größere Auswahl an Zaubern angepasst, um mit euren Angriffen zu funktionieren. Ihr benötigt keinen Zauberspruch oder Zaubereffekt mehr, um einen Zauberangriffswurf auf 'Zauberschlag' auszulösen.</content>
+  <content contentuid="hf6901ec1gd161g47aeg81a6g196d303830af" version="1">Du hast die Anwendungen der Magie studiert und dich nicht nur darin geübt, offensive, sondern auch defensive Taktiken auszuführen. Wenn Magie durch dich fließt, kann dein Schild unmögliche Dinge blockieren, sogar den Atem eines Drachen oder eine magische Rakete.</content>
+  <content contentuid="71084a59a2d5222e97fefd16dc43429cc1cac" version="1">Du hast den Stab ausgiebig studiert, um die verborgenen Fähigkeiten deiner gewählten Waffe kennenzulernen. Wenn du mit einem Stab einen kritischen Treffer erzielst, verursachst du einen zusätzlichen Schadenswürfel des gleichen Typs wie deine Arkane Kaskade-Haltung, zusätzlich kannst du dein Ziel bis zu 10 Fuß von dir wegstoßen.</content>
+  <content contentuid="hb0eba13eg3476g4094g9596g95988f394a6f" version="1">Eure Elementarexplosion wird jetzt bei jedem Waffenangriff ausgelöst und ihr Radius wird auf 10 Fuß erhöht.</content>
+  <content contentuid="8f1cd3a641eaa13ff054f18db4ec10ce61f19" version="1">Eure Magie lenkt Eure Klingen dazu, Resistenzen und Immunitäten gegen Schlitz-, Knüppel- und Durchbohrungsschaden zu umgehen und 2 Arkane Beckenpunkte zu erhalten.</content>
+  <content contentuid="f6ea83d7c117f70410af6ddcd1692d53da325" version="1">Deine Magie führt deine Klingen zu den Schwachstellen deiner Feinde. Als Bonusaktion kannst du bis zum Ende deines Zuges 3 Arkanpunkte verbrauchen und dir einen Vorteil in allen Angriffswürfen verschaffen.</content>
+  <content contentuid="ha7cbce5bgfce5g4327ga289g44c40126c6f7" version="1">Euer nächster Zauber kostet keinen Zauberplatz.</content>
+  <content contentuid="1920eb25e4a5a060cbe1458e7cf0a5245452d" version="1">Dein Training ermöglicht es dir, jede Situation mit deinem Intellekt zu analysieren. Ihr erhaltet einen Bonus auf Einsicht und Wahrnehmung in Höhe Eures Intelligenzmodifikators. Zusätzlich kannst du 'Wahrer Stoß' als Bonusaktion wirken.</content>
+  <content contentuid="78fe635a809e865f4ad4f32db1d819ddec9cd" version="1">Eure Waffenangriffe verursachen zusätzlich 1W6 Elementarschaden.</content>
+</contentList>

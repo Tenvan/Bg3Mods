@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="heeb6ddb3g39efg4709g8e06gc039ef84f180" version="1">Magus</content> Class Description
+	<content contentuid="h11b4ee7egb42bg4194g8367g82d678fc0c00" version="1">The Magus is at once a student of two philosophies, blending magical ability and martial prowess into something entirely unique, a discipline in which both spell and steel are used to devastating effect.</content>
+	<content contentuid="h85ceba3bg9cc5g4031gb43ag96c5aeb983eb" version="1">Sparkling Targe</content>
+	<content contentuid="hf6901ec1gd161g47aeg81a6g196d303830af" version="1">You’ve studied the applications of magic, training yourself to perform not just offensive maneuvers but defensive tactics as well. When magic flows through you, your shield can block impossible things, even a dragon’s breath or a magic missile.</content>
+	<content contentuid="h321bf5d1g3b1cg444fgba17gf051b783d843" version="1">Inexorable Iron</content>
+	<content contentuid="h913d68a7g6e45g4b3ag8e2fgb92c625934d6" version="1">Once you begin along a path, nothing can stop you from reaching its end. You transform the mass of a greataxe, greatsword, or polearm into an unstoppable force to augment your own striking power or keep you standing on the battlefield.</content>
+	<content contentuid="hb06eb0aage069g4e27g80deg459e18316d23" version="1">Laughing Shadow</content>
+	<content contentuid="hd9360954g6fd9g43d6g8ac4gb405ab5a6afa" version="1">Magic is freeing, a means to your ends, and you can use it to go where you want, do as you please, and avoid the consequences. You are a laughing shadow of spell and blade, always one step ahead of your foes, always with a trick up your sleeve.</content>
+	<content contentuid="hfe6aa11bg0036g4db7ga45fg1d1bf7f2e974" version="1">Starlit Span</content>
+	<content contentuid="h8aa7c8f4ga9aeg4574g8035g0a6e8b96ee23" version="1">With magic, the sky’s the limit, and you can’t be bound by the confines of physical proximity. Your power reaches as far as your senses can perceive, transcending the space between you and your target even with spells that normally require direct physical contact.</content>
+	<content contentuid="h32365b79g54c5g4864gaa7cg9db88b78cf6e" version="1">Twisting Tree</content>
+	<content contentuid="h9be33bc2g6565g4569gb429gba40731b0e46" version="1">The staff is perhaps one of the simplest of weapons, but this simplicity belies its elegance and versatility. To you, a staff is casting implement and martial weapon alike—the foundation of a fighting style.</content>
+	<content contentuid="h713c8323gcd0dg4f24gbf38g013b40cf2c13" version="1">Arcane Enhancement</content> Class Features
+	<content contentuid="h8c28e6a3g9b1dg4640ga2bag8e24c46241de" version="1">You can expend 1 Arcane Point as a bonus action to change your weapon's damage type to Fire, Cold, Acid, Lightning, or Thunder for 1 minute, and at level 5, you may spend additional Arcane Points to increase its duration further.</content>
+	<content contentuid="h41f1443bg26edg45a5g9d2egbbcd768097c3" version="1">Fire Enhancement</content>
+	<content contentuid="he048350bg7934g42b9g8f51gd6f96f27d890" version="1">Convert your weapon damage to [1]</content>
+	<content contentuid="h3596e5aag4646g47d9g882bg7a67b7d1bc0d" version="1">Cold Enhancement</content>
+	<content contentuid="h6f6773c1g1076g47cfgacccgc5c00e76da4e" version="1">Acid Enhancement</content>
+	<content contentuid="h4a3e5833g5a21g440bgbf1cg7b645f3b9dff" version="1">Lightning Enhancement</content>
+	<content contentuid="h674222b2g2638g4f84gb5ceg877a03f35787" version="1">Thunder Enhancement</content>
+	<content contentuid="h4395021eg96f7g4fc8g863agc942cbf8143a" version="1">Devastating Spell Strike</content>
+	<content contentuid="h036c9d78g4a2cg413cgba89g2e30e47d6e91" version="1">Spend 1 Arcane Point, make a weapon attack, and unleash an explosion around your target based on your Arcane Cascade's damage die.</content>
+	<content contentuid="h39c24081g48ebg4d0ag9b1bg744cbb47ad44" version="1">Distracting Spell Strike</content>
+	<content contentuid="hef1c9dc0g432eg40f2ga89fg13b299e21ff6" version="1">Spend 1 Arcane Point, make a weapon attack to disrupt your spell-stricken target's balance.</content>
+	<content contentuid="hfcaffcc1gd0eeg458bgb75fg9d7da077fdf4" version="1">Gain Deception proficiency, using Intelligence instead of Charisma. You may spend 1 Arcane Pool Point to have your spellstrike potentially knock a target off balance.</content>
+	<content contentuid="hd22a3c29g2f43g44a6ga082gc74b2e3fd4c9" version="1">Cascading Ray</content>
+	<content contentuid="h60ece2cdg2f2dg4107gb449g0cf2a1b4ecca" version="1">After a Spellstrike with a leveled spell, spend 1 Arcane Pool point to channel the energy into a ray attack against another creature within 60 feet, dealing damage matching your Arcane Cascade's type.</content>
+	<content contentuid="6c38a33e79b8b39bf7830f72c8f24dba3ec25" version="1">Revitalize</content>
+	<content contentuid="a4795078b4f04513c9a8d8195fb17e2a08827" version="1">You release the power of your Spellstrike to heal yourself for 5 times the spell's level.</content>
+	<content contentuid="573d0e03fc7dcb3ee26dbae5f0a204d1c3d6e" version="1">Twisted Staff</content>
+	<content contentuid="80dbbb133a5195bd36c359735346ef176775f" version="1">Transform your staff with your Arcane Cascade, increasing its damage to 1d8 and gaining the Reach property.</content>
+	<content contentuid="a236f75862e15343b220804c580c3df288cc1" version="1">Student of the Staff - Shove</content>
+	<content contentuid="184d680b642a7307d093cf34380d3a965120e" version="1">Make a melee attack and push your target 10 feet away.</content>
+	<content contentuid="b46f93019df6cfa3dc0372013057cd4ad296f" version="1">Spell Parry</content>
+	<content contentuid="dc6cc9b02903e8674849e37d7791a7a298f17" version="1">Infuse magical power into your body or armaments to parry both physical and magical attacks, gaining a +5 AC bonus as a reaction.</content>
+	<content contentuid="1146e3e00e8d43260eb714bbddad995f3c4f8" version="1">Arcane Accuracy</content>
+	<content contentuid="3d9d4c095f8b6dd2bf440911b531156a959de" version="1">Spend 1 point from your Arcane Pool as a bonus action to grant your weapon attacks a +2 bonus to attack rolls until the end of your turn.</content>
+	<content contentuid="409fbc5f60e68e625af8029786c8f1eb3a3de" version="1">Body of Mist</content>
+	<content contentuid="16c3cfd6682bca8d50dfa782c9e0abcde9b6d" version="1">Teleport 30ft to a visible, unoccupied space as a bonus action.</content>
+	<content contentuid="0c1c17d6d9484db2cb4616635d5ad03488c99" version="1">Cascade Countermeasure</content>
+	<content contentuid="cf07054b12c8b2707759f1d36fd9c0227a020" version="1">Cast Counterspell at 3rd level as a reaction for 3 Arcane Points</content>
+	<content contentuid="857a092ce96366843ebf8c6ec4d179ab97565" version="1">Arcane Strike</content>
+	<content contentuid="8f1cd3a641eaa13ff054f18db4ec10ce61f19" version="1">Your magic guides your blades to bypass slashing, bludgeoning, and piercing damage resistances and immunities for 2 Arcane Pool Points.</content>
+	<content contentuid="67ab0b0682da267836bf1e071699da2e4b6e6" version="1">Emegency Targe</content>
+	<content contentuid="0a1d64c0db1f242e503bb805aa0e29e8fd39a" version="1">Raise your shield to gain resistance and temporary hit points against incoming attacks.</content>
+	<content contentuid="f0a7671f2fc247ebf47ace0014f88a7a5adc1" version="1">Arcane Restoration</content>
+	<content contentuid="f1c9a736e846aaabd32dfee05ee9a8ca5c011" version="1">Once per short rest, recover Arcane Pool Points equal to your Intelligence modifier.</content>
+	<content contentuid="347e5e7b918f2c358b8aab9c6e3d3ad5a43f7" version="1">Rapid Recharge</content>
+	<content contentuid="1f45c15e0b9862db67443f73874bc7d306780" version="1">Once per encounter, recover half of your Intelligence modifier in Arcane Pool Points.</content>
+	<content contentuid="15df068671cef711166044b0836da59fbda02" version="1">Extended Spell Strike</content>
+	<content contentuid="2d43cc9dcbe03f0eb641f78433f772010ae84" version="1">When you cast a spell, your store a part of the magic within you blade and your next spell does not consume a spell slot.</content>
+	<content contentuid="79035caa88f0424a36bd3c713c8b81250aed5" version="1">Spell Swipe</content>
+	<content contentuid="a26f8657e65739785e9d4d8bfe8e5384731ed" version="1">Swing your weapon in a wide arc to attack up to [1] enemies simultaneously.</content>
+	<content contentuid="e77831daf0f376e2522e5fc502c7bf8acd829" version="1">Whirlwind Spell</content>
+	<content contentuid="5fbc1a5b8f2da394405a33efe75c82ddf7b24" version="1">Spend 2 Arcane Pool Points as a Spellstrike to attack all enemies within your reach simultaneously.</content>
+	<content contentuid="413eeaf5ae39191a46958f3c66bca7c2bcaae" version="1">Dazzling Block</content>
+	<content contentuid="3d26b11e5c82b85ddded1065c65b52c0beb2e" version="1">When targeted by an attack, spend 1 Arcane Pool Point to create a blinding flash in a 15-foot cone, potentially blinding multiple enemies.</content>
+	<content contentuid="f003da19face47119640768e698341465b24a" version="1">Thundering Retaliation</content>
+	<content contentuid="663eea0ef1fd3ec2e7b96bb625571e3d5c487" version="1">When targeted by an attack, spend 1 Arcane Pool Point to create a thundering blast to knock away attackers as a reaction.</content>
+	<content contentuid="1792aa536a83ad6d8ef3a58fd253a7acd3189" version="1">Vacuum Tunnel</content>
+	<content contentuid="ce2e6a6ad4ffa24cd78de2386b257ad217687" version="1">Charge forward, pulling objects and creatures in your path [1] toward you.</content>
+	<content contentuid="717cc692b29231958a7353fb7862fdfdc0312" version="1">Magus's Analysis - True Strike</content>
+	<content contentuid="3621bbc00b118fc77a268253b135161b7b28a" version="1">As a bonus action, you cast true strike, granting you advantage for your next attack against the target.</content>
+	<content contentuid="0e1e00d093326a9cca62e397d9a6e821964bf" version="1">Meteoric Shot</content>
+	<content contentuid="2d88a45ef1e54723d7bfa0ff5ff4a32520477" version="1">Leave a trail of unstable energy following your arrow, dealing damage based on your Arcane Cascade.</content>
+	<content contentuid="00d67577708637c95fc3bbec22122596dd67f" version="1">Capture Magic - Abjuration and Evocation</content>
+	<content contentuid="fd13bf3e0676956fb9f1081e1cf547293acce" version="1">Capture Magic - Conjuration and Transmutation</content>
+	<content contentuid="bf169a5a20bba73b0620ee9d043f61b896c4a" version="1">Capture Magic - Divination, Illusion, and Enchantment</content>
+	<content contentuid="d716dc96a303378666726d041e299e9447421" version="1">Capture Magic - Necromancy</content>
+	<content contentuid="796537703e55dd3a6c1e7bb5988ea985609c9" version="1">You have captured another's magic to enter Arcane Cascade.</content>
+	<content contentuid="02a144c257acf2f7a9bb269762af9bf2ddc67" version="1">Runic Impression - Bloodthisty</content>
+	<content contentuid="dae5616b4fd671ab3c6dd7a4a276e29ed56b6" version="1">Blood Thirsty: When you hit a creature, you regain 1d4 hit points.</content>
+	<content contentuid="5bec3f03a7e97f79571c9fbc62e62a4e3ad50" version="1">Runic Impression - Speed</content>
+	<content contentuid="c7d7281a203422a1e3e2f274f9a7eaf8233bf" version="1">Speed: You can make one attack with this weapon as a bonus action for half damage.</content>
+	<content contentuid="b81985020c61dc91d5d0f13e85104c2172559" version="1">Runic Impression - Deathdrinking</content>
+	<content contentuid="827b36c77f1ae5dd5e6a1048f735deec1619d" version="1">Death Drinking: When you kill a creature, you regain 2d8 hit points.</content>
+	<content contentuid="865ac87dd2726cc21f61829b512f978794b7d" version="1">Runic Impression - Wounding</content>
+	<content contentuid="9d72ba17237bf2faf1c4ba7642d98b478cfe0" version="1">Wounding: when you strike a creature, they bleed and take 1d6 damage at the start of their turns for the next 10 turns.</content>
+	<content contentuid="a7abba636d040d0753f993dac8948939fc2e0" version="1">Runic Impression - Hooked</content>
+	<content contentuid="165af598588def2ba744024a99ef9c690c54f" version="1">Hooked: You may make Topple attacks with your weapon.</content>
+	<content contentuid="b8728df5a12bcbaad239ab0c51a6d00cf26b6" version="1">Elemental Blade Acid</content>
+	<content contentuid="01a94b962ca7508924f8eeb0a4ce36192288b" version="1">Elemental Blade Cold</content>
+	<content contentuid="a6ca98845678e4fff4375e39aae36246b35af" version="1">Elemental Blade Fire</content>
+	<content contentuid="3b9fefe92e85e1c79a613fc7cd90cdf3ded0f" version="1">Elemental Blade Lightning</content>
+	<content contentuid="78fe635a809e865f4ad4f32db1d819ddec9cd" version="1">Your weapon attacks deal an additional 1d6 elemental damage.</content>
+	<content contentuid="c335e88433a7203a52b17c40abb0b9a1e9e81" version="1">Charge of the Magi</content>
+	<content contentuid="c743298196391c046c549a0d0e4e3b272d7f8" version="1">You charge forward for 30ft, as a bonus action.</content>
+	<content contentuid="0545119d7745a052800ba4a10d891ec33d635" version="1">Stoneskin</content>
+	<content contentuid="2a38540f9945b70a03ffd38f8fb1e2a228c04" version="1">Turn the flesh of a creature you touch as hard as stone, granting the target resistance to nonmagical bludgeoning, piercing, and slashing damage.</content>
+	<content contentuid="f768254e66b8a9ee0adf6df9876fed4f968bc" version="1">Blink</content>
+	<content contentuid="520b2a61276081b3734b3753aa8d20e7fb743" version="1">At the end of your turns, you have a chance to vanish from your plane of existence and appear in the Ethereal Plane. While in the Ethereal Plane, at the start of your turn or when the spell ends, return to a space within [1] of your previous space.</content>
+	<content contentuid="0f69ce97189d66caeb3c582be05bac4a5bd09" version="1">Greater Invisibility</content>
+	<content contentuid="c104f5d392821c3abe3bdb7078b0b41dec263" version="1">Touch a creature to turn it Invisible.</content>
+	<content contentuid="ed5f8d3362f0d7be3a65a06cb1229d4c8dbf8" version="1">Fire Shield</content>
+	<content contentuid="e94eedf99204356430248aba73bb57fd8adaa" version="1">Flames wreathe your body, shedding light in a [1] radius and granting a warm or chill shield as you choose. The warm shield grants you resistance to cold damage and the chill shield grants you resistance to fire damage. Whenever a creature within [2] of you hits you with a melee attack, the attacker takes [3] from a warm shield or [4] from a cold shield.</content>
+	<content contentuid="ccd1f4072d87219694582cfab77022e5bcfb1" version="1">False Life (3)</content>
+	<content contentuid="edccd60e1b4d85c6004f70699fdd7b1df7fc8" version="1">Bolster yourself with a necromantic facsimile of life to gain 1d4 + 14 Temporary Hit Points.</content>
+	<content contentuid="1928664d539a52bf8a24cdfd9f6d1e83f6df5" version="1">Far Step</content>
+	<content contentuid="10a649b46792ca2f5f2d6393d4ee4702543e9" version="1">Teleport to an unoccupied space you can see. You can teleport in this way again as a bonus action on your turns.</content>
+	<content contentuid="09c55aab594ca745cc728237ea441ba5122e8" version="1">Hasted Assault</content>
+	<content contentuid="54a765d16ea397d97d9d3a2bb05afdcb6b031" version="1">You can take one additional action, which must be either the Attack (one weapon attack), Dash, Disengage or Dash actions.</content>
+	<content contentuid="936b0ca6c728e63d0440faa5ccf02fde88591" version="1">Bane Blade</content>
+	<content contentuid="70d9baa718038539e3264ba253141cb527e67" version="1">Weapon Attack that reduces the target's attack, and saving throws by [1] for the next minute.</content>
+	<content contentuid="2ce0b0e4e5849d19b23b1132f90508b29ede3" version="1">Arcane Cloak</content>
+	<content contentuid="03ef16769df101f46ad35fe8bb61a490a398d" version="1">Spell Strike</content>
+	<content contentuid="0e394f6b7015c83d54e4d6dc37f2a754841f2" version="1">You know how to channel a melee attack spell into a punch or sword thrust to deliver a combined attack.</content>
+	<content contentuid="04ba6b5d2daa75ce5330e21e337ff4f2ba0df" version="1">Spell Combat</content>
+	<content contentuid="8b2ec4c78a4a0a0e00d9b963df37f1d1789b5" version="1">When you take the attack action, you may make also make a spell strike</content>
+	<content contentuid="50ce430ccb71d70111e029af5d1be3b678058" version="1">Spell Strike - Ranged</content>
+	<content contentuid="28b897b7a5ae5f15042e972fe272a44d38e84" version="1">You know how to channel a spell into a punch or sword thrust to deliver a combined attack.</content>
+	<content contentuid="4179ca579e520782d8d5ad2647a1c2e1f2b64" version="1">Arcane Enhancement</content>
+	<content contentuid="16a9d22cfe2bc6ce3439ec98cee8d79be4a85" version="1">You gain a + [1] bonus to weapon attack and damage rolls for the duration</content>
+	<content contentuid="18af9bd9f1014128c819a0de53eef1860d978" version="1">Arcane Cascade</content>
+	<content contentuid="22c4bb51de274b510dce2462431cab0f534ee" version="1">You divert a portion of the spell’s magical power and keep it cycling through your body and weapon using specialized forms, breathing, or footwork. When you cast a spell or use a spell strike with a spell of 1st level or higher, your weapon attacks deal an extra 1d4 point of damage depends on the school of the spell which increases to 1d6 at level 5, 1d8 at level 10, 1d10 at level 14, and 1d12 at level 17.</content>
+	<content contentuid="924eac1179098935c26d60376e97af8e63755" version="1">Sneak Attack</content>
+	<content contentuid="f912e583af2752d013e2c0e660698565588da" version="1">You gain 1 Sneak Attack Die</content>
+	<content contentuid="a76bb92616864bbc5c912ab76292152c218c3" version="1">Menacing Attack</content>
+	<content contentuid="bb27e20ef8634745346cc3ec2a7a6ecce0c69" version="1">You gain 1 SuperiorityDie Die and one Battle Master maneuver.</content>
+	<content contentuid="55560534a94b90553b6590ede75e83c5021a3" version="1">Pushing Attack</content>
+	<content contentuid="a721426d30b8f8f39aff72c66a3e0773e98e6" version="1">You gain 1 SuperiorityDie Die and one Battle Master maneuver.</content>
+	<content contentuid="48b2d6260242381fc52fdff06ce067c5b4e96" version="1">Rally</content>
+	<content contentuid="3b2f489cc8ac03aef15ef45585820513677d9" version="1">You gain 1 SuperiorityDie Die and one Battle Master maneuver.</content>
+	<content contentuid="f74fa94b48170811d1d71d723cf3ceaa2fed4" version="1">Riposte</content>
+	<content contentuid="02ad15a49b4f671a01ce20e339d58285d4a5d" version="1">You gain 1 SuperiorityDie Die and one Battle Master maneuver.</content>
+	<content contentuid="87c4da96669234c433361829f7d795e51b261" version="1">Trip Attack</content>
+	<content contentuid="f3ab01423bfe4139cd5de802656fd111367d2" version="1">You gain 1 SuperiorityDie Die and one Battle Master maneuver.</content>
+	<content contentuid="593dc01665aa14a756d7ff04cb029d34c21c3" version="1">Disarming Attack</content>
+	<content contentuid="7a60766cde3d9dd99de7d8d2e058cd3560239" version="1">You gain 1 SuperiorityDie Die and one Battle Master maneuver.</content>
+	<content contentuid="he3537064g56ddg43cdgb902ga5ccaeb59502" version="1">Extra Spell Slots - Level 1</content>
+	<content contentuid="hc00116c8gc34eg47e8gb202gc5f256953b01" version="1">Extra Spell Slots - Level 2</content>
+	<content contentuid="h2fb992f9g424ag4d3bg9b6dg5e7cfd24a42a" version="1">You gain 1 additional level 1 spell slot</content>
+	<content contentuid="hfa5263b1g6d0cg4174g9c94g27c1ef59bcf7" version="1">You gain 1 additional level 2 spell slot</content>
+	<content contentuid="1b6f4313d460d9284639554295e22d3d7afe8" version="1">True-Magus Strength Saving Throw</content>
+	<content contentuid="56a7688822c4825c55f11103ecf05fe6800f4" version="1">As a pinnacle of magical and martial capability, you gain proficiency in Strength Saving throw</content>
+	<content contentuid="2ae009551e4b88ae4740605b521c7bead3349" version="1">True-Magus Dexterity Saving Throw</content>
+	<content contentuid="45f03b466c0d9eea9048d2ff70752b26865c2" version="1">As a pinnacle of magical and martial capability, you gain proficiency in Dexterity Saving throw</content>
+	<content contentuid="04f7e0026d3d97d870e3e7a18825ab1b08e08" version="1">True-Magus Wisdom Saving Throw</content>
+	<content contentuid="b5ee0f8a089c9af839e465b9619911f3717a5" version="1">As a pinnacle of magical and martial capability, you gain proficiency in Wisdom Saving throw</content>
+	<content contentuid="7a1905a79a8e82d09045ef7131184d1e78aa1" version="1">True-Magus Charisma Saving Throw</content>
+	<content contentuid="79fd5383375f816448419151d0f52315e1da4" version="1">As a pinnacle of magical and martial capability, you gain proficiency in Charisma Saving throw</content>
+	<content contentuid="f0f9e5304f533de765672c35cb3d5c2378a5e" version="1">True-Magus UnerringSpellStrike</content>
+	<content contentuid="23fb561d9627e68ece884e48b7052403d9407" version="1">As a pinnacle of magical and martial capability, When you miss a spellstrike, you may spend 5 Arcane Points and choose to hit instead</content>
+	<content contentuid="73bcc24acf93b11045780a05dc1d1aa12ccbb" version="1">Medium Armor Proficiency</content>
+	<content contentuid="87e7794318749a922d13a8254ae9820b13fe9" version="1">You gain proficiency with Medium Armor</content>
+	<content contentuid="ea76e89b64209700aa95bc04301458f4bddd3" version="1">Shield Proficiency</content>
+	<content contentuid="99bea78067100c16887f2f1682b35a311b999" version="1">You gain proficiency with shields</content>
+	<content contentuid="262cf1a588aae0cf83dfa4b39c73ccf781bea" version="1">Arcane Cascade Augmentation</content>
+	<content contentuid="f0ecd8764d129bce48fad612d7da835cccf48" version="1">While you’re in Arcane Cascade stance and wielding a shield, you take [1] less damage from all sources.</content>
+	<content contentuid="110c68843e3257b86b5c845bd910f8ffd96f8" version="1">While you’re in Arcane Cascade stance, you gain temporary hit points equal to your Intelligence Modifier.</content>
+	<content contentuid="394b35bd3d53c127bbb6935c6383c4c4a1599" version="1">While you’re in Arcane Cascade stance, you gain temporary hit points equal to twice your Intelligence Modifier.</content>
+	<content contentuid="27cd82542d92bb63eb3b1d21150c4d2c4f8d8" version="1">While you’re in Arcane Cascade stance, you gain 5ft of extra movement, and you deal double damage with Arcane Cascade.</content>
+	<content contentuid="f73f05cde875860f6311dc133cee4b53b7e0a" version="1">While you’re in Arcane Cascade stance, your staff deals 1d10 bludgeoning damage instead and gains the Reach property.</content>
+	<content contentuid="96ce48e8de6c4330847845c220afb98c555b8" version="1">Familiar</content>
+	<content contentuid="624eed311287ddbaec4b7de5a02c3c6a79233" version="1">You learn the spell Find Familiar.</content>
+	<content contentuid="54a6bd26e7ef9fd649711f2fa6be7a11c4318" version="1">Magic Sense</content>
+	<content contentuid="52d757068b5371909041923bb636c2752a27c" version="1">You learn the spell Detect Magic.</content>
+	<content contentuid="126c7b6fd97aa8c6e40297ce632e4407b5d5b" version="1">Raise a Tome</content>
+	<content contentuid="22baa721bee3becc0f4193692a3c58a282083" version="1">You may summon a magical Tome that acts like a shield and grant you advantage in all intelligence checks. You are considered Proficient with shields summoned this way.</content>
+	<content contentuid="he382dd80g1b85g485cgbdf1g2428509813d8" version="1">Summon Tome - Arcane Grimore.</content>
+	<content contentuid="hf293a113gb1b6g4ceeg96b8g1591e9612f91" version="1">Summon an Arcane Grimore that acts like a shield and grant you advantage in all intelligence checks.</content>
+	<content contentuid="h9dc668b3gd58cg4adagbf35gc8efcaded72d" version="1">Summon Tome - Shield.</content>
+	<content contentuid="h3577c26ag79e1g41c3g860aga089674a4d70" version="1">Summon a magical tome that grant you 1 casting of the shield spell.</content>
+	<content contentuid="h30df7ea9g7ef9g4c88g88d0gcab5ad6adc2b" version="1">Summon Tome - Absorb Element.</content>
+	<content contentuid="h86cba3degadfag4286ga16cg24c60ddc0fa4" version="1">Summon a magical tome that grant you 1 casting of the absorb element spell.</content>
+	<content contentuid="h298cc159g7de0g40ffga933gf818ec4d1fb1" version="1">Summon Tome - Riposte.</content>
+	<content contentuid="hbc9638c8gad67g4619gac42gb735bda37c2e" version="1">Summon a magical tome that you can use your reaction to shield bash.</content>
+	<content contentuid="h5b04888cg85c5g4ffdga40dg3c484d96e178" version="1">Summon Tome - Emergency Shielding.</content>
+	<content contentuid="h67616e20g135cg44e8gacd7g7855365dc99a" version="1">Summon a magical tome that grant you temporary Hit points when you are on lower health.</content>
+	<content contentuid="h71dd7211gf1cfg4772g9c8bg5bd14ac53139" version="1">Summon Tome - Resilience.</content>
+	<content contentuid="h58ecbdc2g991eg4ad7gb216g1605a610d2c8" version="1">Summon a magical tome that grant you a saving throw bonus.</content>
+	<content contentuid="hf8f8383fg9291g4a05g8bbdg7abe096e6ab6" version="1">Tome of Shielding.</content>
+	<content contentuid="h91be8b3fg40c6g4665g8a68gd485bc50b26a" version="1">Tome of Shielding +1.</content>
+	<content contentuid="hf785454cg4334g4e3egabe3g7162cd48111d" version="1">Tome of Shielding +2.</content>
+	<content contentuid="h08cffaf6gaa83g404cg98fag9a354c6d863e" version="1">A tome that grant you 1 casting of shield.</content>
+	<content contentuid="h50d455d7gbf53g495fgab95g81ff883a2754" version="1">Tome of Elemental Absorbtion.</content>
+	<content contentuid="h901595f5g6ef0g4ec2g926bg90f4c27a4969" version="1">Tome of Elemental Absorbtion +1.</content>
+	<content contentuid="h7148cf2fge91bg40dag90dbg34042e7b8947" version="1">Tome of Elemental Absorbtion +2.</content>
+	<content contentuid="hd1d340dagd87ag43afgb6c7g6cc05fcff7b4" version="1">A tome that grant you 1 casting of Absorb Element.</content>
+  	<content contentuid="hc7102261ge276g4a85gb139g85772a7c5890" version="1">Arcane Grimoire</content>
+  	<content contentuid="he7e9f071g1aaeg4aeag99d6ge7974ce09bb1" version="1">While you are holding this leather-bound book, you can use it as a spellcasting focus for your wizard spells, and you gain a bonus to spell attack rolls and to the saving throw DCs of your wizard spells. The bonus is determined by the book's rarity.</content>
+  	<content contentuid="h8266a934g6fd8g495fg9ff1gb85cf08b683e" version="1">Shield of Bashing</content>
+  	<content contentuid="hb9dcff85gb1a0g411fg8d6cg3f7661afbd6d" version="1">Shield of Bashing +1</content>
+  	<content contentuid="h90ce7c0agf6ebg44dfga183gae2e8372f28d" version="1">While you are holding this tome, you may use an reaction to bash a creature attacking you.</content>
+  	<content contentuid="h9af72a10g80bag4450g8273g584f6337fc98" version="1">Shield of Emergency Shielding</content>
+  	<content contentuid="hc95bff68ge454g43bdgb4bcg657b6021979c" version="1">Shield of Emergency Shielding +1</content>
+  	<content contentuid="h1eda5c27g1a1eg473ag9e91ga2ab21205db9" version="1">Shield of Emergency Shielding +2</content>
+  	<content contentuid="h025b4a04gbae5g4b85g83fag1b8182790ef4" version="1">While you are holding this tome, you gain temporary hit points when you drop to low health</content>
+  	<content contentuid="h90968157g5d5bg4714gb835g53b292f51b96" version="1">Emergency Shielding</content>
+  	<content contentuid="hb8c8631cgd465g470bgba10gb9ca936047f8" version="1">When your hit points drop below 50% you gain [1].</content>
+  	<content contentuid="hf0a3a07ag9f9ag4973gb993gfda320780832" version="1">Tome of Resilience</content>
+  	<content contentuid="h466528f4g71dbg429fg973dg997005197c6a" version="1">Tome of Resilience +1</content>
+  	<content contentuid="h638eaabeg2880g4501g8203gd4b77721aa62" version="1">Tome of Resilience +2</content>
+  	<content contentuid="h786b6a83g44b4g4d1fgbe9fgc2de351c4df6" version="1">While you are holding this tome, you gain a bonus saving throws.</content>
+  	<content contentuid="hcb7a5e5agbec8g4bf2g83ceg418d7ad63d50" version="1">Magical Resilience</content>
+  	<content contentuid="he13468ffgfb0dg4a55gad27g7d270e67139d" version="1">You gain a +[1] to saving throws.</content>
+  	<content contentuid="" version="1"></content>
+  	<content contentuid="" version="1"></content>
+  	<content contentuid="" version="1"></content>
+  	<content contentuid="" version="1"></content>
+  	<content contentuid="" version="1"></content>
+  	<content contentuid="" version="1"></content>
+
+	<content contentuid="d6f09efe67bd264ad71f12c1b120e8f832d0f" version="1">Magus's Analysis</content>
+	<content contentuid="1920eb25e4a5a060cbe1458e7cf0a5245452d" version="1">Your training allows you to analyze any situation with your intellect. You gain a bonus to Insight and Perception equal to your Intelligence Modifier. In addition, you may cast True Strike as a Bonus Action.</content>
+	<content contentuid="dbadf5af22e7cc50b7d28680cbeb9f3c4a6db" version="1">Expansive Spell Strike</content>
+	<content contentuid="67d1fb62ec19467ceef2f32b8783670abf49a" version="1">You’ve adapted a wider array of spells to work with your attacks. You no longer require a spell or spell effect to involve a spell attack roll to Spellstrike.</content>
+	<content contentuid="a702ec70ea148ae69724ba4a2840c941dbc91" version="1">Spell Parry</content>
+	<content contentuid="f1975d0cb3127b82c83bcecd202254c327364" version="1">You can cast shield using an Arcane Point instead of a spell slot</content>
+	<content contentuid="6c2ae8d8ffb34fe6aca74c86f0d121d465c06" version="1">Arcane Accuracy</content>
+	<content contentuid="36f68b48b9b5854bcadc5f391a6bcbf4203ef" version="1">As a bonus action, spending 1 Arcane Point, gain a +2 bonus to your attack rolls until the end of your turn</content>
+	<content contentuid="41d9fbd62c56e4312fe62bf5809deb2dcfc12" version="1">Steady Spellcasting</content>
+	<content contentuid="af72212365f2a685bdb08b166ff2a17a097bd" version="1">You gain a bonus to concentration checks equal to your intelligence modifier</content>
+	<content contentuid="c72ffa2321512054bc381503a9db971530594" version="1">Devastating Spell Strike</content>
+	<content contentuid="6d78f500edcccdb1fe98fd7faaf103a773b10" version="1">You spend 1 Arcane Point and cause an explosion that deals 1d4 force damage around your spell striked foe. this damage increases to 1d6 at level 5, 1d8 at level 10, 1d10 at level 14, and 1d12 at level 17</content>
+	<content contentuid="a1b32463e699d28fc05174df9f489fce05180" version="1">Distracting Spell Strike</content>
+	<content contentuid="572d643e22558fee03e16bcf8a9854093e7d6" version="1">Spending 1 Arcane Points, you attempt to throw your target off balance with your Spellstrike.</content>
+	<content contentuid="hac5509f3gffd5g41f4ga545g4277279b4aa7" version="1">Starlit Eyes</content>
+	<content contentuid="h1281f924g4901g4531gaae8geaab00e9bc8c" version="1">You gain blindsight.</content>
+	<content contentuid="h12f01481g97bfg4c34gafd0ga214f4d97369" version="1">Emergency Targe</content>
+	<content contentuid="heba1cc23g6ab4g4592gab27ga40e539fd46a" version="1">As a reaction upon hit, you gain resistance to the damage taken, as well as Temporary HP until start of your next turn.</content>
+	<content contentuid="d1757a8e29b8a8f138a891400a40622c9368f" version="1">You learn the spell misty step and can cast it with an Arcane Point instead of a spell slot</content>
+	<content contentuid="2357bf4a1c93b56a8c30cebaa2f102b3b5ad8" version="1">Student of the Staff</content>
+	<content contentuid="71084a59a2d5222e97fefd16dc43429cc1cac" version="1">You’ve studied the staff extensively to learn the hidden capabilities of your chosen weapon. When you critically strike with a staff, you deal an additional die of damage of the same type of your Arcane Cascade stance, in addition, you may knock your target up to 10 feet away from you.</content>
+	<content contentuid="d6096f9087033cead7fd9eee51d04f96c3d87" version="1">Knowledge is power</content>
+	<content contentuid="e73bf13bffb116f7a79e6c2566773262eec91" version="1">You can add your Intelligence modifier to your weapon damage</content>
+	<content contentuid="16127355843626be7000bc57b069f854cd2f4" version="1">Shielded Tome</content>
+	<content contentuid="a56501a6bae7e3e3da5f753a08c9060fbea76" version="1">When you are wielding a shield, you increase the shield's AC and saving throws by 1</content>
+	<content contentuid="54fdf2410d7c93f53d62a20a0f238b7b97275" version="1">Enduring Blade</content>
+	<content contentuid="a682a9123bded4a9daa3018b77526d19f1cfd" version="1">You may spend extra Arcane Points to extend the duration of your Arcane Enhancement, up to 8 hours.</content>
+	<content contentuid="f7f0d47b3ca49a24b01180efa8d265f17553b" version="1">Arcane Strike</content>
+	<content contentuid="f6ea83d7c117f70410af6ddcd1692d53da325" version="1">Your magic guides your blades to the weak points of your foes. As a bonus action, you may expend 3 Arcane points and gain advantage in all attack rolls until the end of your turn.</content>
+	<content contentuid="7920db2696feed7222879a4f63dfcaad039fb" version="1">Arcane Cloak</content>
+	<content contentuid="99124c1d0879d911602c9b75056822b6dd2a5" version="1">You gain a bonus to stealth, deception, and persuation check equal to your intelligence modifier. In addition, you may hide as a bonus action.</content>
+	<content contentuid="440231116e97b2c3fef3f02dcf33871fa37cb" version="1">Spell Swipe</content>
+	<content contentuid="557322d523cb45f5ba904a683a9e300315eb7" version="1">When you make a Spellstrike with a leveled spell, you may spend 1 Arcane Point to attack two creatures within 5 feet of each other.</content>
+	<content contentuid="e227ba10708b53321be2fc7663715e2c9dc4c" version="1">Capture Magic</content>
+	<content contentuid="8ab5aed4b628becbb8edb00bf1d6436723e6c" version="1">When a spell is casted on you and specifically targets you, you capture some of its magic for your own use. You enter your Arcane Cascade stance, using the triggering spell to determine what damage type your Arcane Cascade deals. In addition, you recover 1 Focus Point.</content>
+	<content contentuid="645830759f8c7a5325e1c4caccb4f6ac2fafc" version="1">Cascading Ray</content>
+	<content contentuid="b709376e1614036e22a58ec5951a7dde5736e" version="1">Magical energy spills out to extend beyond the creature you struck. When you have struck a creature with your spellstrike, you may spend 1 Arcane Point to make a ranged spell attack against another target within 60ft. On hit, the creature takes force damage equal to two rolls of your Arcane Cascade.</content>
+	<content contentuid="744ce386c3ea09363adc57634d3832f4fb219" version="1">Dimensional Disappearance</content>
+	<content contentuid="a6d0c4629c0a7b9ee387b02ccc5020b767c34" version="1">You take advantage of teleportation to better hide your position. When you cast Misty Step, Body of Mist, Thunderstep, Dimension Door, or Far step, you become Invisible for 1 hour at end of the teleport. In addition, this invisibility can not be broken for the first turn it is applied.</content>
+	<content contentuid="95434a15cb721dc2143d3ca120885e8321809" version="1">Dazzling Block</content>
+	<content contentuid="c5f499e0d3921d90ee851cad17cd7575d74a8" version="1">When targeted by an attack, you can use your Reaction and spend 1 Arcane Point create a brilliant flash and attempt to blind those around you.</content>
+	<content contentuid="3c32ac96ca34bdf5ac6a4751d91e15b44d0a4" version="1">Meteoric Shot</content>
+	<content contentuid="f8da3e8fa7e0b2336c05613a71d3fa4500c94" version="1">When you make a Spell Strike, you may spend 2 Arcane Points and create a trail of arcane energy to damage all along the way. The damage uses your Arcane Cascade Die.</content>
+	<content contentuid="0499215066476339a7d58095e22d1fee3b338" version="1">Sustaining Steel</content>
+	<content contentuid="9b86412e426bea7e5d67648c6ba761b4e470a" version="1">When you enter Arcane Cascade, you gain double the Temporary Hit Points.</content>
+	<content contentuid="d564042aa3a35f90b14fe1fc9baf9b1f9ad57" version="1">Runic Impression</content>
+	<content contentuid="7d0b504853508f6508d9caaf711df20225ba3" version="1">you can expend 1 Arcane Point as a bonus action to grant any one melee weapon you are holding an additional property for the duration of your arcane enhancement.</content>
+	<content contentuid="5516d15cc2d335b69248567229a61b6ced3c3" version="1">Lunging Spellstrike</content>
+	<content contentuid="0d3414a4c0fb4fdc0b0e1558bae7a0c0f30ee" version="1">You may extend your touch spells to a range of 30ft.</content>
+	<content contentuid="415d46adb60981eb033a9133b6c2b22ba66f3" version="1">Elemental Burst</content>
+	<content contentuid="2aa35630f15a704e39f284e6c3a4caed8b4f3" version="1">When you use Arcane Enhancement, your weapon gains an additional 1d8 damage of that damage type, which increases to 1d10 at 14th level and 1d12 at 17th level. In addition, when you critically hit with a weapon attack, you create an elemental explosion dealing the bonus damage to surrounding creatures within 5ft.</content>
+	<content contentuid="79ae8724ca27a9020293b28bc03d96d0592c9" version="1">Charge of the Magi</content>
+	<content contentuid="d38c6c0ef4e182e8f90d20832821b1e364b7e" version="1">As a bonus action, charge forward, pulling objects and creatures in your path [1] toward you.</content>
+	<content contentuid="a7e9761edf239e9a0f4b405fcf7a000dde371" version="1">Rapid Recharge</content>
+	<content contentuid="6505ca8de452eee1426481c2ca93eadd56a4f" version="1">As a bonus action once per combat encounter, recover Arcane Pool Points equal to half your Intelligence modifier.</content>
+	<content contentuid="c5c175465073d4f3d939f0d6a0a965f0421ee" version="1">You gain a + [1] bonus to weapon attack and damage rolls.</content>
+	<content contentuid="1e49666c44316c13150e8d58b86f4578ac0ba" version="1">Arcane Cascade Temporary HP</content>
+	<content contentuid="21c29c6b7632e01b942fb51b4e209e35b1ec9" version="1">Magus Unlock Tadpole Power</content>
+	<content contentuid="5ed7f65b5ae7ac925862fa79fd534480abd1d" version="1">Resounding Cascade</content>
+	<content contentuid="a87671a635e57e51beac6d7a96bb367f3d9a9" version="1">Gain a 10-foot aura of magical energy. Allies within your aura gain extra damage from your Arcane Cascade, with multiple Resounding Cascades not stacking on the same creature.</content>
+	<content contentuid="92ec002ea7f0ce45dd922ad8ed1f8f1d95414" version="1">Arcane Shroud</content>
+	<content contentuid="804e9e73e6c7e7b67504fff4222b431db8204" version="1">Upon triggering your Arcane Cascade, briefly gain a spell depending on the school of spell that triggered it.</content>
+	<content contentuid="e78475f4992218367561078ca4f032362d407" version="1">Hasted Assault</content>
+	<content contentuid="708c0ed4f4f5fcfe3c14007ae370b7c95d43d" version="1">You may spend 2 Arcane points to gain an additional action. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.</content>
+	<content contentuid="2c14193db85c17fb8421e9c39313971d161e2" version="1">Preternatural Parry</content>
+	<content contentuid="3a27b2393e4742ac26d41afccd15b3439369e" version="1">Perform a counterattack when using Spell Parry.</content>
+	<content contentuid="a0cba18297f53d4809b4c71acf0f506ca50ea" version="1">Spell Blending Cantrips - Druid</content>
+	<content contentuid="6407f2ca98c06cd275a17821ab410d21b3e20" version="1">You learn 2 Druid Cantrips</content>
+	<content contentuid="4a08bf6f98f844aeff7d5e7de068bbc1bbd71" version="1">Spell Blending Cantrips - Cleric</content>
+	<content contentuid="a86f5eadf667e145b81e8e45558c1073b3822" version="1">You learn 2 Cleric Cantrips</content>
+	<content contentuid="ec18310ccdd5e5d83d31e672db5c301a2ddfb" version="1">Spell Blending Cantrips - Bard</content>
+	<content contentuid="0a3d34906388e3ec29a4cba4f1f4c689efdab" version="1">You learn 2 Bard Cantrips</content>
+	<content contentuid="5d46a5727dc1486ad6894059ceacc3f14beaa" version="1">Spell Blending Cantrips - Warlock</content>
+	<content contentuid="14576f1f1ff0009c86f76792ddf89bab6d8bf" version="1">You learn 2 Warlock Cantrips</content>
+	<content contentuid="2e356f2072ffb25943629129409d3b3ecbc13" version="1">Spell Blending 1st Level Spells - Ranger</content>
+	<content contentuid="fff081429bcb855c1a6807a953a7c14b54f2d" version="1">You learn 2 Ranger spells of 1st level</content>
+	<content contentuid="3fdde3a53d29b9bc6c7ac6149e4c981ca84cb" version="1">Spell Blending 1st Level Spells - Druid</content>
+	<content contentuid="df7b0cb0d88e3ee9a5fd5583340f323a72c1d" version="1">You learn 2 Druid spells of 1st level - Druid</content>
+	<content contentuid="0f88ffd17e323c5ec7e18815808f0d1430a96" version="1">Spell Blending 1st Level Spells - Cleric</content>
+	<content contentuid="1ce6cd0c49af3c8978fe7261c9f2ec89219e4" version="1">You learn 2 Cleric spells of 1st level</content>
+	<content contentuid="d66e0660fc8a598330b8db6e881f960e066d6" version="1">Spell Blending 1st Level Spells - Paladin</content>
+	<content contentuid="1b4e0220fa6ac5decdd2906bf0d75536f6566" version="1">You learn 2 Paladin spells of 1st level</content>
+	<content contentuid="2d11c2d7693ee36afb36ce1deb688f72789ef" version="1">Spell Blending 1st Level Spells - Warlock</content>
+	<content contentuid="da35b45289c3e9f402f1a4d8de62b14127722" version="1">You learn 2 Warlock spells of 1st level</content>
+	<content contentuid="a1461f595ee9d26307d8294f229e6c47e4570" version="1">Spell Blending 1st Level Spells - Bard</content>
+	<content contentuid="1288680e0ee26f15704c0f5faa5e718607211" version="1">You learn 2 Bard spells of 1st level</content>
+	<content contentuid="3f91e733121ed7ffc1fa1eb501810052b16ee" version="1">You learn the Spell VacuumTunnel</content>
+	<content contentuid="99d7b8be73b16957796985f19d597e5b6cb0c" version="1">Arcane Points</content>
+	<content contentuid="2599813974df8b7dadd4b5dfd1b7607060c7f" version="1">A reservoir of mystical arcane energy that fuels your powers and enhances your weapon.</content>
+	<content contentuid="hf3023c76g2d8ag4811gad69gccfbc52a6934" version="1">Spellstrike</content>
+	<content contentuid="hd48fa30bg4c6bg46a5g800bg863071af0783" version="1">This spell's attack roll and range match your melee weapon's attack roll.</content>
+	<content contentuid="h13913085g2b6ag4c52g953ag3d38287e16da" version="1">Ranged Spellstrike</content>
+	<content contentuid="h2a0187d2g858bg4b06g8e0eg99798f72ea69" version="1">This spell's attack roll and range match your ranged weapon's attack roll.</content>
+	<content contentuid="hbfc18446gda45g45e1gaa05g8221ef818aa1" version="1">This attack is part of a Spellstrike.</content>
+	<content contentuid="f52b7e029236838ab1ab3a85a223eb544c654" version="1">A Spellsword who wields both the arcane and the blade</content>
+	<content contentuid="d3dce3e0523e38fad7f10d10b9f5661c07244" version="1">Magus</content>
+	<content contentuid="h718be9f4ge386g4ef4g91c1g91b096fb5f5e" version="1">Dimensional Assault</content>
+	<content contentuid="hab7e4d15g6ffbg4935g839cg42e01e329ada" version="1">Tumble through space, making a short dimensional hop to better position yourself for an attack. Teleport to near a creature in range and attack it.</content>
+	<content contentuid="h66733c15g9a0bg425dgae98ga396bfe0282e" version="1">Conflux Focus</content>
+	<content contentuid="h8c3b14ceg67f2g4b78ga687g6396f4e15597" version="1">The resource for casting conflux spells, can be replenished out of combat.</content>
+	<content contentuid="h6be9b9f6gf77ag42f2gb42eg606a9c2236f2" version="1">Conflux Refocus</content>
+	<content contentuid="h5346c498geebcg419eg9fe8gd89d0f336be2" version="1">Spend 10 minutes to regain your conflux focus point.</content>
+	<content contentuid="heb6e7109gfd6dg4684ga2a2g4a647704ae39" version="1">Spinning Staff</content>
+	<content contentuid="h46285ab6gf469g4d38gb45cg843feac2dd89" version="1">Spin your staff around, flinging every foe within 10 feet of you away.</content>
+	<content contentuid="h9fa5c2c6g26f0g424bg884bga2775a997fc3" version="1">Shielding Strike</content>
+	<content contentuid="hed52f0cdgafe0g43a1g9002ge217f7cbd25e" version="1">Thrust your shield forward and taunt your foe, gaining a +2 bonus to Armor Class and Saving Throws.</content>
+	<content contentuid="hd17e8c49gd843g4e3cg9c15ge0c75f9f6287" version="1">Thundering Strike</content>
+	<content contentuid="hf7b10c62g109cg4f34g8fe8g2f11f8ba91fb" version="1">You slam your weapon onto a foe, potentially knocking it and nearby foes prone.</content>
+	<content contentuid="hea83bcf5g39bdg4106ga813g9ef4986e4c5a" version="1">Shooting Star</content>
+	<content contentuid="h7b53a76cg8eadg4720gb258g89b3bfa38551" version="1">Plunge an arrow into a foe, lighting it up with faerie fire.</content>
+	<content contentuid="h6f1fcc4dg1d2bg4422gbd9dg725ef7a7c4e9" version="1">Elemental Burst</content>
+	<content contentuid="h5fe0705fg5d58g4897ga70dg91b56fc513b8" version="1">Attack with your weapon and create a burst of elemental energy.</content>
+	<content contentuid="h30b817c8g3661g4c02g8bd6ge3d52c65e389" version="1">Supreme Spellstrike</content>
+	<content contentuid="h3ffa3255g1248g4feagb0d4g66f300cfc321" version="1">You always gain the benefit of Hasted Assault.</content>
+	<content contentuid="h671765bdgc6fdg4fe0gafe2g438113c50b4c" version="1">Conflux Wellspring</content>
+	<content contentuid="h3c170410g1052g47bdgbcc2gdf2aac103095" version="1">Casting any leveled spell replenishes 1 Conflux Focus Point.</content>
+	<content contentuid="h55ce8609gb077g461fg8dc2gcf6f8aa43d25" version="1">Magus's Smite</content>
+	<content contentuid="h790e7bb6gdfafg473dga291g746e2221160e" version="1">Smite your target for an additional [1].</content>
+	<content contentuid="h95f9f9a3gbcd6g40adga189g4d2474336044" version="1">Shielding Strike AC</content>
+	<content contentuid="h7048c593ge719g42ecgb76bg47dec0b8db61" version="1">You gain +[1] to AC and Saving Throws.</content>
+	<content contentuid="h138c33e3g6e54g4e66g93bag711b9ce0867d" version="1">Shooting Star Advantage</content>
+	<content contentuid="hc56b8a73gfcebg4636g97d0g1caade665e46" version="1">Attacks against this target have advantage.</content>
+	<content contentuid="h56e8c0b1g6806g48eag9e4bg4d8a0dfeba2a" version="1">Elemental Eruption</content>
+	<content contentuid="hb0eba13eg3476g4094g9596g95988f394a6f" version="1">Your elemental burst now trigger on every weapon attack, and its radius is increased to 10ft.</content>
+	<content contentuid="h1a6042e2gf0aeg4731gaa68gde9e6c223145" version="1">Overwhelming Spell Strike</content>
+	<content contentuid="hbd34bebfgef3bg4da6g9346g4af88f9a9d4c" version="1">spend 2 AP to ignore all resistances to damage for 1 turn</content>
+	<content contentuid="hbd4dea81g2324g420ega1fagb52e85f2abf0" version="1">Expanded Cascade</content>
+	<content contentuid="h577d922eg603cg423cg9646gc4fb627e2727" version="1">In addition to your cascade damage, you also extend your hybrid study's casacde augmentation effect to your allies.</content>
+	<content contentuid="h218b4b9fgc3b8g4c00g8252g2a181f0fd815" version="1">Hasted Actions</content>
+	<content contentuid="hf605ea40g087ag494eg87fcg33a98b29e5ee" version="1">Disengage, Dash, Hide, or Attack.</content>
+	<content contentuid="hc1c0f9dfg95a0g4ab4gaa90ga7a48119c8bd" version="1">Resonant Blades</content>
+	<content contentuid="hf7263d8dgd133g42f6ga872g5e85394a4386" version="1">When you miss a spellstrike with you main hand weapon, you may attempt another spellstrike as a bonus action with your offhand weapon. Missing the attack part of an Expansive Spellstrike would not trigger this.</content>
+	<content contentuid="he78c4025g49f3g4811ga146g397579cbfb5a" version="1">Resonant Blade SpellStrike</content>
+	<content contentuid="ha7591b7eg29bfg4e33g85bcgfd498be9fea6" version="1">Make a spellstrike as a bonus action with your offhand weapon.</content>
+	<content contentuid="hf1016c41gdd71g44fag82bdge07e3ad1d91a" version="1">Extended Spell</content>
+	<content contentuid="ha7cbce5bgfce5g4327ga289g44c40126c6f7" version="1">Your next cast of a spell does not cost a spell slot.</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+</contentList>

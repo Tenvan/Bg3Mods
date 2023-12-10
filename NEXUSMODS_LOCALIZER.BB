@@ -46,6 +46,7 @@ When you save the Xml, it write automatical the loca-File in the same directory.
 No more need for extra use of the ConverterApp.
 
 [b][size=4]See my other Mods for translation samples:[/size]
+[url=https://www.nexusmods.com/baldursgate3/mods/5031]2e Spells GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3298]5e Spells GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4769]5e Arcane Archer - Fighter Subclasss[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4147]All Effects And Boot In One GER[/url]
@@ -67,6 +68,7 @@ No more need for extra use of the ConverterApp.
 [url=https://www.nexusmods.com/baldursgate3/mods/3178]Infernal Armor Nightmare GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3226]Infinity Weapons Melee GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3212]Infinity Weapons Ranged GER[/url]
+[url=https://www.nexusmods.com/baldursgate3/mods/5029]Magus Class GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3276]Secret Scrolls 5e Spells GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3279]Secret Scrolls GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3228]Sussur Weapons Spawn GER[/url]
