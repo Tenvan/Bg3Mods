@@ -8,7 +8,7 @@
   <content contentuid="he8eb2b4ag6a75g4c6bgb8bdgeac394c6cf19" version="1">Ein Flammenirrwisch, der [1] austeilt.</content>
   <content contentuid="hf7c5b2f8g9546g4acdgb8abg1839111e9be3" version="1">Ein fließender Mantel völliger Dunkelheit hängt über dir, gefüllt mit Nadelstichen aus Licht wie ferne Sterne. Es vermittelt dir die Stille des Kosmos und gewährt dir größere Unsichtbarkeit. Für die Dauer des Zauberspruchs kannst du einmal pro Spielzug Magisches Geschoss auf der 3. Stufe wirken.</content>
   <content contentuid="h2f918d78g7f72g448eg80degbad0e2fa72b7" version="1">Eine Kugel aus eisiger Dunkelheit explodiert in der Gegend und verursacht [1] Kreaturen in der Umgebung und [2] Lebewesen. Das Gebiet ist dann in einen Schleier der Dunkelheit gehüllt.</content>
-  <content contentuid="he75c9efag5773g4bfdg91b1gb79bde0a3a02" version="1">Ein Haufen Beleidigungen und Beschimpfungen spuckt aus deinem Mund – Worte, die so verheerend sind, dass deine Feinde unter der Intensität deiner Hetzrede brennen. Bei einem fehlgeschlagenen Weisheitsspeicher erschrickt dein Ziel 1 Runde lang und beginnt in jeder Runde zu brennen [1] oder halb so viel bei einem Erfolg ohne zusätzliche Effekte.</content>
+  <content contentuid="he75c9efag5773g4bfdg91b1gb79bde0a3a02" version="1">Ein Haufen Beleidigungen und Beschimpfungen sprudelt aus deinem Mund - Worte, die so verheerend sind, dass deine Feinde von der Intensität deiner Tirade brennen. Bei einem fehlgeschlagenen Weisheitsspruch ist dein Ziel 1 Runde lang verängstigt und fängt an zu brennen, indem es [1] pro Runde erleidet, oder bei einem Erfolg halb so viel, ohne zusätzliche Effekte.</content>
   <content contentuid="h23d96bbfg12bbg4102g93bcg3b349b4a937f" version="1">Eine mächtige Kugel aus eiskaltem Mondlicht explodiert in der Gegend und verursacht [1] Kreaturen und Objekte in der Umgebung sowie [2] untote Kreaturen.</content>
   <content contentuid="h369c2c34ga984g45c0gba8fgefacf735c141" version="1">Ein Energiestrahl prügelt dein Ziel in die Unterwerfung, ohne bleibenden Schaden anzurichten.</content>
   <content contentuid="h71d43cccg8c67g4928g94b5gd49218c08c95" version="1">Ein brüllender Feuerstoß erscheint an einer Stelle, die du bestimmst, und verursacht [1].</content>
@@ -221,7 +221,7 @@
   <content contentuid="hf22d3e4bgaeb5g45acgae6dg7bbef09aab07" version="1">Fokussieren von Brummen 2e</content>
   <content contentuid="h3dc736bdg7f87g4a47gb74bg292c9de89799" version="1">Kraftvolle Hand 2e</content>
   <content contentuid="hf2bbfa98g1ea2g4faeg8bf8g29f59a688b6b" version="1">Freund holen 2e</content>
-  <content contentuid="hc5b1b099gbc2eg4f61gbbfeg8201ccd912c0" version="1">Verängstigt 2e</content>
+  <content contentuid="hc5b1b099gbc2eg4f61gbbfeg8201ccd912c0" version="1">Erschrocken 2e</content>
   <content contentuid="hd643c18agfe12g4d98g8449g6435607b6cd2" version="1">Erhaltet [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;&lt;/LSTag&gt;temporäre Trefferpunkte, Wenn ein Gegner euch innerhalb von 5 Fuß angreift, während ihr die temporären Trefferpunkte aktiv habt, zerbricht der Schild ein wenig und fügt dem Angreifer [2] zu.</content>
   <content contentuid="h5f69a428g40ceg41cbg8a30g1dec6900bdb1" version="1">Verstärkung [1].</content>
   <content contentuid="h86be7178g6c7bg4e4fg9a4bg76a9bfe0942f" version="1">Erhaltet einen Bonus von +[1] auf Angriffswürfe, Konstitutions-Paraden und Weisheits-Paraden.</content>

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <contentList>
+  <content contentuid="ha7d3c635gd0f5g493egbc24gf1288b7211bc" version="1">Death Domain</content>
+  <content contentuid="h8decd146g119eg4267ga3a8gcc61f2e9fbd5" version="1">The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures.</content>
+  <content contentuid="h5c9355d8g5511g4499gbc32g9ee2be89dc3a" version="1">Forge Domain</content>
+  <content contentuid="h0ccb1c9aga82bg4771g9a53ge3d55478096c" version="1">Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them.</content>
+  <content contentuid="hbec2d4e0gddd5g48a6g962fgbbacf802a035" version="1">Grave Domain</content>
+  <content contentuid="h81e91507g0adcg487ega223gc036961ba0b5" version="1">Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse’s workings. To resist death, or to desecrate the dead’s rest, is an abomination.</content>
+  <content contentuid="h6b03d40bgae32g4c83gb4b8g6a717ec0aeeb" version="1">Arcana Domain</content>
+  <content contentuid="h68d824bcgbe15g40dfg8f69gbf7943623cb9" version="1">Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.</content>
+  <content contentuid="hdfc6eb4agc760g48dagb196g249f791388a3" version="1">Order Domain</content>
+  <content contentuid="h8994e65bg223eg446cg86fag418772a8a2c5" version="1">The Order Domain represents discipline, as well as devotion to the laws that govern a society, an institution, or a philosophy. Clerics of Order meditate on logic and justice as they serve their gods.</content>
+  <content contentuid="h8ddd7844g356fg4a3eg91fdgb4a84daaa1ca" version="1">Twilight Domain</content>
+  <content contentuid="hab4d1e44gd157g45d1ga79cg9ac9a40b7755" version="1">The twilight transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night. Clerics who serve these deities bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.</content>
+  <content contentuid="hd5a536bbgdaacg42cag9119g2b33e6df0d32" version="1">Peace Domain</content>
+  <content contentuid="hd8bdef5fg2d53g4b73gb31ege49a07573eab" version="1">The balm of peace thrives at the heart of healthy communities, between friendly nations, and in the souls of the kindhearted. The gods of peace inspire people of all sorts to resolve conflict and to stand against those forces that try to prevent peace from flourishing.</content>
+  <content contentuid="ha255087dgae90g4547gbb9bgb2df40c8acd3" version="1">Death</content>
+  <content contentuid="h8fca8f57gc6d4g4cd1gb0acg81f9b0fd3cd8" version="1">Forge</content>
+  <content contentuid="h7fabe71bg8568g4e78g9131g31f3342a1664" version="1">Grave</content>
+  <content contentuid="h691ba74dg9e34g4580ga85eg46bbb5b2a2e5" version="1">Arcana</content>
+  <content contentuid="h4e117327gf4fcg417bgad42g74c42b915e9a" version="1">Order</content>
+  <content contentuid="h17bca1dfgf277g4fc4g8769g7b2dcd7e326d" version="1">Twilight</content>
+  <content contentuid="hf4c28fb4g9445g4518gbf56g2bfaa9b1646d" version="1">Peace</content>
+  <content contentuid="hedf8c027gf237g4f5bg97f6g28fa4bbf5198" version="1">Blessing of the Forge Charge</content>
+  <content contentuid="h3405cd0fg15b9g4db6g9605g46536d22450a" version="1">Blessing of the Forge Charge</content>
+  <content contentuid="ha74b3753g80eag4773g9d20gddf8e8f66938" version="1">Eyes of the Grave Charge</content>
+  <content contentuid="h1583d8a1g2ae4g4ccbg8d8bg90c1ffcd7389" version="1">Eyes of the Grave Charge</content>
+  <content contentuid="h3c934ce2g40e0g4f42g9e39g14dceb65704e" version="1">Sentinel at Deaths Door Charge</content>
+  <content contentuid="hb44a1574gfd52g443agb4e4ge32add9797e7" version="1">Sentinel at Deaths Door Charge</content>
+  <content contentuid="h1cda614eg970dg446agacaagceaaf8ef2eda" version="1">Embodiment of the Law Charge</content>
+  <content contentuid="h5220bffag8428g485ag91bage356734ea7d7" version="1">Embodiment of the Law Charge</content>
+  <content contentuid="hc671067bg6214g4d00ga6fegfa037bbcda8c" version="1">Eyes of Night Charge</content>
+  <content contentuid="hd1026f1dgf9c6g4ce0g8247g4bb3de01b2e1" version="1">Eyes of Night Charge</content>
+  <content contentuid="h806b4363gc3ccg4eb6gae8cg5a2079a0ab50" version="1">Steps of Night Charge</content>
+  <content contentuid="hd7e86cbdga276g4cfega0c4g97eab70182f6" version="1">Steps of Night Charge</content>
+  <content contentuid="h3d722952g8e15g4d15g8bb3g0f250f6fd0c9" version="1">Emboldening Bond Charge</content>
+  <content contentuid="h74ecf34ag5ca4g4f47gbd03g85dd36f7f396" version="1">Emboldening Bond Charge</content>
+  <content contentuid="hd0f7bff7g3d11g4955ga98agf8f7f9cc7d2a" version="2">Blessing of the Forge Charge</content>
+  <content contentuid="h9ad08af7g7f22g4c91gb343g0acf16a34efc" version="2">Blessing of the Forge Charge</content>
+  <content contentuid="hf108cd92g73dcg417dg85c1g5d9d9e0bdea3" version="2">Eyes of the Grave Charge</content>
+  <content contentuid="h7f12ff40g56ffg4aefg91e0gfad0f3f13e9e" version="2">Eyes of the Grave Charge</content>
+  <content contentuid="hcfe62ee4g24afg490dgb983g391440194f29" version="2">Sentinel at Deaths Door Charge</content>
+  <content contentuid="hfe02e3b2g19beg4b23gb388g608cabd0eb36" version="2">Sentinel at Deaths Door Charge</content>
+  <content contentuid="ha5af2b39g37c2g41b6gb723gdcf1a68f6f7b" version="2">Embodiment of the Law Charge</content>
+  <content contentuid="h642007c2g528cg4883g822ege8cac44725c7" version="2">Embodiment of the Law Charge</content>
+  <content contentuid="ha9761f22g3820g4a13g827ag03c2ef149b92" version="2">Eyes of Night Charge</content>
+  <content contentuid="h1a9a62a3gc8c8g4a36gb0c6gb456f6c85ebe" version="2">Eyes of Night Charge</content>
+  <content contentuid="h4fc50dddg0e1bg4459g8637ga1fa6ca5823f" version="2">Steps of Night Charge</content>
+  <content contentuid="hc2066b3dgae5fg4e81gad81g2f0e6d46a130" version="2">Steps of Night Charge</content>
+  <content contentuid="h8edb16f1gf0e0g4665gb78eged10863ebc97" version="2">Emboldening Bond Charge</content>
+  <content contentuid="h6176d1c6g5266g45dbgb06dg8f0a61f774e5" version="2">Emboldening Bond Charge</content>
+  <content contentuid="hfad2fd5eg2429g4bccg9ae4gf6ea68745352" version="2">Death Domain</content>
+  <content contentuid="h85245569g73c5g4465g84ceg2aa0b0674289" version="2">The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures.</content>
+  <content contentuid="h16f66cb8g2447g418dg9724gfccc830ecde1" version="2">Forge Domain</content>
+  <content contentuid="h5a17f5efg92ecg477cg996egb237c3efed3e" version="2">Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them.</content>
+  <content contentuid="hbceb5b0bg9374g4529gb16cg8dc3768c0011" version="2">Grave Domain</content>
+  <content contentuid="h5ee638bcg9b62g479cga09bg45a15b4f9e31" version="2">Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse’s workings. To resist death, or to desecrate the dead’s rest, is an abomination.</content>
+  <content contentuid="h826f03d4g3263g49f1ga355g38954371f582" version="2">Arcana Domain</content>
+  <content contentuid="ha41cee4ag073ag4c1bgb97agc811b6fa4e7f" version="2">Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.</content>
+  <content contentuid="hf8503cc2g1d14g488egaac3g54d1fbd064e3" version="2">Order Domain</content>
+  <content contentuid="hf25354e2g8f61g4959g9e2dg248f61bf4e14" version="2">The Order Domain represents discipline, as well as devotion to the laws that govern a society, an institution, or a philosophy. Clerics of Order meditate on logic and justice as they serve their gods.</content>
+  <content contentuid="h9195bf65gf7eeg4895g99c5g4a2516f4913c" version="2">Twilight Domain</content>
+  <content contentuid="h3aab4350g4e41g473cga460g96dd6b06243a" version="2">The twilight transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night. Clerics who serve these deities bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.</content>
+  <content contentuid="hbbd9b76cgd983g4b1cg94e5g9aab95662b8c" version="2">Peace Domain</content>
+  <content contentuid="h1a31ed92gc83bg474bg9ccdgb7f4c2a7c243" version="2">The balm of peace thrives at the heart of healthy communities, between friendly nations, and in the souls of the kindhearted. The gods of peace inspire people of all sorts to resolve conflict and to stand against those forces that try to prevent peace from flourishing.</content>
+  <content contentuid="hd56b0d53gf406g4a03g82bcg25d32901a565" version="1">Grave Domain: Spare the Dying</content>
+  <content contentuid="h398a80a4g4019g4965gbd31g3f78480d3c67" version="1">As a bonus action touch a living creature that has [1] within [2]. The creature becomes stable. </content>
+  <content contentuid="h38ef1d31gb5edg4bc8ga149g69f453bcebfc" version="1">This spell has no effect on constructs or undead. </content>
+  <content contentuid="h8d2de0ecg4cdag49bbg9b9cgccc724e20126" version="1">Sentinel at Death's Door</content>
+  <content contentuid="h3d1fdd28g9b99g4f9bga084g68a07522c5b1" version="1">As a reaction when you or an ally that you can see within [1] of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled. You can use this feature a number of times equal to your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. You regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h090ba1b1g3a8ag489bgbc18gf03d175d5f39" version="1">Emboldening Bond: Attack</content>
+  <content contentuid="h7a0bdc43g4fe2g4debg994bgf0317b27ca5e" version="1">Adds [1] to your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. Usable once per turn.</content>
+  <content contentuid="h139560d3g39b1g4216g9127g5a2fa033930f" version="1">Emboldening Bond: Saving Throw</content>
+  <content contentuid="h9aa84023g4bb2g4b73g9490gd0ec54837870" version="1">Adds [1] to your &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. Usable once per turn.</content>
+  <content contentuid="h20ec4b3eg594dg4c98gb7efga78c006d6102" version="1">Emboldening Bond: Ability Check</content>
+  <content contentuid="he10fe2d7g8339g46c0g98e3g915a2e72a2d0" version="1">Adds [1] to your &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;. Usable once per turn.</content>
+  <content contentuid="hae36db5bgc1cbg435ag964eg02e4c297891c" version="1">Protective Bond</content>
+  <content contentuid="he66ef310ga707g4550ga401g1f4475bc31bb" version="1">As a reaction you can teleport to someone affected by Emboldening Bond and take damage from an attack instead of the original target.</content>
+  <content contentuid="h952c39c8gb6d3g4467g932eg18f1c5fdf80d" version="1">Channel Divinity: Touch of Death</content>
+  <content contentuid="hd9f7d15ag1d44g4240g8767gc6d030e55bdc" version="1">You can use &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Channel Divinity&lt;/LSTag&gt; to destroy another creature's life force by touch. When you hit a creature with a melee attack, you can use &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Channel Divinity&lt;/LSTag&gt; to deal extra [1] to the target. The damage equals 5 + twice your cleric level.</content>
+  <content contentuid="hd0e13ebfgd67dg4de3g935cge2a094770602" version="1">Sapping Sting</content>
+  <content contentuid="h8e91d151g6c6cg475dgacb4g57a196b9355b" version="1">You sap the vitality of a creature, causing it to fall prone.</content>
+  <content contentuid="hf63f9b79g91d7g4eeeg83d9g890f49d40e75" version="1">Toll the Dead</content>
+  <content contentuid="h75bcdacegd868g4e40g8e22g77a512ad8c12" version="1">Point at a creature, causing the sound of a dolorous bell to fill the air around it for a moment, dealing [1] or [2] if it is injured.</content>
+  <content contentuid="h9716f047g41c2g4533gbc82g498aa1a8a502" version="1">Spare the Dying</content>
+  <content contentuid="h373aa856g0f43g432cg9293gfcf26a924936" version="1">Touch a living creature that has [1]. The creature becomes stable.</content>
+  <content contentuid="hab44d5d4g0b89g43e1gad7ag1ade95e4d9d9" version="1">This spell has no effect on constructs or undead.</content>
+  <content contentuid="h078ffd16g04efg4437gb436gd9efffd4ac26" version="1">Blessing of the Forge</content>
+  <content contentuid="h6988639ag44dfg4323g8ccbga8497efaa9a4" version="1">Imbue magic into a weapon or armor. You can touch one object that is a suit of armor or a simple or martial weapon. Until the end of your next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, the object becomes a magic item, granting a +1 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; if it's armor or a +1 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and damage rolls if it's a weapon.</content>
+  <content contentuid="hc1154e31geab3g4eb3g9325gae043ff80047" version="1">Blessing of the Forge: Weapon</content>
+  <content contentuid="h3a0067e9gbe33g44b2gb346g38c5b17b41b9" version="1">You can touch one object that is a simple or martial weapon. Until the end of your next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, the object becomes a magic item with a +1 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and damage rolls.</content>
+  <content contentuid="h5663e9acg2e40g44a4gb76fg7ac8e2ce88d7" version="1">Blessing of the Forge: Armour</content>
+  <content contentuid="h3b3b8261g3edbg4a46g9e1eg6a6c70cb05f5" version="1">You can touch one object that is a suit of armor. Until the end of your next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, the object becomes a magic item, granting a +1 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt;</content>
+  <content contentuid="ha2a044b1ga381g4561gb5aag1abbcd8ffb89" version="1">Channel Divinity: Path to the Grave</content>
+  <content contentuid="h89841a15ge23ag4509g9363gb004aab4dc86" version="1">As an action, you choose one creature you can see within [1] of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerability&lt;/LSTag&gt; to all of that attack's damage, and then the curse ends.</content>
+  <content contentuid="h67371927g41e8g4c97g9b7cgae918f103b67" version="1">Keeper of Souls: Healing Target</content>
+  <content contentuid="hc30aae8fg15a6g4a50g80a6g89410dc6af91" version="1">When an enemy you can see dies within [1] of you, you or one ally of your choice regains hit points equal to your level. This can trigger once a round.</content>
+  <content contentuid="h4cd2e7a2gafb0g46cdg86eag9c7c8fe62062" version="1">Channel Divinity: Arcane Abjuration</content>
+  <content contentuid="h029418a2g4b52g489ag810fg0211b5e57371" version="1">As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within [1] of you must make a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, provided that the creature can see or hear you. If the creature fails its &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, it is &lt;LSTag Type="Status" Tooltip="TURNED"&gt;Turned&lt;/LSTag&gt; for 1 minute or until it takes any damage.</content>
+  <content contentuid="h5e478725g945fg4aafgbe40g5df4727a4f52" version="1">Voice of Authority: Target</content>
+  <content contentuid="h5945dd0eg3110g4587gaf93g6ed6db11d5fe" version="1">Select target in melee range of ally you've cast a spell on this round.</content>
+  <content contentuid="h195ce030gf091g462fg9998gf71a4414754a" version="1">Embodiment of the Law</content>
+  <content contentuid="h8e4cff16g9aa4g4597g83aeg1bc708c3887a" version="1">If you cast a spell of the enchantment school using a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; of 1st level or higher, you can change the spell's casting time to 1 bonus action for this casting, provided the spell's casting time is normally 1 action. You can use this feature a number of times equal to your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (minimum of once), and you regain all expended uses of it when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>  
+  <content contentuid="h4a80fbc3g6d67g4a52g9e4bgf2dd73e116d7" version="1">Embodiment of the Law: Command</content>
+  <content contentuid="hbedc6e40g2173g40dfg94a6g50c893b275d5" version="1">If you cast a spell of the enchantment school using a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; of 1st level or higher, you can change the spell's casting time to 1 bonus action for this casting, provided the spell's casting time is normally 1 action. You can use this feature a number of times equal to your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (minimum of once), and you regain all expended uses of it when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h068447d8gd2bbg4a07gb0beg74067e4f808d" version="1">Eyes of Night</content>
+  <content contentuid="h41850a86g42fbg4fc9g84f6g60399353755e" version="1">You can magically share the &lt;LSTag Type="Status" Tooltip="DARKVISION"&gt;Darkvision&lt;/LSTag&gt; of this feature with willing creatures you can see within [1] of you, up to a number of creatures equal to your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (minimum of one creature). The shared &lt;LSTag Type="Status" Tooltip="DARKVISION"&gt;Darkvision&lt;/LSTag&gt; lasts for 1 hour. Once you share it, you can't do so again until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, unless you expend a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; of any level to share it again.</content>
+  <content contentuid="h40a2463fgf50ag4e02gbc7bg8613f0f41590" version="1">Eyes of Night</content>
+  <content contentuid="h6cda0d3fgadeeg4120gaae4gb26462731056" version="1">Use an Eyes of the Night Resource point to share &lt;LSTag Type="Status" Tooltip="DARKVISION"&gt;Darkvision&lt;/LSTag&gt; with a range of [1] that lasts for an hour.</content>
+  <content contentuid="h9382bddcg3044g416ag9eabg9bc54d077974" version="1">Eyes of Night</content>
+  <content contentuid="hff412f66g6a9ag4318g83dbg614286736f72" version="1">Use a Spell Slot to share &lt;LSTag Type="Status" Tooltip="DARKVISION"&gt;Darkvision&lt;/LSTag&gt; with a range of [1] that lasts for an hour.</content>
+  <content contentuid="hf7a77096ge5afg45bfg9e38ga2ede0fe8c68" version="1">Vigilant Blessing</content>
+  <content contentuid="hcd545939g118fg4b15gb5ffg5d111469b68d" version="1">As an action, you give one creature you touch +3 on the next initiative roll the creature makes. This benefit ends immediately after the roll or if you use this feature again.</content>
+  <content contentuid="ha0ddb5cbgde79g4e7aga476g4c89bad2561a" version="1">Emboldening Bond</content>
+  <content contentuid="h1af83e0cg6429g48f3gb6c7g5b35d20645d6" version="1">As an action, you choose a number of willing creatures within [1] equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. You create a magical bond among them for 10 minutes. While any bonded creature is within [1] of another creature with Emboldening Bond active, the creature can roll [2] and add the number rolled to an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, an &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; it makes. Each creature can add the [2] no more than once per turn. You can use this feature a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h84882cacg2f3cg49bcgb7ccge45f6e88a931" version="1">Balm of Peace: Heal</content>
+  <content contentuid="h4f4c02b3gd271g47e1gbb94gc860f40541dd" version="1">Heal target for [1]. Can only be used on each target once.</content>
+  <content contentuid="h344791adg25a5g49b2g905fg95052df90670" version="1">Protective Bond: Teleport</content>
+  <content contentuid="hb4be419ag9365g40bag9cdegac0314c4c667" version="1">Teleport to an ally to redirect an attack to yourself</content>
+  <content contentuid="h228376deg56d7g4ccag9758gd08edead5d44" version="1">Blessed Strikes</content>
+  <content contentuid="hff736c46ge950g401egb01fgd6e75d055c4b" version="1">You gain the ability to infuse your weapon strikes and damaging &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; with divine energy. Once on each of your turns when you hit a creature with a weapon attack or &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; damage, the attack deals an extra [1] damage to the target.</content>
+  <content contentuid="h6b26f2f7g05ecg4634ga9e6g87ad94286413" version="1">Proficient with Heavy Armor</content>
+  <content contentuid="h1a538e7eg60bcg49f6gb185gb1545da76867" version="1">Gains &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with heavy armor</content>
+  <content contentuid="h9fee2facgd3bag46f0g98b5g68438da5b827" version="1">Proficient with Martial Weapons</content>
+  <content contentuid="hb99b05dbgb70ag408dg9b23gd96b834aed96" version="1">Gains &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with martial weapons</content>
+  <content contentuid="hfbfc0f50g2470g4e38g89c7g04fd35385828" version="1">Stormborn</content>
+  <content contentuid="h716e29c1g2f49g4644g913fg119a9b91d1c1" version="1">You have a flying speed equal to your current walking speed.</content>
+  <content contentuid="h8439bcc9ga69cg405dgaae0gfbd3a5c8b906" version="1">Avatar of Battle</content>
+  <content contentuid="hf6b3731egb0bbg4e34gb118g8a7efa5c46d6" version="1">You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to bludgeoning, piercing, and slashing damage from nonmagical attacks</content>
+  <content contentuid="hfc8ca28cgcabfg4c68gaa93g4dcb65d78ac7" version="1">Master of Nature</content>
+  <content contentuid="he96d49a9g23f7g4bf1g96bdgd56cd23f2040" version="1">You gain the ability to command animals and plant creatures. Beasts and plants &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; with your &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Channel Divinity&lt;/LSTag&gt; will join combat on your side.</content>
+  <content contentuid="h032c07d5gd65bg4965g81d3g1411b7c0de2a" version="1">Reaper</content>
+  <content contentuid="h5315b7b7g6b92g4dbdga554ga79ffa5e2763" version="1">When you cast a necromancy &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; that normally targets only one creature, the spell can instead target two creatures within range and within [1] of each other.</content>
+  <content contentuid="h658e3f94g201bg45f0gbc8fgff43a16a5bf0" version="1">Improved Reaper</content>
+  <content contentuid="hfc90a61cgd29dg4332ga0f5g2243e123746c" version="1">When you cast a necromancy spell of 1st through 5th level that targets only one creature, the spell can instead target two creatures within range and within [1] of each other.</content>
+  <content contentuid="ha151a78fg9671g403dgb508ge7470b32cdb2" version="1">Inescapable Destruction</content>
+  <content contentuid="h5c7076e9g2297g4462g96f5g3b1194c8fe2d" version="1">Your ability to channel negative energy becomes more potent. Necrotic damage dealt by your cleric spells and &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Channel Divinity&lt;/LSTag&gt; options ignores &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to necrotic damage.</content>
+  <content contentuid="he02ca90ag35c1g4f51g9470g6267edf7d71c" version="1">Soul of the Forge</content>
+  <content contentuid="h0645df9ageafbg4be5ga84cgcf6720195f74" version="1">Mastery of the forge grants you special abilities. You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to fire damage and while wearing heavy armor, you gain a +1 bonus to&lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt;.</content>
+  <content contentuid="h780917d9g935fg48f4g88cag39861c5afeb9" version="1">Saint of Forge and Fire</content>
+  <content contentuid="hd7d1eed1gb7b0g4ebdgb46bg79c6f6a85e36" version="1">You're blessed affinity with fire and metal becomes more powerful. You gain &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to fire damage and while wearing heavy armor, you have &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to bludgeoning, piercing, and slashing damage from nonmagical attacks.</content>
+  <content contentuid="hf9ac81f3ga07fg4589g8b06gaf101abc03e4" version="1">Circle of Mortality</content>
+  <content contentuid="h9e9ffe6cgdd61g47aegbf18ge7a48c3bc9ca" version="1">When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die. In addition, you learn the Spare the Dying &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;, which doesn't count against the number of cleric &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.</content>
+  <content contentuid="h540bcd15g38fbg44f1g93f8g54bdd7c28697" version="1">Sentinel at Death's Door</content>
+  <content contentuid="h66a74487g4370g485ag924dg544abbe9eb47" version="1">All enemies within [1] are unable to critically hit you or your party</content>
+  <content contentuid="hcc87553dg6bbag49cega6b1gf3e2a6119fdb" version="1">Potent Spellcasting</content>
+  <content contentuid="h7387efedg7737g4518g8a37g2dbe8e27f48d" version="1">You add your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to the damage you deal with any cleric &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;.</content>
+  <content contentuid="hf232bb6fgdd97g4d36ga35ag4e8a340c927b" version="1">Potent Spellcasting</content>
+  <content contentuid="h70fb04bdg7d89g470ega92eg880a05249eae" version="1">You add your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to the damage you deal with any cleric &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;.</content>
+  <content contentuid="he972c880gc35eg4358g9ef9g778f7585bae6" version="1">Keeper of Souls</content>
+  <content contentuid="haf5b354cg75c6g4877gaa6eg090e901fc88a" version="1">When an enemy you can see dies within [1] of you, you or one ally of your choice regains hit points equal to your level. This can trigger once a round.</content>
+  <content contentuid="h198d7213g872eg4219g8362g5abb44faff59" version="2">Arcane Initiate</content>
+  <content contentuid="h7bc4af45g9ce1g48e6gaadagbb8ac08ff12f" version="2">When you choose this domain at 1st level, you gain &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in the &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; skill, and you gain two &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; of your choice from the wizard spell list. For you, these &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt; count as cleric &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;.</content>
+  <content contentuid="h2671632dgbc70g4f3dga611ge47163124ee4" version="1">Spell Breaker</content>
+  <content contentuid="heab2c345g43c2g449dg8eb3g9ad52a2c21fd" version="1">When you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell on that creature.</content>
+  <content contentuid="h05e77f0dgf158g456dg9569g1a7a021ad005" version="1">Potent Spellcasting</content>
+  <content contentuid="hb1f30250g9ae8g4fa3g8384g831f93607013" version="1">You add your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to the damage you deal with any cleric &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;.</content>
+  <content contentuid="hcda24598g4346g46f9gb63agaa2fce7aa433" version="1">Arcane Mastery</content>
+  <content contentuid="h967fc99bg2319g4521ga660g05553995e6d3" version="1">You choose four spells from the wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.</content>  
+  <content contentuid="hac93fd2cgba1fg4145gbee3gf64d10ab2ed3" version="1">Voice of Authority</content>
+  <content contentuid="heba685bdga24ag4979g8828g3d91d59bafa2" version="1">If you cast a spell with a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; of 1st level or higher and target an ally with the spell, that ally can use their reaction immediately after the spell to make one weapon attack against a creature of your choice that you can see.</content>
+  <content contentuid="h83dd4250g705eg4b47ga957gf0123aa273e2" version="1">Order's Wrath</content>
+  <content contentuid="h72481babg63deg4db4gad76g6dda9a834673" version="1">If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes [1], and the curse ends.</content>
+  <content contentuid="hd07948d7gdee3g47c8gb13bg816efe92c501" version="1">Eyes of Night</content>
+  <content contentuid="h71970716ge56ag4d9eg834aga8e5dd28e9e9" version="1">You have &lt;LSTag Type="Status" Tooltip="DARKVISION"&gt;Darkvision&lt;/LSTag&gt; out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.</content>
+  <content contentuid="h44e9cdbag37e6g4eb8gba66g7443c9a325af" version="1">Twilight Shroud</content>
+  <content contentuid="h56fd4058g1db0g47aaga815ga31ad72fd884" version="1">The twilight that you summon offers a protective embrace: You and your allies have half cover while in the sphere created by your Twilight Sanctuary. (+2 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;)</content>
+  <content contentuid="he973fc6cg54f5g4965g81dcg1a8454cc59aa" version="1">Implement of Peace</content>
+  <content contentuid="haa4fb8f9ge4cag41c7g9383gfbc73abdd312" version="1">When you choose this domain at 1st level, you gain proficiency in one of the following skills: &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt;, &lt;LSTag Tooltip="Performance"&gt;Performance&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;.</content>
+  <content contentuid="h39f00ea7g3358g46fag95c2g71386aa2e77a" version="1">Protective Bond</content>
+  <content contentuid="hc62efb90gcc7cg4a04g8997g73de1e8e707d" version="1">When a creature affected by your Emboldening Bond feature is about to take damage, a second bonded creature can use its reaction to teleport within [1] of the first creature. The second creature then takes half the damage instead.</content>
+  <content contentuid="hebcce25eg6d75g4a08ga08fgf74a8b81a061" version="1">Expansive Bond</content>
+  <content contentuid="he108a899g6ac1g4e9dgaff7g03003d9fc2d1" version="1">The Benefits of your Emboldening Bond and Protective Bond features now work when up to [1] from another creature affected by the bond. When a creature uses Protective Bond to take someone else's damage, the creature has &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to that damage.</content>  
+  <content contentuid="hcfba2670g9ceeg401aga290g5769d46f4b58" version="1">Potent Spellcasting</content>
+  <content contentuid="h1557816ag4810g4702gb710g19b5dcf91ee0" version="1">You add your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to the damage you deal with any cleric &lt;LSTag Tooltip="Cantrip"&gt;cantrips&lt;/LSTag&gt;.</content>
+  <content contentuid="h8b85c46fg71d8g4583g9768gd1fef8b98594" version="1">Channel Divinity: Artisan's Blessing Martial Weapon</content>
+  <content contentuid="hc5891788gd958g42d3gb16dg5d05fc4741c2" version="1">Forge a martial weapon.</content>
+  <content contentuid="hc1b063abg078dg47eega51cgf7dab4ddb586" version="1">Forge: Battleaxe</content>
+  <content contentuid="h16e535bcgb119g4143g9848g86c77a51cf14" version="1">Versatile (1d10)</content>
+  <content contentuid="h12e0c24fgb940g42d2gaa6dgb62e9dda9d5f" version="1">Forge: Flail</content>
+  <content contentuid="h90c3fbf0gd6ceg453ega247g50cfe3f11f08" version="1">Forge: Glaive</content>
+  <content contentuid="hc31ae4e5ga814g4d2ag9ae6g4fa14ef0e732" version="1">Forge: Greataxe</content>
+  <content contentuid="h159c2b8fg5f65g4bbbg8b56g3faf398a61d0" version="1">Forge: Greatsword</content>
+  <content contentuid="h7ef7bd2dgc5d4g42aegb4bfg6e5677387325" version="1">Forge: Halberd</content>
+  <content contentuid="h4cf7a940g0f87g4a4fga5e1g11a303b8b0ef" version="1">Forge: Longsword</content>
+  <content contentuid="h8c20142ag0878g4d9bgb1b1g58db93f1b5da" version="1">Versatile (1d10)</content>
+  <content contentuid="hd6084b53g0241g4989g975fgbdfddff01e91" version="1">Forge: Maul</content>
+  <content contentuid="ha96c4073gfeefg425cga54dgc5420b5c7d7f" version="1">Forge: Morningstar</content>
+  <content contentuid="haab4fe16g2108g4d14gad38g68a8104d659b" version="1">Forge: Pike</content>
+  <content contentuid="hbd15ec09g871bg44afg9b84g898f657c2bb6" version="1">Forge: Rapier</content>
+  <content contentuid="h21b582e9g120dg4888ga2b4gda7499a3ea0a" version="1">Forge: Scimitar</content>
+  <content contentuid="h173ed1b3g52a4g4455g86eaga5bf10abc5ac" version="1">Forge: Shortsword</content>
+  <content contentuid="h8e70e6a0g5701g4d25g9791g4ad12e28c8db" version="1">Forge: Trident</content>
+  <content contentuid="hb2321d07g5bc4g4680gb321g54290b3b76e1" version="1">Versatile (1d8)</content>
+  <content contentuid="h7557d8e1g9138g4a6eg9adag8152f1f3df6e" version="1">Forge: War Pick</content>
+  <content contentuid="h2bdea97egb4d3g440ag82c2g5e834dbfbe6e" version="1">Forge: Warhammer</content>
+  <content contentuid="he4dc875agd9abg40b1ga9fdg930dd2712e20" version="1">Versatile (1d10)</content>
+  <content contentuid="h61b10d2bgfc87g4031g9d89g695984d0c949" version="1">Forge: Heavy Crossbow</content>
+  <content contentuid="hd7bea3ddgc014g4617gb1ffg404c05e789a8" version="1">Forge: Handcrossbow</content>
+  <content contentuid="ha681e127g5cb7g413egabffg9e00496765ac" version="1">Channel Divinity: Artisan's Blessing Simple Weapon</content>
+  <content contentuid="hb303fce5g6014g4de1ga075ga81a7084bacb" version="1">Forge a simple weapon</content>
+  <content contentuid="hbf150372gc452g47dbg8e18g7d5f7fa22285" version="1">Forge: Dagger</content>
+  <content contentuid="he8d95d4egaab7g42e9gb092g3c1df79df8de" version="1">Finesse</content>
+  <content contentuid="hf8eb035egd662g494bga807ged4df4af3572" version="1">Forge: Handaxe</content>
+  <content contentuid="h33fdbd54gf13bg4d3aga5d8gd4e266e6720a" version="1">Forge: Mace</content>
+  <content contentuid="hb630a3bbg7fbfg409ag9697g5f287998c5c6" version="1">Forge: Sickle</content>
+  <content contentuid="h6697e92eg2886g495eg8c00g1722900394bf" version="1">Forge: Light Crossbow</content>
+  <content contentuid="h2790f187g08f8g4f44gaa5fga8733d21308f" version="1">Channel Divinity: Artisan's Blessing Armor</content>
+  <content contentuid="h07383b24g4228g42c8gafd5gb3a9eb9aa62b" version="1">Forge a new piece of armor</content>
+  <content contentuid="h48a2090dg69c2g4651gb2cegfdc604243b10" version="1">Forge: Studded Leather</content>
+  <content contentuid="h4bc8a949g27a6g4d40g9dc0g71538fca2b6a" version="1">Light Armor: &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; (12) + Dex &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;</content>
+  <content contentuid="hef7d791ag391cg41fag8ed2g23c3c2633bc6" version="1">Forge: Chain Shirt</content>
+  <content contentuid="h4cdaabc6gc7f4g4f39ga7c4g5bf0043be8c8" version="1">Medium Armor: &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; (13) + Dex &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (max 2)</content>
+  <content contentuid="h1bc1a5fegff1fg4af7gacafg45e1b4ef85a9" version="1">Forge: Scale Mail</content>
+  <content contentuid="hf86aee23gd2a0g43bagb72bg91630254d15e" version="1">Medium Armor: &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; (14) + Dex &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (max 2)</content>  
+  <content contentuid="h11a75f4fg26ffg4915gad14gccfdec7ec935" version="1">Forge: Ring Mail</content>
+  <content contentuid="h5c5cb61fg744eg41ddgad3ag1e287b5d7e5c" version="1">Heavy Armor: &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; (14)</content>
+  <content contentuid="h775727f3g18a1g4f7cgb10ag560ba1edac4d" version="1">Forge: Chain Mail</content>
+  <content contentuid="h9063e71dgec25g47d7g95a0gc6a69fb4dcb6" version="1">Heavy Armor: &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; (16)</content>
+  <content contentuid="hbce19cd2g7111g40e2g8281g2b5d04bc02da" version="1">Forge: Shield</content>
+  <content contentuid="h67efde82ge23fg47e2g92d4geeec9b588736" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; (2)</content>
+  <content contentuid="h282a3426g8383g43fcg9349g2cc2d00ad5b7" version="1">Forge: Gloves</content>
+  <content contentuid="h4a10ee68g162ag4f50g9785geb2715695be8" version="1">Medium Armor</content>
+  <content contentuid="h5f5bef55gf9bdg48efg9187g1f35a25e8696" version="1">Forge: Helmet</content>
+  <content contentuid="h447248d9g64f4g451agb375gd86deca79326" version="1">Medium Armor</content>
+  <content contentuid="hdaec5531gabfbg41bbg85a5gac1e2ea5f582" version="1">Channel Divinity: Artisan's Blessing Tools and Objects</content>
+  <content contentuid="h1c12bc8cg449bg4d14g99aag55773448dfed" version="1">Forge tools and other useful objects.</content>
+  <content contentuid="ha03894bcga0a2g4b90ga103ga3863aabf8b8" version="1">Forge: Hammer</content>
+  <content contentuid="hebe14401g24d2g4a61g884eg8f812deeeee4" version="1">Forge: Thieves Tools</content>
+  <content contentuid="h658d9722g42afg4793gbbfdg501bbce066ae" version="1">Forge: Trap Disarm Kit</content>
+  <content contentuid="h78178e13gd63ag4575gaa2bg3bb73a5eae8e" version="1">Forge: Shovel</content>
+  <content contentuid="h010c2ed7g4773g49adg9623g04993e73b147" version="1">Forge: Heavy Chest</content>
+  <content contentuid="ha7ddbb72g6d36g459agb7f2g5c4024ecf84e" version="1">Requires 18 Strength to pick up or move</content>
+  <content contentuid="ha2684d99g0cfdg4ef4g9de1g4ef2986859da" version="1">Forge: Small Heavy Chest</content>
+  <content contentuid="he356c93age4a1g4da1gb87dgeb22f3e61a5c" version="1">Eyes of the Grave</content>
+  <content contentuid="h9a73c206gde14g42c8ga2afg2caceaeccce6" version="1">You can open your awareness to magically detect undead. Until the end of your next turn, you know the location of any undead within [1] of you that isn't behind total cover and that isn't protected from divination magic. This sense doesn't tell you anything about a creature's capabilities or identity. You can use this feature a number of times equal to your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (minimum of once). You regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>  
+  <content contentuid="hf2874094gcd2ag4bfdgbd2ag75587e245599" version="1">Sentinel at Death's Door</content>
+  <content contentuid="h5147a48fgcdc5g4818gba61g04863c2516b7" version="1">Create an aura that makes your party immune to critical hits. You can use this feature a number of times equal to your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. You regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h3bda3ce2ge0b1g4ea3gb29dg0c41d5313875" version="1">Channel Divinity: Order's Demand</content>
+  <content contentuid="h3a92a52dgbad8g4c9egb6cag3054c7a75ca4" version="1">Each creature that can see or hear you within [1] of you must succeed on a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; by you until the end of your next turn or until the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; creature takes any damage. You also cause any of the &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; creatures to drop what they are holding when they fail the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+  <content contentuid="h34d8e74ege813g4042g8f47g46743c7ffb5b" version="1">Channel Divinity: Twilight Sanctuary</content>
+  <content contentuid="h8d3c09b4g508cg4c55gb898gadb66f172517" version="1">A sphere of twilight emanates from you. The sphere is centered on you, has a [1] radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are incapacitated or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits: You grant it 1d6 + [2] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; or you end one effect on it causing it to be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frighten&lt;/LSTag&gt;. </content>
+  <content contentuid="h724b37f4g1508g4459gae92g01d4bd745f9e" version="1">Twilight Sanctuary: Remove Charmed or Frightened</content>
+  <content contentuid="h766a7599gb09dg45d8g8fc9g668fe8753ee0" version="1">Removes &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frighten&lt;/LSTag&gt; status. If you do not use this ability you will gain temporary hitpoints at the end of the turn.</content>
+  <content contentuid="h10ff3020gb6d1g48d9gb10egd91efe79237e" version="1">Channel Divinity: Balm of Peace</content>
+  <content contentuid="hd54705b6g296bg4e19gaa8bg408598d44cd8" version="1">As an action, you can move without provoking &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;, and when you move within [1] of any other creature during this action, you can restore [2]. A creature can receive this healing only once when you take this action.</content>
+  <content contentuid="h4e705c39g9768g42bbgb922g63ac64bf56ce" version="1">Stormborn</content>
+  <content contentuid="h61aea66ag4905g4e10g9e60gd3a777abbf3f" version="1">You have a flying speed equal to your current walking speed.</content>
+  <content contentuid="h23c4835cgabe5g4757ga27egae8f6684af91" version="1">Steps of Night</content>
+  <content contentuid="h2b1d5007g5594g4b24ga4bagc4394f310cde" version="1">You can draw on the mystical power of night to rise into the air. As a bonus action when you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this bonus action a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h753105c6g5264g46ecg8afagc5f25c7706b5" version="1">Master of Nature: Dominated</content>
+  <content contentuid="hb27cb830gc28cg4f44g994egeaee5e9f096b" version="1">Can't attack spellcaster and must follow their commands. Spellcaster has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; in dialogue.</content>
+  <content contentuid="h19f3099bgb966g4925g88a0g81742ac6e3e3" version="1">Blessing of the Forge: Weapon</content>
+  <content contentuid="h796fce35ge772g40edga854g21fc12d7c3ba" version="1">Magical until next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
+  <content contentuid="h784be5edgbc48g41abgab2dgaeae0588e4e0" version="1">Blessing of the Forge</content>
+  <content contentuid="hd8d8630dg4843g4a98ga90bga7b9cabe6959" version="1">Magical until next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
+  <content contentuid="h4ddaed6fg1f2bg466cg967egcc5a7ad9af95" version="1">Blessing of the Forge: Armor</content>
+  <content contentuid="hb9aadf51gf42eg4e5cgb68fg010e959d78b2" version="1">+1 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt;</content>
+  <content contentuid="h784b1158g2353g4c69gb1d1g493979dcb9c4" version="1">Eyes of the Grave</content>
+  <content contentuid="hd2e5bfe1g3f42g48b9g9342gd51926d32270" version="1">You can open your awareness to magically detect undead.</content>
+  <content contentuid="h79555ed1g643bg4b3ag8835g17794450b2a4" version="1">Eyes of the Grave</content>
+  <content contentuid="h864a2614g74d0g49bcg8e3fgeac79a769456" version="1">You can open your awareness to magically detect undead.</content>
+  <content contentuid="h47a632e6g94cfg40b6gb473g0b9d1a07fe17" version="1">Path to the Grave</content>
+  <content contentuid="h9e2d35fbg4b35g4bf5gbfecg1eca8dde1b04" version="1">&lt;LSTag Tooltip="Vulnerable"&gt;Vulnerability&lt;/LSTag&gt; to all damage.</content>
+  <content contentuid="hc72a1265gb966g41a2gbad6g8d7c9ffbe5cc" version="1">Sentinel at Death's Door</content>
+  <content contentuid="hac5d9f7cgbf5dg4ab1g9e03gd36abacaa789" version="1">All enemies within [1] are unable to critically hit you or your party</content>
+  <content contentuid="ha40b152fg2359g4344g99f5ga410d085d4db" version="1">Keeper of Souls</content>
+  <content contentuid="h50fc9c58gf294g4fbbgbfa9gf96aeb0a7dd1" version="1">Able to regain health with Keeper of Souls. This can trigger once a round.</content>
+  <content contentuid="h49c73ae4g01cag49abgb83fg5a4ab3124b58" version="1">Order's Wrath: Cursed</content>
+  <content contentuid="h1b9d0317g4566g4a2bgadc5gb6d2df00b363" version="1">The next time one of your allies hits the cursed creature with an attack, the target also takes [1], and the curse ends.</content>
+  <content contentuid="hbf86d5b5gcc04g4a62g949fg90366dd988c8" version="1">Eyes of Night</content>
+  <content contentuid="hf14c2a62g9f02g4be5ga75ag26cf0752f4e5" version="1">You have &lt;LSTag Type="Status" Tooltip="DARKVISION"&gt;Darkvision&lt;/LSTag&gt; out to a range of [1]. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.</content>
+  <content contentuid="h78310666g02e3g4b67g8449g77f6a9a1bbef" version="1">Vigilant Blessing</content>
+  <content contentuid="h5aa38a73gae70g44bcgb540ge6cb2b1511d6" version="1">You have +3 on your next initiate roll.</content>
+  <content contentuid="hee6e6066g334fg4011gb619g0f642218b3a7" version="1">Channel Divinity: Twilight Sanctuary</content>
+  <content contentuid="h5d23b72ag303ag4862gbe2bgebbdd8177fd4" version="1">The sphere moves with you, and it lasts for 1 minute or until you are incapacitated or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits: You grant it temporary hit points equal to 1d6 plus your cleric level or you end one effect on it causing it to be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frighten&lt;/LSTag&gt;.</content>
+  <content contentuid="h28b0a369g7576g4995ga39cg66ee07c1533b" version="1">Twilight Sanctuary</content>
+  <content contentuid="hc4942504ge807g45ebg9c7eg1f01f613a8a5" version="1">You can take an action to remove &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frighten&lt;/LSTag&gt; status. If you don't you will gain temporary hitpoints at the end of your turn.</content>  
+  <content contentuid="h94e772ecgbbf7g4386gacdage4405cf31150" version="1">Remove Charmed and Frightened</content>
+  <content contentuid="he71e3abbgec0cg48acg951cg17ad9b846ee6" version="1">Removes Charmed and Frightened status</content>
+  <content contentuid="h231dd0ddg6ec9g4a4cga4e7g0c77a628b40e" version="1">Twilight Shroud</content>
+  <content contentuid="hfd57454dg88a4g4e97g9911g2d0cff4a27af" version="1">The twilight offers a protective embrace: You have half cover while in the sphere created Twilight Sanctuary.(+2 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;)</content>
+  <content contentuid="h54afe724ga400g41b2gbe0cgf5db09492d4b" version="1">Emboldening Bond</content>
+  <content contentuid="h46eab41eg59e0g46d2gacd9ga7cd61d423df" version="1">If within [1] of another creature with Emboldening Bond you gain the following benefits. You can roll [2] and add the number rolled to an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, an &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, no more than once per turn.</content>
+  <content contentuid="hfbe5ba3eg30a0g4e8bga4a0g7cbfaf631818" version="1">Emboldening Bond: Expansive Bond</content>
+  <content contentuid="h6239b6e8g952bg4afcg8870gfb70fdbf5e1e" version="1">If within [1] of another creature with Emboldening Bond you gain the following benefits. You can roll [2] and add the number rolled to an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, an &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, no more than once per turn"</content>
+  <content contentuid="h5cfda637ge065g4e31ga99bg336c10fcd29a" version="1">Balm of Peace</content>
+  <content contentuid="hca3cfa82g56c8g4fcbg91e9gcd2c469578e5" version="1">Moving without provoking &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;. Special Balm of Peace Heal spell unlocked.</content>
+  <content contentuid="h426cc301g7baag4d3eg8b41gb1cd52087d2e" version="1">Voice of Authority</content>
+  <content contentuid="h9dafc1d4g5f58g49b3gac96g3e0bcde514c2" version="1">Emboldening Bond: &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;</content>
+  <content contentuid="h1ca7da79g0f55g4f1fg9428g65a66468cbfa" version="1">Receiving [1] bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; once a turn</content>
+  <content contentuid="he9bdbdfcg5b40g4e16ga095ga3cb539f85f0" version="1">Emboldening Bond: Ability Check</content>
+  <content contentuid="h874c645cg0669g4b4bg9850gb3ff50544ede" version="1">Receiving [1] bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; once a turn</content>
+  <content contentuid="h886fba62g8851g4dd2g9f4fg0afcebd82558" version="1">Divine Strike: Necrosis</content>
+  <content contentuid="h23a41cd0gddfag40bag89a5gaa19f1df5282" version="1">You gain the ability to infuse your weapon strikes with necrotic energy. Once on each of your turns when you hit a creature with a weapon attack, the attack deals an extra [1] damage to the target.</content>
+  <content contentuid="h4153626fg7ba7g4694g8d59gd118eb0ed7b0" version="1">Divine Strike: Necrosis (Critical)</content>
+  <content contentuid="h358078e7g736dg4714g9319g1e44543a23cb" version="1">Divine Strike: Fire</content>
+  <content contentuid="h423fd4d6g27d9g4622gbe86geef413ea550c" version="1">You gain the ability to infuse your weapon strikes with fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, the attack deals an extra [1] damage to the target.</content>
+  <content contentuid="h3a1f7c90gfb21g4d91g873fg24d5e4d7c574" version="1">Divine Strike: Fire (Critical)</content>
+  <content contentuid="h06dfe56fg645cg48a9gb19dg5d871b7de2ca" version="1">Divine Strike: Psychic</content>
+  <content contentuid="h78adfe2dg3ae5g4ea0gb158gf0958c892fbe" version="1">You gain the ability to infuse your weapon strikes with psychic energy. Once on each of your turns when you hit a creature with a weapon attack, the attack deals an extra [1] damage to the target.</content>
+  <content contentuid="hb1cdb119gd829g493fgafe6gecc65aa46980" version="1">Divine Strike: Psychic (Critical)</content>
+  <content contentuid="h55881fdeg11c0g446bg89e3g3227d10545af" version="1">Embodiment of the Law</content>
+  <content contentuid="h50a54e79g243eg435dg9885g05518f360fd6" version="1">If you cast a spell of the enchantment school using a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; of 1st level or higher, you can change the spell's casting time to 1 bonus action for this casting, provided the spell's casting time is normally 1 action. You can use this feature a number of times equal to your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (minimum of once), and you regain all expended uses of it when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h8dc2a065g5344g4ef0gaf80g88b14a8d3d01" version="1">Divine Strike: Radiant</content>
+  <content contentuid="h98fa829dg93ebg4914g8e78g36c59f1dd336" version="1">You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, the attack deals an extra [1] damage to the target.</content>
+  <content contentuid="h734d70a6g5a77g404egbb9bga882729b24f6" version="1">Divine Strike: Radiant (Critical)</content>
+  <content contentuid="h04ce8c08g1067g40afgbe52gb5f6ff035dbd" version="1">Protective Bond: Expansive</content>
+  <content contentuid="hd5ee5577gf7fcg45efg9a80gc63333cdac39" version="1">Protective Bond: Damage Reduction</content>
+  <content contentuid="hc7680624g2354g4f82gb055gf9bd390cda2c" version="1">Aura of Purity</content>
+  <content contentuid="h15114ff5g9db9g463eg82begd5850118b1b4" version="1">Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) can’t become diseased, has &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to poison damage, and has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; .</content>
+  <content contentuid="ha8185050g8554g4650gb367g16bb068f0e6d" version="1">&lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to disease, &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to poison damage and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+  <content contentuid="h527ab9d8g5ea0g46aeg96ddgb20af0d9c1c0" version="1">Circle of Power</content>
+  <content contentuid="h6a85a18fge42ag4378gbb91g1971c1bbe1cb" version="1">Divine energy radiates from you, distorting and diffusing magical energy within 30 feet of you. Until the spell ends, the sphere moves with you, centered on you. For the duration, each friendly creature in the area (including you) has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against spells and other magical effects. Additionally, when an affected creature succeeds on a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; made against a spell or magical effect that allows it to make a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; to take only half damage, it instead takes no damage if it succeeds on the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+  <content contentuid="h7adf23dagd953g4d39g99f1g07b425bcc442" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, You take only half damage from failed dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; and no damage from successful dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+  <content contentuid="hc7bae988g6be8g4347gbc88g335b6fe6e9f9" version="1">Aura of Life</content>
+  <content contentuid="ha1f0fb18g3b41g4aabgb6d9g71bcad4beeae" version="1">Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) has &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to necrotic damage. In addition, a non-hostile, living creature regains 1 hit point when it ends its turn in the aura with 0 hit points.</content>
+  <content contentuid="h79290423gbdfeg48f6g8437g438c3ecb7b67" version="1">Necrotic &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and regaining 1hp if you start your turn with 0hp</content>
+  <content contentuid="h6f493e36g4e42g456bgb5ebg111f8f8d70c5" version="1">Mislead</content>
+  <content contentuid="h6992bbeaga88bg4b66gb30cg20e0d295c50b" version="1">You become invisible at the same time that you invoke duplicity. An illusory double of you appears where you are standing. The double lasts for 10 rounds, but the invisibility ends if you attack or cast a spell.</content>
+  <content contentuid="h711a6893ge7bfg4da6gadf7g26641f6c72df" version="1">This spell has no effect on constructs or undead.</content>
+  <content contentuid="h26925c72geb54g4190g8ef6g72896a36e821" version="1">Divine Strike: Improved Necrosis.</content>
+  <content contentuid="hdccce959gbd52g4715g80d1g9bdff6aeab84" version="1">Divine Strike: Improved Necrosis (Critical)</content>
+  <content contentuid="h97858c07g5eb6g464fg8511g82f666dfce55" version="1">Divine Strike: Improved Fire</content>
+  <content contentuid="h3f3a6900geb50g4e0fga557g1f84515918d1" version="1">Divine Strike: Improved Fire (Critical)</content>
+  <content contentuid="h346ba1b2g26adg4621g93afg31ff3a521650" version="1">Divine Strike: Improved Psychic</content>
+  <content contentuid="h4e434cf4g476fg456agb6bdgb65f632e1f40" version="1">Divine Strike: Improved Psychic (Critical)</content>
+  <content contentuid="h75568147g892bg49b1gaf8dgce8df202cdb5" version="1">Divine Strike: Improved Radiant</content>
+  <content contentuid="hb5f705e5g7be0g4617gaa18g63af20c0f2d1" version="1">Divine Strike: Improved Radiant (Critical)</content>
+  <content contentuid="h43180df5ge899g47e0ga9a9g79e59acf92ec" version="1">Divine Strike: Improved Honour Shining Bright</content>
+  <content contentuid="h44b5b0ceg4580g4493gad2fg0f10051c1c92" version="1">Divine Strike: Improved Brightsoul Bash</content>
+  <content contentuid="hcaca8715g36e8g46e2g8018gbfa5f15a6a57" version="1">Divine Strike: Improved Thunder</content>
+  <content contentuid="hfaa843c1g9a2bg4552gb6fagb262c6c67c32" version="1">Divine Strike: Improved Thunder (Critical)</content>
+  <content contentuid="hb0d90c96gc22dg40d9gaf37gca0450e58780" version="1">Divine Strike: Improved Nightshade Poison</content>
+  <content contentuid="h77551191g6b11g4198g9aeeg196504da8c31" version="1">Divine Strike: Improved Nightshade Poison (Critical)</content>
+  <content contentuid="hf4487bcag5acfg483egb259g4bca04faaf26" version="1">Divine Strike: Improved Brutish Slam</content>
+  <content contentuid="he1cd6536gfc91g4068g9809gf0b1451d7ca8" version="1">Divine Strike: Improved Brutish Slam (Critical)</content>
+  <content contentuid="hb829a0b1g260eg4a0eg842fg979e00b6ac70" version="1">Divine Strike: Improved Death From Afar</content>
+  <content contentuid="ha8e402e0ga529g47acg965fg42ec3052f34a" version="1">Divine Strike: Improved Death From Afar (Critical)</content>
+  <content contentuid="h161acf12g8458g4ee0g8537gb5de5da9e623" version="1">Divine Strike: Improved Elemental Fury</content>
+  <content contentuid="h7c8a3c83g8c54g4b08g8525ge795ebed9656" version="1">Divine Strike: Improved Frigid Depths</content>
+  <content contentuid="h8f1493b1gd92eg4050g80b0gd7b1aa91d4fd" version="1">Divine Strike: Improved Frigid Depths (Critical)</content>
+  <content contentuid="he9b4d938g3fbcg49fegbf1cg2fd0ccca6497" version="1">Divine Strike: Improved Molten Flame</content>
+  <content contentuid="hd7c7d43bgafaeg4c3dga056g00174b0ed794" version="1">Divine Strike: Improved Molten Flame (Critical)</content>
+  <content contentuid="h439e3a5cg97f3g44bdg96cfg2ed0d6911d87" version="1">Divine Strike: Improved Scything Bolts</content>
+  <content contentuid="h74b24a56g4d57g444fga64bg548943713e16" version="1">Divine Strike: Improved Doom Bolts (Critical)</content>
+  <content contentuid="hcbe62c7cgf72fg4953gb853gf4ced0dd4ebf" version="1">Divine Strike: Improved Warmaster</content>
+  <content contentuid="hb1dc657eg2c7bg4d7bg828cg722769fc34d9" version="1">Corona of Light</content>
+  <content contentuid="hfe285d65g9e62g4c28g9465g2cb663dd0dab" version="1">Starting at 17th level, you can use your action to activate an aura of sunlight that lasts for 1 minute or until you dismiss it using another action. You emit bright light in a 60-foot radius and dim light 30 feet beyond that. Your enemies in the bright light have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against spells that deal fire or radiant damage.</content>
+  <content contentuid="h8bab8571g448cg4432g808bgce59292d69fc" version="1">In bright light. Enemies have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;</content>
+  <content contentuid="h1cf2c88bg4b20g4567g964bg248c67bd1354" version="1">Affected by bright light you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;</content>
+  <content contentuid="h80fea9e3gee5bg4beegb704g551df2931e16" version="1">Supreme Healing</content>
+  <content contentuid="ha1ee6aa6g7d26g4de4g8870g174f3ec979ba" version="1">When you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die</content>
+  <content contentuid="h164b260agf148g4762g8fd1g31bb60a1557f" version="1">Spell Breaker: Dispel Magic</content>
+  <content contentuid="h18bf0741g4449g4770g8e00g06de1dc7d557" version="1">Removes harmful magical effects on you or your allies.</content>
+  <content contentuid="hc45d952ag59aag4fb9gaf6cgb3ae315aa18a" version="1">Dispel Magic: Ally</content>
+  <content contentuid="h4206b3e0g3d5eg409dgb217g8a10caf7df37" version="1">Removes beneficial or harmful magical effects.</content>
+  <content contentuid="h9de7df99geb46g43d6ga4fcg09f022d72739" version="1">Dispel Magic</content>
+  <content contentuid="h2576fb50gb37ag4ad1gbf59g0a5afae5512c" version="1">Removes beneficial magical effects on your enemies.</content>
+  <content contentuid="h9e9fdaacg0e32g4283g81a2g2e03bd803d57" version="1">Dispel Magic: Enemy</content>
+  <content contentuid="h94db7a6eg3583g4a2cgb5b3g9ce15522d23a" version="1">Cloak of Shadows</content>
+  <content contentuid="h5214afcdga04cg44a5gaa04ge80f6c5ebffe" version="1">Become invisible until the end of your next turn.</content>
+  <content contentuid="h198b6acfg527ag47fbgb97ag20ec50574bd7" version="1">You become visible if you attack or cast a spell.</content>
+  <content contentuid="h77733fbcg46d8g486egb196g293fe1183cfa" version="1">Dampen Elements</content>
+  <content contentuid="h9319715dgade7g4c1eg8949g6a96c96359d2" version="1">When you or a creature within [1] of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to the creature against that instance of the damage.</content>
+  <content contentuid="hc05bf1d3gb182g4233g9278g29c9e5721f0f" version="1">Your voracity for knowledge allows you to learn magic from any discipline. Choose additional spells to add to your repertoire.</content>
+  <content contentuid="hf8394d17gef25g4fd1g97e4ga149cfe3c4bb" version="1">Epiphany</content>
+  <content contentuid="he0e0287cgb673g49eegb0abgd28577925c4b" version="1">Channel Divinity: Improved Invoke Duplicity</content>
+  <content contentuid="h7cd403fagaf32g43a1g8bb3g2499b71b7e39" version="1">As an action, you can create up to four duplicates of yourself, instead of one, that lasts for 1 minute, or until you lose your concentration. You can move the illusions up to [1] per round, but they must remain within [2] of you. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; for you and your allies within [3] of the illusion.</content>
+  <content contentuid="h6e257b5bg92c8g424cg91fbg0374ab311dc1" version="1">Channel Divinity: Invoke Duplicity</content>
+  <content contentuid="hfd84a457g192cg4f3fg90d8ga8244132a2ce" version="1">As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration. You can move the illusion up to [1] per round, but it must remain within [2] of you. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; for you and your allies within [3] of the illusion.</content>
+  <content contentuid="hc1b5df6agdeffg4923g9679gdaf41c3233ee" version="1">Font of knowledge</content>
+  <content contentuid="h27b18bceg9cccg4fccg824ege827f9d10c47" version="1">You radiate knowledge giving &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on all Wisdom and Intelligence &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; at a distance of [1].</content>
+  <content contentuid="h0aacf4c2gca0ag4298g8b28gc08b8bd3ee57" version="1">&lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on all Wisdom and Intelligence &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;.</content>
+  <content contentuid="hf8b7b0c6g5179g4ed1g9f2ag0ef3354cbdaf" version="1">Font of Knowledge: Shield Charge</content>
+  <content contentuid="hf3b4e788g49acg4bcega30fgfaa17d39abb7" version="1">Font of Knowledge: Shield Charge</content>
+  <content contentuid="h4a945f76g9a56g4b79g98bag428799f87095" version="1">Font of Knowledge: Shield</content>
+  <content contentuid="h8a29c5dcg7b75g4800g9332gc43bd2e367e9" version="1">When you or an ally are about to be hit by an enemy, increase the targets &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 5. The Target take no damage from &lt;LSTag Type="Spell" Tooltip="Projectile_MagicMissile"&gt;Magic Missile&lt;/LSTag&gt;. You can use this feature a number of times equal to your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (minimum of once), and you regain all expended uses of it when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. </content>
+  <content contentuid="h73349d68g21e6g413cgb56eg54c320c11530" version="1">Death Domain: Reaper</content>
+  <content contentuid="h0f814c62g21b2g4710g96a2gb3c4b069a133" version="1">You learn one necromancy cantrip of your choice from any spell list</content>
+  <content contentuid="h56432d86ge790g4755g9813gc8fad0edc135" version="1">Arcane Initiate</content>
+  <content contentuid="h2724ed6fgbd86g424agaa2egabc35091fabb" version="1">You learn two cantrips of your choice from the wizard spell list</content>
+  <content contentuid="hd09e69bageb1fg49b8gb599gfe9dda336f7b" version="1">Blood Domain</content>
+  <content contentuid="hc4a7811ag0955g44d2g900fg278186d6b1e6" version="1">The Blood Domain centers around the understanding of the natural life force as it exists within the body, and the divine conduit it can become. Those who take up this domain understand that the power of blood is the power of sacrifice, the balance of life and death, and the spirit’s anchor within the mortal shell.</content>
+  <content contentuid="h362763c2gd67bg4dc9gb3e7gb5bb6603c040" version="1">Blood</content>
+  <content contentuid="hce467c0cgb42cg439bgb5a8g13d4ca2c92a2" version="1">Bloodletting Focus</content>
+  <content contentuid="h1d2fa0feg9243g4e57g978bg2ebf5e2e409e" version="1">When you cast a damage-dealing spell of 1st level or higher, any creature with blood that takes damage from the spell takes extra necrotic damage equal to 2 + the spell’s level.</content>  
+  <content contentuid="h8a5c5d6fg21feg45c9gb26fg3b38e17e25b9" version="1">Channel Divinity: Crimson Bond</content>
+  <content contentuid="h8c5355efg1500g42d3g96d2g4c8d68ccbff3" version="1">Ritually create a pool of blood centered on yourself. All allies within [2] standing in blood deal an additional [1] with melee attacks to creatures with blood.</content>
+  <content contentuid="h337e1d18g723cg4c98ga296g0ed93e850af5" version="1">Crimson Bond.</content>
+  <content contentuid="hfd08d870g16f1g4025g8d84g23ec44f4228b" version="1">While standing in blood you deal an additional [1] with melee attacks.</content>
+  <content contentuid="hc96c7e78g66b5g4052g9930gdad6f5f678c7" version="1">Blood Ritual</content>
+  <content contentuid="h2d58f7fcg8d62g499fga70bg1a4972c532f4" version="1">Sacrifice [1] health to ritually create a pool of blood centered on yourself.</content>
+  <content contentuid="h92084210g71ccg4046ga8eege415caa5a33a" version="1">Channel Divinity: Blood Puppet</content>
+  <content contentuid="hdf443743g957eg48b0gbc34g844c35f7a7cd" version="1">As an action, you target a creature or corpse within 60 feet of you that has blood. A creature you target must succeed on a Wisdom saving throw against your spell save DC or become charmed by you. An affected living creature makes a new saving throw at the end of each of its turns, ending the effect on itself on a success. For any target, your control lasts for 1 minute or until your concentration is broken</content>       
+  <content contentuid="h5eb55a10g398bg4028gbe1dg41cc2d52a0c5" version="1">Sanguine Recall</content>
+  <content contentuid="h5ba1e8ecg90fbg4615g9b1ag8cbf4fd95ee3" version="1">You can sacrifice a portion of your own vitality to recover expended spell slots as an action. The spell slots can have a combined level equal to or less than half your cleric level, and none of the slots can be 6th level or higher. You take 1d8 necrotic damage for each spell slot level recovered. Sanguine Recall Recovery charges are usable once per long rest</content>
+  <content contentuid="h609581b8g1ce7g4b7ag856dg3f521b2b696c" version="1">Sanguine Recall Recovery Points</content>
+  <content contentuid="h39ddd661g7bc9g46a2g9585g82dc2a4d77b2" version="1">Sanguine Recall Recovery Points</content>
+  <content contentuid="h0c3d5f98g32f9g43cegbc82g281540a639fb" version="1">Sanguine Recall Recovery: Level 1</content>
+  <content contentuid="h299d126dgec6ag4c1dgaccag4cab91b83e92" version="1">Recover a Level [1] &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; and take [2] damage.</content>
+  <content contentuid="hacdb1577ge723g4de3g851dgd767ad76510f" version="1">Sanguine Recall Recovery: Level 2</content>
+  <content contentuid="h81c8294dg9f8fg45ccgb049g69478de56a4d" version="1">Sanguine Recall Recovery: Level 3</content>
+  <content contentuid="h8fd3dd6agab90g43e3g91b2g017f6378fa22" version="1">Sanguine Recall Recovery: Level 4</content>
+  <content contentuid="ha74d1c3bg55c6g4b46gb430g144f4e99ba57" version="1">Sanguine Recall Recovery: Level 5</content>
+  <content contentuid="h0838044agfcb5g4a70gb94agbd6b670fb53b" version="1">Sanguine Recall Recovery: Level 6</content>
+  <content contentuid="h121dda70g13bag4dcag827eg537bfd7760b4" version="1">Blood Puppet: Dominate</content>
+  <content contentuid="h285d93eag810bg480cgb6d4gde3e95d46361" version="1">Blood Puppet: Raise Dead</content>
+  <content contentuid="he57202c4g1a1bg4d9dgab66g5a6fe9b497b2" version="1">Vascular Corruption Aura</content>
+  <content contentuid="h1a4da36bg42b1g4f4agb98bg02885ca77f64" version="1">Use your action to emit a deathly aura of necrotic energy that causes the veins of nearby foes to burst and bleed. For 1 minute, any hostile creature with blood that moves within [1] of you for the first time on a turn or starts its turn there takes [2]. Hostile creatures with blood are unable to regain hit points while in the aura. This is usable once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="hcf3b1c01g7c87g4905gbfa4g875b2e7497b4" version="1">Radiating an aura that deals [1]</content>
+  <content contentuid="h2464c473gac6cg4688ga607g63b1a28e0fab" version="1">Vascular Corruption Aura Charge</content>
+  <content contentuid="h1db16b22gb250g4a5dg99d7gaa9b7d09a582" version="1">You can cast Enchantment Spells as a bonus action.</content>
+  <content contentuid="h9983b24dg7744g4f6bgaaf0gcd629a133f68" version="1">Moon Domain</content>
+  <content contentuid="hb5a476b6g60e9g4fa5g8f4cg23be4a870187" version="1">Since the Founding, all mortal creatures have looked to the skies and sensed the power and mystery carried by Catha and Ruidus, the two moons of Exandria. The Moonweaver herself is said to guide her worshipers from within the pale glow of Catha, revealing hidden paths and granting inspired dreams to those who pray to that moon. Distant, dark Ruidus is often regarded with awe and apprehension, considered a portent for fell deeds and bad luck.</content>  
+  <content contentuid="h62d730a6g1319g4999g9719g9f13e56eca24" version="1">Moon</content>
+  <content contentuid="h47caf98fgccd1g4cceg9366g0d167dbdf3de" version="1">Clarity of Catha</content>
+  <content contentuid="hfa0f9e07g9806g4315ga3c9ge64721147ace" version="1">When a creature within [1] of you that you can see makes a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can use your reaction to grant that creature &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; (+10) on the save. You can use this feature a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, regaining all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="h53c82a74g1417g4de1gaef8g1ad36224676f" version="1">Clarity of Catha Charge</content>
+  <content contentuid="h3b8e0f8bg6964g45c3g8cbcg958415f7a1d2" version="1">Clarity of Catha Charge</content>
+  <content contentuid="h4a7abcc7g01cfg402egb108g882561676eee" version="1">Channel Divinity: Blessing of the Full Moon</content>
+  <content contentuid="hed5458aag6365g45a1ga9cfg8f9ac4ec4e0d" version="1">Use your &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Channel Divinity&lt;/LSTag&gt; to infuse your allies with bestial power. As an action, you instill a willing creature of your choice within [1] feet of you that you can see with one of the following blessings of your choice: Blessing of the Watchful Moon or Blessing of the Blood-Drenched Moon.</content>
+  <content contentuid="h2050b9bbg4644g411dgbb74g23adb1dd6942" version="1">Blessing of the Watchful Moon</content>
+  <content contentuid="h4c823882gd9f1g4ad0g8d87gc7afffcd64ad" version="1">For 1 hour, the blessed creature’s speed increases by [1], and it has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Perception and Survival skill &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;</content>
+  <content contentuid="h99d52a9cg1d70g4866gba79gee630c320f74" version="1">Blessing of the Blood-Drenched Moon</content>
+  <content contentuid="h15652416g4d11g44f8g8795gc56979017768" version="1">For 10 minutes, the blessed creature has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on attack rolls against a target if at least one of the blessed creature’s allies is within [1] feet.</content>
+  <content contentuid="hc78ad77eg1d94g442dgb63cg032d8f184664" version="1">Your speed is increased by [1], and you have advantage on Perception and Survival &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;</content>
+  <content contentuid="h2adce879ge4f0g4777g963fg8accfd0aa6fd" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on attack rolls if one of your allies is within [1]</content>
+  <content contentuid="hb4bdf9f4g91c9g4203ga70dg1936e2a23184" version="1">Channel Divinity: Mind of Two Moons</content>
+  <content contentuid="h8495baf9gce1ag4181g92a7g95df3c690872" version="1">You may use your &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Channel Divinity&lt;/LSTag&gt; instead of a &lt;LSTag Tooltip="SpellSlot"&gt;spell slots&lt;/LSTag&gt; to cast Moon Domain Spells without using &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt;. These spells can only be cast while concentrating on a Moon Domain spell, and you can't recast the same spell you're  already concentrating on. You have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; to &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; checks. Disadvantage effect ends when when you're no longer concentrating at the start of your next turn.</content>
+  <content contentuid="ha0ffec29g4b8fg43deg98b7gb446b250f35d" version="1">Disadvantage on Concentration Checks</content>
+  <content contentuid="hf8de8cd0gd17cg4408g87e6g81c8892a116d" version="1">You have disadvantage on concentration checks for the duration of the Moon Domain spell you cast.</content>
+  <content contentuid="h72d74426gdcdeg4a1bgb04cgcc041aaa9600" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be concentrating on a Moon Domain Spell to be able to cast.</content>
+  <content contentuid="hea41c566g0b44g454dga0b6g8c483d21b2d2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be concentrating on a Moon Domain Spell to be able to cast. Invisibility breaks when you fail Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; on attacking, casting spells or interacting with items.</content>
+  <content contentuid="h8d483879g8fc1g490fg9c90gae3c528ce01b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be concentrating on a Moon Domain Spell to be able to cast. This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="hd3336c94g9a7dg469bgaf65gc6abaa104f61" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be concentrating on a Moon Domain Spell to be able to cast. The cloud has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution, Dexterity, and Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h057345f7g8e95g4650g9a65g749faf7bdfd4" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be concentrating on a Moon Domain Spell to be able to cast. Invisibility breaks when you fail increasingly harder Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; on attacking, casting spells or interacting with items.</content>
+  <content contentuid="h555d66b2gd1d1g42dcg8412gdf5d03cc5b61" version="3">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be concentrating on a Moon Domain Spell to be able to cast. If the sheep's hit points drop to 0, the target reverts to its original form with its original hit points.</content>
+  <content contentuid="h87327e50gf27dg476cg9866g0d170f081d2f" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Invalid Target when attempting to cast means you are standing in too much light.</content>
+  <content contentuid="h8538d8b6g18bcg4e96gaefbg544ede19c5ff" version="1">Eclipse of Ill Omen</content>
+  <content contentuid="h2bc571f9g195ag44f1g8d28g36b8638629d3" version="1">Enemies within [1] receive &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;LSTag Tooltip="Concentration"&gt;Concentrating&lt;/LSTag&gt; on this feature counts as concentrating on a Moon Domain spell for the purpose of your Mind of Two Moons feature. Additionally, once per turn when you deal radiant damage to any creatures, you can curse one of those creatures until the eclipse ends. A creature cursed in this way has its speed halved and can’t regain hit points. Once you use this feature, you can’t use it again until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="he3a0cceagb17bg465eg81dag5b75c80aa2b9" version="1">If you deal radiant damage you curse the target reducing its speed by half and it can no longer gain hitpoints. This curse can trigger once per turn and lasts for 1 minute</content>
+  <content contentuid="h9cdb43a7g2c3cg45bdgab56g6d4961c34cec" version="1">You have Disadvantage on Saving Throws</content>
+  <content contentuid="h13e7ecb1gb2c7g453bg80e0gad7635ae085e" version="1">Eclipse of Ill Omen: Cursed</content>
+  <content contentuid="h811f96e8ge54eg40e4ga8aaga18a04bc3bc5" version="1">Your Speed is reduced by half and you can't regain hitpoints</content>
+  <content contentuid="hfd32e9ecgee2ag43b9g9582g0c55467504f9" version="1">Eclipse of Ill Omen Charge</content>
+  <content contentuid="h1d93bc5fg5949g48f3gb42ag35f7808aa58a" version="1">Eclipse of Ill Omen Charge</content>
+  <content contentuid="h0f2c102eg173fg4fe6g8041gec344b2323ee" version="1">Swap places with your illusion. Replenishes each turn.</content>
+  <content contentuid="h671e5a62g57c6g4828gb0fag801aab38f7ae" version="1">Invoke Duplicity Teleport Charge</content>
+</contentList>

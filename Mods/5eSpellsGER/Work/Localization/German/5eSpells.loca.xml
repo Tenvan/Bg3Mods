@@ -7,14 +7,14 @@
   <content contentuid="639175afb76c4540b794af298ba23d4b" version="1">[1] abgezogen von &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfen&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfen&lt;/LSTag&gt; und Konstitution &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswürfe&lt;/LSTag&gt;, um die Konzentration zu erhalten.</content>
   <content contentuid="06052a8489764a15b044db48978006f6" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; halbiert.</content>
   <content contentuid="0c11216d35d04cfaa9156f6fb2f5e1bc" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um [1] erhöht und provoziert keine &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt;. Kreaturen oder Objekte innerhalb von [2] erhalten [3].</content>
-  <content contentuid="bd3cf2c28d1b414b9f670abd47afb5ca" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um [1] erhöht, erlangt [2] Nachtsicht, Stärke-basierte &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; werden mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; durchgeführt und Nahkampfwaffenangriffe verursachen zusätzlich [3].</content>
+  <content contentuid="bd3cf2c28d1b414b9f670abd47afb5ca" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um [1] erhöht, erlangt [2] Dunkelsicht, Stärke-basierte &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; werden mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; durchgeführt und Nahkampfwaffenangriffe verursachen zusätzlich [3].</content>
   <content contentuid="8ffeacfef32d43e5973c53c9d54bcf9e" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um [2] reduziert.</content>
   <content contentuid="a252097037c6443fb2b35d9586b31ae6" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; auf [1] reduziert. Kann mit &lt;LSTag Tooltip="Action"&gt;Aktion&lt;/LSTag&gt; Eis brechen.</content>
-  <content contentuid="abcc01bea3d04db6bb66684cd901a382" version="1">&lt;LSTag Tooltip="Resistent"&gt;Resistent&lt;/LSTag&gt; gegen Säureschaden.</content>
-  <content contentuid="5a335ea269474dea8fad677c2cabee09" version="1">&lt;LSTag Tooltip="Resistent"&gt;Resistent&lt;/LSTag&gt; gegen Kälteschaden.</content>
+  <content contentuid="abcc01bea3d04db6bb66684cd901a382" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Säureschaden.</content>
+  <content contentuid="5a335ea269474dea8fad677c2cabee09" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Kälteschaden.</content>
   <content contentuid="80e83c51497a40b8a569f87df021dd72" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistent&lt;/LSTag&gt; gegen Feuerschaden.</content>
-  <content contentuid="1f42da9030eb42eda29068a8b4ab0874" version="1">&lt;LSTag Tooltip="Resistent"&gt;Resistent&lt;/LSTag&gt; gegen Blitzschaden.</content>
-  <content contentuid="e87fe71be4a642768b60845afbd19f10" version="1">&lt;LSTag Tooltip="Resistent"&gt;Resistent&lt;/LSTag&gt; gegen Donnerschaden.</content>
+  <content contentuid="1f42da9030eb42eda29068a8b4ab0874" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Blitzschaden.</content>
+  <content contentuid="e87fe71be4a642768b60845afbd19f10" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Donnerschaden.</content>
   <content contentuid="bf3eb0cc-a50b-4391-9dec-ab4f62c14b85" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Eine Kreatur kann nicht gestoßen werden, wenn sie größer als mittelgroß ist.</content>
   <content contentuid="5dfb4398-fe17-4bdf-ae03-770adcd46dc7" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Eine Kreatur, die diese Zeremonie abschließt, kann nie wieder in den Genuss derselben Zeremonie kommen.</content>
   <content contentuid="dabb276c955d4a21a93e01e5d669a151" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Bereits beschworene Vertraute verschwinden, wenn dieser Zauber verwendet wird.</content>
@@ -105,7 +105,7 @@
   <content contentuid="8a6e3d95-17df-4df3-9551-4f5b8e42f949" version="1">Befreie dich</content>
   <content contentuid="d4f5eff79bc347868c89acfdacbc4f12" version="1">Brechen Sie das Eis, das eine Kreatur behindert.</content>
   <content contentuid="179cf9ab-a77f-4cab-b6bd-3539150a4acb" version="1">Werde für kurze Zeit eins mit der Natur und erhalte Wissen über das umliegende Gebiet.
-Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und &lt;LSTag Tooltip="Survival" &gt;Überleben&lt;/LSTag&gt; Fertigkeitswürfe und verdoppelst deinen &lt;LSTag Tooltip="ProficiencyBonus" &gt;Bonus&lt;/LSTag&gt; bei Fertigkeitwürfen.</content>
+Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und &lt;LSTag Tooltip="Survival" &gt;Überleben&lt;/LSTag&gt; Fertigkeitswürfe und verdoppelst deinen &lt;LSTag Tooltip="ProficiencyBonus" &gt;Fertigkeitsbonus&lt;/LSTag&gt;.</content>
   <content contentuid="0dcf2040-520a-49f7-a8bc-d0fab42a9880" version="1">Rufe einen drakonischen Geist herbei, der einem farbigen Drachen ähnelt und an deiner Seite kämpft.</content>
   <content contentuid="3b1ea766-b51c-468a-8a36-e31e29a0a549" version="1">Rufe einen drakonischen Geist herbei, der einem Farb-, Edelstein- oder Metalldrachen ähnelt und an deiner Seite kämpft.</content>
   <content contentuid="97f2f626-2157-498e-90de-72f733f7b1b9" version="1">Ruft einen drakonischen Geist herbei, der einem Edelsteindrachen ähnelt und an eurer Seite kämpft.</content>
@@ -396,7 +396,7 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="adf4b64bf350415eb806ec23d9e31d4c" version="1">Beherrscht Geschichte &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="c165304838144de29f1ea75b25a0555c" version="1">Beherrscht Einsicht &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="c9b7a9af42334d28aec4c27affb5418e" version="1">Beherrscht Einschüchterung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
-  <content contentuid="92819541867f4f4bbbef039c5d290482" version="1">Hat Kenntnisse in Ermittlungs &lt;LSTag Tooltip="AbilityCheck" &gt;Überprüfungen&lt;/LSTag&gt;.</content>
+  <content contentuid="92819541867f4f4bbbef039c5d290482" version="1">Hat Kenntnisse in Ermittlungs &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="e299516a004246a5bb358d2c7de1a3e0" version="1">Beherrscht Medizin &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="6285e8bccbbf4b56b223599c899a21d8" version="1">Beherrscht Natur &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="4d4adf512c464885b99e95308111bfec" version="1">Beherrscht Wahrnehmung &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
@@ -504,7 +504,7 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="b05618ab-1c48-4a17-a4e2-497d90f44228" version="1">Tote beschwören</content>
   <content contentuid="a8d49accb42a48d79049692f9712070f" version="1">Von den Toten auferweckt, erhält er einen Malus von -[1] auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt; und &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="8f6c1e00e54e4992a287099d9ec96d06" version="1">Fernkampfangriffe mit der betroffenen Waffe verursachen zusätzlich [1].</content>
-  <content contentuid="ae5c92d21dcd4cdab2ff580e4b2d0dda" version="1">Angriffe mit Fernkampfwaffen haben &lt;LSTag Tooltip="Disadvantage"&gt;NAchteile&lt;/LSTag&gt; innerhalb und außerhalb des Bereichs.</content>
+  <content contentuid="ae5c92d21dcd4cdab2ff580e4b2d0dda" version="1">Angriffe mit Fernkampfwaffen haben &lt;LSTag Tooltip="Disadvantage"&gt;Nachteile&lt;/LSTag&gt; innerhalb und außerhalb des Bereichs.</content>
   <content contentuid="c29eaebf-efd0-46c1-812c-4f2487a02d6c" version="1">Rarys telepathische Bindung</content>
   <content contentuid="88e923dd-144e-48f1-9ada-3b2aab26c8ff" version="1">Raulothims psychische Lanze</content>
   <content contentuid="fea41097-5fde-4e7a-b1b4-1fa1d718020e" version="1">Greife mit der irdenen Hand nach einer anderen Kreatur, um sie möglicherweise &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;zu fesseln&lt;/LSTag&gt; und das vorherige Ziel zu befreien.</content>
@@ -514,7 +514,7 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="9a028fa4-6333-4581-a675-f08e2186546b" version="1">Entfernen Sie eine Schlammoberfläche.</content>
   <content contentuid="7cd27bde3f7c4fe8bd59be5b29b5143d" version="1">Entfernt die Säure, die das Ziel bedeckt.</content>
   <content contentuid="3a1b6e454fac4cdfa3303b64c35e33f3" version="1">Ersetze den Zauber oder entferne ihn aus der Hotbar.</content>
-  <content contentuid="7047dfdcc65e4de8987fe353cbd47538" version="1">Resistent gegen psychischen Schaden und hat einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; in Bezug auf Intelligenz, Weisheit und Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;.</content>
+  <content contentuid="7047dfdcc65e4de8987fe353cbd47538" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen psychischen Schaden und hat einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; in Bezug auf Intelligenz, Weisheit und Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="50b44f97-660e-4226-8901-9f61356fd78e" version="1">Holen Sie sich einen Gegenstand vom Boden, der bis zu 1 Pfund wiegt, und schleudern Sie ihn auf eine Kreatur.</content>
   <content contentuid="62101b63-bc40-4545-8309-e899767d5785" version="1">Rimes bindendes Eis</content>
   <content contentuid="h1618284ag0468g4bfdg8c6egf96dd1bd20c5" version="1">Ritual-Wirker</content>
@@ -650,10 +650,10 @@ du machst &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; mit &l
 du machst &lt;LSTag ToolTip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; mit &lt;LSTag ToolTip="Advantage"&gt;Vorteil&lt;/LSTag&gt; 
 und der Boden in [2] Entfernung von dir ist &lt;LSTag Type="Status" ToolTip="DIFFICULT_TERRAIN"&gt;schwieriges Gelände&lt;/LSTag&gt;.</content>
   <content contentuid="69721fb2-02a9-481d-bc6d-cb3002b1dda3" version="1">Das Licht fügt jeder Kreatur Schaden zu, die ihren Zug im Licht beendet.</content>
-  <content contentuid="febba116-165c-4e18-bba3-161150ab76ca" version="1">Die im Würfel erzeugten magischen Effekte können dazu führen, dass Kreaturen von dir &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;verzaubert&lt;/LSTag&gt; werden und &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;geblendet&lt;/LSTag&gt; werden, um handlungsunfähig und bewegungsunfähig zu werden oder das Gebiet in schwieriges Gelände umzuwandeln.</content>
+  <content contentuid="febba116-165c-4e18-bba3-161150ab76ca" version="1">Die im Würfel erzeugten magischen Effekte können dazu führen, dass Kreaturen von dir &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Verzaubert&lt;/LSTag&gt; werden und &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;geblendet&lt;/LSTag&gt; werden, um handlungsunfähig und bewegungsunfähig zu werden oder das Gebiet in schwieriges Gelände umzuwandeln.</content>
   <content contentuid="h62b3c5a0g9c4cg4020g886ege0b178bec4b6" version="1">Die Anzahl der magischen Steine, die Sie besitzen.</content>
   <content contentuid="ba0d10c5-dd82-4f93-953c-f69c0c5601fc" version="1">Der Naturgeist der Urbestie verwandelt dich in einen mächtigen Wächter.
-Deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; wird um [1] erhöht, du erhältst eine Nachtsicht mit einer Reichweite von [2], deine auf Stärke basierenden &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; werden mit &lt;LSTag Tooltip="Advantage" &gt;Vorteil&lt;/LSTag&gt; ausgeführt und deine Angriffe mit Nahkampfwaffen verursachen zusätzlich [3].</content>
+Deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; wird um [1] erhöht, du erhältst eine Dunkelsicht mit einer Reichweite von [2], deine auf Stärke basierenden &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; werden mit &lt;LSTag Tooltip="Advantage" &gt;Vorteil&lt;/LSTag&gt; ausgeführt und deine Angriffe mit Nahkampfwaffen verursachen zusätzlich [3].</content>
   <content contentuid="7a6c7a219b3145f49d66451699b892b7" version="1">Die Schattenbrut führt eine Anzahl an Angriffen aus, die der Stufe des Zaubers entspricht, mit dem sie beschworen wurde.</content>
   <content contentuid="e42d6815-0749-4b58-a282-5d5b671eccd0" version="1">Der Zauber endet bei einer Kreatur, sobald ihre &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporären Trefferpunkte&lt;/LSTag&gt; aufgebraucht sind.</content>
   <content contentuid="971bb1b1e9cb4592b12b368057ae539c" version="1">Der Geist schreit, möglicherweise &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrecken&lt;/LSTag&gt;Kreaturen.</content>
