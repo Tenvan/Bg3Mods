@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="he3f651b4g2604g43bdgb26eg95a7e3a495c1" version="1">Electric Arc 2e</content> ================ CANTRIP ================
+	<content contentuid="hfe393cf5g84a5g4a80ga667g4ebfa7396fe6" version="1">Shoot out an arc of lightning toward a foe within [1] that arcs to another hostile creature.</content>
+	<content contentuid="hf53633e6gce25g4f27g8b1bg77073b963567" version="1">Acid Splash 2e</content>
+	<content contentuid="he1327518g04c1g4c42g9b5egeb3584591361" version="1">You splash a glob of acid that splatters your target and nearby creatures.</content>
+	<content contentuid="h78310432g37feg4cadgb0bfg08eb28cc397d" version="1">Taking [1] Acid Damage per turn</content>
+	<content contentuid="h83485303gf09dg4c8egaa6ag5b5f581fb459" version="1">Daze 2e</content>
+	<content contentuid="h9586c028gdc8cg4d8eg80e0g380c9340aecc" version="1">You cloud the target's mind and daze it with a mental jolt.</content>
+	<content contentuid="ha9f88adbg3201g45bfga67ag4af363b23039" version="1">Dazed</content>
+	<content contentuid="h58e6c22dg02abg45fag8d76g5d5de04b6b7f" version="1">Cannot take reactions, movement speed halved, Disadvantage on attack rolls</content>
+	<content contentuid="h0cf6ed45gc98ag4632gab50g2026e71f2883" version="1">Glass Shield 2e</content>
+	<content contentuid="hb45e360cg60f1g441fgb101gc747e17c1baf" version="1">You summon a layer of clear glass to keep you from harm. You gain [1], If a foe attacks you within 5ft while you have the temporary hit points active, the shield shatters a bit and deals [2] to the attacker.</content>
+	<content contentuid="hd643c18agfe12g4d98g8449g6435607b6cd2" version="1">Gain [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;, If a foe attacks you within 5ft while you have the temporary hit points active, the shield shatters a bit and deals [2] to the attacker.</content>
+	<content contentuid="h17f380aeg6be3g411cg94e4g662a84d30eba" version="1">Elemental Counter 2e</content>
+	<content contentuid="h7d61d311g51adg40eeg8447g0540e8582d71" version="1">Upon taking elemental damage, you may reduce the elemental damage you take this round by [1].</content>
+	<content contentuid="hc0de72eeged33g4787g9294gb078b91082f2" version="1">Reducing Elemental damage taken by [1]</content>
+	<content contentuid="h695cbcd5g4024g4c4fga021g67f0aaffd4b7" version="1">Phase Bolt 2e</content>
+	<content contentuid="h71450130gc287g4407gabedg9792744da3fd" version="1">Shoot a Bolt of force to destroy your target's armor, dealing [1], and reducing the target's AC by [2] for [3] turns.</content>
+	<content contentuid="h068741fbg8d50g4d63g9fa3ge814d5f9c376" version="1">Phase Bolt Armor Break</content>
+	<content contentuid="h7c4088a8gdc01g49fbg9b8cg4b6a496920a3" version="1">AC reduced by 2</content>
+	<content contentuid="h9cb87167g1dd4g4531gbb92g816d3ae25c0f" version="1">Divine Lance 2e</content>
+	<content contentuid="h712ffd94g15b4g4d04gb2a6gbd43303015b6" version="1">You unleash a beam of divine energy, dealing [1].</content>
+	<content contentuid="hf0903b78g7809g4503g9702gb1c79b6e591f" version="1">Shield 2e</content>
+	<content contentuid="h3ca39abdg7e91g48bag8a4cg1f047f57d1ad" version="1">A shield of magical force blocks attacks, increasing your AC by [1]. While the shield is active, you may use a reaction to reduce incoming damage by [2], losing the Shield thereafter. You may not benefit from this spell again until the next combat.</content>
+	<content contentuid="h0fc1ba47g049dg40c5g99bage3c58e31dc9c" version="1">Shielded</content>
+	<content contentuid="ha6cf6023gfe4ag491agbcc6ge69881369092" version="1">Increase AC by [1]</content>
+	<content contentuid="h3c764a82g9c3bg4f31g9054g67ecaa96bf4e" version="1">Raise Shield</content>
+	<content contentuid="h966b42fcgd695g4425g8246ga87df4c239bc" version="1">Elememtal Counter</content>
+	<content contentuid="h8870663eg7c56g4dcdg929dg6c1579a08ad7" version="1">Reduce the elemental damage you take this round by [1].</content>
+	<content contentuid="h2e533274g91ceg4c48gae8bgd2b2161658ae" version="1">Reduce damage taken by [1]</content>
+	<content contentuid="he2d7b620ge5cdg45e9g8760g50ae9e5ba251" version="1">Enfeebled</content>
+	<content contentuid="h76049447ga077g4583gbcddg2d3e3acd1e23" version="1">Strength reduced by [1]</content>
+	<content contentuid="h841ee35cg1f0cg459agb919gab16b21dfb85" version="1">Chill Touch 2e</content>
+	<content contentuid="h141cb337g27a7g4210gae63gd0de704ceaa0" version="1">Your touch hurts the living, dealing [1] or disorients undead.</content>
+	<content contentuid="h0157d773g1ad9g438ag9133g8dbcd2c0159a" version="1">Disrupt Undead 2e</content>
+	<content contentuid="h518f88a7g76e9g4ae7ga41eg8788ab7f0528" version="1">Deal [1] to undead on a failed constitution saving throw</content>
+	<content contentuid="h21c89942g37d1g45c1gb78bgb300007859b6" version="1">Gale Blast 2e</content>
+	<content contentuid="hb83f8d04g4f7cg4f55ga718g4cfadffb1241" version="1">Damage and push adjacent creatures [1] with air, dealing [2]</content>
+	<content contentuid="h8378a61fg3120g4adaga9d3g5517d28a9d81" version="1">Guidance 2e</content>
+	<content contentuid="hd58ef8a1gc9d2g47a3g9e03gbd568630d933" version="1">Divine guidance improves your target's attack rolls and saving throws by [1] until the start of their next turn.</content>
+	<content contentuid="h78ed5ca3gc333g4f6aga488g69213b6d8c03" version="1">Gaining a [1] bonus to attack rolls and saving throws</content>
+	<content contentuid="h7915ce8egce1bg4b69gaab2g6dbf4d326d6f" version="1">Haunting Hymn 2e</content>
+	<content contentuid="hc39a2f30ged40g4d2fg86b0gea92851762f9" version="1">You echo a jarring hymn that only creatures in the area can hear. The hymn deals [1], and deafened your targets for 1 minute.</content>
+	<content contentuid="hd033fb17g3f9ag49d9g8e2cg0d5c6f679ddd" version="1">Deafened</content>
+	<content contentuid="h3bb9ee18gfa85g4689gbf99g82802fb4519e" version="1">Deaf, can not cast spells with verbal components</content>
+	<content contentuid="h64d2c9a4ge7eag4fd1ga02bg270d8c3b981a" version="1">Puff of Poison 2e</content>
+	<content contentuid="hd99363abged3dg4062gac4bg5be0d2f202b4" version="1">You exhale a shimmering cloud of toxic breath at an enemy's face, dealing [1] and [2] at the start of each of their turns.</content>
+	<content contentuid="ha6b2cc9fgff00g4b1bgb42egf7b5d70db2b2" version="1">Puff of Poison</content>
+	<content contentuid="haf528796g12bbg4fb9g8db7gd69e90d80d8d" version="1">Taking [1] persistent poison damage</content>
+	<content contentuid="h296e2d79g182bg4a01g9ad3g62abffd4f232" version="1">Warp Step</content>
+	<content contentuid="he2def29ege805g4a24g88bcg078c20f71dfd" version="1">Dash and Speed Increased by [1].</content>
+	<content contentuid="hb7f95e6fgd293g4a05g818agfa59f00e35e8" version="1">Warp Step 2e</content>
+	<content contentuid="h5bc8ecfeg1d03g485dg999fg0db2a8460e33" version="1">When you walk, the earth warps beneath your feet—your steps extend, distance contracts, and everything is just a little bit closer. Dash and gain an extra [1] of move speed.</content>
+	<content contentuid="h91bc2e50ge2dag48c2gaf32g1fbb6fa0499d" version="1">Demoralize 2e</content>
+	<content contentuid="hd0b6f52egd306g4fddg89ffgd639b1a197bf" version="1">With a sudden shout, a well-timed taunt, or a cutting putdown, you can shake an enemy's resolve. Choose a creature within 30 feet of you who you're aware of. Attempt an Intimidation check against that target's Passive Wisdom (10+Wisdom).</content>
+	<content contentuid="h1f179fc3gdcb7g4757g88e2g84002f57afa7" version="1">Firebolt HB</content>
+	<content contentuid="h9e643bb2g8a30g428dgb5a4g0286fa5135ba" version="1">You hurl a bolt of cinder that deals [1] on hit.</content>
+	<content contentuid="h17bc7eb4g114cg4d59g87cfge3d9aa64e1f2" version="1">Ray of Frost HB</content>
+	<content contentuid="h4044c1dfg0c42g4a26g92acgba40bd7ded4f" version="1">You hurl a bolt of Frost that deals [1] on hit and reduce target's movement by [2].</content>
+	<content contentuid="h4cbbcf43g245fg44c4gb318g5a4555b32318" version="1">Admonishing Ray 2e</content> ================ 1st LEVEL ================
+	<content contentuid="h369c2c34ga984g45c0gba8fgefacf735c141" version="1">A ray of energy bludgeons your target into submission without causing lasting harm.</content>
+	<content contentuid="hf56915a6ge344g4f61gaa78g7b6155eb679e" version="1">Airburst 2e</content>
+	<content contentuid="hb44b75c9g386dg4c37gbae3g2f78cd4a958f" version="1">Create a blast of air around you, pushing creatures within [1] of you back [2]</content>
+	<content contentuid="hcfeed51dg43f3g4f02gb4b0g6bfbc5c0267c" version="1">Anticipate Peril 2e</content>
+	<content contentuid="hc5ccee70g827bg421bga0cfgc3936f959888" version="1">Your targets gain a [1] bonus to initiative rolls and can not be surprised</content>
+	<content contentuid="h1556ab88ge444g42c2gb9f8g5877af917ad7" version="1">Anticipating Peril</content>
+	<content contentuid="hfaa62f6ag2812g46e4g8eaeg213399cf2716" version="1">you have a [1] bonus to initiative rolls and can not be surprised</content>
+	<content contentuid="h163972a4g1766g4a6eg9d3dgc98d1a9ee221" version="1">Agitate 2e</content>
+	<content contentuid="h16fc6c1fga23ag4ac1g8089g333fd8497b60" version="1">You send the target’s mind and body into overdrive, forcing it to become restless and hyperactive. Increase the target's movement speed by [1] and deal [2]. On each of its turns, if it doesn't move, it takes an additional [3]. This spell is nonlethal</content>
+	<content contentuid="h3f881908gbccbg455bg9700ga74b233e28f2" version="1">Agitated</content>
+	<content contentuid="hde0399eeg470fg4a21g843fg55473db27d24" version="1">Your movement speed is increased by [1]. If you have not moved on your turn you take [2].</content>
+	<content contentuid="h57d1b10egf7aeg44degbc94g1923670db1a6" version="1">Befuddle 2e</content>
+	<content contentuid="h35754facg5466g459fg8b5cgc82b6069deca" version="1">You sow seeds of confusion in your target’s mind, causing their actions and thoughts to become clumsy.</content>
+	<content contentuid="hda341d61g7d8bg4e63g8784g138f3674e79f" version="1">Clumsy</content>
+	<content contentuid="ha8beaf51g949cg4215g8aa4g2bdf0a5efa2d" version="1">Dexterity reduced by [1]</content>
+	<content contentuid="h23b0d6a8g4c54g4d5eg8481g7ecaee3be356" version="1">Stupified</content>
+	<content contentuid="h84744ec6g10f9g40d0g9ae3ga036f64262e6" version="1">Intelligence, Wisdom, and Charimsa reduced by [1]</content>
+	<content contentuid="hbcedd283g4bc0g4a6dg9a62gea8720f3e927" version="1">Briny Bolt 2e</content>
+	<content contentuid="hc614efe9g9634g47dega1f6g66c0a4b46dfd" version="1">You hurl a bolt of saltwater from your extended hand, dealing [1] and blinding the creature.</content>
+	<content contentuid="h6832acddgc2f3g400egb347g4b3aeaa93765" version="1">Burning Hands 2e</content>
+	<content contentuid="hd7250590gea55g4384g8aa1g5d809cd98421" version="1">Chilling Spray 2e</content>
+	<content contentuid="h3504711egc51eg4f3ag8eeeg7fee3f87b693" version="1">Icy shards fly out from you in a cone, dealing [1] and reducing their moving speed by [2].</content>
+	<content contentuid="h81d6d3a6g6b42g490cga87agf7b32738d51b" version="1">Chilly</content>
+	<content contentuid="ha2c4fb36g8875g4f30gad21g8a40fb686899" version="1">Movement speed reduced by [1].</content>
+	<content contentuid="hc2e63b4bgb850g4048gae48g22790456379a" version="1">Conductive Weapon 2e</content>
+	<content contentuid="hfb0f33ecgcb19g4c1bgb2e3g913ec75cdcb5" version="1">Conductive Weapon</content>
+	<content contentuid="h6a5f5264g7fa8g4c55gabb3gc293b1907f55" version="1">You channel powerful electric current through the metal of a weapon, zapping anyone the item hits. The enchanted weapon deal an additional [1], and on a critical hit [2] arcs of lightning strike nearby foes dealing [3]</content>
+	<content contentuid="h91f1e8d4g6545g4ba9g8e58g0100b9dc53e4" version="1">Draw Ire 2e</content>
+	<content contentuid="h5fd3886bg8e72g4a0fg9707g777d004e66a2" version="1">Mentally sting a creature's mind to make it less capable of attacking creatures other than you.</content>
+	<content contentuid="h8ed96d58g96c4g4768g81b7g52105179c77a" version="1">Drawn Ire</content>
+	<content contentuid="hbcce75ccg9025g47acg8ec4g33966b418a06" version="1">Have a [1] penalty to attack other creatures</content>
+	<content contentuid="h333e0ea0gf9f9g465egadf0g07cc9fe5ceed" version="1">Echoing Weapon 2e</content>
+	<content contentuid="h6f6e38c0gc475g4afdg91a9g03ff7987d865" version="1">Your attacks build up to release a sonic pulse.</content>
+	<content contentuid="h1945281ag8c1eg412fg9970ge6dbc184757f" version="1">Endure 2e</content>
+	<content contentuid="h76c4b6abg68a5g47f2g9a25g3f01ae3a2373" version="1">You invigorate the touched creature’s mind and urge it to press on, granting them [1].</content>
+	<content contentuid="h29b091e0ge27eg4673g9232gc4a8df1f0191" version="1">Enduring</content>
+	<content contentuid="h5f69a428g40ceg41cbg8a30g1dec6900bdb1" version="1">Gain [1].</content>
+	<content contentuid="h1fe42905gf43cg4122g84b1g51b2c326bd80" version="1">Fleet Step 2e</content>
+	<content contentuid="h74da630egf1f3g4b40g83e3g65a389d97d8d" version="1">Gain an extra [1] of movement speed</content>
+	<content contentuid="h645ee264g9e39g41c2g9abeg502746acfb0d" version="1">Fleet Step</content>
+	<content contentuid="h40daa61cg793dg42e8gaaf4ga7c3ace4de74" version="1">Gaining [9] of extra movement</content>
+	<content contentuid="hf2bbfa98g1ea2g4faeg8bf8g29f59a688b6b" version="1">Friend Fetch 2e</content>
+	<content contentuid="ha8938a25g9518g4b27g828bg26c4d3977572" version="1">You shoot out ephemeral, telekinetic strands that drag each target directly toward you, stopping in the closest unoccupied space to you in this path.</content>
+	<content contentuid="h0d2679f7ga058g41f5g819fga086839d330a" version="1">Jump 2e</content>
+	<content contentuid="hbb151b11gd333g4fcega571ga9316d959ada" version="1">You magically enhance your leap and jump for [1] as a bonus action</content>
+	<content contentuid="ha1f9cee4g55f4g4e2cga375gfee9f2becc2c" version="1">Jumping</content>
+	<content contentuid="h700b0f01gee91g4b9bgb8a5gd08a72c3a3c9" version="1">Jumping... what else do you want for this tooltip</content>
+	<content contentuid="h9a8ebb71gf4b6g469eg84c0gbc84b0b9a634" version="1">Mage Armor 2e</content>
+	<content contentuid="h79817a73g8e7dg41a0g97fcgdb73b69b052c" version="1">Ward yourself with magical armor, increasing your AC [1] and saving throws by [2] until next long rest, or until you don armor</content>
+	<content contentuid="hb1091350g69c0g4aaagac28gcb619e40e8e0" version="1">Increasing your AC by [1] and Saving throws by [2]</content>
+	<content contentuid="h6a128d00g3941g4bc4gaf1ag2c7614a5d3e8" version="1">Magic Missiles 2e</content>
+	<content contentuid="h4b420f10g5d3ag4e3ag9009gd8f30f202dd1" version="1">Pelt creatures with unerring bolts of magical force each dealing [1]. You can create more missiles by using more Actions</content>
+	<content contentuid="h16e40e48g7d6eg4589gaad4g7cbe56d5ea14" version="1">Mud Pit 2e</content>
+	<content contentuid="hd8319313g2ddcg4affg983fg49f64326373e" version="1">Create a pit of mud</content>
+	<content contentuid="hd774f282g8b67g48c1ga4deg9267da15acfb" version="1">Schadenfreude 2e</content>
+	<content contentuid="h7f080343g71a6g49b5ga953gf90a0ea0d8d3" version="1">You distract your enemy with their feeling of smug pleasure when you fail catastrophically. On a failed wisdom save, they are stupified and stunned</content>
+	<content contentuid="hee130cdagd172g4167g8668gc0304df6d6a6" version="1">Shocking Grasp 2e</content>
+	<content contentuid="hca76055cg139fg49b5gb592ga820b57305c3" version="1">You shroud your hands in a crackling field of lightning, dealing [1] on hit, and [2] at the start of your target's turns.</content>
+	<content contentuid="ha5f30969g3091g4ffcgbf74g7e636047b076" version="1">Shocked</content>
+	<content contentuid="h636618ceg256ag4b55ga855gc4188e7e4a9a" version="1">Taking [1]</content>
+	<content contentuid="h6fbe9683ga2c6g4a5egb58ag6f222b651411" version="1">Sleep 2e</content>
+	<content contentuid="h6607ff9fg90e4g4eefg8884g063409ef11a5" version="1">Each creature in the area becomes drowsy and falls asleep on a failed wisdon saving throw for 1 minute. When you upcast this spell at 4th level, you also disarm your targets. A sleeping creature wakes up when damaged.</content>
+	<content contentuid="h077e9d8cgeb73g4c40g9a1ag8cd3603a9a69" version="1">Each creature in the area becomes drowsy, drop whatever they are holding and falls asleep on a failed wisdom saving throw for 1 minute, or 1 round on a successful one. A sleeping creature wakes up when damaged.</content>
+	<content contentuid="h14928ba4g6314g4244g85bfg24316e182c86" version="1">Snowball 2e</content>
+	<content contentuid="h3f349e9bg5055g415ag880bgcc8aaf970e5f" version="1">You throw a magically propelled and chilled ball of dense snow. The target takes [1] and have their movement speed reduced by [2].</content>
+	<content contentuid="h8d4a0dfeg5e6eg4640gae56g69001f2c9633" version="1">Chilled</content>
+	<content contentuid="he8ba04d4gf8efg4d71gb597g0b63189c5646" version="1">Movement speed is reduced by [1]</content>
+	<content contentuid="h6894fe6eg37d9g442fg8928ge9e854833476" version="1">Wall of Shrubs 2e</content>
+	<content contentuid="h13140f2agf5afg450eg956fga4c844170e33" version="1">You call forth a line of bushes native to the region to spring from the ground.</content>
+	<content contentuid="hf5d66e7cg7744g41e3g9211g31867de19840" version="1">Biting Words 2e</content>
+	<content contentuid="hd742a6dfgf5b6g4c38g8b40g16d673ae1914" version="1">You entwine magic with your voice, causing your taunts and jibes to physically harm your enemies, dealing [1]. You may do so again on subsequent turns as a bonus action.</content>
+	<content contentuid="h13239fe7gb1d4g4d6bgb29cgd8fc87182632" version="1">Buffeting Wind 2e</content>
+	<content contentuid="h6e2aa55dgf99dg47b0ga7dbgf97292968818" version="1">You release a quick burst of wind that batters your living opponents without causing them lasting harm, while also blowing undead away, dealing [1].</content>
+	<content contentuid="hcd60edefg34cbg458cg8a8cgf7bf25a8e70b" version="1">Dazzled</content>
+	<content contentuid="h124eeea0g2408g42dag89f6g2910884a3bd8" version="1">Your eyes are overstimulated, disadvantage on attack rolls.</content>
+	<content contentuid="h2aa0e473gb744g4845g8b9dg43a139a6a3ca" version="1">Color Spray 2e</content>
+	<content contentuid="h6c5b0b16gba89g4f93gb2a3ge0100fa456b3" version="1">Swirling colors stuns and dazzles your foes</content>
+	<content contentuid="h28b7212eg7dd6g460bg8e52g9e85ce1ebe45" version="1">Concordand Choir 2e</content>
+	<content contentuid="hb3907292g41a4g4c37g9cbfg81ce098001f3" version="1">You unleash a dangerous consonance of reverberating sound, focusing on a single target or spreading out to damage many foes, dealing [1].</content>
+	<content contentuid="h052b2fb0gbfe9g4138g8debgf0f00064e15f" version="1">Harm 2e</content>
+	<content contentuid="hd9769af9gcc77g4f57g8490g0905e99daf83" version="1">You channel necrotic energy to harm the living or heal the undead.</content>
+	<content contentuid="hc04e80ecgaf49g433bga4a4g576f7cd40bc9" version="1">Heal 2e</content>
+	<content contentuid="h0990069eg890eg4f0fg9188gbfacd949203a" version="1">You channel positive energy to heal the living or damage the undead.</content>
+	<content contentuid="had9b8455gd51fg4c2bgb17fg79deec3065ba" version="1">Horizon Thunder Sphere 2e</content>
+	<content contentuid="h2d9d8c45gbcf1g4c94gb4a7g4a659ee36b48" version="1">You gather magical energy into your palm, forming a concentrated ball of lightning that crackles and rumbles like impossibly distant thunder.</content>
+	<content contentuid="hb7f7d91egd37ag4461ga458gdc890a1e8861" version="1">You gather magical energy into your palm, forming a concentrated ball of lightning that crackles and rumbles like impossibly distant thunder. This variant takes 2 round to cast.</content>	
+	<content contentuid="ha8f500afg4d2bg4325ga5edg6767ab48d62d" version="1">Lightning Charged</content>
+	<content contentuid="h17998f29ga94ag49fcg9f24g518e78c218d4" version="1">Melee attacker takes [1] when attacking you</content>
+	<content contentuid="h51b9ff47g8214g4870g8969g1e7da8f5bbef" version="1">Hydraulic Push 2e</content>
+	<content contentuid="h6aea7a04g8388g4f03g967dgeee5fd3ba139" version="1">You call forth a powerful blast of pressurized air that bludgeons the target and knocks it back.</content>
+	<content contentuid="h3857a4e0gbdb4g4f5eg84e3g892bc7cfeac1" version="1">Acid Arrow 2e</content> ================ 2nd LEVEL ================
+	<content contentuid="h4a2b4299gf5e8g413cg862cg262a1937ec92" version="1">You conjure an arrow of acid that continues corroding the target after it hits. Make a spell attack against the target. On a hit, you deal [1] plus [2] at the start of each of its turns.</content>
+	<content contentuid="h57ecd0d1geaaag445dg82c7g3d990a09235a" version="1">Barkskin 2e</content>
+	<content contentuid="h9529ea60ge2a0g4b4fgb252g182c1ed7f729" version="1">The target's skin becomes covered in bark and reduce physical damage taken by [1]. The barks are burned away after taking fire damage</content>
+	<content contentuid="h2579f62cg19ffg4284g9998g937c7d36f840" version="1">Barkskin</content>
+	<content contentuid="h7943e539gf057g465bgbdeag67b8f9ef653a" version="1">Reduce Physical damage taken by [1], removed by fire damage</content>
+	<content contentuid="h1f98a045g0b3eg43d1gbe8eg16b59876f601" version="1">Blazing Armory 2e</content>
+	<content contentuid="h19ce9d07g7d75g4efag8ba3ge33cf7cd8845" version="1">You summon a flaming scimitar in your hand that deals [1] and a +[2] bonus to hit and damage</content>
+	<content contentuid="h869f8975gc125g4defgb26ag17a1739d9454" version="1">You summon a flaming scimitar in your hand that deals [1] and a +[2] bonus to hit and damage. In addition, on a critial hit, your target take [3] at the start of each of their turns.</content>
+	<content contentuid="hf9b037d1g0a0fg446fgb1b3g0fe637398dce" version="1">Blazing Armory - Scimitar</content>
+	<content contentuid="h5543b1c1g1386g4a2eg8902g8bedca234200" version="1">a conjured Blazing Scimitar</content>
+	<content contentuid="h0a33b1c9gef09g4016g93c9g8f5b83e6ff50" version="1">Blazing Armory - Burning</content>
+	<content contentuid="h52e0e505gf67cg4d29gacc1g3d8b0da3244b" version="1">Taking [1] each turn</content>
+	<content contentuid="ha44bbbfcg675eg4819g94ccgaa7c0bbc3c80" version="1">Blazing Armory - Critical</content>
+	<content contentuid="h305ea8acg8c15g492bgacf6g3940a9773565" version="1">Set target on fire on a critical hit, dealing [1] each turn</content>
+	<content contentuid="h68c35995g2dd9g4856g93cdgd3276db45afa" version="1">Blistering Invective 2e</content>
+	<content contentuid="he75c9efag5773g4bfdg91b1gb79bde0a3a02" version="1">A heap of insults and invectives spew from your mouth — words so devastating your foes burn from the intensity of your diatribe. On a failed wisdom save, your target is frightened for 1 turn and starts burning dealing [1] each turn, or half as much on a success with no additional effects.</content>
+	<content contentuid="h27cd7768g5a02g4d5cg8f2dgc0d59bc01212" version="1">Blistering Invective - Burning</content>
+	<content contentuid="heeb38d41gfa6ag494bg8121g2cd3ef861568" version="1">Blood Vendetta 2e</content>
+	<content contentuid="ha6aed448g4f55g4b6dg9c3bga85065f9764d" version="1">You curse the target, punishing it for having the audacity to spill your blood. The target takes [1] each turn on a failed Wisdom save, or half as much on a success.</content>
+	<content contentuid="h493c8928g4321g4610gbdb6gf9967ef6f7da" version="1">Blood Vendetta - Bleeding</content>
+	<content contentuid="h5b367210g1ec9g4c05g8dd4g7a908fa98e2f" version="1">Boneshaker 2e</content>
+	<content contentuid="h695043deg8bfdg43bbg863cg0006a794c3a9" version="1">You reach out a hand and seize a creature's skeleton from afar, harming their body and potentially wrenching them by the bones to move them against their will.</content>
+	<content contentuid="hb936eabegca45g47d2g9aecga43ef72379e5" version="1">Deal bludgeoning damage on a failed constitution saving throw or half as much on a success.</content>
+	<content contentuid="hbd3f81bfgaeddg4aafg9841g732c1161e21c" version="1">Deal bludgeoning damage on a failed constitution saving throw or half as much on a success, and push it 30ft away</content>
+	<content contentuid="h69499186gd974g4aeeg9ba9g6c1ed1789553" version="1">Deal bludgeoning damage on a failed constitution saving throw or half as much on a success, and pull it 30ft closer</content>
+	<content contentuid="h15cf38fagf9e9g42d5g9c64gc01ab889f70a" version="1">Brine Dragon Bile 2e</content>
+	<content contentuid="he5e4869cg7093g4ce0g8527gb1d5d25318e1" version="1">You spit a glob of caustic saltwater that stings the wounds of the creature made by piercing or slashing damage, dealing [1] persistent acid damage on hit.</content>
+	<content contentuid="h85173761g9c1dg4b0egb7a5g2c88caf04fdb" version="1">Clawsong 2e</content>
+	<content contentuid="h1a1c10b7gcf5bg4057gbc38g04c6c5e19c71" version="1">You sing a fierce prayer, low and growling, and awaken the ancient spirit of a Terwa beast to guide and strengthen the target's unarmed blows. The target's unarmed attacks deals an additional [1].</content>
+	<content contentuid="hb9bb00dcg075bg4c47g8ff4g25c679c6fecb" version="1">Your unarmed strike is dealing an extra [1].</content>
+	<content contentuid="h14adc438g53beg45begb146gd6873c02a2c6" version="1">Create Food 2e</content>
+	<content contentuid="hd2dabd8dgbb1ag4568g9027ga7719495607b" version="1">Create [1] supplies worth of food in your target's inventory.</content>
+	<content contentuid="h8477eb62g9248g4b45g9095gc900917b0af4" version="1">Death Knell 2e</content>
+	<content contentuid="h3c9bb541g51ceg4cb1g95bdgee714e53cdce" version="1">You snuff the remaining life out of a recently killed creature, gain [1] and a +[2] bonus to attack and damage rolls for 100 turns.</content>
+	<content contentuid="h4e305b92g45c3g44ceg9fd9g86dfb0cb557f" version="1">gaining [1] and a +[2] bonus to attack and damage rolls.</content>
+	<content contentuid="hd23e668bg4737g412fgaea3gf20c9d92510d" version="1">Extract Poison 2e</content>
+	<content contentuid="hb9d22b27g8335g4017gb9ccga9c086133dd7" version="1">With the lightest touch, you can siphon the poison from a creature and save it for later use.</content>
+	<content contentuid="h45566d4dg1c3eg4e17g80ecgd68184aef9ed" version="1">Feast of Ashes 2e</content>
+	<content contentuid="h427bd896gaa62g4a89g87b0ge4eb1d2b52b5" version="1">You curse the target with a hunger no food can sate.</content>
+	<content contentuid="h0dc1d58ag6b6eg49c1gbc49g824ac6409393" version="1">Fatigue</content>
+	<content contentuid="h56a7dc65gf98fg4880g896ag156dd8c2d2da" version="1">Reduce AC and Saving throws by [1]</content>
+	<content contentuid="h46db0f47g6bdbg405aga603g80ecc96081d0" version="1">Unsatiable Hunger</content>
+	<content contentuid="he73332b3g11ddg4959ga4a6g48ec1b775541" version="1">taking [1], and reducing max hit point by [2] each turn.</content>
+	<content contentuid="hf63a1a34g61aag48cbg810cge81aeee9a16b" version="1">Final Sacrifice 2e</content>
+	<content contentuid="h48653c9fgacf6g46ddga604g588965183756" version="1">You channel disruptive energies through the bond between you and your minion, causing it to violently explode. The target is immediately slain, and the explosion deals [1] to creatures within 20 feet of it on a failed dexterity saving throw, or half as much on a success.</content>
+	<content contentuid="h8516d83agfd41g4186g93fdg2f92353bb54f" version="1">Fireproof 2e</content>
+	<content contentuid="hf9477215g42fag4fb1ga1eegae17a13d09aa" version="1">You prevent the target item from conducting heat or catching fire for the spell's duration.</content>
+	<content contentuid="h992ffd98g390dg4007gad90ge747dbf99afc" version="1">Waterproof 2e</content>
+	<content contentuid="h0cbc140cg27f8g4b41gbbb0g0ab6c9561886" version="1">You prevent the target item from taking on water or becoming wet for the duration of the spell.</content>
+	<content contentuid="h7d949debga4bfg4916gb08dg0874f4c65b96" version="1">Fireproof</content>
+	<content contentuid="h27a3f6e6g20ccg455dg9001gf6bf57d85f11" version="1">Reduce fire damage taken by 10 and immune to burning</content>
+	<content contentuid="h762f0947g07c9g4dfcg9f91g0dfe4ee1e45a" version="1">Waterproof</content>
+	<content contentuid="h84666360g0ef7g4962gb0eeg44c3d2358099" version="1">Reduce acid damage taken by 10 and immune to wet</content>
+	<content contentuid="h492f283ag17b6g4abdg80f2gc1380a68cb12" version="1">Reduce fire damage taken by 10 and immune to burning indefinitely</content>
+	<content contentuid="h401c1c0dg5a4eg418dg8fa5g29991c493179" version="1">Reduce acid damage taken by 10 and immune to wet indefinitely</content>
+	<content contentuid="h0966ea35g5582g40f2g820ag82a6df59fe74" version="1">Flame Wisp 2e</content>
+	<content contentuid="hc8162aa5g3254g4c17gb71fg6351453554fa" version="1">Three faintly glowing wisps of fire float around your head. Each time you hit a creature with an attack, one of the wisps goes hurtling towards another creature, dealing [1] and set your target and the second creature on fire. You regain 1 flame wisps when you cast a spell and do fire damage.</content>
+	<content contentuid="hb23b225eg0312g4e1fga421gb0f122d28a1a" version="1">Flame Wisp</content>
+	<content contentuid="he8eb2b4ag6a75g4c6bgb8bdgeac394c6cf19" version="1">A flame wisp that deals [1].</content>
+	<content contentuid="h07c30fe0gfb5eg418egb795g6e1a033aba72" version="1">Sparkling Swing</content>
+	<content contentuid="hf1489baeg636fg4b6fg9235g46eca689eb22" version="1">An attack that shoots out one of your flame wisps at another creature.</content>
+	<content contentuid="h9b6cde81gbf17g461egbc4fg223f07cee377" version="1">Sparkling Shot</content>
+	<content contentuid="h6bad05c4ge967g4c6cg9f08ge7570816eafe" version="1">Impart Empathy 2e</content>
+	<content contentuid="h60384cefgf4a5g4314g86b4g3f26a750f88a" version="1">Add your spellcasting modifier to your target's persuation check for the day</content>
+	<content contentuid="heb87a0c9ge9f2g4611g87b0g190e97e9f045" version="1">Empathy Imparted</content>
+	<content contentuid="hf4b13ca6g34bcg4a7agafbege68ce8fa4a9b" version="1">gaining a +[1] bonus to persuasion checks</content>
+	<content contentuid="hcc8c11d1g459dg4e9fg9ca0gab56eb8f3bb8" version="1">Impeccable Flow 2e</content>
+	<content contentuid="ha80ec36fg38e7g43f7ga829g4a9307a78bd7" version="1">You attune yourself to an underlying cosmic order to the world. While you remain in tune with this power, you gain a +[1] status bonus to skill checks, saving throws, and attack rolls.</content>
+	<content contentuid="ha9b1a595g5a55g4bc0ga214g403609f56165" version="1">Impeccable Flow</content>
+	<content contentuid="h5a50ba0dg0eadg4d80g865fg8fde0ec2ad5e" version="1">You attune yourself to an underlying cosmic order to the world gaining a +[1] status bonus to skill checks, saving throws, and attack rolls.</content>
+	<content contentuid="h07479988g73f9g4696g8c36g4c04b606a8fb" version="1">Loose Time's Arrow 2e</content>
+	<content contentuid="h3b9c3ca8g9d48g450fgbeb3g217b3bcbf164" version="1">You pluck the time stream like a bow—pull one string back, release, and watch a creature fly. All affected targets can dash for free on their turn</content>
+	<content contentuid="h75203c23gc32fg4bc8ga2d3g0a7c8bd606af" version="1">Loose Time's Arrow</content>
+	<content contentuid="hfe33a254ga73ag4d33g917egedc2ff7434b5" version="1">You can dash once for free on your turn.</content>
+	<content contentuid="hb3e0d333g169ag457eg843bgcd828e4e9691" version="1">Mimic Undead 2e</content>
+	<content contentuid="h9932061ag264dg4debg8fceg20793c398c3f" version="1">You take death and wrap it about you like a cloak—your colors wash out and your skin grows cold to the touch. You gain the undead tag, gain resistance to necrotic damage, and vulnerability to radiant damage.</content>
+	<content contentuid="h8b2d24e6g1fa4g4836ga70eg554deee84aa4" version="1">Mimic Undead</content>
+	<content contentuid="hdb641538g0bf6g4beag93feg0e9a26801254" version="1">You have the undead tag</content>
+	<content contentuid="hc97dab83g528bg4c00g90b5gf79646944464" version="1">Remove Fear 2e</content>
+	<content contentuid="h58f9b386g4de1g43c7ga3d3g46797648f6ba" version="1">With a touch, you ease a creature's fears, and bolster its resolve to be unaffected by it for 1 minute.</content>
+	<content contentuid="hf4b57b9dg90a3g4311g84a2g5eddd7c2f591" version="1">Fear Immunity</content>
+	<content contentuid="h1aeabc6egafc5g4f8dga2edge79686f06637" version="1">Immune to fear</content>
+	<content contentuid="h8f85665dg4db6g4188gb3d0g319fbf36cf9e" version="1">Remove Paralysis 2e</content>
+	<content contentuid="h7aedad8cg9298g4d4cgb4ccgd76b6745a500" version="1">A surge of energy frees a paralyzed creature, the target also become immune to paralysis for the next minute</content>
+	<content contentuid="h77fe4b04g0959g4eecgb02ag16eeda5f1634" version="1">Paralysis Immunity</content>
+	<content contentuid="h21bd8308g8e1bg4f2agb439g0add24688c3a" version="1">Immune to paralysis</content>
+	<content contentuid="h1731bbdcgefbcg48b0ga5ccga8ee527a8756" version="1">Restore Senses 2e</content>
+	<content contentuid="h0c394e95gfcc9g45ccg9fe4gca1a1fb6b85e" version="1">You light up a creature's sense with your magic, removing blindness and deafness, and the target creature become immune to them for the next minute</content>
+	<content contentuid="h1d4022e4g2276g4ff8g975dga462af1495e0" version="1">Senses Restored</content>
+	<content contentuid="h2bd5496bg1ad9g4f84g8a92gf88783672604" version="1">Immune to blindness and deafness</content>
+	<content contentuid="hf84c1076gb3b7g497cgb2bage4c884a41943" version="1">Resist Energy 2e</content>
+	<content contentuid="hc623b44cg9a95g4205g80b8g0e40eb7b40a0" version="1">A shield of elemental energy protects a creature against one type of energy damage. Choose acid, cold, lightning, fire, or thunder damage. Take [1] less damage of the type you chose.</content>
+	<content contentuid="h277f7239g4810g4de5g9c1dg447dec69109c" version="1">Resist Fire</content>
+	<content contentuid="h399c399dg6f89g4734gbac3g37fd780034e9" version="1">Resist Cold</content>
+	<content contentuid="h0620bf77gd503g4632g9465g3f461d7baed9" version="1">Resist Acid</content>
+	<content contentuid="h2ebf66c4g080ag4c6cgb91cga724c70e4d13" version="1">Resist Lightning</content>
+	<content contentuid="hbfb5bdccgbd0bg49e8gb662g07ea52a4e8e2" version="1">Resist Thunder</content>
+	<content contentuid="h90255f16g9eb6g446cg98d4ge5b23e75fb09" version="1">Reducing [1] taken.</content>
+	<content contentuid="hca4d9d71gaeaeg4779ga398g725c2c23961a" version="1">Sound Burst 2e</content>
+	<content contentuid="he5c684c0gbc9eg44bbg97aag3d8874c26ff5" version="1">A cacophonous noise blasts out, dealing [1].</content>
+	<content contentuid="h9d133358ge7ecg4d79g8c0cgd2e998492e13" version="1">Scorching Ray 2e</content>
+	<content contentuid="h693718dega981g4e65gbee9gd385d32e8531" version="1">You fire rays of heat and flame.</content>
+	<content contentuid="h6c9db84dg9062g4c12g8a01g66df7c8dd298" version="1">You fire [1] ray(s) of heat and flame dealing [2]</content>
+	<content contentuid="h1029c869g870cg4801gaed5g02cf6a475173" version="1">Telekinetic Maneuver 2e</content>
+	<content contentuid="h2111b807g4bddg4e7fg8990g7dfa41661578" version="1">With a rush of telekinetic power, you manipulate a foe, to disarm, shove, or knock them prone at range.</content>
+	<content contentuid="h4683a53fg7b67g46acg896ag90cbda42166a" version="1">Telekinetic Shove</content>
+	<content contentuid="h5db0c53bgcc09g4d32gac35gf2b36578e3c3" version="1">Telekinetic Disarm</content>
+	<content contentuid="h66d46885g0d2ag4534ga6c2ge28ca132ef92" version="1">Telekinetic Knock Prone</content>
+	<content contentuid="h4b89530ag55d3g4256gb448ge65688e460d2" version="1">Warrior's Regret 2e</content>
+	<content contentuid="h9db080f3g6978g4581g8c0fgdd046c271b08" version="1">Regret eats away at the target's mind, punishing it for its violence until it ceases its hostility. The target take [1] whenever it makes an attack</content>
+	<content contentuid="h5ff6a368gea71g4c09gb287g9a60a1867c49" version="1">Warrior's Regret</content>
+	<content contentuid="h2369517bg1d74g4c9fgb683g1fc90fd7f20d" version="1">taking [1] with each attack</content>
+	<content contentuid="h6a2f0ef6g0d62g46d8g8f2fg364446f22c05" version="1">Brine Dragon Bile</content>
+	<content contentuid="h39e95589gc833g4b0dg9d67gfe3aec81d62e" version="1">Taking [1] each turn</content>
+	<content contentuid="h49628f3agc1fbg4c8bgac2bgd463ad287ce0" version="1">Lightning Bolt 2e</content> ================ 3rd LEVEL ================
+	<content contentuid="hb2481dbbg77bcg4f58g9c02g2936181c1837" version="1">A bolt of lightning strikes outward from your hand, dealing [1].</content>
+	<content contentuid="hdcb92488g06dbg41cdg8421g4b9d8373951d" version="1">Fireball 2e</content>
+	<content contentuid="h71d43cccg8c67g4928g94b5gd49218c08c95" version="1">A roaring blast of fire appears at a spot you designate, dealing [1].</content>
+	<content contentuid="hc1e2c45ag7b33g498ag9266g515e7de7d4a2" version="1">Blazing Dive 2e</content>
+	<content contentuid="h623c9eebg4ceag4de1gae72g8d88f291459a" version="1">Superheated air collects under you, buoying you high into the sky before you plummet back down in a fiery comet. You Fly 15 feet straight up into the air, then Fly in a straight line to an empty space of your choice on the ground within 60 feet. When you land, the blistering air blasts out from you, dealing [1] and [2] to all creatures within 3m.</content>
+	<content contentuid="h3ab9572cg1c10g450fg96eag4b28813d8580" version="1">Bracing Tendril 2e</content>
+	<content contentuid="he7ea033egb7eeg45f1g9c9eg28f1361c93f4" version="1">Visible tendrils of force anchor your body to the ground, preventing unwanted movement.</content>
+	<content contentuid="h4a0a3252g57e8g4bc6g9045g48f5f5dedfba" version="1">Bracging Tendril</content>
+	<content contentuid="he14618d9g0f99g4217ga476gdd8b54332ba8" version="1">You are grounded and can't be moved against your will</content>
+	<content contentuid="hf0e3808cg6f19g423ag91f8gb79e0db55607" version="1">Bind Undead 2e</content>
+	<content contentuid="h2572557bg6e41g465cg8453gb3eb6928b11c" version="1">With a word of necromantic power, you seize control of the target undead.</content>
+	<content contentuid="h7f7900d6g71ddg4cbfg9318g637de7b240cc" version="1">Bind Undead</content>
+	<content contentuid="h61d85bcegafafg4954g90b2g7b0f48dd3b75" version="1">This undead is binded to your service.</content>
+	<content contentuid="hc5b1b099gbc2eg4f61gbbfeg8201ccd912c0" version="1">Frightened 2e</content>
+	<content contentuid="h48d9dc5ag944dg42c2gbf14g48172667f6f0" version="1">You take a -[1] penalty to attack rolls and saving throws</content>
+	<content contentuid="h1a8609a8gf1a8g463fga547ge17bb19e6091" version="1">Agonizing Despair 2e</content>
+	<content contentuid="h5e3d9991g099dg450fg8d11g1d2b27241939" version="1">Your target's mind tumbles down a deep well of dread, dwelling so intently on deep-seated fears that it's painful.</content>
+	<content contentuid="h1df5b8b8gbd6ag4ba2g8ee2g64fc64d67aaa" version="1">Consecrated Flesh 2e</content>
+	<content contentuid="hb620cbd0gcf9ag4602g9ce0g3628c3821170" version="1">Through the strength of your faith, your body becomes infused with holy energy. You take an additional [1] when taking necrotic damage, and reduce [2] taken. Any creature that attacks you with a melee attack within 5ft of you takes [3]. Your weapon and unarmed attacks deal an additional [4], and your healing spells restores an additional [5].</content>
+	<content contentuid="he7e15d4fg04a7g4016gaebcg41a9fce8ee47" version="1">Consecrated Flesh</content>
+	<content contentuid="hc807299cg5be9g414ag8b90g08c84b531db6" version="1">You take an additional [1] when taking necrotic damage, and reduce [2] taken. Any creature that attacks you with a melee attack within 5ft of you takes [3]. Your weapon and unarmed attacks deal an additional [4], and your healing spells restores an additional [5].</content>
+	<content contentuid="h0f438b86g1accg45adg882bg3e50efa6face" version="1">Action to Bonus Actions 2e</content>
+	<content contentuid="h630d40acge160g49bdgb311g4ec0cf4dba11" version="1">Turn an action into 2 bonus actions</content>
+	<content contentuid="h42fbfd1fg51e9g439ag9975g12410a613003" version="1">Bonus Actions to Action 2e</content>
+	<content contentuid="hadcdbe18ga3acg4342gbe9ag3db11e4b6da8" version="1">Turn 2 bonus actions into an action </content>
+	<content contentuid="h679fd6ebg52e3g47e6ga8c8g2eb361e9614c" version="1">Blastback 2e</content>
+	<content contentuid="h0146360agdce1g4663g9f54g8aa3aba75604" version="1">You hit the ground with a shuddering boom, propelling the force of your fall out in a wave. You take no damage from the fall as the displaced air allows you to land gently, but all other creatures in the spell's area take [1]. Creatures that fail their save are also pushed back [2] feet.</content>
+	<content contentuid="h03168025gec04g4dd1ga7d9g03d174162d60" version="1">Envenom Companion 2e</content>
+	<content contentuid="hcde043a8g9f28g4e63g97dbg7228fb3ee027" version="1">You envenom your companion's attacks, which drip with highly toxic venom for the spell's duration. The creature's weapon deals an additional [1]. A creature that is damaged by this poison must attempt a Constitution save. On a failure, on a failure it becomes clumsy for 1 round.</content>
+	<content contentuid="h98f6487eg1135g44a5g9178ge03fa3ca9771" version="1">Envenomed</content>
+	<content contentuid="h8c2465d6g3f9ag4091gb9fbge5a4488cf31f" version="1">Your piercing and slashing weapon attacks deal an additional [1], and possibly make your target clumsy.</content>
+	<content contentuid="h0a5b018dgdf64g4269g8b99g502714cfdd60" version="1">Firework Blasts 2e</content>
+	<content contentuid="h9b1ef670ge62bg43d6gbdf4g546d62d6d806" version="1">You create a massive display of loud and colorful explosions, dealing [1].</content>
+	<content contentuid="hf22d3e4bgaeb5g45acgae6dg7bbef09aab07" version="1">Focusing Hum 2e</content>
+	<content contentuid="he8405c13g8858g462cg9b50gf4533cc42b96" version="1">You infuse the air around you with a sustained hum that allows creatures within it to resist distractions. Creatures within the area have advantage on all Intelligence and Wisdom saving throws, and are immune to the confused condition. However you can not become hidden.</content>
+	<content contentuid="h8e08657cg3636g4168gbde6gc5419f8af59e" version="1">Focusing Hum</content>
+	<content contentuid="h5706e927g83fag4a24gb479g6dfd1a4f07d4" version="1">You have advantage on Intelligence and Wisdom saving throws.</content>
+	<content contentuid="h5665dcadg694bg4cc6ga335g29f05fde4781" version="1">Humming</content>
+	<content contentuid="h1275e96dg10dcg47cegac7ag337d15f2b1a9" version="1">You have advantage on Intelligence and Wisdom saving throws, but can not become hidden.</content>
+	<content contentuid="he5144280g89e6g432fga0bcg00b0f089cea9" version="1">Ghostly Weapon 2e</content>
+	<content contentuid="h0a79f67egcc0bg45f1g8022g96a058322346" version="1">The target weapon becomes translucent and ghostly, and it can affect material and incorporeal creatures and objects. It ignores resistance to piercing, slashing, and bludgeoning damage.</content>
+	<content contentuid="h861142c6gbb50g4868g9d37g9b2e34709899" version="1">Ghostly Weapon</content>
+	<content contentuid="h9cd334c9g98c3g44a0g9399g01e55892db3e" version="1">Ignores physical resistance</content>
+	<content contentuid="hcf3964f1gdd82g4421gb383g5e3317bb1700" version="1">Haste 2e</content>
+	<content contentuid="h34185cc0gacfeg4c2ag826ega7bf720afc18" version="1">Magic empowers the target to act faster. It gains an extra bonus action on each of its turns.</content>
+	<content contentuid="h3b6465b8g3d1eg436bga14dgf45d91c8519c" version="1">Quickened</content>
+	<content contentuid="h52c162e3gee90g41b6gba2cgbfa5e5a30c59" version="1">Gain an extra bonus action on your turn.</content>
+	<content contentuid="h4e03ae5cg7c48g4f66gad54g7980b5e2fa0b" version="1">Heroism 2e</content>
+	<content contentuid="hc065bb28gc57ag4c8aga8c9g8e4abf7e407b" version="1">You tap into the target's inner heroism, granting it a +[1] bonus to attack rolls, saving throws, and skill checks.</content>
+	<content contentuid="h9e9a3343g27dbg4056gaaf5gee4af3b4f2d1" version="1">Heroism</content>
+	<content contentuid="h6980b844g4cdag4b2egaf15g22da898787be" version="1">Gain a +[1] bonus to attack rolls, saving throws, and skill checks.</content>
+	<content contentuid="hda8fa4cbg0379g484cg82e5gc7383c4bd462" version="1">Invisibility Sphere 2e</content>
+	<content contentuid="hec26e2bbgb8c4g431eg8e9agd09fda2acdc7" version="1">You and all targets are invisible except to each other as long as you remain within the spell's area. If a creature made invisible by this spell leaves the spell's area, it becomes visible and remains so even if it returns to the spell's area.</content>
+	<content contentuid="heb367849g758cg4bdeg9e92gd4eeebe9b75e" version="1">Invisibility Sphere</content>
+	<content contentuid="haa78f68bg34a7g42fbg803ega04e8fa918e0" version="1">You emit an aura that turns others around you invisbile.</content>
+	<content contentuid="h7b0960f0g97c0g4662g8f9dg60c58c87e716" version="1">Life Connection 2e</content>
+	<content contentuid="h6ae6af33g0464g4a91g83d4g73cbb7b0f3a5" version="1">When you cast this spell, you place a failsafe deep within the life force of the target. You can sense when the target takes damage. A creature can be part of no more than one life connection simultaneously. As a reaction, when your target takes lethal damage, you may choose to take damage for them instead.</content>
+	<content contentuid="hd8458d27g238bg42fbgb267gcb6a77ad5552" version="1">Life Connection</content>
+	<content contentuid="h3d1ed954gadf4g4227ga616g219719b685da" version="1">When your connected target takes lethal damage, you can take it for them instead as a reaction.</content>
+	<content contentuid="h127849f0g9f62g439cg91f4gc0d1274cfb75" version="1">You have your life connected by another target to themselves.</content>
+	<content contentuid="hcb3b4509gc698g4e44gaad0g1e77483c6a32" version="1">Defend Life</content>
+	<content contentuid="h6d937b14g14a8g422eg933cg99f214e6f75f" version="1">Take the damage for your life connected target and prevent them from dropping to 0 hit point</content>
+	<content contentuid="h5cbe8d2agb7acg49ecg836fg78ee402cc5ac" version="1">Moonlight Ray 2e</content>
+	<content contentuid="h0c2951fegad43g4fa3g8a4fgf06f771f1913" version="1">You unleash a holy beam of freezing moonlight dealing [1]. If the target is a fiend or undead, you deal an extra [2].</content>
+	<content contentuid="he5c3c493g49d5g400fgbb28g02d590a3a511" version="1">Searing Light 2e</content>
+	<content contentuid="h91c23a24g5f5ag4b6bg8426g64c37e8644c0" version="1">You shoot a blazing ray of light tinged with holy energy dealing [1]. If the target is a fiend or undead, you deal an extra [2].</content>
+	<content contentuid="h27967236g4ee5g4ba1gacffg7faea75f40e2" version="1">Chilling Darkness 2e</content>
+	<content contentuid="h27f05269g02cbg45e4g8788g22b295c42247" version="1">You shoot an utterly cold ray of darkness tinged with unholy energy dealing [1], plus [2] if the target is a celestial.</content>
+	<content contentuid="h493e0995g695eg43abg9fd1g2912b227d237" version="1">Moth's Supper 2e</content>
+	<content contentuid="h096030d2ge802g4a5aga52dg0beec3c28151" version="1">You target a corpse and consume its remaining vitality. For the next 100 turns, every 10 turns, you regain [1].</content>
+	<content contentuid="h3ca345e4g382bg4591g8506g0a2933e1dab2" version="1">Moth's Supper</content>
+	<content contentuid="h2809bea3g1a1eg4967g8fb5gc8a923b14d76" version="1">You regain [1] every 10 turns.</content>
+	<content contentuid="h7271468cgd6bag4a95gb80cg65b30803e258" version="1">Positive Attunement 2e</content>
+	<content contentuid="ha9d98de7g22f8g458ega934ged5b8562355e" version="1">You attune a creature to the Upper Planes, connecting its life force without fully transporting it. The creature's appearance becomes more brightly colored. If the creature is living, it regain [1] immediately and at the end of each turn. If the creature is undead, it instead takes [2].</content>
+	<content contentuid="hd9dccafcg1fdeg4e6cg94e1gb01b0242a852" version="1">Positive Attunement</content>
+	<content contentuid="he80c9e37g9e77g45fbg8dc8gd15461a104cd" version="1">Regain [1].</content>
+	<content contentuid="h963c1e33gfc1eg4328gb268gc1c8c52fb371" version="1">Take [1]</content>
+	<content contentuid="h096068b3gcf83g4608g9d13gb32ff8927c1d" version="1">Vampiric Touch 2e</content>
+	<content contentuid="h11da0b8eg5096g4b06ga3ffga9c9818bb709" version="1">Your touch leeches the lifeblood out of a living target to empower yourself. You deal [1] to the target and gain [2]. You lose any remaining temporary Hit Points after 10 turns.</content>
+	<content contentuid="hd06fb459g9a47g409aga528g781b86471b3f" version="1">Vampiric Touch TemporaryHitPoints</content>
+	<content contentuid="h5b4baa4eg8ec9g4da9ga95eg40df2b1ae373" version="1">Ooze Form 2e</content>
+	<content contentuid="h813061e3ga26cg4848g842cgf450731447de" version="1">You invoke all things that seep and ooze, your body dissolving into a thick slurry and then reconstituting itself into a Medium ooze battle form. You can Dismiss the spell before the duration ends. While in this form, you may not cast spells. Upcasting this spell increases its your size, reach, damage, and damage reduction while in ooze form.</content>
+	<content contentuid="hd1cf2d99g27cdg4e20g84f0ge4582e3100b2" version="1">Ooze Form</content>
+	<content contentuid="h065eee17gb91fg4d58gb6c9g2c18bf12adef" version="1">Squish Squish Splat</content>
+	<content contentuid="h310beadcg76efg4478g8831ga642300d6ca8" version="1">Organsight 2e</content>
+	<content contentuid="h9c5f6dedg20b4g4fd4g9718gc7510b866dbd" version="1">You see the target as though it's dissected and arrayed before you, once on your turn, you deal an additionaol [1] when attacking with a slashing or piercing weapon.</content>
+	<content contentuid="h283c7acbg78dcg42begbde2g0a9c53a9647f" version="1">Organsight</content>
+	<content contentuid="h6113e96cge297g4631gb91cg7aa3e7587bdc" version="1">Organsight - Critical</content>
+	<content contentuid="hd7b5ae7agd6ffg4c9agbf24g1443f2d5fb5c" version="1">Percussive Impact 2e</content>
+	<content contentuid="hc50a23a1g49e8g438bg94ffg85ecd0113135" version="1">You lob a compressed ball of sound at a foe. The ball explodes on impact, unleashing a powerful blast of sound, dealing [1] plus [2], and the target is also deafened for [3] round.</content>
+	<content contentuid="h6b3bedbbgf94ag4200g9ef8ge037f99ce8ca" version="1">Shadow Projectile 2e</content>
+	<content contentuid="h095a6091gcc45g45b8gb7ccgd5cd9ce0e2f1" version="1">You create an illusory ray to confuse your opponents when your ally makes a ranged attack at them. leaving the enemy unsure which attack to avoid. The target takes [1] and you grant your ally's ranged attack advantage on a failed Wisdom save.</content>
+	<content contentuid="hcb4bcd08g9df4g4a58g9182ge4c4432de8bc" version="1">Time Jump 2e</content>
+	<content contentuid="hc8555a04gae12g4a00gb3cbged27daebd2da" version="1">You leap forward a few seconds in time, appearing across the battlefield in the blink of an eye. You may charge twice, before time unfreezes.</content>
+	<content contentuid="h294e5338g697fg4b6cgb3c8g44a02a4c2df6" version="1">Time Jump</content>
+	<content contentuid="h9d10bd63g25b0g4cfagae7cg8306e2da2d23" version="1">Time has stopped until you charge twice.</content>
+	<content contentuid="h360e2c19gea62g440fgb382g0185ad9cd7ca" version="1">Rush</content>
+	<content contentuid="hb384ce4bgada1g4926g83d0g5d538ab08200" version="1">charge forward [1].</content>
+	<content contentuid="h546f3f69g1920g4ca6g92c1g0d5fb73896c8" version="1">Cancel Battleform</content>
+	<content contentuid="h56e94a1ag3071g4025gb360gfae492b2ca80" version="1">Dismiss your current Battleform</content>
+	<content contentuid="hd1c35765g170bg40e8ga9e4gabfadf9efb56" version="1">Aerial Form 2e</content> ======================= 4th level ============================
+	<content contentuid="h5e671aa4g9014g4876g9c7bgef14b4f33eaf" version="1">You harness your mastery of primal forces to reshape your body into a Medium flying animal battle form.</content>
+	<content contentuid="hd244c789g15a5g4a6cga82eg407e17b1eaab" version="1">Aerail Form</content>
+	<content contentuid="hf219d3bcg0991g41f1g8829g41f27f49af5e" version="1">Flap Flap</content>
+	<content contentuid="hb74f1108g4a36g45f6g8dc2g617c07f9b453" version="1">Blink 2e</content>
+	<content contentuid="h879dc7bbg444cg43bega9adg05e931028bc2" version="1">You blink quickly between the Material Plane and the Ethereal Plane. You take [1] less damage from any source beside from force. You can use a bonus action to teleport 10ft.</content>
+	<content contentuid="h6c3c62bdg61cbg4073gad23g7a1478eb3e51" version="1">Blink</content>
+	<content contentuid="h4f11468cg133bg4f02ga734gc1034503abf6" version="1">you take [1] less damage from any source beside from force.</content>
+	<content contentuid="h1d6cc617gf26bg47a5gb7b0gde2cc72de7c7" version="1">Teleport [1] as a bonus.</content>
+	<content contentuid="hbea64b88gbc5fg4e7fga6b6g0e26913eb5b1" version="1">Bloodspray Curse 2e</content>
+	<content contentuid="h4616ca89gca4fg4bb4g870cg5d826e8b38b9" version="1">You inflict a curse upon the target that causes any wound to gush blood.</content>
+	<content contentuid="h388881d6g456ag4d2egb6bag5f81309fbe2f" version="1">Whenever your target takes more than 10 piercing or slashing damage from a single strike, it takes an additional [1]. The damage is persistent if they fail the saving throw.</content>
+	<content contentuid="h0bb5fddage4eag49fdg9710gc47f659109e6" version="1">Bloodspray Curse</content>
+	<content contentuid="h19217411g282cg41dbgbab0g177bf3e116fc" version="1">Taking additonal [1]</content>
+	<content contentuid="h93a5eb37g636fg4583gbbe8g20f5119a8b0c" version="1">Taking additional persistent [2]</content>
+	<content contentuid="hbfc17577ge31eg4d95gb551g902226bb2838" version="1">Cloak of Light 2e</content>
+	<content contentuid="he20888b5gc7d6g4643ga59fgbaa00450df67" version="1">You surround yourself in holy light that restores the living and rebuffs undead. You glow with bright light in a 30-foot radius and dim light to the next 30 feet.</content>
+	<content contentuid="h6758f0a2g5e82g4390g8fc1g6caf8cbad5bb" version="1">Cloak of Light Healing</content>
+	<content contentuid="hd4959818g266fg41b6gb3aag0879802615d4" version="1">Restore [1] at the start of your turn.</content>
+	<content contentuid="hcc611fdfg172cg49b2ga105g67a35970b365" version="1">Cloak of Light Damage</content>
+	<content contentuid="hb203affbgb76bg457fgaa17g0f362b2965a2" version="1">Take [1] at the start of your turn.</content>
+	<content contentuid="hd4112321g4c1bg4ac3g8148g9a2f24a82756" version="1">Cloak of Light</content>
+	<content contentuid="h80f412a6gbb8fg4101g9e68g3b95677c2d44" version="1">Undead around you take [1] and living creatures restores [2].</content>
+	<content contentuid="h5e250f33g0db3g4628g8978gcad771caa9ed" version="1">Dinosaur Form 2e</content>
+	<content contentuid="hd9a68de1g18afg48bfg83a0gdbd244c25100" version="1">You channel the primal forces of nature to transform into a Large animal battle form, specifically that of a powerful and terrifying dinosaur.</content>
+	<content contentuid="he0aac5feg6608g48a4gaa3fgda1debd6cc7e" version="1">Dinosaur Form</content>
+	<content contentuid="h22d5ef45g6339g4534gb401g308d5fcd9598" version="1">Dino noises</content>
+	<content contentuid="h2ac076c5g485bg414bg9912ge2b6d09a5ca0" version="1">Dicern Lies 2e</content>
+	<content contentuid="h62b5f9d6gcb57g4c8cg8f7dg522a5ca732a0" version="1">Falsehoods ring in your ears like discordant notes. You gain expertise in Insight.</content>
+	<content contentuid="h56cc01f1g6978g4af7g8f38gd1dc0682c90f" version="1">Dicern Lies</content>
+	<content contentuid="h74181f95g9adeg4411g8bdbg0042c3ae3869" version="1">Expertise in insight</content>
+	<content contentuid="h769c0b89g8917g41a1g97f3g25239237421e" version="1">Draw the Lightning 2e</content>
+	<content contentuid="h712e1862g237bg4677g8716g4c60988f57db" version="1">Calling out to the skies, you summon a bolt of lightning to strike through a foe above you and down into your weapon or your body, charging it with electrical power. You must hold your weapon or an empty hand aloft as part of this spell's somatic component. When you do, a bolt of lightning descends from a storm cloud in the air above and around you, dealing [1]. Then for the duration, your weapon deal an additional [2].</content>
+	<content contentuid="h1b22d703g17cdg4c83ga177g9917117ab66d" version="1">Draw the Lightning</content>
+	<content contentuid="hd4542a6dg3d40g4775g91fcg649cf3649bd4" version="1">This weapon deals an additional [1].</content>
+	<content contentuid="hdaae58b2gdd92g4e0fg845fg083a6a65d3fb" version="1">Fey Form 2e</content>
+	<content contentuid="he6359e43g3a5fg4327g8164g70b9b3797256" version="1">Channeling the mischievous fey, you transform into a fey battle form, which is Medium unless stated otherwise.</content>
+	<content contentuid="h4ea327dfgde6dg4104g95d7g1f867bd98dec" version="1">Redcap Form</content>
+	<content contentuid="hb4dc0aaegd6ccg40fcg8cecg474695107034" version="1">Redcap Blood Sage Form</content>
+	<content contentuid="hb8a91702g2a8eg481fg80e9gb8e5a5086226" version="1">Meenlock Form</content>
+	<content contentuid="hdf13efa2g3dcbg4fcfga72ag89eabea570d1" version="1">Fey noises</content>
+	<content contentuid="h34fe7ddbgedbag49a5gbd05g9a91a6d0ecdc" version="1">Lash out with venomous claws at your target. </content>
+	<content contentuid="he6538252gc615g4c7cgbebfg0ef696e1ed6c" version="1">Fire Shield 2e</content>
+	<content contentuid="hacafa8d0g8dfcg48begbc54g0a48e0e74f81" version="1">You wreathe yourself in ghostly flames, reducing [1] taken. Additionally, adjacent creatures that hit you with a melee attack take [2] each time they do.</content>
+	<content contentuid="h11fc1b86gc2f9g412bg93d0g7fbe5cceff1d" version="1">Fire Shield</content>
+	<content contentuid="h47f0b118gb67eg49bfga694gf77d51366401" version="1">Reducing [1] taken and Reflecting [2] when attacked in melee.</content>
+	<content contentuid="ha5f063e1g5c5bg4d04gbcb8g34772341f628" version="1">Girzanje's March 2e</content>
+	<content contentuid="he70bc4c0gf881g46f8gb535g3058588b5593" version="1">You sing a prayer for war, inspiring valor in allies who hear your song. Allied creatures who can hear you gain a +[1] bonus to attack rolls, Constitution saves, and Wisdom saves.</content>
+	<content contentuid="hb67495c3gd668g4f95g9e46g994de333aefd" version="1">Girzanje's March</content>
+	<content contentuid="h86be7178g6c7bg4e4fg9a4bg76a9bfe0942f" version="1">Gain a +[1] bonus to attack rolls, Constitution saves, and Wisdom saves.</content>
+	<content contentuid="h0830e9beg6e27g4237gb6aagefc39a2f8fe6" version="1">Hydraulic Torrent 2e</content>
+	<content contentuid="hdcf1e243gde7cg4414g9352gd44c2f004146" version="1">A swirling torrent of water manifests along a straight line, battering creatures and unattended objects in its path and possibly pushing them away from you. The torrent deals [1]. Creatures and objects that fail the save are also knocked back [2].</content>
+	<content contentuid="h2315d71bgbf9eg4f2dg9e75ge9f71a51c556" version="1">Mercurial Stride 2e</content>
+	<content contentuid="h89791381g1364g4d73g8dcageb6340d515ac" version="1">Your form ripples as you take on the fluidity and toxicity of quicksilver. You partially shift into a liquid metal form and charge for up to [1]. Passing through a creature's space in this way exposes it to mercury poisoning, and creatures become sickened and take [2] on a failed Constitution saving throw.</content>
+	<content contentuid="h6af9cad8ga263g438ega892g12f1f4e32fb2" version="1">Sickened</content>
+	<content contentuid="heafdd320g910eg4a26gbb4cg0fd446296faf" version="1">Take a -[1] penalty to all attack rolls, saving throws, ability checks, and Spell Save DCs.</content>
+	<content contentuid="hd8746516g80d9g4a2cgb1afg03b1b8a3c531" version="1">Radiant Beam 2e</content>
+	<content contentuid="h2d0d47ddgaaeag4e33gb347gd389ba3a7bc0" version="1">You fire a beam of blinding light from your outstretched hands. The beam deals [1]. On a failed saving throw, a creature becomes dazzled for 4 rounds, or dazzled for 1 round on a success.</content>
+	<content contentuid="h9935cd06g3947g478fga2f6g18f85e141045" version="1">Soothing Spring 2e</content>
+	<content contentuid="hf750a96fgf29cg4776g8958ge2b5d069c0ac" version="1">A shower of restoring spring water gives those within the area the benefit of a short rest.</content>
+	<content contentuid="ha2183fcagdaf6g4cc2g977aga76d3a43d233" version="1">Weapon Storm 2e</content>
+	<content contentuid="h1c1dcd06g7c3cg48bag8bd6gf694cd8bec47" version="1">You swing a weapon you're holding, and the weapon magically multiplies into duplicates that swipe at all creatures in either a cone or an emanation, dealing [1] (twice your weapon's damage) on a failed Dexterity save, or half as much on a success.</content>
+	<content contentuid="h6338abf2gfdaeg4332gbeadg2c471ffdf454" version="1">Weapon Storm Cone</content>
+	<content contentuid="h9adff858g7e55g4c9cg9962gb3e720b4af05" version="1">Weapon Storm Burst</content>
+	<content contentuid="h10f6430agfe88g48b4gb3adg1720ac3b3ebd" version="1">Winning Streak 2e</content>
+	<content contentuid="hda3007c5g9970g4168g94ceg340e6319a9db" version="1">The target is energized by its good fortune as it spreads to others—as long as they keep winning. It is quickened for 1 round. If the target or one of their allies within 20 feet hits an attack roll, they are also quickened if they weren't already, and the duration of the winning streak is extended by another round.</content>
+	<content contentuid="h3b8957a0gb4cdg458cg990cg9486d4c84d04" version="1">Winning Streak</content>
+	<content contentuid="h08537958g253ag401eg9bf2g184b07b874ee" version="1">You are quickened, and allies within [1] of you who successfully land a hit also gains this aura.</content>
+	<content contentuid="hfad50531g4a36g423dgaff6gcc06e1614668" version="1">Stoneskin 2e</content>
+	<content contentuid="hdaf7199ag9d4dg472bg9f1eg0f176ed6605f" version="1">The target's skin hardens like stone. reducing physical damage by [1]. Each time the target is hit by a bludgeoning, piercing, or slashing attack, stoneskin's duration decreases by 5 turn.</content>
+	<content contentuid="h807bbc95g6e9eg48dcg9671g54c9c4bd0d45" version="1">Stoneskin</content>
+	<content contentuid="h5261efebg394bg4a4cga538g3ed41cb1a177" version="1">Reducing physical damage by [1]</content>
+	<content contentuid="ha7f0f2e0g55d9g4404ga38fg73dfd686efd4" version="1">Vital Beacon 2e</content>
+	<content contentuid="h2f4a9108gb598g4894gb304gb9a260d8fed7" version="1">Vitality radiates outward from you, allowing others to supplicate and receive healing. Once per round, either you or an ally can use an Interact action to supplicate and lay hands upon you to regain Hit Points.</content>
+	<content contentuid="h029c29ddg49e0g43ccg80f8gf032d171f281" version="1">Vital Beacon</content>
+	<content contentuid="h31587f06g585fg40f6g9d18g843aec8d782c" version="1">Allies can touch you to regain [1].</content>
+	<content contentuid="he9d12d5dgc32dg41c9g94b7gebb5a0e9143b" version="1">Vital Beacon Heal</content>
+	<content contentuid="h4d055c77g68e6g49c4g8c23g9b64a4b3e419" version="1">Touch ally with Vital Beacon to regain [1].</content>
+	<content contentuid="h6641f9a8g008bg44d3g935bgf6ce3c0075d5" version="1">Vital Beacon healing charge</content>
+	<content contentuid="h5a4cf921g8d36g414dg9eefg44afe3a14ccc" version="1">Heal your target with Vital Beacon</content>
+	<content contentuid="h464404c4g320fg4ab5g995ag298cd6c2a819" version="1">Zephyr Slip 2e</content>
+	<content contentuid="h25daf8f9gce61g42fbgb49cg48118f583454" version="1">An arresting breeze sweeps you up in an instant and moves you to safety. You Fly [1] directly away from the triggering creature.</content>
+	<content contentuid="h8cfb74e2gb38eg482cg998bg5bfc3803aa14" version="1">Aberrant Form 2e</content> ======================= 5th level ============================
+	<content contentuid="hde376fa5g491bg425dg9fa6g73969be94589" version="1">Turn into a Mindflayer or a Cloaker</content>
+	<content contentuid="h8455f9ffg536cg40bfga983g220926421694" version="1">Mind Flayer Form</content>
+	<content contentuid="h833d6937g09b6g4cd1g98cbg5ba5db432a3e" version="1">Cloaker Form</content>
+	<content contentuid="h61c6039ag6f23g4846g91e5gad7fbc0d9837" version="1">Belittling Boast 2e</content>
+	<content contentuid="h8366f454gc087g451bg88acg5954e8185189" version="1">You boast about your skills or combat prowess, bolstering your own abilities and belittling your opponents. Attempt to Demoralize all enemies within 30 feet. Each creature that becomes frightened by it additionally takes a –[1] circumstance penalty to the attack rolls for 1 minute. If at least one creature becomes frightened, you gain a +[1] bonus to the attack rolls for each frightened creature for 1 minute.</content>
+	<content contentuid="h28e582b0gd255g4cfagbdb6gd0371f8f03c1" version="1">Boasted</content>
+	<content contentuid="h3dfd78dbg1f88g4930gad0fg8dd9ee1cbe43" version="1">You gain a +[1] bonus to attack rolls.</content>
+	<content contentuid="h2353c60agfb10g44d3ga0bbgee42c3a69180" version="1">Blazing Fissure 2e</content>
+	<content contentuid="h6e5d1498g9cd5g41d7g8ba5ge39406da2069" version="1">A thin crack rips through the earth, erupting with magma, then swiftly seals up. Each creature along the line and on solid ground takes [1] and [2].</content>
+	<content contentuid="h9971defbg785bg4045gb8bfg51152172e381" version="1">Blink Charge 2e</content>
+	<content contentuid="h379126bdg2135g48bbg9300g15b79f06d342" version="1">You propel yourself through the fabric of space to deal a blow carrying the momentum of your teleportation. You teleport to an empty space adjacent to a creature you can see within range, then make a Strike against the creature with a weapon you're wielding. The Strike deal [1] and an extra [2].</content>
+	<content contentuid="hbdd6e157gefb4g44a6ga86bg969caa638a8e" version="1">Blister 2e</content>
+	<content contentuid="hacff2167g1f2ag4a86g882cg2d591606504c" version="1">You point at a target in range, and its skin grows searing blisters filled with caustic fluid. As a Bonus action, to pop a blister, dealing [1] in a [2] around the target. The target grows 2 blisters on a failed save or 1 on a success.</content>
+	<content contentuid="h86e01b85g120dg42afga228g72dbe466fbba" version="1">Blood Feast 2e</content>
+	<content contentuid="h5d41efefg4d6bg4f4ega417g3e1ebdf33c0e" version="1">Your head splits vertically into an enormous maw, which feasts upon the target's blood, dealing [1]. After the spell, your head sews back together as if it had never split apart. You regain Hit Points equal to half piercing damage the target takes.</content>
+	<content contentuid="h2c9aed47g3e5eg47f9g9b5bgef02eb674444" version="1">Breath of Life 2e</content>
+	<content contentuid="h96c075f8gc480g436fgac45ga67d006f7f3e" version="1">Your blessing revives a creature at the moment of its death. You prevent the target from dying and restore Hit Points to the target for [1].</content>
+	<content contentuid="hda8d59a0g37cdg40aagaf3dg300679bc906a" version="1">Cone of Cold 2e</content>
+	<content contentuid="h946913d6ga3c0g4e94g8a3dg32aa0f2e7ddd" version="1">Icy cold rushes forth from your hands. You deal [1] to creatures in the area.</content>
+	<content contentuid="hb91395e6g05dcg4681gbd6agc6a41c26c97d" version="1">Crushing Despair 2e</content>
+	<content contentuid="h1e9071ceg0c04g4631gafb6ga48676e49ff1" version="1">You inflict despair on creatures in the area, slowing them.</content>
+	<content contentuid="h688f358ege36cg445egad3eg2d2373b2dadf" version="1">Slowed</content>
+	<content contentuid="h8cda9d2ag5ac7g44eeg9231g0330c91e5655" version="1">Can't take bonus actions or reactions, have movement speed halved.</content>
+	<content contentuid="h6377379dg53b9g45fcg9d36gaf345db7fa23" version="1">Can't take actions or reactions, have movement speed quartered.</content>
+	<content contentuid="h4e0a8258g46a2g4ec9g9a30gc6cba250a662" version="1">Can't take actions, bonus actions, or reactions, can not move.</content>
+	<content contentuid="h20ac47e8gd3d5g40ceg9b39g0383f9f1b9d6" version="1">Death Ward 2e</content>
+	<content contentuid="hfdbbee7dgc544g4948gbeacgcccffd84b813" version="1">You shield a creature from the ravages of negative energy. It receives a +4 bonus to saves against death and negative effects, reducing [1] taken.</content>
+	<content contentuid="h3f0dad4bg7725g4cd2g82c3gea2ee94a5934" version="1">Warded from Death</content>
+	<content contentuid="h200edbcbgabbfg486dg8319g71d980fada55" version="1">you gain a +4 bonus to death saving throws and reduce [1] taken.</content>
+	<content contentuid="h3dc736bdg7f87g4a47gb74bg292c9de89799" version="1">Forceful Hand 2e</content>
+	<content contentuid="hd721eeeegc71fg4dacga0e6g648cecd14e21" version="1">Create a combat capable hand made out of force.</content>
+	<content contentuid="hfdc595f0g0795g454dg8228ge4931e944216" version="1">Lightning Storm 2e</content>
+	<content contentuid="h661507f4g1facg4bfbg859cg638377e1cc7d" version="1">You create a black, rumbling storm cloud and call down one lightning bolt within the spell's area. The bolt is a vertical line from the top of the storm cloud to the ground below, dealing [1] to creatures in the area. On subsequent rounds, you use a bonus action to call down another lightning bolt within the area.</content>
+	<content contentuid="h2ffd8f68g5588g4acaga777gf3a812a81441" version="1">Call Lightning Bolt</content>
+	<content contentuid="h7304fa4eg3014g4ae7gabd2g2e78323461cd" version="1">Call down a lightning bolt dealing [1].</content>
+	<content contentuid="he0aa5ce3gc284g4a22ga549gf7521f0f4d20" version="1">Plant Form 2e</content>
+	<content contentuid="hf1505e5cg1dd0g4421g95e0g9479b8de26ba" version="1">Turn into a Wood Woad</content>
+	<content contentuid="h229e8ae7g4208g4f74gafc0gb76a2ad81c36" version="1">Repelling Pulse 2e</content>
+	<content contentuid="h6c71c5c8ga088g43d9g8d0agede2d158d5d2" version="1">You unleash a powerful pulse of telekinetic power, and the pulse violently hurls creatures away from you. Each creature in the area takes [1] and are pushed [2] away from you.</content>
+	<content contentuid="hf698a5fegf02fg4620gbe28gf74cd8ad8b00" version="1">Scouring Pulse 2e</content>
+	<content contentuid="hafd36da6g277cg4898gb2a2g9c0223c624c6" version="1">You inundate the area with concentrated positive energy, which scours away the stain of undeath. Each creature in the area takes [1]. Creatures that fail the save also take [2] each turn. Creatures that take persistent radiant damage from scouring pulse are wreathed in a heatless halo of light. They emit bright light in a 5-foot radius preventing them from becoming invisible.</content>
+	<content contentuid="h732c9dcfg4c6eg49e6gb814gbf7d9b88c594" version="1">Scouring Flame</content>
+	<content contentuid="h03da8006gd6b0g4a26g8cc2g05b4997dbe99" version="1">Taking [1] each turn and can not turn invisible</content>
+	<content contentuid="h4e0ea270ga503g4378gabf6g0d6cf99514ee" version="1">Storm Burst 2e</content>
+	<content contentuid="h17e33d8ega822g461cg9b0fg16b5677b909f" version="1">Your voice projects like cracking thunder as you summon a localized storm, creating a fearsome surge of lightning and wind that deals [1] and pushes creatures within [2] away from the center of the burst. Creatures who failed the save is also stunned.</content>
+	<content contentuid="h596592bfgfd36g4e96g89fagb0063db4ceea" version="1">Synaptic Pulse</content>
+	<content contentuid="h6d7b2243gb04ag4072gab24ge19f5c5a1314" version="1">You emit a pulsating mental blast that penetrates the minds of all enemies in the area, stunning them.</content>
+	<content contentuid="h16624fd7g0ec0g41f4g86b8g574ab0f3d951" version="1">Elemental Form 2e</content>
+	<content contentuid="h0ff32883g7416g479cgaf78g9aef87b6668e" version="1">Elemental Form: Fire</content>
+	<content contentuid="hb4d680bfge5a7g43b0g92abg87946cf93383" version="1">Elemental Form: Air</content>
+	<content contentuid="h2f0f1a6eg35d9g48ddg9e31g5590d8c1d08f" version="1">Elemental Form: Earth</content>
+	<content contentuid="h350792ceg6f86g4237g9e03gbea231299828" version="1">Elemental Form: Water</content>
+	<content contentuid="h0c65d634g1cbcg42aegaf47g12dfdfdb14c1" version="1">Turn into an elemental</content>
+	<content contentuid="h8379d600gf14dg464eg9d83g8c7ba6b38a1c" version="1">Flame Dancer</content>
+	<content contentuid="h5fa38ab2gecfcg47deg94d7gbfb28648c74a" version="1">Fire encircles the target's hands and feet, and its eyes and hair catch ablaze. The target's unarmed Strikes deal an additional [1]. Critical hits with these Strikes also deal [2] each turn. Additionally, when the target attempts to Demoralize a foe, they can use Performance instead of Intimidation.</content>
+	<content contentuid="h4791718eg5107g4210gacb1gba2005d4efb6" version="1">Flame Dancing</content>
+	<content contentuid="h1ca27513ge48eg49b8ga892gd2dd09f37fe4" version="1">Deal an additional [1] with unarmed strikes, and [2] each turn on critical hits.</content>
+	<content contentuid="h7969f706g9f62g4c7bg8818gaa23fb439a85" version="1">Blanket of Stars 2e</content> ======================= 6th level ============================
+	<content contentuid="hf7c5b2f8g9546g4acdgb8abg1839111e9be3" version="1">A flowing cloak of utter darkness drapes over you, filled with pinpricks of light like distant stars. It imparts the stillness of the cosmos to you, granting you greater Invisibility. For the duration of the spell, you may cast Magic Missile at 3rd level once per turn.</content>
+	<content contentuid="hcf220e48g31c0g4bb6g956bgd4fd3e31a6cc" version="1">Blanket of Stars</content>
+	<content contentuid="h21eb331agf2f2g4729g92afgf32aa199fdfe" version="1">Greater Invisibility and can cast magic missile at 3rd level on each of your turns.</content>
+	<content contentuid="h357776f7g2e15g4971g9a85g8fc209c8ef3e" version="1">Cast into Time 2e</content>
+	<content contentuid="h5f033436gdbe5g4ebcgbb34g07a3142e6171" version="1">You release a wave of temporal energy that sends creatures violently tumbling through time, scarring their thoughts with the information flowing around them. Although the journey can feel like it lasts for minutes or even days, the targets reappear almost instantly. Witnessing this chaotic flow of time and being bashed against objects from different times deals the targets [1] and [2]. A creature that falls into time disappears until the end of your turn.</content>
+	<content contentuid="hf3884c73g8ec4g4b01g8a1cg669f4ae469a3" version="1">Casted into Time</content>
+	<content contentuid="h845cde71g3181g4341g8c6eg4a9c8f69f74d" version="1">casted into time, taking [1] and [2] upon returning</content>
+	<content contentuid="h273099c0g04f5g497bg9e10ge6895307f9cb" version="1">casted into time, taking [1] and [2] upon returning, and becomed sickened</content>
+	<content contentuid="hbebad1d4ge35dg4a57g8e3eg1450f9b2655a" version="1">Chain Lightning 2e</content>
+	<content contentuid="h62745af8g6310g486fgbfd3g91d4bf2948b0" version="1">You discharge a powerful bolt of lightning at the target, dealing [1]. The lightning arcs to another hostile creature within [2] of the first target, jumps to another hostile creature within [2] of that target, and so on until there are no new targets.</content>
+	<content contentuid="h180e6004gb949g4870gacb6g260acc232ac1" version="1">Devil Form 2e</content>
+	<content contentuid="h0d3c6180g56e6g4168gba4fg2b921d582eb9" version="1">Turn into a cambion</content>
+	<content contentuid="h40b319abg173bg4c50gb45bg39a0c576e487" version="1">Elemental Confluence 2e</content>
+	<content contentuid="h3b6ce149g01f9g4f48gbd6fg097e79232e7c" version="1">You conjure four types of elementals who combine forces to form into a chaotic storm.</content>
+	<content contentuid="h4a32574fgc9eeg4756gba37g8f188c58abbb" version="1">Switch Element</content>
+	<content contentuid="he4df03ecg377fg4a51g9cf4gbda0668dad24" version="1">Necrotize 2e</content>
+	<content contentuid="h661a9b86gc3c2g4b5fg82f0g917ccb5575cf" version="1">You necrotize part of a creature's body, harming it and debilitating it as its body putrefies, mimicking the natural process of decay. The target takes [1] and one of the debilitations.</content>
+	<content contentuid="h33cae15bg0d83g447fg9b70ge8a99133c93a" version="1">Necrotize Bones</content>
+	<content contentuid="h41f93f76gf0a8g404ag87d7g23a261aaaeaa" version="1">Your target have vulnerability to bludgeoning damage as its bones become brittle</content>
+	<content contentuid="h7aa200b1g5208g4a93gade0g60bb26a3814c" version="1">Necrotize Joints</content>
+	<content contentuid="h6446d56eg1be2g408cgb274g33b9c3cc9880" version="1">Your target become clumsy [1] as its joints become stiff</content>
+	<content contentuid="h7c8c5c39g87c6g47c5gbde1ga11944a023c7" version="1">Necrotize Legs</content>
+	<content contentuid="ha49ab803g8142g4db9gbf30g21dcf604a53d" version="1">Your target's speed is reduced by 20ft as its legs breaks apart</content>
+	<content contentuid="h10ab93aag3795g4131gbca5g654f1a28c078" version="1">Necrotize Muscles</content>
+	<content contentuid="hf90ad19dga894g41cbg8385g27fa1ffb1807" version="1">Your target's becomes enfeebled [1] as its muscles starts to rot</content>
+	<content contentuid="h446084ffg7773g4653ga2d9g005a62d8537c" version="1">Phantom Orchestra 2e</content>
+	<content contentuid="h4c153880g8c18g42d9gaab5g71b37d833e82" version="1">You orchestrate an invisible ensemble of lost sounds captured inside errant breezes across the Plane of Air, and you can direct this symphony to attack foes within range. When you Cast the Spell, a captured breath of ephemeral music explodes in a great crescendo, appearing in a space you choose within range, dealing [1] and deafens creature within. As a bonus action after you cast the spell until the spell ends, you can create another explosion of music.</content>
+	<content contentuid="h88e2a04cg2227g46b6ga7d2g240fd0ae2fdc" version="1">Repulsion 2e</content>
+	<content contentuid="h1189af7bg2b68g4f88g845ag2b342f170b8c" version="1">You manifest an aura that prevents hostile creatures from approaching within up to [1] of you.</content>
+	<content contentuid="hf77a5cb7g4d70g46fdgb64cg6c8b91b2192b" version="1">Repulsed</content>
+	<content contentuid="h9ae6836cg4763g4fb1gb0aag8f79355ad0f3" version="1">Cannot Move</content>
+	<content contentuid="h212d2bebg7498g4d4fgb0b2g40ec15f34f6a" version="1">Repulsed Saved</content>
+	<content contentuid="hfbcf9ce7gcdf1g459fg9a2ag8f54f4f7dae0" version="1">Movement speed halved</content>
+	<content contentuid="hd7f31bceg1ad2g494fga6e8g2f3064961364" version="1">Repulsion - 40ft</content>
+	<content contentuid="ha49c625fg67bbg4e71g889fgcb9665b44c55" version="1">Repulsion - 30ft</content>
+	<content contentuid="h564e8422g70f6g40e9g9429g043c8de7cb44" version="1">Repulsion - 20ft</content>
+	<content contentuid="hd71ea00bgd4aeg4191gb03bg84ba3941f188" version="1">Repulsion - 10ft</content>
+	<content contentuid="h89f5e489ga522g4750g9358ged5afdbd87c7" version="1">Spellwrack 2e</content>
+	<content contentuid="h0812b064g63efg40d2gb664g35d71123abd7" version="1">You cause any spells cast on the target to spill out their energy in harmful surges. Target creature become vulnerable to spells and take [1] each turn when damaged by a spell.</content>
+	<content contentuid="h5b05a268gb54dg4f48g8c00g2d390c9a2b0e" version="1">Spellwracked</content>
+	<content contentuid="h651b7dcdg3e30g4be4g8428g721c79f4ac9b" version="1">Any spell that damages you causes you to take [1] each turn</content>
+	<content contentuid="h08b83ed7gc308g4ec5ga128g4524b38532f8" version="1">Spellwracked Persistent Damage</content>
+	<content contentuid="hbbe529e3g1cfbg497egbf88ge602dcfaf0e3" version="1">Taking [1] each turn</content>
+	<content contentuid="hf5059938g59b3g48a8g8bd3gdb0e56b23111" version="1">Righteous Might 2e</content>
+	<content contentuid="h44754cccg5cb2g427fgb3c1g917a3d51c511" version="1">Summon a Divine Armament into your hand</content>
+	<content contentuid="hc2b4571cg36efg4731gbe76g2dd451fdcda8" version="1">Righteous Might</content>
+	<content contentuid="h4ae97cb6gc677g48begac10gd6e4e672194a" version="1">Divine Armament</content>
+	<content contentuid="h1f1912f7g6bdeg4ff3g9c5ag6ccbbf4430a6" version="1">You [1] less physical damaage, an additional [2] of movement, your AC becomes [3]+Dexterity, and you gain expertise in Athletics.</content>
+	<content contentuid="hc00dfb6dgc5b9g4d52g819bgf2ecd44bf5c7" version="1">Dismiss Righteous Might</content>
+	<content contentuid="h14aca66ag20dfg4f2eg8064ga546b846ee45" version="1">Angel Form 2e</content> ======================= 7th level ============================
+	<content contentuid="h3fcdb7ffg9eadg438bg9773g5e566443df2c" version="1">Turn into an Angel</content>
+	<content contentuid="h2bedf8ffg0d9dg42b5g94d2gb1e30159c4e8" version="1">Angelic Greatsword</content>
+	<content contentuid="h1caee296g7a61g47bdgb451gc7a312571672" version="1">Angelic Greatsword</content>
+	<content contentuid="hbb7dc685gd2a2g4fe7gb23dgdca1505d4606" version="1">Corrosive Body 2e</content>
+	<content contentuid="ha79f73a1ge275g441fga192g4393ea9d1d08" version="1">You exhale corrosive gas, and acidic secretions coat your skin as you transform into a being of living acid.</content>
+	<content contentuid="h857604dag5a3cg4964g9d42g7605f8f41fa3" version="1">Cosmic Form 2e</content>
+	<content contentuid="h44821b9egb91cg4450g96dcg1019ca9c9237" version="1">Transform into a large cosmic being</content>
+	<content contentuid="had104b74gcc69g4a5cga584g22e3daf28a49" version="1">Cosmic Form Sun</content>
+	<content contentuid="h2d8f16c2g72f3g47b9g845dgea08fc9d9a40" version="1">Transform into an avatar of the Sun</content>
+	<content contentuid="h8a722232gec95g45dbgb79agd3e7013b568a" version="1">Cosmic Form Moon</content>
+	<content contentuid="h0ba263fdg6c2cg48d2g9604g7d15a8cb4ec5" version="1">Transform into an avatar of the Moon</content>
+	<content contentuid="h6b7d00d8g22f3g4a27gb3a8g32741d22e0ed" version="1">Eclipse Burst 2e</content>
+	<content contentuid="h2f918d78g7f72g448eg80degbad0e2fa72b7" version="1">A globe of freezing darkness explodes in the area, dealing [1] to creatures in the area, plus [2] to living creatures. The area then is covered in a shroud of darkness.</content>
+	<content contentuid="hbb9b842cg89e9g4c5ag8556gefe12b264b69" version="1">Energy Aegis 2e</content>
+	<content contentuid="h0b213dc8g838bg4869g9165gb879613278a3" version="1">You take [1] reduced elemental, force, necrotic, and radiant damage.</content>
+	<content contentuid="h51070eb0g205eg4165g9aa8g511c46c70b38" version="1">Entrancing Eyes</content>
+	<content contentuid="h4e839cfdga83eg426dg8aa3g6332b46ddf37" version="1">Your eyes glow with an entrancing radiance that captivates those who meet your gaze. Creatures within 9m of you become Stupified on a failed Intelligence Saving throw.</content>
+	<content contentuid="h408379bag310eg48bdg9cd4gf352a664d30b" version="1">Entracing Eye - Stare</content>
+	<content contentuid="ha6ab99feg5cb6g411dga088g9b5441e699db" version="1">You focus your gaze on a creature, and they must make an Intelligence saving throw as if they are within 9m of you. If your target is already Stupified, they are instead Paralyzed.</content>
+	<content contentuid="h46b314fagb02cg4b9bgb271gf11d0c6d5f82" version="1">Moonburst 2e</content>
+	<content contentuid="h23d96bbfg12bbg4102g93bcg3b349b4a937f" version="1">A powerful globe of chilling moonlight explodes in the area, dealing [1] to creatures and objects in the area, plus [2] to undead creatures.</content>
+	<content contentuid="hfda82edcg3a4cg4adbga720g874aef229862" version="1">Prismatic Armor 2e</content>
+	<content contentuid="h7ba5ad28gef4bg4f9bg9867gec9a85686bf6" version="1">You wrap the target in armor made of multicolored light. Acting as an energy Aegis for the duration. Attackers are dazzled on a successful Constitution saving throw or blinded on a failed one.</content>
+	<content contentuid="h7dc1a234g64b8g41efg9601ge253e8139989" version="1">Regenerate 2e</content>
+	<content contentuid="ha8fadb1cg9058g4978gb002g05ddb7a38a80" version="1">An infusion of positive energy grants a creature continuous healing. The target restores [1] to it at the start of each of its turns. While it has regeneration, the target can't die from damage. If the target takes acid or fire damage, its regeneration deactivates until after the end of its next turn.</content>
+	<content contentuid="h4a7f5c2bg6eadg4cd0gb622gbd0147e0d2d1" version="1">Shock to the System 2e</content>
+	<content contentuid="h8182a3adg020ag4c2dg9759g1cf5951f78f7" version="1">A dense lightning cloud descends to fill the target's space, then fires a jolt of revitalizing lightning into the target. The target comes back to life if it is dead, regain 8d8 hit points and become quickened for 1 minute.</content>
+	<content contentuid="hb8ff0733g8285g4e35g8f34g8a417f947c86" version="1">Thundering Strike - Shock to the System</content>
+	<content contentuid="h48ee3c86gd02eg47aegaaccgea04ad238958" version="1">You swing your massive weapon, creating a wave of sonic vibrations that topples creatures.</content>
+	<content contentuid="hab833f47g6218g408fgb0c6g40321334b65c" version="1">Shock to the System</content>
+	<content contentuid="h1c2f72b4g233dg4becga9e3g442a1d9374d9" version="1">You can cast Thundering Strike.</content>
+	<content contentuid="hf263d2a3g3dbdg47e4g9f3cg38445c6c91c0" version="1">True Target 2e</content>
+	<content contentuid="hac10457bg140ag472ega66dge7bc8a497a63" version="1">You delve into the possible futures of the next few seconds to understand all the ways your foe might avoid harm, then cast out a vision of that future to those around you. Attacks against target creature have advantage, and are considered critical hits on hit.</content>
+	<content contentuid="hdcbdb4f1g6dc3g4162gb9d5gd8f94d1cb199" version="1">Hypnotic Terror 2e</content> ================ 8th LEVEL ================
+	<content contentuid="he5e29b79ga1a6g48c3g8b04g3daf4cc5cd93" version="1">You send a wave of nightmarish visions crashing over your targets, leaving them paralyzed by fear. These visions inflict real wounds on vulnerable targets, dealing [1].</content>
+	<content contentuid="hb083f29bge0aeg4055g9ac7gbd90e7200d24" version="1">Maze 2e</content>
+	<content contentuid="hce8c8df1g65ddg4c8fg97bbg3b953a78f77b" version="1">You transport the target into an extradimensional maze of eldritch origin and trap it there. Once each turn, the target can spend 1 action to attempt a Survival check or Perception check against your spell DC to escape the maze.</content>
+	<content contentuid="h6ee65becga462g4629ga5d8g345ccdcc36b5" version="1">Maze - Trapped</content>
+	<content contentuid="h0968372bg2a0bg4e5eg8326g788a56b6f742" version="1">Trapped in the maze, can find the right path on a successful survival check.</content>
+	<content contentuid="he9b2f69ag08aag47b7g8161gf60f1cbea08e" version="1">Maze - On Right Track</content>
+	<content contentuid="h40d54bebgf71dg4812g8f25g0335f9e779a7" version="1">On the right path to escape the maze, can escape on a successful survival check, or lose the right track on a failure.</content>
+	<content contentuid="hcb55beaeg7dcdg4f79gb781g33bfbb00730d" version="1">Maze - Technical.</content>
+	<content contentuid="h66c391f9g1cdcg4b66gada2geabfffb32941" version="1">In a maze.</content>
+	<content contentuid="h25507e3fgdff9g4bf3gb9dcgc3020d765ebc" version="1">Moment of Renewal 2e</content>
+	<content contentuid="h55c36050gdba0g40f8g87fbg993181119aa1" version="1">The targets experience a day's worth of recovery in an instant. You do not restore spell slots above 3rd level.</content>
+	<content contentuid="hebffa62cg9e55g4610g9515gbc3c2133cccb" version="1">Monstrosity Form 2e</content>
+	<content contentuid="hcfbe7ccagf075g4e24g897fge981917642fd" version="1">Turn into a Bulette or a Hook Horror</content>
+	<content contentuid="he1e72295gfdb2g4110gb5a3gebcc9f5accbd" version="1">Bulette Form</content>
+	<content contentuid="h27e3591dg0757g4636gab12gb0c5180d8e0e" version="1">Change into a Bulette</content>
+	<content contentuid="h83519b3fg0162g4934ga16dgf1e6cdaf44c2" version="1">Poor Ruos</content>
+	<content contentuid="h4edd7d12g4bd4g4e7ag9628g859be17d7b16" version="1">Hook Horror</content>
+	<content contentuid="h6e1fa53dg6cdcg4a25g9062g31dcb997e11a" version="1">Calling Reinforcement</content>
+	<content contentuid="hb429e02dgc246g43a4gbda9g848b2dc18052" version="1">Change into a Hook Horror</content>
+	<content contentuid="hd144d45dg546bg45f7gb66dgf3b3175d467a" version="1">Polar Ray 2e</content>
+	<content contentuid="hcff2b870gcc3eg42e4gb615gc26ad4e3f1a0" version="1">You fire a blue-white ray of freezing air and sleet that deals [1] and drains the target.</content>
+	<content contentuid="h3d6be66fg7894g4be5ga082g23a65796ae3f" version="1">Drained</content>
+	<content contentuid="h3176f31dga360g4f71g821eg5579de3d39b1" version="1">Constitution reduced by [1].</content>
+	<content contentuid="h3bfa771eg7d43g4d47gb6cfg03d4b77c2716" version="1">Summon Archmage 2e</content>
+	<content contentuid="h099cd4cbgc17fg499cgac86gb5156c072f8f" version="1">You briefly call forth the spirit of a legendary wizard from ages long past</content>
+	<content contentuid="h365905cegb489g4f30g8826ged1b5dbee33c" version="1">Summon Irii</content>
+	<content contentuid="h4d3e045eg8206g4d86ga95cg4e6012dff0d0" version="1">You briefly call forth the spirit of Fate or Fortune.</content>
+	<content contentuid="h2f6fee29g4101g462eg928bg7ec1ef12c0b4" version="1">Aura of Fate</content>
+	<content contentuid="h9d64c8aegbc64g4c3fg81f9g932809a8814d" version="1">Project an Aura of Fate to friends and foe within 9m</content>
+	<content contentuid="hbde37647g8218g4e90gb883g02ca70ed4bd5" version="1">You can not roll lower than a 10 for attack rolls, saving throws, and skill checks.</content>
+	<content contentuid="h5c589ac4g46e6g45c1gaf95gb60cb5d526a1" version="1">You take a -3 penalty to all attack rolls, saving throws, and skill checks. (the average result of this is the same as treating rolling 10 or above as a 10)</content>
+	<content contentuid="h016bf6e2gffffg44eag9e29g10a96788a5bb" version="1">Aura of Fortune</content>
+	<content contentuid="h5bb14a23gfac5g41d2ga901g36a8fc8231c6" version="1">Project an Aura of Fortune to friends and foe within 9m</content>
+	<content contentuid="h9cf02a88g098ag412dgbf13gf61a95a7c4ed" version="1">You have advantage on all Attack rolls, saving throws and skill checks.</content>
+	<content contentuid="he13aaa8cg09a6g4280ga7ecg3b76e6dea5b2" version="1">You have disadvantage on all Attack rolls, saving throws and skill checks</content>
+	<content contentuid="hf817c113g86d1g47c2gbd81gcf9fd21c8e5e" version="1">Summon Irii - Fate</content>
+	<content contentuid="h2bfc7d25g6e0eg4799gaeacg0d929df487fe" version="1">Summon a spirit of Fate. Allies within 9m treat attack rolls, saving throws, and skill checks below a 10 as a 10, and enemies treat 10 or above as a 10 (this equivalent as a -3).</content>
+	<content contentuid="h7128de4ag14ebg49f2g9eb4gffe9b6390cb8" version="1">Summon Irii - Fortune</content>
+	<content contentuid="h60b15f8cgac97g4c5ag8544gabfa71972874" version="1">Summon a spirit fo Fortune. Allies within 9m have advantage on attack rolls, saving throws, and skill checks, and enemies have disadvantage.</content>
+	<content contentuid="h86f43617gf156g49c3g91efgf31e376c0ba5" version="1">Summon Diefic Herald 2e</content>
+	<content contentuid="h04df7954gf1d4g4200ga3e7g540bb253b971" version="1">Your faith is strong enough to briefly summon a direct representative of your deity, such as the deity's herald. The effect of the spell will be determined by your diety's alignment.</content>
+	<content contentuid="h00212c9dg16bbg4754g90ccg1967e8d247e0" version="1">Diefic Herald - Good</content>
+	<content contentuid="h9127719agd690g487cg8a2fge9e341324ea5" version="1">Allies within 9m gain the reaction Retributive Strike</content>
+	<content contentuid="h8743d21cg4958g4b4fgbfabgb478ff68bfc9" version="1">You gain the reaction Retributive Strike</content>
+	<content contentuid="h9117330dg8844g42bbgbf89g3553ab6cc6ab" version="1">Diefic Herald - Netrual</content>
+	<content contentuid="hf45c5a33gde89g4bcfg9eeagf6db5f1aa4b5" version="1">Allies within 9m are quickened and take 20 reduced Necrotic and Radiant damage.</content>
+	<content contentuid="h60ec2dbcg3df6g4c3fg9df6gd7555c2c0082" version="1">You are quickened and take 20 reduced Necrotic and Radiant damage.</content>
+	<content contentuid="habce79bbg9d59g46b9g98e1g7e8ee615a56b" version="1">Diefic Herald - Evil</content>
+	<content contentuid="h04569cc2gbff7g4f44ga60eg763d88ce13a7" version="1">Allies within 9m gain the reaction Iron Command</content>
+	<content contentuid="ha32fe05fg758cg4f06g91fag52ca8e1ea8bf" version="1">You gain the reaction Iron Command</content>
+	<content contentuid="hc9f2a84fg4ad4g4205g91f8g48ef78fb2ee2" version="1">Retributive Strike</content>
+	<content contentuid="h842aa98egdd5fg4b47g947fg845a16b1a6a1" version="1">You protect your ally and strike your foe. The ally gains resistance to all damage against the triggering damage and you may make a melee Strike against the foe.</content>
+	<content contentuid="h9b25fd96g20cag4bc7ga8b0gebfb9f44113e" version="1">Iron Command</content>
+	<content contentuid="h9efcd893gcfffg4e3fgb5f3gdc6060df110c" version="1">You put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience.</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+</contentList>

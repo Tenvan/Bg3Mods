@@ -16,7 +16,7 @@
   <content contentuid="h3ca39abdg7e91g48bag8a4cg1f047f57d1ad" version="1">Ein Schild aus magischer Kraft blockt Angriffe ab und erhöht Eure AK um [1]. Während der Schild aktiv ist, kannst du eine Reaktion einsetzen, um den erlittenen Schaden um [2] zu verringern und danach den Schild zu verlieren. Es kann sein, dass du bis zum nächsten Kampf nicht mehr von diesem Zauber profitierst.</content>
   <content contentuid="hf750a96fgf29cg4776g8958ge2b5d069c0ac" version="1">Eine Dusche mit regenerierendem Quellwasser bietet den Bewohnern der Umgebung eine kurze Pause.</content>
   <content contentuid="h7aedad8cg9298g4d4cgb4ccgd76b6745a500" version="1">Ein Energieschub befreit eine gelähmte Kreatur, das Ziel wird für die nächste Minute immun gegen Lähmung</content>
-  <content contentuid="hdcf1e243gde7cg4414g9352gd44c2f004146" version="1">Ein wirbelnder Wasserstrom manifestiert sich entlang einer geraden Linie, schlägt Kreaturen und unbeaufsichtigte Objekte auf seinem Weg und stößt sie möglicherweise von dir weg. Der Torrent handelt [1]. Kreaturen und Objekte, die beim Speichern fehlschlagen, werden ebenfalls zurückgestoßen [2].</content>
+  <content contentuid="hdcf1e243gde7cg4414g9352gd44c2f004146" version="1">Ein wirbelnder Strom aus Wasser manifestiert sich entlang einer geraden Linie, der Kreaturen und unbeaufsichtigte Objekte in seinem Weg zerschlägt und sie möglicherweise von dir wegstößt. Der Sturzbach verursacht [1]. Kreaturen und Gegenstände, die den Schutz nicht bestehen, werden außerdem um [2] zurückgeworfen.</content>
   <content contentuid="h6e5d1498g9cd5g41d7g8ba5ge39406da2069" version="1">Ein dünner Riss reißt durch die Erde, bricht mit Magma aus und versiegelt sich dann schnell. Jede Kreatur entlang der Linie und auf festem Boden nimmt [1] und [2].</content>
   <content contentuid="h8cfb74e2gb38eg482cg998bg5bfc3803aa14" version="1">Abweichende Form 2e</content>
   <content contentuid="h7c4088a8gdc01g49fbg9b8cg4b6a496920a3" version="1">AC um 2 reduziert</content>
@@ -25,10 +25,10 @@
   <content contentuid="h0f438b86g1accg45adg882bg3e50efa6face" version="1">Aktion zu Bonusaktionen 2e</content>
   <content contentuid="h60384cefgf4a5g4314g86b4g3f26a750f88a" version="1">Füge deinen Zaubermodifikator dem Überzeugungswurf deines Ziels für den Tag hinzu</content>
   <content contentuid="h4cbbcf43g245fg44c4gb318g5a4555b32318" version="1">Ermahnender Strahl 2e</content>
-  <content contentuid="hd244c789g15a5g4a6cga82eg407e17b1eaab" version="1">Aerail-Formular</content>
-  <content contentuid="hd1c35765g170bg40e8ga9e4gabfadf9efb56" version="1">Antenne Form 2e</content>
-  <content contentuid="h163972a4g1766g4a6eg9d3dgc98d1a9ee221" version="1">Schütteln 2e</content>
-  <content contentuid="h3f881908gbccbg455bg9700ga74b233e28f2" version="1">Aufgeregt</content>
+  <content contentuid="hd244c789g15a5g4a6cga82eg407e17b1eaab" version="1">Luftform</content>
+  <content contentuid="hd1c35765g170bg40e8ga9e4gabfadf9efb56" version="1">Luftform 2e</content>
+  <content contentuid="h163972a4g1766g4a6eg9d3dgc98d1a9ee221" version="1">Aufgewühlt 2e</content>
+  <content contentuid="h3f881908gbccbg455bg9700ga74b233e28f2" version="1">Aufgewühlt</content>
   <content contentuid="h1a8609a8gf1a8g463fga547ge17bb19e6091" version="1">Qualvolle Verzweiflung 2e</content>
   <content contentuid="hf56915a6ge344g4f61gaa78g7b6155eb679e" version="1">Luftstoß 2e</content>
   <content contentuid="h31587f06g585fg40f6g9d18g843aec8d782c" version="1">Verbündete können dich berühren, um dich wiederzuerlangen [1].</content>
@@ -41,44 +41,44 @@
   <content contentuid="h14aca66ag20dfg4f2eg8064ga546b846ee45" version="1">Engel Form 2e</content>
   <content contentuid="h2bedf8ffg0d9dg42b5g94d2gb1e30159c4e8" version="1">Engelhaftes Großschwert</content>
   <content contentuid="h1caee296g7a61g47bdgb451gc7a312571672" version="1">Engelhaftes Großschwert</content>
-  <content contentuid="hcfeed51dg43f3g4f02gb4b0g6bfbc5c0267c" version="1">Vorschussgefahr 2e</content>
-  <content contentuid="h1556ab88ge444g42c2gb9f8g5877af917ad7" version="1">Gefahren antizipieren</content>
+  <content contentuid="hcfeed51dg43f3g4f02gb4b0g6bfbc5c0267c" version="1">Vorausehung Gefahren 2e</content>
+  <content contentuid="h1556ab88ge444g42c2gb9f8g5877af917ad7" version="1">Gefahren voraussehen 2e</content>
   <content contentuid="h651b7dcdg3e30g4be4g8428g721c79f4ac9b" version="1">Jeder Zauberspruch, der dir Schaden zufügt, bewirkt, dass du in jedem Zug [1] nimmst</content>
-  <content contentuid="h2f6fee29g4101g462eg928bg7ec1ef12c0b4" version="1">Arua des Schicksals</content>
-  <content contentuid="h016bf6e2gffffg44eag9e29g10a96788a5bb" version="1">Arua des Glücks</content>
-  <content contentuid="h2579f62cg19ffg4284g9998g937c7d36f840" version="1">Rindenleder</content>
-  <content contentuid="h57ecd0d1geaaag445dg82c7g3d990a09235a" version="1">Rindenleder 2e</content>
+  <content contentuid="h2f6fee29g4101g462eg928bg7ec1ef12c0b4" version="1">Aura des Schicksals</content>
+  <content contentuid="h016bf6e2gffffg44eag9e29g10a96788a5bb" version="1">Aura des Glücks</content>
+  <content contentuid="h2579f62cg19ffg4284g9998g937c7d36f840" version="1">Rindenhaut</content>
+  <content contentuid="h57ecd0d1geaaag445dg82c7g3d990a09235a" version="1">Rindenhaut 2e</content>
   <content contentuid="h57d1b10egf7aeg44degbc94g1923670db1a6" version="1">Verwirrung 2e</content>
   <content contentuid="h61c6039ag6f23g4846g91e5gad7fbc0d9837" version="1">Herabsetzende Prahlerei 2e</content>
   <content contentuid="h7f7900d6g71ddg4cbfg9318g637de7b240cc" version="1">Untote binden</content>
   <content contentuid="hf0e3808cg6f19g423ag91f8gb79e0db55607" version="1">Untote binden 2e</content>
   <content contentuid="hf5d66e7cg7744g41e3g9211g31867de19840" version="1">Beißende Worte 2e</content>
-  <content contentuid="hcf220e48g31c0g4bb6g956bgd4fd3e31a6cc" version="1">Decke aus Sternen</content>
-  <content contentuid="h7969f706g9f62g4c7bg8818gaa23fb439a85" version="1">Decke der Sterne 2e</content>
+  <content contentuid="hcf220e48g31c0g4bb6g956bgd4fd3e31a6cc" version="1">Sternendecke</content>
+  <content contentuid="h7969f706g9f62g4c7bg8818gaa23fb439a85" version="1">Sternendecke 2e</content>
   <content contentuid="h679fd6ebg52e3g47e6ga8c8g2eb361e9614c" version="1">Blastback 2e</content>
-  <content contentuid="h0a33b1c9gef09g4016g93c9g8f5b83e6ff50" version="1">Lodernde Waffenkammer - Brennen</content>
-  <content contentuid="ha44bbbfcg675eg4819g94ccgaa7c0bbc3c80" version="1">Flammende Waffenkammer – Kritisch</content>
-  <content contentuid="hf9b037d1g0a0fg446fgb1b3g0fe637398dce" version="1">Flammende Waffenkammer - Krummsäbel</content>
-  <content contentuid="h1f98a045g0b3eg43d1gbe8eg16b59876f601" version="1">Flammende Waffenkammer 2e</content>
-  <content contentuid="hc1e2c45ag7b33g498ag9266g515e7de7d4a2" version="1">Flammentauchgang 2e</content>
-  <content contentuid="h2353c60agfb10g44d3ga0bbgee42c3a69180" version="1">Flammender Riss 2e</content>
+  <content contentuid="h0a33b1c9gef09g4016g93c9g8f5b83e6ff50" version="1">Gleißende Waffenkammer - Brennen</content>
+  <content contentuid="ha44bbbfcg675eg4819g94ccgaa7c0bbc3c80" version="1">Gleißende Waffenkammer – Kritisch</content>
+  <content contentuid="hf9b037d1g0a0fg446fgb1b3g0fe637398dce" version="1">Gleißende Waffenkammer - Krummsäbel</content>
+  <content contentuid="h1f98a045g0b3eg43d1gbe8eg16b59876f601" version="1">Gleißende Waffenkammer 2e</content>
+  <content contentuid="hc1e2c45ag7b33g498ag9266g515e7de7d4a2" version="1">Gleißendes Eintauchen 2e</content>
+  <content contentuid="h2353c60agfb10g44d3ga0bbgee42c3a69180" version="1">Gleißender Riss 2e</content>
   <content contentuid="h6c3c62bdg61cbg4073gad23g7a1478eb3e51" version="1">Blinzeln</content>
   <content contentuid="hb74f1108g4a36g45f6g8dc2g617c07f9b453" version="1">Blinzeln 2e</content>
-  <content contentuid="h9971defbg785bg4045gb8bfg51152172e381" version="1">Blinkende Ladung 2e</content>
+  <content contentuid="h9971defbg785bg4045gb8bfg51152172e381" version="1">Blinzelnde Ladung 2e</content>
   <content contentuid="hbdd6e157gefb4g44a6ga86bg969caa638a8e" version="1">Blister 2e</content>
   <content contentuid="h27cd7768g5a02g4d5cg8f2dgc0d59bc01212" version="1">Glühende Beschimpfungen - Brennen</content>
   <content contentuid="h68c35995g2dd9g4856g93cdgd3276db45afa" version="1">Glühende Beschimpfungen 2e</content>
   <content contentuid="h86e01b85g120dg42afga228g72dbe466fbba" version="1">Blutfest 2e</content>
   <content contentuid="h493c8928g4321g4610gbdb6gf9967ef6f7da" version="1">Blutrache - Blutung</content>
-  <content contentuid="heeb38d41gfa6ag494bg8121g2cd3ef861568" version="1">Blut-Vendetta 2e</content>
-  <content contentuid="h0bb5fddage4eag49fdg9710gc47f659109e6" version="1">Blutspray-Fluch</content>
+  <content contentuid="heeb38d41gfa6ag494bg8121g2cd3ef861568" version="1">Blutrache 2e</content>
+  <content contentuid="h0bb5fddage4eag49fdg9710gc47f659109e6" version="1">Blutspray Fluch</content>
   <content contentuid="hbea64b88gbc5fg4e7fga6b6g0e26913eb5b1" version="1">Blutspray-Fluch 2e</content>
-  <content contentuid="h28e582b0gd255g4cfagbdb6gd0371f8f03c1" version="1">Prahlte</content>
+  <content contentuid="h28e582b0gd255g4cfagbdb6gd0371f8f03c1" version="1">Prahlerei</content>
   <content contentuid="h5b367210g1ec9g4c05g8dd4g7a908fa98e2f" version="1">Knochenschüttler 2e</content>
   <content contentuid="h42fbfd1fg51e9g439ag9975g12410a613003" version="1">Bonusaktionen zu Aktion 2e</content>
-  <content contentuid="h4a0a3252g57e8g4bc6g9045g48f5f5dedfba" version="1">Verspannende Ranke</content>
-  <content contentuid="h3ab9572cg1c10g450fg96eag4b28813d8580" version="1">Verstrebungsranke 2e</content>
-  <content contentuid="h2c9aed47g3e5eg47f9g9b5bgef02eb674444" version="1">Atem des Lebens 2e</content>
+  <content contentuid="h4a0a3252g57e8g4bc6g9045g48f5f5dedfba" version="1">Klammerranke</content>
+  <content contentuid="h3ab9572cg1c10g450fg96eag4b28813d8580" version="1">Klammerranke 2e</content>
+  <content contentuid="h2c9aed47g3e5eg47f9g9b5bgef02eb674444" version="1">Lebensatem 2e</content>
   <content contentuid="h6a2f0ef6g0d62g46d8g8f2fg364446f22c05" version="1">Salzdrachen-Galle</content>
   <content contentuid="h15cf38fagf9e9g42d5g9c64gc01ab889f70a" version="1">Salzdrachen-Galle 2e</content>
   <content contentuid="hbcedd283g4bc0g4a6dg9a62gea8720f3e927" version="1">Glänzender Bolzen 2e</content>
@@ -86,7 +86,7 @@
   <content contentuid="he1e72295gfdb2g4110gb5a3gebcc9f5accbd" version="1">Bulette-Form</content>
   <content contentuid="h6832acddgc2f3g400egb347g4b3aeaa93765" version="1">Brennende Hände 2e</content>
   <content contentuid="h7304fa4eg3014g4ae7gabd2g2e78323461cd" version="1">Rufe einen Blitz herbei, der [1] austeilt.</content>
-  <content contentuid="h2ffd8f68g5588g4acaga777gf3a812a81441" version="1">Lightning Bolt anrufen</content>
+  <content contentuid="h2ffd8f68g5588g4acaga777gf3a812a81441" version="1">Blitzschlag anrufen</content>
   <content contentuid="h712e1862g237bg4677g8716g4c60988f57db" version="1">Du rufst in den Himmel und beschwörst einen Blitz, der durch einen Feind über dir in deine Waffe oder deinen Körper einschlägt und ihn mit elektrischer Energie auflädt. Ihr müsst Eure Waffe oder eine leere Hand als Teil der somatischen Komponente dieses Zaubers in die Höhe halten. Wenn du das tust, geht ein Blitz von einer Gewitterwolke in der Luft über dir und um dich herum nieder und verursacht [1]. Dann verursacht deine Waffe für die Dauer der Dauer einen zusätzlichen [2].</content>
   <content contentuid="h6e1fa53dg6cdcg4a25g9062g31dcb997e11a" version="1">Verstärkung anfordern</content>
   <content contentuid="h6377379dg53b9g45fcg9d36gaf345db7fa23" version="1">Kann keine Aktionen oder Reaktionen ausführen, die Bewegungsgeschwindigkeit wird geviertelt.</content>
@@ -181,9 +181,9 @@
   <content contentuid="h17f380aeg6be3g411cg94e4g662a84d30eba" version="1">Elementar-Zähler 2e</content>
   <content contentuid="h16624fd7g0ec0g41f4g86b8g574ab0f3d951" version="1">Elementare Form 2e</content>
   <content contentuid="hb4d680bfge5a7g43b0g92abg87946cf93383" version="1">Elementare Form: Luft</content>
-  <content contentuid="h2f0f1a6eg35d9g48ddg9e31g5590d8c1d08f" version="1">Elementarform: Erde</content>
-  <content contentuid="h0ff32883g7416g479cgaf78g9aef87b6668e" version="1">Elementarform: Feuer</content>
-  <content contentuid="h350792ceg6f86g4237g9e03gbea231299828" version="1">Elementarform: Wasser</content>
+  <content contentuid="h2f0f1a6eg35d9g48ddg9e31g5590d8c1d08f" version="1">Elementare Form: Erde</content>
+  <content contentuid="h0ff32883g7416g479cgaf78g9aef87b6668e" version="1">Elementare Form: Feuer</content>
+  <content contentuid="h350792ceg6f86g4237g9e03gbea231299828" version="1">Elementare Form: Wasser</content>
   <content contentuid="heb87a0c9ge9f2g4611g87b0g190e97e9f045" version="1">Empathie vermittelt</content>
   <content contentuid="h1945281ag8c1eg412fg9970ge6dbc184757f" version="1">2e ertragen</content>
   <content contentuid="h29b091e0ge27eg4673g9232gc4a8df1f0191" version="1">Bleibend</content>
@@ -195,14 +195,14 @@
   <content contentuid="h98f6487eg1135g44a5g9178ge03fa3ca9771" version="1">Vergiftet</content>
   <content contentuid="h74181f95g9adeg4411g8bdbg0042c3ae3869" version="1">Kompetenz in der Einsicht</content>
   <content contentuid="hd23e668bg4737g412fgaea3gf20c9d92510d" version="1">Gift extrahieren 2e</content>
-  <content contentuid="h62b5f9d6gcb57g4c8cg8f7dg522a5ca732a0" version="1">Unwahrheiten klingen in euren Ohren wie Misstöne. Sie erwerben Expertise in Insight.</content>
+  <content contentuid="h62b5f9d6gcb57g4c8cg8f7dg522a5ca732a0" version="1">Unwahrheiten klingen in euren Ohren wie Misstöne. Sie erwerben &lt;LSTag Tooltip="Expertise"&gt;Fachwissen&lt;/LSTag&gt; in &lt;LSTag Tooltip="Insight"&gt;Einsicht&lt;/LSTag&gt;.</content>
   <content contentuid="h0dc1d58ag6b6eg49c1gbc49g824ac6409393" version="1">Ermüdung</content>
   <content contentuid="hf4b57b9dg90a3g4311g84a2g5eddd7c2f591" version="1">Immunität gegen Angst</content>
   <content contentuid="h45566d4dg1c3eg4e17g80ecgd68184aef9ed" version="1">Fest der Asche 2e</content>
   <content contentuid="hdaae58b2gdd92g4e0fg845fg083a6a65d3fb" version="1">Feenform 2e</content>
   <content contentuid="hdf13efa2g3dcbg4fcfga72ag89eabea570d1" version="1">Feenhafte Geräusche</content>
   <content contentuid="hf63a1a34g61aag48cbg810cge81aeee9a16b" version="1">Letztes Opfer 2e</content>
-  <content contentuid="h5fa38ab2gecfcg47deg94d7gbfb28648c74a" version="1">Feuer umgibt die Hände und Füße der Zielperson, und ihre Augen und Haare stehen in Flammen. Die unbewaffneten Schläge des Ziels verursachen zusätzlich [1]. Kritische Treffer mit diesen Schlägen verursachen zusätzlich in jedem Zug [2]. Wenn das Ziel versucht, einen Gegner zu demoralisieren, kann es außerdem Leistung anstelle von Einschüchterung einsetzen.</content>
+  <content contentuid="h5fa38ab2gecfcg47deg94d7gbfb28648c74a" version="1">Feuer umgibt die Hände und Füße der Zielperson, und ihre Augen und Haare stehen in Flammen. Die unbewaffneten Schläge des Ziels verursachen zusätzlich [1]. Kritische Treffer mit diesen Schlägen verursachen zusätzlich in jedem Zug [2]. Wenn das Ziel versucht, einen Gegner zu demoralisieren, kann es außerdem &lt;LSTag Tooltip="Performance"&gt;Leistungsfähigkeit&lt;/LSTag&gt; anstelle von &lt;LSTag Tooltip="Intimidation"&gt;Einschüchterung&lt;/LSTag&gt; einsetzen.</content>
   <content contentuid="h11fc1b86gc2f9g412bg93d0g7fbe5cceff1d" version="1">Feuerschild</content>
   <content contentuid="he6538252gc615g4c7cgbebfg0ef696e1ed6c" version="1">Feuerschild 2e</content>
   <content contentuid="hdcb92488g06dbg41cdg8421g4b9d8373951d" version="1">Feuerball 2e</content>
@@ -231,7 +231,7 @@
   <content contentuid="h4e305b92g45c3g44ceg9fd9g86dfb0cb557f" version="1">Du erhältst [1] und einen Bonus von +[2] auf Angriffs- und Schadenswürfe.</content>
   <content contentuid="h40daa61cg793dg42e8gaaf4ga7c3ace4de74" version="1">[9] zusätzliche Bewegung gewinnen</content>
   <content contentuid="h78ed5ca3gc333g4f6aga488g69213b6d8c03" version="1">Du erhältst einen [1] Bonus auf Angriffswürfe und Rettungswürfe</content>
-  <content contentuid="hf4b13ca6g34bcg4a7agafbege68ce8fa4a9b" version="1">Du erhältst einen Bonus von +[1] auf Überzeugungswürfe</content>
+  <content contentuid="hf4b13ca6g34bcg4a7agafbege68ce8fa4a9b" version="1">Du erhältst einen Bonus von +[1] auf &lt;LSTag Tooltip="Persuasion" &gt;Überzeugen&lt;/LSTag&gt;s Würfe</content>
   <content contentuid="h21c89942g37d1g45c1gb78bgb300007859b6" version="1">Sturmböe 2e</content>
   <content contentuid="h861142c6gbb50g4868g9d37g9b2e34709899" version="1">Geisterhafte Waffe</content>
   <content contentuid="he5144280g89e6g432fga0bcg00b0f089cea9" version="1">Geisterhafte Waffe 2e</content>
@@ -276,8 +276,8 @@
   <content contentuid="h34fe7ddbgedbag49a5gbd05g9a91a6d0ecdc" version="1">Schlage mit giftigen Klauen auf dein Ziel ein. </content>
   <content contentuid="hd8458d27g238bg42fbgb267gcb6a77ad5552" version="1">Verbindung zum Leben</content>
   <content contentuid="h7b0960f0g97c0g4662g8f9dg60c58c87e716" version="1">Verbindung zum Leben 2e</content>
-  <content contentuid="h49628f3agc1fbg4c8bgac2bgd463ad287ce0" version="1">Blitz 2e</content>
-  <content contentuid="ha8f500afg4d2bg4325ga5edg6767ab48d62d" version="1">Blitz aufgeladen</content>
+  <content contentuid="h49628f3agc1fbg4c8bgac2bgd463ad287ce0" version="1">Blitzschlag 2e</content>
+  <content contentuid="ha8f500afg4d2bg4325ga5edg6767ab48d62d" version="1">Blitzschlag aufgeladen</content>
   <content contentuid="hfdc595f0g0795g454dg8228ge4931e944216" version="1">Gewitter 2e</content>
   <content contentuid="h75203c23gc32fg4bc8ga2d3g0a7c8bd606af" version="1">Pfeil der losen Zeit</content>
   <content contentuid="h07479988g73f9g4696g8c36g4c04b606a8fb" version="1">Pfeil der losen Zeit 2e</content>
@@ -310,7 +310,7 @@
   <content contentuid="h7aa200b1g5208g4a93gade0g60bb26a3814c" version="1">Nekrotisiere Gelenke</content>
   <content contentuid="h7c8c5c39g87c6g47c5gbde1ga11944a023c7" version="1">Beine nekrotisieren</content>
   <content contentuid="h10ab93aag3795g4131gbca5g654f1a28c078" version="1">Muskeln nekrotisieren</content>
-  <content contentuid="h40d54bebgf71dg4812g8f25g0335f9e779a7" version="1">Auf dem richtigen Weg, um dem Labyrinth zu entkommen, kann man bei einem erfolgreichen Überlebenswurf entkommen oder bei einem Misserfolg die richtige Spur verlieren.</content>
+  <content contentuid="h40d54bebgf71dg4812g8f25g0335f9e779a7" version="1">Auf dem richtigen Weg, um dem Labyrinth zu entkommen, kann man bei einem erfolgreichen &lt;LSTag Tooltip="Survival" &gt;Überleben&lt;/LSTag&gt;swurf entkommen oder bei einem Misserfolg die richtige Spur verlieren.</content>
   <content contentuid="hd1cf2d99g27cdg4e20g84f0ge4582e3100b2" version="1">Ooze-Form</content>
   <content contentuid="h5b4baa4eg8ec9g4da9ga95eg40df2b1ae373" version="1">Ooze Form 2e</content>
   <content contentuid="h283c7acbg78dcg42begbde2g0a9c53a9647f" version="1">Orgel-Sehvermögen</content>
@@ -328,8 +328,8 @@
   <content contentuid="hd9dccafcg1fdeg4e6cg94e1gb01b0242a852" version="1">Positive Einstimmung</content>
   <content contentuid="h7271468cgd6bag4a95gb80cg65b30803e258" version="1">Positive Einstimmung 2e</content>
   <content contentuid="hfda82edcg3a4cg4adbga720g874aef229862" version="1">Prismatische Rüstung 2e</content>
-  <content contentuid="h9d64c8aegbc64g4c3fg81f9g932809a8814d" version="1">Projiziere ein Arua des Schicksals auf Freunde und Feinde innerhalb von 9 m</content>
-  <content contentuid="h5bb14a23gfac5g41d2ga901g36a8fc8231c6" version="1">Projiziere ein Arua des Glücks auf Freunde und Feinde innerhalb von 9 m</content>
+  <content contentuid="h9d64c8aegbc64g4c3fg81f9g932809a8814d" version="1">Projiziere eine Aura des Schicksals auf Freunde und Feinde innerhalb von 9 m</content>
+  <content contentuid="h5bb14a23gfac5g41d2ga901g36a8fc8231c6" version="1">Projiziere ein Aura des Glücks auf Freunde und Feinde innerhalb von 9 m</content>
   <content contentuid="ha6b2cc9fgff00g4b1bgb42egf7b5d70db2b2" version="1">Giftwolke</content>
   <content contentuid="h64d2c9a4ge7eag4fd1ga02bg270d8c3b981a" version="1">Giftwolke 2e</content>
   <content contentuid="h3b6465b8g3d1eg436bga14dgf45d91c8519c" version="1">Belebt</content>
@@ -457,7 +457,7 @@
   <content contentuid="h44821b9egb91cg4450g96dcg1019ca9c9237" version="1">Verwandle dich in ein großes kosmisches Wesen</content>
   <content contentuid="h0ba263fdg6c2cg48d2g9604g7d15a8cb4ec5" version="1">Verwandle dich in einen Avatar des Mondes</content>
   <content contentuid="h2d8f16c2g72f3g47b9g845dgea08fc9d9a40" version="1">Verwandle dich in einen Avatar der Sonne</content>
-  <content contentuid="h0968372bg2a0bg4e5eg8326g788a56b6f742" version="1">Gefangen im Labyrinth, kann er bei einem erfolgreichen Überlebenscheck den richtigen Weg finden.</content>
+  <content contentuid="h0968372bg2a0bg4e5eg8326g788a56b6f742" version="1">Gefangen im Labyrinth, kann er bei einem erfolgreichen &lt;LSTag Tooltip="Survival" &gt;Überleben&lt;/LSTag&gt;swürfe den richtigen Weg finden.</content>
   <content contentuid="hf263d2a3g3dbdg47e4g9f3cg38445c6c91c0" version="1">Echtes Ziel 2e</content>
   <content contentuid="hadcdbe18ga3acg4342gbe9ag3db11e4b6da8" version="1">Verwandle 2 Bonusaktionen in eine Aktion </content>
   <content contentuid="h630d40acge160g49bdgb311g4ec0cf4dba11" version="1">Verwandle eine Aktion in 2 Bonusaktionen</content>
@@ -497,11 +497,11 @@
   <content contentuid="h3b8957a0gb4cdg458cg990cg9486d4c84d04" version="1">Glückssträhne</content>
   <content contentuid="h10f6430agfe88g48b4gb3adg1720ac3b3ebd" version="1">Siegesserie 2e</content>
   <content contentuid="h2111b807g4bddg4e7fg8990g7dfa41661578" version="1">Mit einem Ansturm telekinetischer Kraft manipulierst du einen Gegner, um ihn zu entwaffnen, zu schubsen oder auf Distanz zu stoßen.</content>
-  <content contentuid="hd0b6f52egd306g4fddg89ffgd639b1a197bf" version="1">Mit einem plötzlichen Schrei, einem gut getimten Spott oder einem schneidenden Schlag kannst du die Entschlossenheit eines Gegners erschüttern. Wähle eine Kreatur im Umkreis von 30 Fuß um dich, die du kennst. Versuche einen Einschüchterungswurf gegen die passive Weisheit des Ziels (10+Weisheit).</content>
+  <content contentuid="hd0b6f52egd306g4fddg89ffgd639b1a197bf" version="1">Mit einem plötzlichen Schrei, einem gut getimten Spott oder einem schneidenden Schlag kannst du die Entschlossenheit eines Gegners erschüttern. Wähle eine Kreatur im Umkreis von 30 Fuß um dich, die du kennst. Versuche einen &lt;LSTag Tooltip="Intimidation"&gt;Einschüchterungwurf&lt;/LSTag&gt; gegen die passive Weisheit des Ziels (10+Weisheit).</content>
   <content contentuid="h58f9b386g4de1g43c7ga3d3g46797648f6ba" version="1">Mit einer Berührung besänftigst du die Ängste einer Kreatur und bestärkt sie in ihrer Entschlossenheit, 1 Minute lang von ihr unberührt zu bleiben.</content>
   <content contentuid="h2572557bg6e41g465cg8453gb3eb6928b11c" version="1">Mit einem Wort nekromantischer Macht übernimmst du die Kontrolle über den anvisierten Untoten.</content>
   <content contentuid="hb9d22b27g8335g4017gb9ccga9c086133dd7" version="1">Mit der leichtesten Berührung kannst du das Gift von einer Kreatur absaugen und für eine spätere Verwendung aufbewahren.</content>
-  <content contentuid="h1f1912f7g6bdeg4ff3g9c5ag6ccbbf4430a6" version="1">Du [1] reduzierst dein körperliches Verhalten, ein zusätzliches [2] an Bewegung, dein AC wird zu [3]+Geschicklichkeit und du gewinnst Erfahrung in der Leichtathletik.</content>
+  <content contentuid="h1f1912f7g6bdeg4ff3g9c5ag6ccbbf4430a6" version="1">Du [1] reduzierst dein körperliches Verhalten, ein zusätzliches [2] an Bewegung, dein AC wird zu [3]+Geschicklichkeit und du gewinnst &lt;LSTag Tooltip="Expertise"&gt;Fachwissen&lt;/LSTag&gt; in der &lt;LSTag Tooltip="Athletics"&gt;Athletik&lt;/LSTag&gt;.</content>
   <content contentuid="hec26e2bbgb8c4g431eg8e9agd09fda2acdc7" version="1">Du und alle Ziele sind unsichtbar, außer füreinander, solange du dich im Bereich des Zaubers bleibst. Wenn eine Kreatur, die durch diesen Zauberspruch unsichtbar gemacht wurde, den Bereich des Zauberspruchs verlässt, wird sie sichtbar und bleibt es auch, wenn sie in den Bereich des Zauberspruchs zurückkehrt.</content>
   <content contentuid="he14618d9g0f99g4217ga476gdd8b54332ba8" version="1">Du bist geerdet und kannst nicht gegen deinen Willen bewegt werden</content>
   <content contentuid="h60ec2dbcg3df6g4c3fg9df6gd7555c2c0082" version="1">Ihr werdet beschleunigt und erleidet 20 verringerten nekrotischen und strahlenden Schaden.</content>
@@ -618,7 +618,7 @@
   <content contentuid="hc065bb28gc57ag4c8aga8c9g8e4abf7e407b" version="1">Du zapfst das innere Heldentum des Ziels an und gewährst ihm einen Bonus von +[1] auf Angriffswürfe, Rettungswürfe und Fertigkeitswürfe.</content>
   <content contentuid="h096030d2ge802g4a5aga52dg0beec3c28151" version="1">Ihr wählt eine Leiche als Ziel und verbraucht ihre verbleibende Vitalität. In den nächsten 100 Runden erhältst du alle 10 Runden [1] zurück.</content>
   <content contentuid="h3f349e9bg5055g415ag880bgcc8aaf970e5f" version="1">Du wirfst einen magisch angetriebenen und gekühlten Ball aus dichtem Schnee. Das Ziel nimmt [1] und seine Bewegungsgeschwindigkeit wird um [2] verringert.</content>
-  <content contentuid="hce8c8df1g65ddg4c8fg97bbg3b953a78f77b" version="1">Du transportierst das Ziel in ein extradimensionales Labyrinth unheimlichen Ursprungs und fängst es dort ein. Einmal pro Zug kann das gewählte Ziel 1 Aktion aufwenden, um einen Überlebenswurf oder Wahrnehmungswurf gegen deinen Zauber-SG zu versuchen, um aus dem Labyrinth zu entkommen.</content>
+  <content contentuid="hce8c8df1g65ddg4c8fg97bbg3b953a78f77b" version="1">Du transportierst das Ziel in ein extradimensionales Labyrinth unheimlichen Ursprungs und fängst es dort ein. Einmal pro Zug kann das gewählte Ziel 1 Aktion aufwenden, um einen &lt;LSTag Tooltip="Survival" &gt;Überleben&lt;/LSTag&gt;swurf oder &lt;LSTag Tooltip="Perception"&gt;Wahrnehmung&lt;/LSTag&gt;s Wurf gegen deinen Zauber-SG zu versuchen, um aus dem Labyrinth zu entkommen.</content>
   <content contentuid="h712ffd94g15b4g4d04gb2a6gbd43303015b6" version="1">Ihr entfesselt einen Strahl göttlicher Energie, der [1] austeilt.</content>
   <content contentuid="hb3907292g41a4g4c37g9cbfg81ce098001f3" version="1">Ihr entfesselt einen gefährlichen Gleichklang aus hallendem Klang, der sich auf ein einzelnes Ziel konzentriert oder sich ausbreitet, um vielen Gegnern Schaden zuzufügen, was [1] bedeutet.</content>
   <content contentuid="h0c2951fegad43g4fa3g8a4fgf06f771f1913" version="1">Ihr entfesselt einen heiligen Strahl aus eiskaltem Mondlicht [1]. Wenn das Ziel ein Unhold oder ein Untoter ist, fügst du einen zusätzlichen [2] zu.</content>

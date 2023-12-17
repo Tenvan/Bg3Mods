@@ -131,4 +131,6 @@ After you use this bonus action, you can’t do so again until you finish a long
 	<content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Movement reduced by [3]</content>
 	<content contentuid="kt1816871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Disadvantage</content>
 	<content contentuid="kt1826871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Disadvantage"&gt;disadvantage&lt;/LsTag&gt; on all &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="kt1836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Crusher: move target</content>
+	<content contentuid="kt1846871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you |Large size or smaller|.</content>
 </contentList>

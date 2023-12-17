@@ -19,6 +19,7 @@
   <content contentuid="h5ae0966dg5a6ag4f1bg94bfgf004064e03fb" version="1">Form des Schreckens: Erzlich</content>
   <content contentuid="h50c83b09g8767g4b70g9b1cg6c2ea6acde1b" version="1">Form des Schreckens: Uralte Untote</content>
   <content contentuid="hef81fddeg4d46g4a3agae32gb707c0797b99" version="1">Form des Schreckens: Ressource Angst</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82a" version="1">Form des Schreckens: Grabberührter Ghoul</content>
   <content contentuid="h4412eba4g8a5ag4f31g95cdg1377a6c77592" version="1">Form des Schreckens: Große Mumie</content>
   <content contentuid="hd052c378g2ccag47b5ga267gea64f5f9bb7e" version="1">Form des Schreckens: Nachtwandler</content>
   <content contentuid="hccd18e18ge132g4fe9g9f38gafcb4dd055a7" version="1">Form des Schreckens: Gespenst</content>
@@ -48,6 +49,7 @@
   <content contentuid="hdf090126g87a4g45cdgacb4g3b01c016ca83" version="1">Gepolsterte Rüstung</content>
   <content contentuid="h04480a48g9d73g4ed7g9b1cga71c5a0e41bb" version="1">Gönner: Erzlich</content>
   <content contentuid="h9d934614g4b6fg4566g9ed4g9f0bdba7321f" version="1">Gönner: Uralte Untote</content>
+  <content contentuid="hd02c27e8ge183g43acgb312g72d0f07bf77f" version="1">Schirmherr: Grabberührter Ghoul</content>
   <content contentuid="h46cae778g1fb2g4086ga128g3cbf0895db9f" version="1">Gönner: Große Mumie</content>
   <content contentuid="h6b692237g3f02g4c97ga878gbda4b8146ca5" version="1">Gönner: Nachtwandler</content>
   <content contentuid="heaeba52bg938fg4ccdga937g94d45d18e228" version="1">Gönner: Gespenst</content>
@@ -81,6 +83,7 @@ Zusätzlich erhältst du, während du deinen &lt;LSTag Type="Spell" Tooltip="Sho
   <content contentuid="hc51a6d84g3c86g42c4gb924gbae192ffb51b" version="1">Ihr Gönner ist ein empfindungsfähiger Nachtschatten aus der Ebene des Schattens, Meister des Todes und der Schatten mit umfassender Macht über die Dunkelheit.</content>
   <content contentuid="hcd6460edgb369g4597g901ege03b2dd002ac" version="1">Ihr Gönner ist ein rachsüchtiges Gespenst, gefangen auf der materiellen Ebene, voller Groll und geplagt von einem unbändigen Hunger nach sterblichen Lebenskräften.</content>
   <content contentuid="hb0df370eg29b1g4632g9609gcddaf495350a" version="1">Ihr Gönner ist ein Erzlich mit großer Macht, der über verbotenes Wissen verfügt und in der Lage ist, Lebens- und Todeskräfte zu manipulieren.</content>
+  <content contentuid="ha837b783gd2edg41b3g81deg80da09c1fcc6" version="1">Euer Schirmherr war einst ein brutaler Oberinquisitor eines bedeutenden Kults. Nach seinem Tod verwandelt und vom König der Ghouls selbst gesegnet, jagt er nun empfindungsfähige Wesen in einem endlosen Hunger nach Fleisch.</content>
   <content contentuid="hc38fca19gb8b6g4d0ega1a7g293f7f6a5eb7" version="1">Ihr Gönner, einst ein mächtiger und gerissener Hochlord, wurde wiederbelebt, um als untoter Wächter zu dienen, und verfügt nun über furchteinflößende uralte Magie.</content>
   <content contentuid="h169ad0d6g1f42g45e3g8112gac67730284e2" version="1">Die schrecklichen Kräfte deines Gönners durchdringen dein ganzes Wesen, verändern dein Aussehen und strahlen um dich herum aus. Deine Lebenskräfte werden belebt und du fühlst dich furchtlos.</content>
   <content contentuid="haa5f6982gf417g4f92g8e44g9f3f4834994c" version="1">Die Kräfte deines Gönners haben eine tiefgreifende Wirkung auf deinen Körper und deine Magie. Du brauchst nicht zu essen, zu trinken oder zu atmen.</content>

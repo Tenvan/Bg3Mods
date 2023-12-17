@@ -70,6 +70,8 @@ No more need for extra use of the ConverterApp.
 [url=https://www.nexusmods.com/baldursgate3/mods/3226]Infinity Weapons Melee GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3212]Infinity Weapons Ranged GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/5029]Magus Class GER[/url]
+[url=https://www.nexusmods.com/baldursgate3/mods/5076]Rogues Extra FullGameReady GER[/url]
+[url=https://www.nexusmods.com/baldursgate3/mods/5077]SBBF Bikini Armors GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3276]Secret Scrolls 5e Spells GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3279]Secret Scrolls GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3228]Sussur Weapons Spawn GER[/url]

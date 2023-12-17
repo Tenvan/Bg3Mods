@@ -24,8 +24,8 @@ Du gewährst ihr 1W6 + [2] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporäre 
   <content contentuid="h66a74487g4370g485ag924dg544abbe9eb47" version="1">Alle Gegner in [1] sind nicht in der Lage, Euch oder Eure Gruppe kritisch zu treffen.</content>
   <content contentuid="hac5d9f7cgbf5dg4ab1g9e03gd36abacaa789" version="1">Alle Gegner in [1] sind nicht in der Lage, Euch oder Eure Gruppe kritisch zu treffen.</content>
   <content contentuid="h691ba74dg9e34g4580ga85eg46bbb5b2a2e5" version="1">Arkana</content>
-  <content contentuid="h6b03d40bgae32g4c83gb4b8g6a717ec0aeeb" version="1">Arcana-Domäne</content>
-  <content contentuid="h826f03d4g3263g49f1ga355g38954371f582" version="2">Arcana-Domäne</content>
+  <content contentuid="h6b03d40bgae32g4c83gb4b8g6a717ec0aeeb" version="1">Arkana-Domäne</content>
+  <content contentuid="h826f03d4g3263g49f1ga355g38954371f582" version="2">Arkana-Domäne</content>
   <content contentuid="h198d7213g872eg4219g8362g5abb44faff59" version="2">Arkaner Eingeweihter</content>
   <content contentuid="h56432d86ge790g4755g9813gc8fad0edc135" version="1">Arkaner Eingeweihter</content>
   <content contentuid="hcda24598g4346g46f9gb63agaa2fce7aa433" version="1">Arkane Meisterschaft</content>
@@ -64,7 +64,7 @@ Wenn die Kreatur ihren &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag
   <content contentuid="h19f3099bgb966g4925g88a0g81742ac6e3e3" version="1">Segen der Schmiede: Waffe</content>
   <content contentuid="h2050b9bbg4644g411dgbb74g23adb1dd6942" version="1">Segen des wachsamen Mondes</content>
   <content contentuid="h362763c2gd67bg4dc9gb3e7gb5bb6603c040" version="1">Blut</content>
-  <content contentuid="hd09e69bageb1fg49b8gb599gfe9dda336f7b" version="1">Blut-Domäne</content>
+  <content contentuid="hd09e69bageb1fg49b8gb599gfe9dda336f7b" version="1">Blutdomäne</content>
   <content contentuid="h121dda70g13bag4dcag827eg537bfd7760b4" version="1">Blutpuppe: Dominieren</content>
   <content contentuid="h285d93eag810bg480cgb6d4gde3e95d46361" version="1">Blutpuppe: Tote auferwecken</content>
   <content contentuid="hc96c7e78g66b5g4052g9930gdad6f5f678c7" version="1">Blut-Ritual</content>
@@ -100,8 +100,8 @@ Wenn die Kreatur ihren &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag
   <content contentuid="h337e1d18g723cg4c98ga296g0ed93e850af5" version="1">Purpurrote Bindung.</content>
   <content contentuid="h77733fbcg46d8g486egb196g293fe1183cfa" version="1">Elemente dämpfen</content>
   <content contentuid="ha255087dgae90g4547gbb9bgb2df40c8acd3" version="1">Tod</content>
-  <content contentuid="ha7d3c635gd0f5g493egbc24gf1288b7211bc" version="1">Domäne des Todes</content>
-  <content contentuid="hfad2fd5eg2429g4bccg9ae4gf6ea68745352" version="2">Domäne des Todes</content>
+  <content contentuid="ha7d3c635gd0f5g493egbc24gf1288b7211bc" version="1">Todesdomäne</content>
+  <content contentuid="hfad2fd5eg2429g4bccg9ae4gf6ea68745352" version="2">Todesdomäne</content>
   <content contentuid="h73349d68g21e6g413cgb56eg54c320c11530" version="1">Todesdomäne: Sensenmann</content>
   <content contentuid="ha0ffec29g4b8fg43deg98b7gb446b250f35d" version="1">Nachteil bei Konzentrationskontrollen</content>
   <content contentuid="h9de7df99geb46g43d6ga4fcg09f022d72739" version="1">Magie bannen</content>
@@ -364,8 +364,8 @@ Du emittierst helles Licht in einem Radius von 60 Fuß und schwaches Licht 30 Fu
   <content contentuid="h1a31ed92gc83bg474bg9ccdgb7f4c2a7c243" version="2">Der Balsam des Friedens gedeiht im Herzen gesunder Gemeinschaften, zwischen befreundeten Nationen und in den Seelen der Gutherzigen. Die Götter des Friedens inspirieren Menschen aller Art, Konflikte zu lösen und sich gegen jene Kräfte zu stellen, die versuchen, das Gedeihen des Friedens zu verhindern.</content>
   <content contentuid="he108a899g6ac1g4e9dgaff7g03003d9fc2d1" version="1">Die Eigenschaften 'Ermutigende Bindung' und 'Schützende Bindung' funktionieren jetzt, wenn sie von einer anderen Kreatur, die von der Bindung betroffen ist, bis zu [1] erhalten. Wenn eine Kreatur 'Schutzband' einsetzt, um den Schaden einer anderen Person zu erleiden, hat die Kreatur &lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen diesen Schaden.</content>
   <content contentuid="hc4a7811ag0955g44d2g900fg278186d6b1e6" version="1">Die Blutdomäne konzentriert sich auf das Verständnis der natürlichen Lebenskraft, wie sie im Körper existiert, und auf den göttlichen Kanal, zu dem sie werden kann. Diejenigen, die sich diesem Bereich widmen, verstehen, dass die Macht des Blutes die Macht des Opfers ist, das Gleichgewicht von Leben und Tod und der Anker des Geistes in der sterblichen Schale.</content>
-  <content contentuid="h8decd146g119eg4267ga3a8gcc61f2e9fbd5" version="1">Der Bereich Tod befasst sich mit den Kräften, die den Tod verursachen, sowie mit der negativen Energie, die untote Kreaturen hervorbringt.</content>
-  <content contentuid="h85245569g73c5g4465g84ceg2aa0b0674289" version="2">Der Bereich Tod befasst sich mit den Kräften, die den Tod verursachen, sowie mit der negativen Energie, die untote Kreaturen hervorbringt.</content>
+  <content contentuid="h8decd146g119eg4267ga3a8gcc61f2e9fbd5" version="1">Die Todesdomäne befasst sich mit den Kräften, die den Tod verursachen, sowie mit der negativen Energie, die untote Kreaturen hervorbringt.</content>
+  <content contentuid="h85245569g73c5g4465g84ceg2aa0b0674289" version="2">Die Todesdomäne befasst sich mit den Kräften, die den Tod verursachen, sowie mit der negativen Energie, die untote Kreaturen hervorbringt.</content>
   <content contentuid="h1b9d0317g4566g4a2bgadc5gb6d2df00b363" version="1">Wenn das nächste Mal einer deiner Verbündeten die verfluchte Kreatur mit einem Angriff trifft, erhält das Ziel ebenfalls [1] und der Fluch endet.</content>
   <content contentuid="h8994e65bg223eg446cg86fag418772a8a2c5" version="1">Der Ordensbereich steht für Disziplin sowie für die Hingabe an die Gesetze, die eine Gesellschaft, eine Institution oder eine Philosophie regieren. Kleriker des Ordens meditieren über Logik und Gerechtigkeit, während sie ihren Göttern dienen.</content>
   <content contentuid="hf25354e2g8f61g4959g9e2dg248f61bf4e14" version="2">Der Ordensbereich steht für Disziplin sowie für die Hingabe an die Gesetze, die eine Gesellschaft, eine Institution oder eine Philosophie regieren. Kleriker des Ordens meditieren über Logik und Gerechtigkeit, während sie ihren Göttern dienen.</content>
