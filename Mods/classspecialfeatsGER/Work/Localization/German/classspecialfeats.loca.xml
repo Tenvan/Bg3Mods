@@ -66,6 +66,7 @@
   <content contentuid="had89d1eag5c35g4407ga0a4g79d5db76b810" version="1">Durchdringende Resistenz</content>
   <content contentuid="h8fcb85f1g0743g450cga895gd9052d57754e" version="1">Gift-Resistenz</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f696" version="1">Pragmatisch</content>
+  <content contentuid="haa1a165fg3101g4275g8733g52bbe3d6a588" version="1">Professor</content>
   <content contentuid="h25d8b17fga0e0g4a96ga7b0g9f2fe1a45fd3" version="1">Psychischer Widerstand</content>
   <content contentuid="h048fd871ga008g42b6g8996g4b998780aa49" version="1">Strahlungswiderstand</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f112" version="1">Förster</content>
@@ -81,6 +82,7 @@
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f652" version="1">Gestaltwandler</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f160" version="1">Shar-Verehrer</content>
   <content contentuid="hc1f17ca8g93f8g4cf4g82a6gfee0d51650c5" version="1">Schnitt-Widerstand</content>
+  <content contentuid="h40e487a4g2413g4095gbc4bg3362587acde5" version="1">Schlag Freischalter</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f695" version="1">Irgendetwas an dir ist anders, es ist schwer zu bestimmen. Liegt es dir im Blut, deiner Seele, deinen Fähigkeiten und Fertigkeiten? Es ist schwer, Sie in die gängigen Kategorien einzuordnen.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f693" version="1">Etwas, das über dein Verständnis hinausgeht, hat dir die Macht verliehen, deine Feinde zu schlagen. Es gibt keinen Eid, den man schwören kann, es geht nur um Unterhaltung. Dir wurde &lt;LSTag Type="Spell" Tooltip="Target_Smite_Divine"&gt;Divine Smite, Wrathful&lt;/LSTag&gt; &lt;LSTag Type="Spell" Tooltip="Target_Smite_Wrathful"&gt;Smite&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Smite_Searing"&gt;Searing Smite&lt;/LSTag&gt;, Thunderous &lt;LSTag Type="Spell" Tooltip="Target_Smite_Thunderous"&gt;Smite&lt;/LSTag&gt; und mehr gewährt.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f116" version="1">Zauberer</content>
@@ -107,6 +109,7 @@
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f170" version="1">Tyr-Anbeter</content>
   <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb3" version="1">Ultra-Instinkt</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f616" version="1">Unzivilisiert</content>
+  <content contentuid="h40e487a4g2413g4095gbc4bg3362587acde6" version="1">Schalte Smites frei</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f684" version="1">Instabiler Zauberer</content>
   <content contentuid="h9915107dg066ag4e05ga548g15d469fa5536" version="1">Wild</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f628" version="1">Erfahrener Kämpfer</content>
@@ -177,6 +180,7 @@
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f623" version="1">Man kann kaum jemanden davon überzeugen, dass man ein Barde ist. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Shout_SongOfRest"&gt;Lieder der Ruhe&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_Countercharm"&gt;Gegenzauber&lt;/LSTag&gt;.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f669" version="1">Du hast die Toten immer als bessere Gesellschaft und interessanter empfunden als die Lebenden.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f697" version="1">Sie waren immer der Meinung, dass man seine Fähigkeiten diversifizieren sollte, wenn man die Mittel dazu hat.</content>
+  <content contentuid="haa1a165fg3101g4275g8733g52bbe3d6a589" version="1">Sie haben genug Wissen und Erfahrung, um andere zu unterrichten.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f671" version="1">Du hast große Macht, die dir von deinem Gönner verliehen wird, seine Ziele sind wahrscheinlich zerstörerisch... Aber solche Dinge gehen dich nichts an.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f667" version="1">Ihr habt einen Pakt mit einem unbekannten Wesen geschlossen, das sich im Fernen Reich befindet.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f673" version="1">Du hast Geist, Körper, Seele und Faust gemeistert. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Target_OpenHandTechnique_Knock"&gt;Kippen&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_OpenHandTechnique_NoReactions"&gt;Torkeln&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_OpenHandTechnique_Push"&gt;Schieben&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_KiResonation_Punch"&gt;Ki-Resonanz: Schlag&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_KiResonation_Blast"&gt;Ki-Resonanz: Explosion&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_WholenessOfBody"&gt;Ganzheit des Körpers&lt;/LSTag&gt;.</content>

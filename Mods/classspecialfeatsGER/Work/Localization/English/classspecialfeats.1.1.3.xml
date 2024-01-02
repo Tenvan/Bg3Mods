@@ -203,4 +203,10 @@
 	<content contentuid="h51892719g943cg4d78gb97dgc0543ef69f12" version="1">Remember which weapon you embody and ignore resistance to either slashing, bludgeoning or piercing damage.</content>
 	<content contentuid="h51892719g943cg4d78gb97dgc0543ef69f13" version="1">Hermaeus Mora's Chosen</content>
 	<content contentuid="h51892719g943cg4d78gb97dgc0543ef69f14" version="1">A being from outside your reality has promised to take you under its wing and bestow a piece of its knowledge upon you. Gain expertise in two skills.</content>
+	<content contentuid="h9915107dg066ag4e05ga548g15d469fa5536" version="1">Untamed</content>
+	<content contentuid="h9915107dg066ag4e05ga548g15d469fa5537" version="1">The wild influence of magic may have transformed you, yet, you are a barbarian at heart. Your repertoire includes &lt;LSTag Type="Spell" Tooltip="Shout_MagicAwareness"&gt;Magic Awareness&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_BolsteringMagic_Boost"&gt;Bolstering Magic&lt;/LSTag&gt;.</content>
+	<content contentuid="h40e487a4g2413g4095gbc4bg3362587acde5" version="1">Smite Unlocker</content>
+	<content contentuid="h40e487a4g2413g4095gbc4bg3362587acde6" version="1">Unlock Smites</content>
+	<content contentuid="haa1a165fg3101g4275g8733g52bbe3d6a588" version="1">Professor</content>
+	<content contentuid="haa1a165fg3101g4275g8733g52bbe3d6a589" version="1">You have enough knowledge and experience to teach others.</content>
 </contentList>
