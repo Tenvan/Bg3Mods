@@ -41,6 +41,7 @@
   <content contentuid="h14aca66ag20dfg4f2eg8064ga546b846ee45" version="1">Engel Form 2e</content>
   <content contentuid="h2bedf8ffg0d9dg42b5g94d2gb1e30159c4e8" version="1">Engelhaftes Großschwert</content>
   <content contentuid="h1caee296g7a61g47bdgb451gc7a312571672" version="1">Engelhaftes Großschwert</content>
+  <content contentuid="h50dcd903gdd24g4e63g8720g8594418c65dd" version="1">Ameisenbeute 2e</content>
   <content contentuid="hcfeed51dg43f3g4f02gb4b0g6bfbc5c0267c" version="1">Vorausehung Gefahren 2e</content>
   <content contentuid="h1556ab88ge444g42c2gb9f8g5877af917ad7" version="1">Gefahren voraussehen 2e</content>
   <content contentuid="h651b7dcdg3e30g4be4g8428g721c79f4ac9b" version="1">Jeder Zauberspruch, der dir Schaden zufügt, bewirkt, dass du in jedem Zug [1] nimmst</content>
@@ -55,7 +56,7 @@
   <content contentuid="hf5d66e7cg7744g41e3g9211g31867de19840" version="1">Beißende Worte 2e</content>
   <content contentuid="hcf220e48g31c0g4bb6g956bgd4fd3e31a6cc" version="1">Sternendecke</content>
   <content contentuid="h7969f706g9f62g4c7bg8818gaa23fb439a85" version="1">Sternendecke 2e</content>
-  <content contentuid="h679fd6ebg52e3g47e6ga8c8g2eb361e9614c" version="1">Blastback 2e</content>
+  <content contentuid="h679fd6ebg52e3g47e6ga8c8g2eb361e9614c" version="1">Explosionsschutz 2e</content>
   <content contentuid="h0a33b1c9gef09g4016g93c9g8f5b83e6ff50" version="1">Gleißende Waffenkammer - Brennen</content>
   <content contentuid="ha44bbbfcg675eg4819g94ccgaa7c0bbc3c80" version="1">Gleißende Waffenkammer – Kritisch</content>
   <content contentuid="hf9b037d1g0a0fg446fgb1b3g0fe637398dce" version="1">Gleißende Waffenkammer - Krummsäbel</content>
@@ -65,7 +66,7 @@
   <content contentuid="h6c3c62bdg61cbg4073gad23g7a1478eb3e51" version="1">Blinzeln</content>
   <content contentuid="hb74f1108g4a36g45f6g8dc2g617c07f9b453" version="1">Blinzeln 2e</content>
   <content contentuid="h9971defbg785bg4045gb8bfg51152172e381" version="1">Blinzelnde Ladung 2e</content>
-  <content contentuid="hbdd6e157gefb4g44a6ga86bg969caa638a8e" version="1">Blister 2e</content>
+  <content contentuid="hbdd6e157gefb4g44a6ga86bg969caa638a8e" version="1">Blase 2e</content>
   <content contentuid="h27cd7768g5a02g4d5cg8f2dgc0d59bc01212" version="1">Glühende Beschimpfungen - Brennen</content>
   <content contentuid="h68c35995g2dd9g4856g93cdgd3276db45afa" version="1">Glühende Beschimpfungen 2e</content>
   <content contentuid="h86e01b85g120dg42afga228g72dbe466fbba" version="1">Blutfest 2e</content>
@@ -396,7 +397,7 @@
   <content contentuid="h688f358ege36cg445egad3eg2d2373b2dadf" version="1">Verlangsamt</content>
   <content contentuid="h14928ba4g6314g4244g85bfg24316e182c86" version="1">Schneeball 2e</content>
   <content contentuid="h9935cd06g3947g478fga2f6g18f85e141045" version="1">Wohltuender Frühling 2e</content>
-  <content contentuid="hca4d9d71gaeaeg4779ga398g725c2c23961a" version="1">Sound Burst 2e</content>
+  <content contentuid="hca4d9d71gaeaeg4779ga398g725c2c23961a" version="1">Klangexplosion 2e</content>
   <content contentuid="h9b6cde81gbf17g461egbc4fg223f07cee377" version="1">Funkelnder Schuss</content>
   <content contentuid="h07c30fe0gfb5eg418egb795g6e1a033aba72" version="1">Funkelnde Schaukel</content>
   <content contentuid="h89f5e489ga522g4750g9358ged5afdbd87c7" version="1">Zaubertang 2e</content>
@@ -587,6 +588,7 @@
   <content contentuid="h9efcd893gcfffg4e3fgb5f3gdc6060df110c" version="1">Du hast einen unverschämten Feind, der es gewagt hat, dir zu schaden, an die richtige Stelle gesetzt. Du befiehlst deinem Feind, gehorsam vor dir niederzuknien.</content>
   <content contentuid="h695043deg8bfdg43bbg863cg0006a794c3a9" version="1">Du streckst eine Hand aus und greifst das Skelett einer Kreatur aus der Ferne, verletzt ihren Körper und zerreißt sie möglicherweise an den Knochen, um sie gegen ihren Willen zu bewegen.</content>
   <content contentuid="h2809bea3g1a1eg4967g8fb5gc8a923b14d76" version="1">Du erhältst alle 10 Runden [1] zurück.</content>
+  <content contentuid="he143cfaeg9ea6g40a4g985cga87f6f748aca" version="1">Du bringst den Bewegungsapparat des Ziels wieder auf mehr Gewicht und erhöhst so die Tragfähigkeit des Ziels.</content>
   <content contentuid="h6e2aa55dgf99dg47b0ga7dbgf97292968818" version="1">Ihr setzt einen schnellen Windstoß frei, der auf Eure lebenden Gegner einschlägt, ohne ihnen dauerhaften Schaden zuzufügen, während Ihr gleichzeitig Untote wegbläst, die [1] verursachen.</content>
   <content contentuid="h5f033436gdbe5g4ebcgbb34g07a3142e6171" version="1">Du setzt eine Welle zeitlicher Energie frei, die Kreaturen gewaltsam durch die Zeit taumeln lässt und ihre Gedanken mit den Informationen, die um sie herum fließen, vernarbt. Obwohl sich die Reise so anfühlt, als würde sie Minuten oder sogar Tage dauern, tauchen die Ziele fast sofort wieder auf. Zeuge dieses chaotischen Zeitflusses zu werden und gegen Objekte aus verschiedenen Zeiten geschlagen zu werden, schadet den Zielen [1] und [2]. Eine Kreatur, die in die Zeit fällt, verschwindet bis zum Ende deines Zuges.</content>
   <content contentuid="h9c5f6dedg20b4g4fd4g9718gc7510b866dbd" version="1">Du siehst das Ziel, als ob es seziert und vor dir aufgereiht wäre, sobald du an der Reihe bist, fügst du ein zusätzliches [1] aus, wenn du mit einer Hieb- oder Durchschlagswaffe angreifst.</content>

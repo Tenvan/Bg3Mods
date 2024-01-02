@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="21066223-d5e8-444f-b0cc-4f649b3b5cc5" version="1">In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense.
+	
+	Level 2 -  &lt;LSTag Type="Passive" Tooltip="TrainingInWarAndSong"&gt;Training in War and Song&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Bladesong_Resource"&gt;Bladesong&lt;/LSTag&gt;
+	Level 6 - &lt;LSTag Type="Passive" Tooltip="ExtraAttack_Bladesinging"&gt;Extra Attack&lt;/LSTag&gt;
+	Level 10 - &lt;LSTag Type="Passive" Tooltip="SongOfDefense"&gt;Song of Defense&lt;/LSTag&gt;
+	Level 14 - &lt;LSTag Type="Passive" Tooltip="SongOfVictory"&gt;Song of Victory&lt;/LSTag&gt;</content>
+	<content contentuid="f19c7c75-299b-4dd1-bc0b-04597562abba" version="1">Bladesinging</content>
+	<content contentuid="7c2d8b56-c598-4d53-b653-945b942f7730" version="1">Choose a type of one-handed melee weapon to gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in.</content>
+	<content contentuid="2a15fc63-ef81-4881-b7b4-e593ed7c394b" version="1">Training in War and Song</content>
+	<content contentuid="27adf46d-fa49-41a9-ab0e-d1590232c1bc" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with light armor and you gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with one type of one-handed melee weapon of your choice. You also gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in the Performance skill if you don’t already have it.</content>
+	<content contentuid="1ae7c683-e5d1-4430-b72a-16cae830bd36" version="1">You can direct your magic to absorb damage while your Bladesong is active. When you take damage, you can use your reaction to expend one &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt; and reduce that damage to you by an amount equal to five times the &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot's&lt;/LSTag&gt; level.</content>
+	<content contentuid="8b644f45-4b53-4acb-a78b-780fc50b1c49" version="1">You can add your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active.</content>
+	<content contentuid="fe4a7e6b-17d4-4e62-b28e-ed987cb4e3a5" version="1">When you would take damage, you can expend a Level [1] &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt; and reduce the damage dealt to you by [2].</content>
+	<content contentuid="da58aff0-6c4d-402b-8fe2-2243b7d2a993" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Effect ends when you have less than half of your total Movement.</content>
+	<content contentuid="c365a45c-2dac-40aa-9eee-c5be8a8109ec" version="1">Gain the ability to move up your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; without provoking &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; and restore [1] to allied creatures within [2] once.</content>
+	<content contentuid="49c9efca-dd76-4a37-9584-33bd3043618b" version="1">Forge an empowering bond among yourself or your allies. While bonded, creatures within [1] of each other can add a [2] bonus an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; it makes once per turn.</content>
+	<content contentuid="27e203e5-3e29-4b09-99c9-fa7060784031" version="1">Add bonus of +[1] to an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; or a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="bad85182-6102-4901-903d-590a3ba91e77" version="1">You can forge an empowering bond among people who are at peace with one another. As an action, you choose [1] allied creatures within [2] of you (including yourself) and create a magical bond among them or until you use this feature again. While any bonded creature is within [2] of another, the creature can add a bonus of +[3] to an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; it makes once per turn.</content>
+	<content contentuid="8dacdd49-0efb-469a-be1e-e508dbfb2146" version="1">Activate to add a bonus of +[1] to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="cdac1eaa-bf9e-43da-a352-deffeb061813" version="1">Weapon already affected by the Hex Warrior feature.</content>
+	<content contentuid="488c86d5-742a-4b09-a969-cd1f3d77852b" version="1">Cannot be used on a two handed weapon.</content>
+	<content contentuid="hee205f06gca41g4dedg89cdg8bfb80bbd016" version="1">Bladesong Charge</content>
+	<content contentuid="a0c4c7aa-99de-455e-953e-c527019d4540" version="1">Bladesong</content>
+	<content contentuid="1b8729cc-9b3d-4126-b413-757e047437bf" version="1">Invoke an elven magic called the Bladesong, gracing you with supernatural speed, agility and focus as long as you aren't wearing medium or heavy armor or using a shield.</content>
+	<content contentuid="4c0c5808-0bb4-4a21-82cb-2b665052f53a" version="1">Your Bladesong ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon.</content>
+	<content contentuid="778fd309-ba52-40b6-8d5d-9236d6b4219c" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Armor Class&lt;/LSTag&gt; and Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; to maintain concentration increased by [1] and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Acrobatics &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="2bbcd67e-c395-467e-9e41-ce0641ded232" version="1">Dismiss Bladesong</content>
+	<content contentuid="77abc5bdfbad49ef8d145ef2b15390a7" version="1">Dismiss the effects of Bladesong.</content>
+	<content contentuid="h3c1d456cg3205g414bg83f3g3553efeefe16" version="1">Bladesinging: Extra Attack</content>
+	<content contentuid="5d65f927-a55e-44a9-a03e-bf1b7e1a0ae6" version="1">Can make an additional free attack or cast a cantrip after making an unarmed or weapon attack.</content>
+	<content contentuid="b20e04c9-647b-48ab-99b6-5fa0fbd957ea" version="1">Song of Defense</content>
+	<content contentuid="e92507b0899a4e6b9c6fdd9688a116b5" version="1">When you take damage, you can use your reaction to expend a spell slot and reduce the damage taken by five times the spell slot's level.</content>
+	<content contentuid="8d39dadd-360e-4469-a642-e8ae8973abd0" version="1">When you take damage, you can use your reaction to expend a Level [1] spell slot and reduce the damage taken by [2].</content>
+	<content contentuid="fb87975e461a44c392ac30bcebfba43d" version="1">Reduced damage taken by -[1].</content>
+	<content contentuid="76e7c6f3-e15a-40cc-9ee1-04f1993c78f7" version="1">Song of Victory</content>
+	<content contentuid="5538c5d1-bf81-4659-ba88-07222edd392a" version="1">Damage of your melee weapon attacks increased by [1] while your Bladesong is active.</content>
+	<content contentuid="h84e070ecg9320g4423g88bbge9b08b425d3c" version="1">The number of times you can use the Bladesong feature.</content>
+	<content contentuid="e79797137bc54f2ca5678209d5619edd" version="1">Cannot activate while wearing medium or heavy armor or while equipped with a shield.</content>
+	<content contentuid="0a07d1346d794825bf36c51b03e0e555" version="1">No Proficiency</content>
+	<content contentuid="a85ab2e07b7d4cc5babd8694e19f778d" version="1">You can choose to not become proficient in a weapon.</content>
+	<content contentuid="h5517943ag0e65g4efcg96beg0f09361fce6d" version="1">Instinctive Pounce</content>
+	<content contentuid="h96b0d51bg1c81g4212ga725g4d0c96e56755" version="1">As part of the bonus action you take to enter your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt;, you can move up to half your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt;.</content>
+	<content contentuid="hc1c98d71g273ag4442g9a51g44f5aed05476" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; increased by half.</content>
+	<content contentuid="h6d5b2ac7g6f8ag4d37g8dd6ga969e2609afe" version="1">Magical Guidance</content>
+	<content contentuid="h5eca9cf0g4753g49fagb9efg7c1c17f570ca" version="1">If a creature has a &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardic Inspiration&lt;/LSTag&gt; from you and casts a spell that restores hit points or deals damage, the creature can roll that die. Add the number rolled as a bonus to the hit points regained or the damage dealt. The &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardic Inspiration&lt;/LSTag&gt; is then lost.</content>
+	<content contentuid="h262733fdgd222g4ac6gb4fcg095778bdbcc5" version="1">Magical Inspiration: Damage</content>
+	<content contentuid="he7903471g9c92g494ag8cd1gb618846b69bc" version="1">Add an additional [1] damage when you deal damage to a creature with a spell.</content>
+	<content contentuid="h792002a4g391dg4a96ga926g3ef5ba03a4ac" version="1">Magical Inspiration: Healing</content>
+	<content contentuid="h0c370ca2ge440g4481ga510g18f9845da391" version="1">Heal an additional [1] hit points when you heal a creature with a spell.</content>
+	<content contentuid="hb7f6163ega459g4d84gbdaeg54f80f42f3ce" version="1">Harness Divine Power</content>
+	<content contentuid="h25fa5380ge91bg441bga7bag276192a7e347" version="1">You can your &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Channel Divinity&lt;/LSTag&gt; to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;, the level of which can be no higher than half your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice. You regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="hee342369g85d6g4057g8962g713286d7bb0c" version="1">Touch your holy symbol and utter a prayer to regain one expended &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;, the level of which can be no higher than half your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; (rounded up).</content>
+	<content contentuid="heb6a3939geff4g4b4bgb215g54634237397a" version="1">Touch your holy symbol and utter a prayer to regain one expended Level 1 &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;.</content>
+	<content contentuid="h600707a1gab59g4ff4gbafcg2710b2e9c5db" version="1">Touch your holy symbol and utter a prayer to regain one expended Level 2 &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;.</content>
+	<content contentuid="hfad3dd9fg019cg4056ga79cg5527dc628122" version="1">Touch your holy symbol and utter a prayer to regain one expended Level 3 &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;.</content>
+	<content contentuid="h762ce2cfg30edg4399gb448gc81fe87235b1" version="1">The number of times you can harness divine power to restore an expended &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt;.</content>
+	<content contentuid="h32dd04f1g0189g452ag9b9agaeeb65602a19" version="1">Divine Power Charge</content>
+	<content contentuid="hbb1fd0f1g2054g4753gb108g483fe1a6fd81" version="1">Blessed Strikes</content>
+	<content contentuid="h5e154cc9gab5bg485dg95a2gc5718ec6a5f5" version="1">You are blessed with divine might in battle. Once per turn, when a creature takes damage from one of your cantrips or weapon attacks, you can also deal [1] to that creature.</content>
+	<content contentuid="h85090cd1ge9fbg4df5g8277ge15c1e83157e" version="1">Blessed Strike</content>
+	<content contentuid="h1bd07421gda31g40c6gaaa2gda8363f244c0" version="1">Channel your divine might through a weapon attack, dealing an additional [1].</content>
+	<content contentuid="h0277f46cg7ef8g4262gbb31gc06a1e5c4e85" version="1">When a creature takes damage from one of your cantrips or weapon attacks, you can also deal [1] to that creature.</content>
+	<content contentuid="h02416411gba09g4a4agaab5ge6d11a81c59e" version="1">Wild Companion</content>
+	<content contentuid="ha3e7c858g8dc9g491dg8b13gf2b6bad36f5d" version="1">You gain the ability to summon a spirit that assumes an animal form. As an action, you can expend a use of your Wild Shape feature to cast the &lt;LSTag Type="Spell" Tooltip="Target_FindFamiliar &gt;Find Familiar&lt;/LSTag&gt; spell.</content>
+	<content contentuid="h996980d1ga2bbg4f2cg8738g5681aad63a93" version="1">You can change your Fighting Style selection.</content>
+	<content contentuid="h88941415gdb53g4b48gb059g9f70ee1f0411" version="1">Martial Versatility</content>
+	<content contentuid="h4f1e90cdgcf6fg4816gab13ge2a5a4468a28" version="1">Ki-Fueled Attack</content>
+	<content contentuid="haf3c2d4dgbbceg4e5bg95a8g7504b2dab109" version="1">If you spend 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Point&lt;/LSTag&gt; or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.</content>
+	<content contentuid="h7bc867f9g6021g46e4ga97bg4b770d825deb" version="1">Bonus action attack after spending Ki Points as a part of action.</content>
+	<content contentuid="h4a8d013bgab50g477eg90aag83df0aee9a28" version="1">Quickened Healing</content>
+	<content contentuid="hae8d3b89gb0e9g48a9g8c0dg83a0d6bab6c5" version="1">You can spend 2 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt; and roll a Martial Arts die to regain [1].</content>
+	<content contentuid="hed1a40c7ged75g494ega0deg4a448a7839e4" version="1">Regain [1].</content>
+	<content contentuid="hcd9fd408g808ag4dc3g91cege7ac3134384a" version="1">Focused Aim</content>
+	<content contentuid="h224481bfg70e8g4fe8gb28cga47553468344" version="1">When you attack a creature, you can spend 1 to 3 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Points&lt;/LSTag&gt; to increase your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; by +2 for each point you spend.</content>
+	<content contentuid="hfdc4b496gfd5ag4b60gb369g63f980b4a0c2" version="1">Focused Aim: 1 Ki Point</content>
+	<content contentuid="ha45815f2g287bg49d3ga9e2gbec4d93452f9" version="1">Focused Aim: 2 Ki Points</content>
+	<content contentuid="h3f91e912g2f00g4a00gb9dcg58c1359f900e" version="1">Focused Aim: 3 Ki Points</content>
+	<content contentuid="hfe43f72ega3edg4a06gb98bgd84f9d43eded" version="1">Increase your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; by +[1].</content>
+	<content contentuid="h8fd95bb3g31e8g41a2ga5c4g7715586f6dde" version="1">Favored Foe</content>
+	<content contentuid="hfd56ba78g394dg49e7g93e8gcff21535d535" version="1">The number of times you can use the Favored Foe feature.</content>
+	<content contentuid="hd1a21dbbg37eeg44c5gbdedga7196df3c2e3" version="1">You can increase the damage you deal by [1] once per turn whilst marking a creature.</content>
+	<content contentuid="h2c4e85c2ga116g4445g9796g00dbf7ac0ca7" version="1">Deal an additional [1] to a favored foe.</content>
+	<content contentuid="hf9c4a49fg84f4g455dg84d1g31dd3870bcff" version="1">Call on your mystical bond with nature to mark a creature as your favored enemy.</content>
+	<content contentuid="hbbc48305g832eg46c0g87ddg2b29ed7db26f" version="1">Deft Explorer: Canny</content>
+	<content contentuid="hfdfbc429gef96g46b3ga051g55cbfa594308" version="1">Choose one of your skill proficiencies. Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is doubled for any &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; you make using the chosen skill.</content>
+	<content contentuid="hada39a13g58bdg4617g8ca6g78d078bc2072" version="1">Deft Explorer: Roving</content>
+	<content contentuid="ha1521904g9bbbg490egaeb7gda51d7583b81" version="1">Your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; increases by [1].</content>
+	<content contentuid="h55d9723cgaeecg47b7g9789g0b57ce1bf283" version="1">Deft Explorer: Tireless</content>
+	<content contentuid="hfdd3b858g1a29g4169g8a92ge166d65dc52c" version="1">You can give yourself [1].</content>
+	<content contentuid="h992b5a5bg6faeg44e3gb498gd94e4c1cc2a4" version="1">Canny</content>
+	<content contentuid="hec2ea28bgead7g48d6g9d6ag3d19bc15f955" version="1">Canny: Acrobatics</content>
+	<content contentuid="h83ba1ae7ga760g43c4gb8f2g59f6e74c6515" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Acrobatics"&gt;Acrobatics&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h61ea5d58g6803g444fga62agc6cf14fed573" version="1">Canny: Animal Handling</content>
+	<content contentuid="h9e214c2eg644dg4e70g9b05gd1f5c89e5aca" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="AnimalHandling"&gt;Animal Handling&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="hb6db9060gbf4fg49d8g96f4gba29b307f3e4" version="1">Canny: Arcana</content>
+	<content contentuid="h3010b045ge4d9g4a39gb4adgc9a3ba5fc265" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="hf3a39ca0g829eg46f5g8a84gf4ca40a3e613" version="1">Canny: Athletics</content>
+	<content contentuid="h79210289gb43bg4470gbfaag7c58552fe2ec" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Athletics"&gt;Athletics&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h5c6d058bg9230g46d1ga559gb739690eadd9" version="1">Canny: Deception</content>
+	<content contentuid="haa062942g2b2cg4d67g89bfgadbe87895542" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h995e357dgf9c8g43e6ga997g96f91b5b6b3e" version="1">Canny: History</content>
+	<content contentuid="hb72402abg4cddg453dg94a5g6d4d3ee93784" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h629a8494gc126g4e69g8a06g404d99201fa0" version="1">Canny: Insight</content>
+	<content contentuid="hb3b8cdd2gd20fg4328gb5c7g8105bdbb1ea5" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h1587f5d0gb0d8g4da5g8af3gd178d7e0a0c1" version="1">Canny: Intimidation</content>
+	<content contentuid="hddd7eaf5ge979g43fegb653ga4d765cfafb1" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h8a900ffdgced3g48e1g99f7ge3dcee3aeaea" version="1">Canny: Investigation</content>
+	<content contentuid="h1e425d76g1635g415agb0c9gd1091e87dd50" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="hf284062ag1a42g4d41ga0a6g02d141ba369e" version="1">Canny: Medicine</content>
+	<content contentuid="hd04ff8c4g2d8ag4764ga1cfgf00a84953d61" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Medicine"&gt;Medicine&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h2c0a00b8gda5ag40c5g9089gf001827b1ee1" version="1">Canny: Nature</content>
+	<content contentuid="hac8984d9gd8e6g47fbg804agbb4d464c2812" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Nature"&gt;Nature&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h03de19a5gecf1g43d3g89f8g9053039f060e" version="1">Canny: Perception</content>
+	<content contentuid="hf78b8ae6g5616g4a77gb59dg41cd2f0a9d45" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h391b80e0g2455g434dg9578g5fb253949ff6" version="1">Canny: Performance</content>
+	<content contentuid="h2cb2cff2gbf44g4c6agbbd5g2e0a58b5abb0" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Performance"&gt;Performance&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="hbb1cd459g3e0eg4af2g9e01g2df28fd83c8c" version="1">Canny: Persuasion</content>
+	<content contentuid="hde60db8agba4fg4360g85c2gc6b4f59f473c" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h37c78ae9gee3eg4b4dg981fg04cf072ed183" version="1">Canny: Religion</content>
+	<content contentuid="h634127b2gebd3g4810g9041g534bb2313f51" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="hd987f9d0g56e1g4389g93b3gd4aabd2b95b4" version="1">Canny: Sleight of Hand</content>
+	<content contentuid="h58d5f409gdfc3g496bgbf7bgdd3447c7ec10" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h9c6da7fcg5810g4c18gb52ag9a59196197ff" version="1">Canny: Stealth</content>
+	<content contentuid="h3614f5b9gffaeg45f9gb424g03a8367bb265" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h7e79a291gcc88g4c61gb65dg4709a7339645" version="1">Canny: Survival</content>
+	<content contentuid="h89335a24g7de5g4988ga2e5g14646f893b99" version="1">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt; checks is doubled.</content>
+	<content contentuid="h2d4a55e9g11f8g43a7g8b4cge2195afe0d84" version="1">Tireless</content>
+	<content contentuid="hbe937f06ge76cg469dgab99ge92bbfd8bcae" version="1">Gain [1].</content>
+	<content contentuid="h96e39f55g8bf4g4e3eg9e1fge5ca9ae2c1c3" version="1">Primal Awareness</content>
+	<content contentuid="hc879165ag99b3g4ebega700g12b2a2c8efbe" version="1">You can focus your awareness through the interconnections of nature. You learn additional spells when you reach certain levels in this class if you don't already know them. You can cast each of these spells once without expending a &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot's&lt;/LSTag&gt;. Once you cast a spell in this way, you can't do so again until you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="h1d29b2edg0eacg4e20g8db4g7875b0422849" version="1">Can cast without expending a spell slot.</content>
+	<content contentuid="h345bef1cg2fdag4aa6gbe09g8e49f179420a" version="1">Hide in Plain Sight</content>
+	<content contentuid="hb222dc82gc871g49ffg8f6eg3c0382f3fe46" version="1">As an action, you can camouflage yourself with your environment to become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; and gain a +[1] bonus to Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;, as long as you stand still.</content>
+	<content contentuid="h6b40ce00ge4d7g4b9bg9a6cgec08a5c6c3fc" version="1">Nature's Veil</content>
+	<content contentuid="h5b256406g78c9g43cfgb158g3c8eba1a78c0" version="1">You draw on the powers of nature to hide yourself from view briefly by magically become invisible.</content>
+	<content contentuid="hf0d89bafge311g47fdgbdb3ge1ffc7a3ee62" version="1">Become &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
+	<content contentuid="h0ad642d8g5843g4e84gb1f8ge2b826dc8ed7" version="1">The number of times you can use Nature's Veil.</content>
+	<content contentuid="haaeeb7afgf4d0g4a70ga9d0g865862705519" version="1">The number of times you can use the Tireless feature.</content>
+	<content contentuid="h43a885bdgb17cg4dedg88a7gd0bb83b49cfc" version="1">Tireless</content>
+	<content contentuid="habfba1e9g67feg485cga8c5g42b79883e505" version="1">Steady Aim</content>
+	<content contentuid="h54973f68gefb8g4637g8914g6eba76b61120" version="1">As a bonus action, you can give yourself &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; is 0 until the end of the current turn.</content>
+	<content contentuid="h0f5492d1gdb2bg432cga1a6ga40f0a59e175" version="1">Give yourself &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; but your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; is reduced to 0.</content>
+	<content contentuid="h94d12c27gc368g42e0gb5bfg8ee78468a2a7" version="1">Has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; but &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; is 0.</content>
+	<content contentuid="h5ea8dd1cg01a9g452dgaeeag146ce69fcc81" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Cannot be used if you've moved during your current turn.</content>
+	<content contentuid="h8a087f42g5260g449cg947eg22129aeb8e6f" version="1">Can use &lt;LSTag Type="Spell" Tooltip="Shout_SteadyAim &gt;Steady Aim&lt;/LSTag&gt;.</content>
+	<content contentuid="h79484f3fg48a8g4f7bg8b89gb3ccd9d16266" version="1">Magical Guidance</content>
+	<content contentuid="h42da8c38g066fg4c94gbb0ega31a34b5b457" version="1">You can tap into your inner wellspring of magic to try and conjure success from failure. You can spend 1 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Sorcery Point&lt;/LSTag&gt; to reroll an &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; with a roll of 3 or less and you must use the new roll.</content>
+	<content contentuid="h4969c6edgc70bg4f95g897eg89884b1f7700" version="1">Tap into your inner wellspring of magic to try and conjure success from failure. The next time you make an &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, on a roll of 3 or less, you are able to reroll and must use the new roll.</content>
+	<content contentuid="he11db929g8c77g45d8g980cg8b3160f55e72" version="1">Reroll your next &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; with a roll of 3 or less.</content>
+	<content contentuid="hb0e5bc42gb25fg4690g938dgd1e3891fecf1" version="1">You can change your Pact Boon selection.</content>
+	<content contentuid="ha584b1a1gf421g44afg8400ga767027c73c6" version="1">Eldritch Versatility: Pact Boon</content>
+</contentList>

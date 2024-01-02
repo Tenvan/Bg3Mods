@@ -1,46 +1,158 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
   <!-- Translated Texts, ordered by origin text -->
-  <content contentuid="778fd309-ba52-40b6-8d5d-9236d6b4219c" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Rüstungsklasse&lt;/LSTag&gt; und Konstitution &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; zur Aufrechterhaltung der Konzentration um [1] erhöht und mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; über Akrobatik-&lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+  <content contentuid="778fd309-ba52-40b6-8d5d-9236d6b4219c" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Rüstungsklasse&lt;/LSTag&gt; und Konstitution &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; zur Aufrechterhaltung der Konzentration um [1] erhöht und mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; über &lt;LSTag Tooltip="Acrobatics"&gt;Akrobatik&lt;/LSTag&gt;-&lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsüberprüfung&lt;/LSTag&gt;.</content>
+  <content contentuid="hc1c98d71g273ag4442g9a51g44f5aed05476" version="1">&lt;LSTag Tooltip="Bewegungsgeschwindigkeit"&gt;Die Bewegungsgeschwindigkeit&lt;/LSTag&gt; wurde um die Hälfte erhöht.</content>
+  <content contentuid="h5ea8dd1cg01a9g452dgaeeag146ce69fcc81" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Kann nicht verwendet werden, wenn du dich während deines aktuellen Zuges bewegt hast.</content>
   <content contentuid="da58aff0-6c4d-402b-8fe2-2243b7d2a993" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Der Effekt endet, wenn Sie weniger als die Hälfte Ihrer gesamten Bewegung haben.</content>
   <content contentuid="8dacdd49-0efb-469a-be1e-e508dbfb2146" version="1">Aktivieren, um einen Bonus von +[1] zu &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitsprüfungen&lt;/LSTag&gt; hinzuzufügen.</content>
+  <content contentuid="he7903471g9c92g494ag8cd1gb618846b69bc" version="1">Füge einen zusätzlichen [1] Schaden hinzu, wenn du einer Kreatur mit einem Zauberspruch Schaden zufügst.</content>
   <content contentuid="27e203e5-3e29-4b09-99c9-fa7060784031" version="1">Füge einen Bonus von +[1] zu einem &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; oder einem &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; hinzu.</content>
+  <content contentuid="h54973f68gefb8g4637g8914g6eba76b61120" version="1">Als Bonusaktion kannst du dir einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei deinem nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; in der aktuellen Runde geben. Du kannst diese Bonusaktion nur nutzen, wenn du dich in diesem Zug nicht bewegt hast, und nachdem du die Bonusaktion genutzt hast, ist deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; bis zum Ende des aktuellen Zuges 0.</content>
+  <content contentuid="hb222dc82gc871g49ffg8f6eg3c0382f3fe46" version="1">Als Aktion kannst du dich mit deiner Umgebung tarnen, um &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;unsichtbar&lt;/LSTag&gt; zu werden und einen Bonus von +[1] auf &lt;LSTag Tooltip="Stealth"&gt;Heimlichkeit&lt;/LSTag&gt;s &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsüberprüfung&lt;/LSTag&gt; zu erhalten, solange du stillstehst.</content>
+  <content contentuid="h96b0d51bg1c81g4212ga725g4d0c96e56755" version="1">Als Teil der Bonusaktion, mit der du in deine &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Wut&lt;/LSTag&gt; kommst, kannst du dich bis zur Hälfte deiner &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; bewegen.</content>
+  <content contentuid="hf0d89bafge311g47fdgbdb3ge1ffc7a3ee62" version="1">Werden Sie &lt;LSTag type="status" tooltip="INVISIBLE"&gt;Unsichtbar&lt;/LSTag&gt;.</content>
   <content contentuid="f19c7c75-299b-4dd1-bc0b-04597562abba" version="1">Klingengesang</content>
   <content contentuid="h3c1d456cg3205g414bg83f3g3553efeefe16" version="1">Klingengesang: Zusätzlicher Angriff</content>
   <content contentuid="a0c4c7aa-99de-455e-953e-c527019d4540" version="1">Klingengesang</content>
   <content contentuid="hee205f06gca41g4dedg89cdg8bfb80bbd016" version="1">Klingengesang Angriff</content>
+  <content contentuid="h85090cd1ge9fbg4df5g8277ge15c1e83157e" version="1">Gesegneter Schlag</content>
+  <content contentuid="hbb1fd0f1g2054g4753gb108g483fe1a6fd81" version="1">Gesegnete Schläge</content>
+  <content contentuid="h7bc867f9g6021g46e4ga97bg4b770d825deb" version="1">Bonus-Aktionsangriff nach dem Ausgeben von Ki-Punkten als Teil der Aktion.</content>
+  <content contentuid="hf9c4a49fg84f4g455dg84d1g31dd3870bcff" version="1">Rufen Sie Ihre mystische Verbindung mit der Natur an, um eine Kreatur als Ihren bevorzugten Feind zu markieren.</content>
+  <content contentuid="h1d29b2edg0eacg4e20g8db4g7875b0422849" version="1">Kann gewirkt werden, ohne einen Zauberplatz zu verbrauchen.</content>
   <content contentuid="5d65f927-a55e-44a9-a03e-bf1b7e1a0ae6" version="1">Kann nach einem unbewaffneten Angriff oder einem Waffenangriff einen zusätzlichen kostenlosen Angriff ausführen oder einen Zaubertrick wirken.</content>
+  <content contentuid="h8a087f42g5260g449cg947eg22129aeb8e6f" version="1">Kann &lt;LSTag Type="Spell" Tooltip="Shout_SteadyAim"&gt;Beständiges Anvisieren&lt;/LSTag&gt; verwenden.</content>
   <content contentuid="e79797137bc54f2ca5678209d5619edd" version="1">Kann nicht aktiviert werden, wenn man mittlere oder schwere Rüstung trägt oder mit einem Schild ausgestattet ist.</content>
   <content contentuid="488c86d5-742a-4b09-a969-cd1f3d77852b" version="1">Kann nicht mit einer Zweihandwaffe verwendet werden.</content>
+  <content contentuid="h992b5a5bg6faeg44e3gb498gd94e4c1cc2a4" version="1">Schlau</content>
+  <content contentuid="hec2ea28bgead7g48d6g9d6ag3d19bc15f955" version="1">Clever: &lt;LSTag Tooltip="Acrobatics"&gt;Akrobatik&lt;/LSTag&gt;</content>
+  <content contentuid="h61ea5d58g6803g444fga62agc6cf14fed573" version="1">Canny: Umgang mit Tieren</content>
+  <content contentuid="hb6db9060gbf4fg49d8g96f4gba29b307f3e4" version="1">Schlau: &lt;LSTag Tooltip="Arcana"&gt;Arkana&lt;/LSTag&gt;</content>
+  <content contentuid="hf3a39ca0g829eg46f5g8a84gf4ca40a3e613" version="1">Clever: &lt;LSTag Tooltip="Athletics"&gt;Athletik&lt;/LSTag&gt;</content>
+  <content contentuid="h5c6d058bg9230g46d1ga559gb739690eadd9" version="1">Schlau: &lt;LSTag Tooltip="Deception"&gt;Täuschung&lt;/LSTag&gt;</content>
+  <content contentuid="h995e357dgf9c8g43e6ga997g96f91b5b6b3e" version="1">Canny: Geschichte</content>
+  <content contentuid="h629a8494gc126g4e69g8a06g404d99201fa0" version="1">Clever: Einsicht</content>
+  <content contentuid="h1587f5d0gb0d8g4da5g8af3gd178d7e0a0c1" version="1">Canny: &lt;LSTag Tooltip="Intimidation"&gt;Einschüchterung&lt;/LSTag&gt;</content>
+  <content contentuid="h8a900ffdgced3g48e1g99f7ge3dcee3aeaea" version="1">Canny: &lt;LSTag Tooltip="Investigation" &gt;Untersuchung&lt;/LSTag&gt;</content>
+  <content contentuid="hf284062ag1a42g4d41ga0a6g02d141ba369e" version="1">Canny: Medizin</content>
+  <content contentuid="h2c0a00b8gda5ag40c5g9089gf001827b1ee1" version="1">Clever: Natur</content>
+  <content contentuid="h03de19a5gecf1g43d3g89f8g9053039f060e" version="1">Clever: &lt;LSTag Tooltip="Perception"&gt;Wahrnehmung&lt;/LSTag&gt;</content>
+  <content contentuid="h391b80e0g2455g434dg9578g5fb253949ff6" version="1">Clever: &lt;LSTag Tooltip="Performance"&gt;Leistungsfähigkeit&lt;/LSTag&gt;</content>
+  <content contentuid="hbb1cd459g3e0eg4af2g9e01g2df28fd83c8c" version="1">Clever: &lt;LSTag Tooltip="Persuasion" &gt;Überzeugen&lt;/LSTag&gt;</content>
+  <content contentuid="h37c78ae9gee3eg4b4dg981fg04cf072ed183" version="1">Canny: Religion</content>
+  <content contentuid="hd987f9d0g56e1g4389g93b3gd4aabd2b95b4" version="1">Clever: &lt;LSTag Tooltip="SleightOfHand"&gt;Fingerfertigkeit&lt;/LSTag&gt;</content>
+  <content contentuid="h9c6da7fcg5810g4c18gb52ag9a59196197ff" version="1">Clever: &lt;LSTag Tooltip="Stealth"&gt;Heimlichkeit&lt;/LSTag&gt;</content>
+  <content contentuid="h7e79a291gcc88g4c61gb65dg4709a7339645" version="1">Canny: &lt;LSTag Tooltip="Survival" &gt;Überleben&lt;/LSTag&gt;</content>
+  <content contentuid="h1bd07421gda31g40c6gaaa2gda8363f244c0" version="1">Kanalisiert Eure göttliche Macht durch einen Waffenangriff, der einen zusätzlichen [1] verursacht.</content>
   <content contentuid="7c2d8b56-c598-4d53-b653-945b942f7730" version="1">Wähle eine einhändige Nahkampfwaffe, um &lt;LSTag Tooltip="Proficiency"&gt;Kenntnisse&lt;/LSTag&gt; darin zu erlangen.</content>
+  <content contentuid="hfdfbc429gef96g46b3ga051g55cbfa594308" version="1">Wähle eine deiner Fertigkeitsprofile. Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; wird für jeden &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsüberprüfung&lt;/LSTag&gt; verdoppelt, den du mit der gewählten Fertigkeit machst.</content>
   <content contentuid="5538c5d1-bf81-4659-ba88-07222edd392a" version="1">Der Schaden Ihrer Nahkampfwaffenangriffe wurde um [1] erhöht, während Ihr Klingengesang aktiv ist.</content>
+  <content contentuid="h2c4e85c2ga116g4445g9796g00dbf7ac0ca7" version="1">Füge einem bevorzugten Gegner ein zusätzliches [1] zu.</content>
+  <content contentuid="hbbc48305g832eg46c0g87ddg2b29ed7db26f" version="1">Geschickter Entdecker: Clever</content>
+  <content contentuid="hada39a13g58bdg4617g8ca6g78d078bc2072" version="1">Geschickter Entdecker: Wandern</content>
+  <content contentuid="h55d9723cgaeecg47b7g9789g0b57ce1bf283" version="1">Geschickter Entdecker: Unermüdlich</content>
   <content contentuid="2bbcd67e-c395-467e-9e41-ce0641ded232" version="1">Klingengesang abweisen</content>
   <content contentuid="77abc5bdfbad49ef8d145ef2b15390a7" version="1">Die Wirkungen von Klingengesang aufheben.</content>
+  <content contentuid="h32dd04f1g0189g452ag9b9agaeeb65602a19" version="1">Göttliche Kraftladung</content>
+  <content contentuid="ha584b1a1gf421g44afg8400ga767027c73c6" version="1">Unheimliche Vielseitigkeit: Pakt-Segen</content>
+  <content contentuid="h8fd95bb3g31e8g41a2ga5c4g7715586f6dde" version="1">Bevorzugter Feind</content>
+  <content contentuid="hcd9fd408g808ag4dc3g91cege7ac3134384a" version="1">Fokussiertes Ziel</content>
+  <content contentuid="hfdc4b496gfd5ag4b60gb369g63f980b4a0c2" version="1">Fokussiertes Ziel: 1 Ki-Punkt</content>
+  <content contentuid="ha45815f2g287bg49d3ga9e2gbec4d93452f9" version="1">Fokussiertes Ziel: 2 Ki-Punkte</content>
+  <content contentuid="h3f91e912g2f00g4a00gb9dcg58c1359f900e" version="1">Fokussiertes Ziel: 3 Ki-Punkte</content>
   <content contentuid="49c9efca-dd76-4a37-9584-33bd3043618b" version="1">Schaffe ein mächtiges Band zwischen dir und deinen Verbündeten. Während der Verbundenheit können Kreaturen, die sich [1] voneinander entfernt befinden, einmal pro Runde einen [2]-Bonus auf einen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitscheck&lt;/LSTag&gt; oder &lt;LSTag Tooltip="SavingThrow" &gt;Rettungswurf&lt;/LSTag&gt; erhalten.</content>
+  <content contentuid="hbe937f06ge76cg469dgab99ge92bbfd8bcae" version="1">Verstärkung [1].</content>
   <content contentuid="c365a45c-2dac-40aa-9eee-c5be8a8109ec" version="1">Erhalte die Fähigkeit, deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; zu erhöhen, ohne &lt;LSTag Tooltip="OpportunityAttack" &gt;Gelegenheitsangriffe&lt;/LSTag&gt; zu provozieren, und stelle verbündeten Kreaturen innerhalb von [2] einmal [1] wieder her.</content>
-  <content contentuid="21066223-d5e8-444f-b0cc-4f649b3b5cc5" version="1">In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense.
-	
-	Level 2 -  &lt;LSTag Type="Passive" Tooltip="TrainingInWarAndSong"&gt;Training in War and Song&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Bladesong_Resource"&gt;Bladesong&lt;/LSTag&gt;
-	Level 6 - &lt;LSTag Type="Passive" Tooltip="ExtraAttack_Bladesinging"&gt;Extra Attack&lt;/LSTag&gt;
-	Level 10 - &lt;LSTag Type="Passive" Tooltip="SongOfDefense"&gt;Song of Defense&lt;/LSTag&gt;
-	Level 14 - &lt;LSTag Type="Passive" Tooltip="SongOfVictory"&gt;Song of Victory&lt;/LSTag&gt;</content>
+  <content contentuid="h0f5492d1gdb2bg432cga1a6ga40f0a59e175" version="1">Gib dir selbst &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei deinem nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;, aber deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; wird auf 0 reduziert.</content>
+  <content contentuid="hb7f6163ega459g4d84gbdaeg54f80f42f3ce" version="1">Nutze die göttliche Kraft</content>
+  <content contentuid="h94d12c27gc368g42e0gb5bfg8ee78468a2a7" version="1">Hat &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; beim nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, aber &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; ist 0.</content>
+  <content contentuid="h0c370ca2ge440g4481ga510g18f9845da391" version="1">Heile zusätzlich [1] Trefferpunkte, wenn du eine Kreatur mit einem Zauberspruch heilst.</content>
+  <content contentuid="h345bef1cg2fdag4aa6gbe09g8e49f179420a" version="1">Verstecken Sie sich vor aller Augen</content>
+  <content contentuid="h5eca9cf0g4753g49fagb9efg7c1c17f570ca" version="1">Falls eine Kreatur einen &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardische Inspiration&lt;/LSTag&gt; von dir hat und einen Zauberspruch wirkt, der Trefferpunkte wiederherstellt oder Schaden verursacht, kann die Kreatur den Würfel würfeln. Addiere die gewürfelte Zahl als Bonus zu den wiedergewonnenen Trefferpunkten oder dem verursachten Schaden. Der &lt;LSTag Type="Status" Tooltip="BARDIC_INSPIRATION"&gt;Bardic Inspiration&lt;/LSTag&gt; geht dann verloren.</content>
+  <content contentuid="haf3c2d4dgbbceg4e5bg95a8g7504b2dab109" version="1">Wenn du 1 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Point&lt;/LSTag&gt; oder mehr als Teil deiner Aktion in deinem Zug ausgibst, kannst du vor dem Ende des Zuges einen Angriff mit einem unbewaffneten Schlag oder einer Mönchswaffe als Bonusaktion ausführen.</content>
+  <content contentuid="21066223-d5e8-444f-b0cc-4f649b3b5cc5" version="1">Im Kampf setzt ein Klingensänger eine Reihe komplizierter, eleganter Manöver ein, die Schaden abwehren und dem Klingensänger erlauben, Magie in verheerende Angriffe und eine gerissene Verteidigung zu kanalisieren.
+
+Stufe 2 - &lt;LSTag Type="Passive" Tooltip="TrainingInWarAndSong"&gt;Training in Krieg und Gesang&lt;/LSTag&gt;, &lt;LSTag Type="Passive" Tooltip="Bladesong_Resource"&gt;Bladesong&lt;/LSTag&gt;
+Stufe 6 - &lt;LSTag Type="Passive" Tooltip="ExtraAttack_Bladesinging"&gt;Extra Angriff&lt;/LSTag&gt;
+Stufe 10 - &lt;LSTag Type="Passiv" Tooltip="SongOfDefense"&gt;Gesang der Verteidigung&lt;/LSTag&gt;
+Stufe 14 - &lt;LSTag Type="Passiv" Tooltip="SongOfVictory"&gt;Siegessong&lt;/LSTag&gt;</content>
+  <content contentuid="hfe43f72ega3edg4a06gb98bgd84f9d43eded" version="1">Erhöhe deinen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; um +[1].</content>
+  <content contentuid="h5517943ag0e65g4efcg96beg0f09361fce6d" version="1">Instinktiver Sprung</content>
   <content contentuid="1b8729cc-9b3d-4126-b413-757e047437bf" version="1">Beschwöre eine elfische Magie namens „Klingengesang“, die dich mit übernatürlicher Geschwindigkeit, Beweglichkeit und Konzentration verleiht, solange du keine mittlere oder schwere Rüstung trägst oder einen Schild verwendest.</content>
+  <content contentuid="h4f1e90cdgcf6fg4816gab13ge2a5a4468a28" version="1">Ki-befeuerter Angriff</content>
+  <content contentuid="h6d5b2ac7g6f8ag4d37g8dd6ga969e2609afe" version="1">Magische Führung</content>
+  <content contentuid="h79484f3fg48a8g4f7bg8b89gb3ccd9d16266" version="1">Magische Führung</content>
+  <content contentuid="h262733fdgd222g4ac6gb4fcg095778bdbcc5" version="1">Magische Inspiration: Schaden</content>
+  <content contentuid="h792002a4g391dg4a96ga926g3ef5ba03a4ac" version="1">Magische Inspiration: Heilung</content>
+  <content contentuid="h88941415gdb53g4b48gb059g9f70ee1f0411" version="1">Kampfmännische Vielseitigkeit</content>
+  <content contentuid="h6b40ce00ge4d7g4b9bg9a6cgec08a5c6c3fc" version="1">Schleier der Natur</content>
   <content contentuid="0a07d1346d794825bf36c51b03e0e555" version="1">Keine Kompetenz</content>
+  <content contentuid="h96e39f55g8bf4g4e3eg9e1fge5ca9ae2c1c3" version="1">Ur-Gewahrsein</content>
+  <content contentuid="h4a8d013bgab50g477eg90aag83df0aee9a28" version="1">Beschleunigte Heilung</content>
   <content contentuid="fb87975e461a44c392ac30bcebfba43d" version="1">Der erlittene Schaden wurde um -[1] verringert.</content>
+  <content contentuid="hed1a40c7ged75g494ega0deg4a448a7839e4" version="1">Erholen Sie sich [1].</content>
+  <content contentuid="he11db929g8c77g45d8g980cg8b3160f55e72" version="1">Würfele deinen nächsten &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsüberprüfung&lt;/LSTag&gt; mit einem Wurf von 3 oder weniger.</content>
   <content contentuid="b20e04c9-647b-48ab-99b6-5fa0fbd957ea" version="1">Lied der Verteidigung</content>
   <content contentuid="76e7c6f3-e15a-40cc-9ee1-04f1993c78f7" version="1">Siegeslied</content>
+  <content contentuid="habfba1e9g67feg485cga8c5g42b79883e505" version="1">Gleichmäßiges Zielen</content>
+  <content contentuid="h4969c6edgc70bg4f95g897eg89884b1f7700" version="1">Zapfen Sie Ihre innere Quelle der Magie an, um zu versuchen, aus Misserfolgen Erfolg zu zaubern. Wenn du das nächste Mal einen &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsüberprüfung&lt;/LSTag&gt; machst, kannst du bei einem Wurf von 3 oder weniger erneut würfeln und musst den neuen Wurf verwenden.</content>
+  <content contentuid="h762ce2cfg30edg4399gb448gc81fe87235b1" version="1">Die Häufigkeit, mit der du göttliche Macht nutzen kannst, um einen verbrauchten &lt;LSTag Tooltip="SpellSlot"&gt;Zauberplatz wiederherzustellen&lt;/LSTag&gt;.</content>
+  <content contentuid="h0ad642d8g5843g4e84gb1f8ge2b826dc8ed7" version="1">Die Häufigkeit, mit der du den Schleier der Natur verwenden kannst.</content>
+  <content contentuid="h84e070ecg9320g4423g88bbge9b08b425d3c" version="1">Die Häufigkeit, mit der Sie die Klingensang-Funktion verwenden können.</content>
+  <content contentuid="hfd56ba78g394dg49e7g93e8gcff21535d535" version="1">Die Häufigkeit, mit der du die Funktion "Bevorzugter Feind" verwenden kannst.</content>
+  <content contentuid="haaeeb7afgf4d0g4a70ga9d0g865862705519" version="1">Die Häufigkeit, mit der Sie die Funktion "Unermüdlich" verwenden können.</content>
+  <content contentuid="h2d4a55e9g11f8g43a7g8b4cge2195afe0d84" version="1">Unermüdlich</content>
+  <content contentuid="h43a885bdgb17cg4dedg88a7gd0bb83b49cfc" version="1">Unermüdlich</content>
+  <content contentuid="hee342369g85d6g4057g8962g713286d7bb0c" version="1">Berühre dein heiliges Symbol und sprich ein Gebet, um einen verbrauchten &lt;LSTag Tooltip="SpellSlot" &gt;Zauberslot&lt;/LSTag&gt; wiederzuerlangen, dessen Stufe nicht höher sein kann als die Hälfte deines &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; (aufgerundet).</content>
+  <content contentuid="heb6a3939geff4g4b4bgb215g54634237397a" version="1">Berühre dein heiliges Symbol und sprich ein Gebet, um einen verbrauchten Level 1 &lt;LSTag Tooltip="SpellSlot"&gt;Zauberplatz zurückzugewinnen&lt;/LSTag&gt;.</content>
+  <content contentuid="h600707a1gab59g4ff4gbafcg2710b2e9c5db" version="1">Berühre dein heiliges Symbol und sprich ein Gebet, um einen verbrauchten Level 2 &lt;LSTag Tooltip="SpellSlot"&gt;Zauberplatz zurückzugewinnen&lt;/LSTag&gt;.</content>
+  <content contentuid="hfad3dd9fg019cg4056ga79cg5527dc628122" version="1">Berühre dein heiliges Symbol und sprich ein Gebet, um einen verbrauchten Level 3 zurückzuerhalten &lt;LSTag Tooltip="SpellSlot"&gt;Zauberplatz&lt;/LSTag&gt;.</content>
   <content contentuid="2a15fc63-ef81-4881-b7b4-e593ed7c394b" version="1">Ausbildung in Krieg und Gesang</content>
   <content contentuid="cdac1eaa-bf9e-43da-a352-deffeb061813" version="1">Die Waffe ist bereits von der Verhexungskrieger-Funktion betroffen.</content>
+  <content contentuid="h0277f46cg7ef8g4262gbb31gc06a1e5c4e85" version="1">Wenn eine Kreatur durch einen deiner Cantrips oder Waffenangriffe Schaden erleidet, kannst du dieser Kreatur auch [1] zufügen.</content>
+  <content contentuid="h224481bfg70e8g4fe8gb28cga47553468344" version="1">Wenn du eine Kreatur angreifst, kannst du 1 bis 3 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki-Punkte&lt;/LSTag&gt; ausgeben, um deinen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; für jeden ausgegebenen Punkt um +2 zu erhöhen.</content>
   <content contentuid="8d39dadd-360e-4469-a642-e8ae8973abd0" version="1">Wenn du Schaden erleidest, kannst du deine Reaktion nutzen, um einen Zauberslot der Stufe [1] zu verbrauchen und den erlittenen Schaden von [2] zu verringern.</content>
   <content contentuid="e92507b0899a4e6b9c6fdd9688a116b5" version="1">Wenn du Schaden erleidest, kannst du deine Reaktion nutzen, um einen Zauberplatz zu verbrauchen und den erlittenen Schaden um das Fünffache der Stufe des Zauberplatzes zu reduzieren.</content>
   <content contentuid="fe4a7e6b-17d4-4e62-b28e-ed987cb4e3a5" version="1">Wenn du Schaden erleiden würdest, kannst du einen Level [1] &lt;LSTag Tooltip="SpellSlot"&gt;Zauberslot&lt;/LSTag&gt; ausgeben und den dir zugefügten Schaden um [2] reduzieren.</content>
+  <content contentuid="h02416411gba09g4a4agaab5ge6d11a81c59e" version="1">Wilder Gefährte</content>
+  <content contentuid="h5e154cc9gab5bg485dg95a2gc5718ec6a5f5" version="1">Du bist mit göttlicher Macht im Kampf gesegnet. Einmal pro Spielzug, wenn eine Kreatur Schaden durch einen deiner Cantrips oder Waffenangriffe erleidet, kannst du dieser Kreatur zusätzlich [1] zufügen.</content>
   <content contentuid="8b644f45-4b53-4acb-a78b-780fc50b1c49" version="1">Du kannst deinen &lt;LSTag Tooltip="Intelligenz"&gt;Intelligenz&lt;/LSTag&gt;-Modifikator (mindestens +1) zum Schaden deiner Nahkampfwaffenangriffe addieren, während dein Klingenlied aktiv ist.</content>
+  <content contentuid="h996980d1ga2bbg4f2cg8738g5681aad63a93" version="1">Du kannst deine Kampfstilauswahl ändern.</content>
+  <content contentuid="hb0e5bc42gb25fg4690g938dgd1e3891fecf1" version="1">Du kannst deine Paktsegen-Auswahl ändern.</content>
   <content contentuid="a85ab2e07b7d4cc5babd8694e19f778d" version="1">Du kannst dich dafür entscheiden, eine Waffe nicht zu beherrschen.</content>
   <content contentuid="1ae7c683-e5d1-4430-b72a-16cae830bd36" version="1">Du kannst deine Magie so einsetzen, dass sie Schaden absorbiert, während dein Klingenlied aktiv ist. Wenn du Schaden nimmst, kannst du deine Reaktion nutzen, um einen &lt;LSTag Tooltip="SpellSlot" &gt;Zauberslot&lt;/LSTag&gt; zu verbrauchen und diesen Schaden um das Fünffache der &lt;LSTag Tooltip="SpellSlot" &gt;Zauberslot-Stufe&lt;/LSTag&gt; zu reduzieren.</content>
+  <content contentuid="hc879165ag99b3g4ebega700g12b2a2c8efbe" version="1">Du kannst dein Bewusstsein durch die Zusammenhänge der Natur fokussieren. Du lernst zusätzliche Zaubersprüche, wenn du bestimmte Stufen in dieser Klasse erreichst, falls du sie noch nicht kennst. Du kannst jeden dieser Zauber einmal wirken, ohne einen &lt;LSTag Tooltip="SpellSlot"&gt;Zauberplatz zu verbrauchen&lt;/LSTag&gt;. Sobald du einen Zauber auf diese Weise gewirkt hast, kannst du dies nicht mehr tun, bis du eine &lt;LSTag Tooltip="LongRest"&gt;Long Rest beendet&lt;/LSTag&gt; hast.</content>
   <content contentuid="bad85182-6102-4901-903d-590a3ba91e77" version="1">Du kannst ein mächtiges Band zwischen Menschen knüpfen, die in Frieden miteinander leben.
 Als Aktion wählst du [1] verbündete Kreaturen im Umkreis von [2] von dir (dich selbst eingeschlossen) und erschaffst ein magisches Band zwischen ihnen oder bis du diese Fähigkeit erneut benutzt.
 Solange sich eine verbündete Kreatur in einem Umkreis von [2] um eine andere befindet, kann die Kreatur einmal pro Runde einen Bonus von +[3] auf einen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsüberprüfung&lt;/LSTag&gt; oder &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; machen.</content>
-  <content contentuid="27adf46d-fa49-41a9-ab0e-d1590232c1bc" version="1">Du erlangst &lt;LSTag Tooltip="Proficiency" &gt;Fähigkeit&lt;/LSTag&gt; mit leichter Rüstung und du erlangst &lt;LSTag Tooltip="Proficiency" &gt;Fähigkeit&lt;/LSTag&gt; mit einem Typ einhändiger Nahkampfwaffen deiner Wahl. Du erhältst außerdem &lt;LSTag Tooltip="Proficiency" &gt;Befähigung&lt;/LSTag&gt; in der Fertigkeit Leistung, wenn du sie nicht bereits besitzt.</content>
+  <content contentuid="hfdd3b858g1a29g4169g8a92ge166d65dc52c" version="1">Du kannst dich selbst geben [1].</content>
+  <content contentuid="hd1a21dbbg37eeg44c5gbdedga7196df3c2e3" version="1">Du kannst den Schaden, den du verursachst, einmal pro Spielzug um [1] erhöhen, während du eine Kreatur markierst.</content>
+  <content contentuid="hae8d3b89gb0e9g48a9g8c0dg83a0d6bab6c5" version="1">Du kannst 2 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;Ki Punkte ausgeben&lt;/LSTag&gt; und einen Kampfkunstwürfel würfeln, um [1] wiederzuerlangen.</content>
+  <content contentuid="h42da8c38g066fg4c94gbb0ega31a34b5b457" version="1">Du kannst deine innere Quelle der Magie anzapfen, um zu versuchen, aus Misserfolgen Erfolge zu zaubern. Du kannst 1 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Zauberpunkt&lt;/LSTag&gt; ausgeben, um einen &lt;LSTag Tooltip="AbilityCheck"&gt;Fähigkeitsüberprüfung&lt;/LSTag&gt; mit einem Wurf von 3 oder weniger zu wiederholen, und du musst den neuen Wurf verwenden.</content>
+  <content contentuid="h25fa5380ge91bg441bga7bag276192a7e347" version="1">Du kannst deine &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Göttlichkeit kanalisieren&lt;/LSTag&gt;, um deine Zauber zu verstärken. Als Bonusaktion berührst du dein heiliges Symbol, sprichst ein Gebet und erhältst einen verbrauchten &lt;LSTag Tooltip="SpellSlot" &gt;Zauberslot&lt;/LSTag&gt; zurück, dessen Stufe nicht höher sein darf als die Hälfte deines &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; (aufgerundet). Wie oft du diese Eigenschaft benutzen kannst, hängt von der Stufe ab, die du in dieser Klasse erreicht hast: Ab Stufe 2 einmal, ab Stufe 6 zweimal. Du erhältst alle verbrauchten Anwendungen zurück, wenn du eine &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendest.</content>
+  <content contentuid="h5b256406g78c9g43cfgb158g3c8eba1a78c0" version="1">Du schöpfst aus den Kräften der Natur, um dich kurzzeitig vor den Blicken zu verstecken, indem du auf magische Weise unsichtbar wirst.</content>
+  <content contentuid="27adf46d-fa49-41a9-ab0e-d1590232c1bc" version="1">Du erlangst &lt;LSTag Tooltip="Proficiency" &gt;Fertigkeit&lt;/LSTag&gt; mit leichter Rüstung und du erlangst &lt;LSTag Tooltip="Proficiency" &gt;Fertigkeit&lt;/LSTag&gt; mit einem Typ einhändiger Nahkampfwaffen deiner Wahl. 
+Du erhältst außerdem &lt;LSTag Tooltip="Proficiency" &gt;Befähigung&lt;/LSTag&gt; in der Fertigkeit &lt;LSTag Tooltip="Performance"&gt;Leistungsfähigkeit&lt;/LSTag&gt;, wenn du sie nicht bereits besitzt.</content>
+  <content contentuid="ha3e7c858g8dc9g491dg8b13gf2b6bad36f5d" version="1">Du erhältst die Fähigkeit, einen Geist zu beschwören, der eine Tiergestalt annimmt. Als Aktion kannst du einen Einsatz deiner Eigenschaft "Wilde Form" aufwenden, um den Zauber &lt;LSTag Type="Spell" Tooltip="Target_FindFamiliar"&gt;Vertrauten finden&lt;/LSTag&gt; zu wirken.</content>
+  <content contentuid="ha1521904g9bbbg490egaeb7gda51d7583b81" version="1">Dein &lt;LSTag Tooltip="MovementSpeed"&gt;Die Bewegungsgeschwindigkeit&lt;/LSTag&gt; erhöht sich um [1].</content>
+  <content contentuid="h83ba1ae7ga760g43c4gb8f2g59f6e74c6515" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Acrobatics" &gt;Akrobatik&lt;/LSTag&gt; Würfen wird verdoppelt.</content>
+  <content contentuid="h9e214c2eg644dg4e70g9b05gd1f5c89e5aca" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="AnimalHandling"&gt;Umgang mit Tieren&lt;/LSTag&gt; Würfen wird verdoppelt.</content>
+  <content contentuid="h3010b045ge4d9g4a39gb4adgc9a3ba5fc265" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Arcana"&gt;Arkana&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="h79210289gb43bg4470gbfaag7c58552fe2ec" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Athletics"&gt;Athletik&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="haa062942g2b2cg4d67g89bfgadbe87895542" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Deception"&gt;Täuschung&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="hb72402abg4cddg453dg94a5g6d4d3ee93784" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; mit &lt;LSTag Tooltip="History"&gt;Geschichte&lt;/LSTag&gt;Prüfungen wird verdoppelt.</content>
+  <content contentuid="hb3b8cdd2gd20fg4328gb5c7g8105bdbb1ea5" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="hddd7eaf5ge979g43fegb653ga4d765cfafb1" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Intimidation"&gt;Einschüchterung&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="h1e425d76g1635g415agb0c9gd1091e87dd50" version="1">Ihr &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Investigation" &gt;Untersuchung&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="hd04ff8c4g2d8ag4764ga1cfgf00a84953d61" version="1">Ihr &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Medicine"&gt;Medizin&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="hac8984d9gd8e6g47fbg804agbb4d464c2812" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Natur"&gt;Natur&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="hf78b8ae6g5616g4a77gb59dg41cd2f0a9d45" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Perception"&gt;Wahrnehmung&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="h2cb2cff2gbf44g4c6agbbd5g2e0a58b5abb0" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Performance"&gt;Leistungsfähigkeit&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="hde60db8agba4fg4360g85c2gc6b4f59f473c" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Persuasion" &gt;Überzeugen&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="h634127b2gebd3g4810g9041g534bb2313f51" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="h58d5f409gdfc3g496bgbf7bgdd3447c7ec10" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="SleightOfHand"&gt;Fingerfertigkeit&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="h3614f5b9gffaeg45f9gb424g03a8367bb265" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Stealth"&gt;Heimlichkeit&lt;/LSTag&gt; Checks wird verdoppelt.</content>
+  <content contentuid="h89335a24g7de5g4988ga2e5g14646f893b99" version="1">Dein &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Survival"&gt;Überleben&lt;/LSTag&gt; Checks wird verdoppelt.</content>
   <content contentuid="4c0c5808-0bb4-4a21-82cb-2b665052f53a" version="1">Dein Klingengesang endet vorzeitig, wenn du außer Gefecht gesetzt bist, eine mittlere oder schwere Rüstung oder einen Schild trägst oder wenn du mit zwei Händen einen Angriff mit einer Waffe ausführst.</content>
-  <content contentuid="84e070ec-9320-4423-88bb-e9b08b425d3c" version="1">Ihre Ressource für die Nutzung der Klingengesang-Funktion.</content>
 </contentList>

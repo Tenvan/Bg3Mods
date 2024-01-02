@@ -149,6 +149,8 @@
 	<content contentuid="h17998f29ga94ag49fcg9f24g518e78c218d4" version="1">Melee attacker takes [1] when attacking you</content>
 	<content contentuid="h51b9ff47g8214g4870g8969g1e7da8f5bbef" version="1">Hydraulic Push 2e</content>
 	<content contentuid="h6aea7a04g8388g4f03g967dgeee5fd3ba139" version="1">You call forth a powerful blast of pressurized air that bludgeons the target and knocks it back.</content>
+	<content contentuid="h50dcd903gdd24g4e63g8720g8594418c65dd" version="1">Ant Haul 2e</content>
+	<content contentuid="he143cfaeg9ea6g40a4g985cga87f6f748aca" version="1">You reinfoce the target's musculoskeletal system to bear more weight, increasing the target's carrying capacity.</content>
 	<content contentuid="h3857a4e0gbdb4g4f5eg84e3g892bc7cfeac1" version="1">Acid Arrow 2e</content> ================ 2nd LEVEL ================
 	<content contentuid="h4a2b4299gf5e8g413cg862cg262a1937ec92" version="1">You conjure an arrow of acid that continues corroding the target after it hits. Make a spell attack against the target. On a hit, you deal [1] plus [2] at the start of each of its turns.</content>
 	<content contentuid="h57ecd0d1geaaag445dg82c7g3d990a09235a" version="1">Barkskin 2e</content>
@@ -617,12 +619,12 @@
 	<content contentuid="h099cd4cbgc17fg499cgac86gb5156c072f8f" version="1">You briefly call forth the spirit of a legendary wizard from ages long past</content>
 	<content contentuid="h365905cegb489g4f30g8826ged1b5dbee33c" version="1">Summon Irii</content>
 	<content contentuid="h4d3e045eg8206g4d86ga95cg4e6012dff0d0" version="1">You briefly call forth the spirit of Fate or Fortune.</content>
-	<content contentuid="h2f6fee29g4101g462eg928bg7ec1ef12c0b4" version="1">Arua of Fate</content>
-	<content contentuid="h9d64c8aegbc64g4c3fg81f9g932809a8814d" version="1">Project an Arua of Fate to friends and foe within 9m</content>
+	<content contentuid="h2f6fee29g4101g462eg928bg7ec1ef12c0b4" version="1">Aura of Fate</content>
+	<content contentuid="h9d64c8aegbc64g4c3fg81f9g932809a8814d" version="1">Project an Aura of Fate to friends and foe within 9m</content>
 	<content contentuid="hbde37647g8218g4e90gb883g02ca70ed4bd5" version="1">You can not roll lower than a 10 for attack rolls, saving throws, and skill checks.</content>
 	<content contentuid="h5c589ac4g46e6g45c1gaf95gb60cb5d526a1" version="1">You take a -3 penalty to all attack rolls, saving throws, and skill checks. (the average result of this is the same as treating rolling 10 or above as a 10)</content>
-	<content contentuid="h016bf6e2gffffg44eag9e29g10a96788a5bb" version="1">Arua of Fortune</content>
-	<content contentuid="h5bb14a23gfac5g41d2ga901g36a8fc8231c6" version="1">Project an Arua of Fortune to friends and foe within 9m</content>
+	<content contentuid="h016bf6e2gffffg44eag9e29g10a96788a5bb" version="1">Aura of Fortune</content>
+	<content contentuid="h5bb14a23gfac5g41d2ga901g36a8fc8231c6" version="1">Project an Aura of Fortune to friends and foe within 9m</content>
 	<content contentuid="h9cf02a88g098ag412dgbf13gf61a95a7c4ed" version="1">You have advantage on all Attack rolls, saving throws and skill checks.</content>
 	<content contentuid="he13aaa8cg09a6g4280ga7ecg3b76e6dea5b2" version="1">You have disadvantage on all Attack rolls, saving throws and skill checks</content>
 	<content contentuid="hf817c113g86d1g47c2gbd81gcf9fd21c8e5e" version="1">Summon Irii - Fate</content>

@@ -50,6 +50,7 @@
   <content contentuid="419b3896d6a44ca984cd242175cb15e2" version="1">Aktiviere ihn, um dir einen Bonus von +[1] auf deinen nächsten &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt; zu gewähren.</content>
   <content contentuid="92b9a85e-5d79-4a5f-9b9c-28037fb8189c" version="1">Äthersturm</content>
   <content contentuid="43e79983a5a14559bb0e7bd88d786b3b" version="1">Betroffene Kreaturen wiederholen den &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; am Ende ihrer Runde und beenden den Effekt bei einer erfolgreichen Rettung.</content>
+  <content contentuid="h477bb943ga05cg45e7g8886gefba7e655e16" version="1">Wirkt sich auf zwei zusätzliche Pfeile pro Stufe aus.</content>
   <content contentuid="3b196c615b9e4605b21133edec9f9359" version="1">Nachdem du diesen Zauber gewirkt hast, wirfst du einen W8. Bei einem Wurf von 1 zielst du automatisch auf eine zusätzliche Kreatur innerhalb von [1] um das ursprüngliche Ziel mit einer weiteren Masse chaotischer Energie.</content>
   <content contentuid="38fff5cb-4e53-4ac3-b630-93207fc5bf19" version="1">Aganazars Verbrenner</content>
   <content contentuid="9668954d-a22f-476b-bcff-f16994aadedf" version="1">Luftelementar</content>
@@ -204,7 +205,7 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="31463b0c-ca07-4746-a80b-144c0f83ca13" version="1">Erschaffe harmlose sensorische Effekte, die dir &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="Intimidation"&gt;Einschüchterung&lt;/LSTag&gt;-&lt;LSTag Tooltip="AbilityCheck" &gt;Fertigkeitswürfe&lt;/LSTag&gt; gewähren oder eine Feuerquelle an einem Objekt sofort auslöschen oder entzünden.</content>
   <content contentuid="a4e2714f-7d91-4ca4-a0d0-caba22e6781f" version="1">Erzeugt harmlose sensorische Effekte, die dir &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Intimidation"&gt;Einschüchterung&lt;/LSTag&gt;-&lt;LSTag Tooltip="AbilityCheck"&gt;-Fertigkeitswürfe&lt;/LSTag&gt; gewähren.</content>
   <content contentuid="ebd066fefafb453f997fe6d16f2dc8cf" version="1">Lege mehrere Pfund und Gallonen an Lebensmitteln und Wasser als Lagervorräte an.</content>
-  <content contentuid="677ff2e6-6860-4880-bfcf-394867d9fe80" version="1">Erstellt zwei weitere Meteore pro Level.</content>
+  <content contentuid="h677ff2e6g6860g4880gbfcfg394867d9fe80" version="1">Erzeugt zwei weitere Meteore pro Level.</content>
   <content contentuid="4609e40180d34e19bd3e98aead393712" version="1">Die Kreatur kann einen Bonus von +[1] auf einen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt;, 
 &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; oder &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswurf&lt;/LSTag&gt; gegen sie gewähren oder einen Malus von -[1] gegen einen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; gegen sie.</content>
   <content contentuid="bcf7130e4e504ffbb90c7294e3cb3f98" version="1">Die Kreatur kann sich nicht &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;verstecken&lt;/LSTag&gt; oder &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;unsichtbar&lt;/LSTag&gt; werden, während ihre Magie entdeckt wird.</content>
@@ -351,6 +352,8 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="dc794b83efc948c483dc8f4414fcf9d1" version="1">Herde von Vertrauten: Spinne</content>
   <content contentuid="81469115-e8f1-420d-aee9-c1eeeaf8ec28" version="1">Lass eine Nahkampfwaffe erblühen und verschwinde dann, um wie der Wind zuzuschlagen und bis zu fünf Kreaturen [1] zuzufügen.</content>
   <content contentuid="0c684636-31ce-4d8a-8055-1abd42ed8b37" version="1">Nahrung und Wasser</content>
+  <content contentuid="h0242beeag83ecg4376gb680g0277a14e1cc5" version="1">Nahrung und Wasser</content>
+  <content contentuid="hd426751fge01cg427cg980fg582d45c7a8eb" version="1">Für jede [1]-Zauberstufe, die höher ist als die des Originalzaubers, verursache eine zusätzliche [2].</content>
   <content contentuid="80fa537e-982f-4883-9953-1e556cf09550" version="1">Stelle eine telepathische Verbindung zwischen bis zu acht Wesen mit einem Intelligenzwert größer als 2 her und verbinde jedes Wesen mit jedem anderen.</content>
   <content contentuid="9019abf8-0a96-4307-bd13-d9657e89f3fd" version="1">Gunst des Glücks</content>
   <content contentuid="af9ea4cc274e409793da23bb19efd683" version="1">Freier Angriff nach einem Angriff.</content>
@@ -361,6 +364,7 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="d29b1dacc3ee4a14bb3bcb5a216a7008" version="1">Erhalte [1] und verfüge über einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Weisheit &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;. Erhalte einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; beim nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; im Kampf, nachdem du von einem Angriff getroffen wurdest.</content>
   <content contentuid="6f6c4d75b5674ab6b467c009ee0c438a" version="1">Erhalte [1] und mache Konstitutions-&lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; und auf Geschicklichkeit und Weisheit basierende &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt;. Schwieriges Gelände im Umkreis von [2] von dieser Kreatur.</content>
   <content contentuid="99bedb3e99294e9ab7fa5bc4962da8f6" version="1">Erhalte &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporäre Trefferpunkte&lt;/LSTag&gt; in Höhe der Hälfte von [1].</content>
+  <content contentuid="h28d9e0beg479cg49b9gb961gcfbf53246de9" version="1">Erhaltet ein zusätzliches [1] pro Stufe.</content>
   <content contentuid="6120046e-8c02-4b2f-9ff2-8c5e0234f32c" version="1">Nehme die Dienste von [1] Vertrauten in Anspruch, von denen jeder ein Feengeist ist, der eine von dir gewählte Tiergestalt annimmt.</content>
   <content contentuid="0470b21bdeb8470da97ab240f945772f" version="1">[1] &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; erhalten.</content>
   <content contentuid="4f6a8ece09cd4adc82aeba020e6c2c26" version="1">Fähigkeit erlangt, Säure in einem Kegel auszuatmen.</content>
@@ -606,6 +610,7 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="32c2b390-a38b-40e3-91a7-64aa4e682445" version="1">Elementar beschwören: Erde</content>
   <content contentuid="c03c582d-69b8-4403-a396-94e22f1a5da5" version="1">Elementar beschwören: Feuer</content>
   <content contentuid="0b6e1600-9d48-455a-bdf6-6a5bb4b17f35" version="1">Elementar beschwören: Wasser</content>
+  <content contentuid="h0b484c54gb947g41d1g9f18g07c22f3382c3" version="1">Beschwörung erhält +1 auf AC, +10 maximale &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; und verursacht +1 zusätzlichen Schaden bei Angriffen pro Stufe.</content>
   <content contentuid="38ebe1d1-ea04-49fa-96ab-0b45964ad0b5" version="1">Die Beschwörung erhält [1] AC, [2] und verursacht zusätzlich [1] Angriffsschaden pro Stufe und kann eine Anzahl von Angriffen ausführen, die der halben Stufe des Zaubers entspricht.</content>
   <content contentuid="1b745f89-847b-4dc3-91b2-40ed12a08414" version="1">Die Beschwörung erhält [1] zu AC, [2] und fügt bei Angriffen pro Level zusätzlich [1] Schaden zu.</content>
   <content contentuid="c777d29e-f060-493e-aa19-2b3b5ce56cbe" version="1">Schattenbrut beschwören</content>
@@ -664,6 +669,7 @@ Deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt
   <content contentuid="4ca7c3de83ce4f899772656eb42e9053" version="1">Dies ist deine Ressource für die Heilung von Kreaturen durch den &lt;LSTag Type="Spell" Tooltip="Target_HealingSpirit_Heal" &gt;Heilender Geist&lt;/LSTag&gt;-Zauber.</content>
   <content contentuid="f588083033e249c4aa82a687106cbeb4" version="1">Dies ist Ihre Ressource für die Anzahl der Flammenpfeile, die du verwenden kannst.</content>
   <content contentuid="c97efed3f85f47e28d8673d747421ef2" version="1">Dies ist Ihre Ressource für die Anzahl der winzigen Meteore, die due werfen kannst.</content>
+  <content contentuid="h690437e4gb833g4457ga150g8ed0d69ef773" version="1">Dieser Beutel ist bis zum Rand gefüllt mit genug Nahrung und Wasser, um mehr als ein Dutzend Kreaturen gut während einer langen Rast zu ernähren.</content>
   <content contentuid="0093f713362d41c7a44e7af2f2639a0e" version="1">Dieser Zauber endet, wenn du ihn erneut wirkst.</content>
   <content contentuid="0a68e3d4-b48a-48dd-bbfa-9d7a9af1fb25" version="1">Diese Waffe besteht aus Schatten, die durch die Kraft des Gewebes verfestigt und in Form gebracht werden.</content>
   <content contentuid="hdf837f46ga216g4000ga411g6aeee375f17f" version="1">Wirf einen der magischen Kieselsteine.</content>
