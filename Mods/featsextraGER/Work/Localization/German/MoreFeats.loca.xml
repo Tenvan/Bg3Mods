@@ -24,7 +24,6 @@
   <content contentuid="067327b8eee9416199efdeeeeeeeeeeeeeeee" version="1">Brecher</content>
   <content contentuid="kt1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Brecher: Krit</content>
   <content contentuid="kt1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Brecher: Bewegen</content>
-  <content contentuid="kt1836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Brecher: Ziel verschieben</content>
   <content contentuid="kt1666871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Jede Kreatur erhält 5 temporäre Trefferpunkte.</content>
   <content contentuid="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1">Unheimlicher Adept</content>
   <content contentuid="kt1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Fey berührt</content>
@@ -57,7 +56,6 @@
   <content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Deine Bewegung um 3 Meter verringert.</content>
   <content contentuid="kt1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Einmal pro Spielzug, wenn du eine Kreatur mit einem Nahkampfangriff triffst, der Knüppelschaden verursacht, bewegst du sie von dir weg, vorausgesetzt, das Ziel ist nicht mehr als eine Nummer größer als du.</content>
   <content contentuid="kt1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Einmal pro Spielzug, wenn du eine Kreatur mit einem Nahkampfangriff triffst, der Hiebschaden verursacht, verringerst du die Geschwindigkeit des Ziels um 3 Meter bis zum Beginn deines nächsten Zuges.</content>
-  <content contentuid="kt1846871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Einmal pro Spielzug, wenn du eine Kreatur mit einem Angriff triffst, der Knüppelschaden verursacht, kannst du sie 5 Fuß auf ein freies Feld bewegen, vorausgesetzt, das Ziel ist nicht mehr als eine Nummer größer als du |Groß oder kleiner|.</content>
   <content contentuid="kt1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktiver Widerstand</content>
   <content contentuid="kt1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktiver Widerstand</content>
   <content contentuid="kt1676871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktive Resistenz (Säure)</content>

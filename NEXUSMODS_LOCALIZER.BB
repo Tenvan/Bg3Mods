@@ -61,6 +61,7 @@ No more need for extra use of the ConverterApp.
 [url=https://www.nexusmods.com/baldursgate3/mods/5055]Cleric Subclasses GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3305]Demon Hunter Class GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4175]Dread Overlord GER[/url]
+[url=https://www.nexusmods.com/baldursgate3/mods/5572]Echo Knight Fighter GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/3897]Enemies Enhanced GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4165]Expansion (Bladesinger Only) GER[/url]
 [url=https://www.nexusmods.com/baldursgate3/mods/4563]Fantastical Multiverse GER[/url]

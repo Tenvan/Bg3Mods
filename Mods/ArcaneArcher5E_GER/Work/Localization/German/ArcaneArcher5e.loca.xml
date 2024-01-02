@@ -27,6 +27,7 @@
   <content contentuid="h398a2010gcebag4b06g8df1g13ff5f98d56c" version="1">Wähle einen Verbündeten innerhalb von [1] um das Ziel deines betörenden Pfeils. Die Kreatur wird &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Von&lt;/LSTag&gt; dem gewählten Verbündeten bis zum Beginn deines nächsten Zuges bezaubert.</content>
   <content contentuid="h2f7912dag0b60g4f28gb050g793c0a881766" version="1">Geschwungener Schuss</content>
   <content contentuid="h8a976813gc1e9g4b68g9288g34f381884cea" version="1">Schwächender Pfeil</content>
+  <content contentuid="h0014d61bg9dacg4f08ga14ag33b2a3e227a6" version="1">Allzeit bereiter Schuss</content>
   <content contentuid="hc41d9129g2070g4485g9c21g5d046554bed9" version="1">Erhaltet eine Arkanschuss-Option Eurer Wahl.  Sie sind alle magische Effekte, und jeder von ihnen ist mit einer der Schulen der Magie verbunden.</content>
   <content contentuid="h296409feg8a47g42eagab49g875dd6fc040f" version="1">Begriffen</content>
   <content contentuid="h66f282bage32ag4b9bg8a6agd762ce29b1ee" version="1">Greif-Pfeil</content>
@@ -68,4 +69,5 @@
   <content contentuid="hfe36373cg20e2g4a87gb321gb7ffef933de1" version="1">Ihr webt Illusionsmagie in Euren Pfeil, der die Sicht Eures Gegners mit Schatten verdeckt.</content>
   <content contentuid="hf3da5befg85b3g4c73g9479g5baefc809c56" version="1">Du webst nekromantische Magie in deinen Pfeil.</content>
   <content contentuid="h8fc5985agbee0g4fe0g9aa3ge99fd3eba798" version="1">Eure Verzauberungsmagie bewirkt, dass dieser Pfeil sein Ziel vorübergehend betört.</content>
+  <content contentuid="h811ca555gd55fg4dfdga914gfe716e0cc02f" version="1">Dein magisches Bogenschießen ist immer verfügbar, wenn der Kampf beginnt. Wenn du die Initiative würfelst und keine Verwendung von 'Arkaner Schuss' mehr hast, erhältst du eine Verwendung davon zurück.</content>
 </contentList>
