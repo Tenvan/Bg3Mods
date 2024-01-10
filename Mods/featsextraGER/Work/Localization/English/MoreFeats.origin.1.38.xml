@@ -10,25 +10,29 @@ Also, when you score a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag
 	<content contentuid="36634b055190488cae71deeeeeeeeeeeeeeee" version="1">Your exposure to the Feywild's magic has changed you, increasing your &lt;LSTag Tooltip="AbilityScore"&gt;Ability Score&lt;/LSTag&gt; score by 1.
 
 You also learn the &lt;LSTag Type="Spell" Tooltip="Target_MistyStep_FeyTouched"&gt;Misty Step&lt;/LSTag&gt; spell and one 1st-level spell of your choice. The 1st-level spell must be from the Divination or Enchantment school of magic. Your  &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Modifier&lt;/LSTag&gt; is the ability increased by this feat.</content>
-	<content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">Fey Touched: Intelligence</content>
-	<content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">Fey Touched: Wisdom</content>
+	<content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">Fey Touched: Int</content>
+	<content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">Fey Touched: Wis</content>
 	<content contentuid="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1">Fighting Initiate</content>
-	<content contentuid="182ca10953964f4aa71edeeeeeeeeeeeeeeee" version="1">You learn one Fighting Style option of your choice from the Fighter class. If you already have a style, the one you choose must be different.</content>
-	<content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">Gift of the Chromatic Dragon</content>
+	<content contentuid="182ca10953964f4aa71edeeeeeeeeeeeeeeee" version="1">Prerequisite: Proficiency with a martial weapon
+	
+You learn one Fighting Style option of your choice from the Fighter class. If you already have a style, the one you choose must be different.</content>
+	<content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">Gift of Chromatic Dragon</content>
 	<content contentuid="d7213c671ff64e589ba7deeeeeeeeeeeeeeee" version="1">You’ve manifested some of the power of chromatic dragons, granting you the following benefits:</content>
 	<content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">Healer</content>
 	<content contentuid="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1">As an action, you can &lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;Heal&lt;/LSTag&gt; another creature. That creature can't regain hit points in this way again until they finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">Inspiring Leader</content>
 	<content contentuid="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1">You can spend 10 minutes &lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;Inspiring&lt;/LSTag&gt; your companions, shoring up their resolve to fight.</content>
 	<content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">Metamagic Adept</content>
-	<content contentuid="6ab66eb3364442bea764deeeeeeeeeeeeeeee" version="1">You learn two Metamagic options of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. You also gain 2 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Sorcery Points&lt;/LSTag&gt; to spend on Metamagic. You regain all spent sorcery points when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="6ab66eb3364442bea764deeeeeeeeeeeeeeee" version="1">Prerequisite: Spellcasting or Pact Magic feature
+	
+You learn two Metamagic options of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. You also gain 2 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Sorcery Points&lt;/LSTag&gt; to spend on Metamagic. You regain all spent sorcery points when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="c2ec5b7dbdf84782b9e3deeeeeeeeeeeeeeee" version="1">Resilient</content>
-	<content contentuid="3d8e0883bf6447b0b43edeeeeeeeeeeeeeeee" version="1">Shadow Touched: Charisma</content>
+	<content contentuid="3d8e0883bf6447b0b43edeeeeeeeeeeeeeeee" version="1">Shadow Touched: Cha</content>
 	<content contentuid="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1">Your exposure to the Shadowfell's magic has changed you, increasing your chosen &lt;LSTag Tooltip="AbilityScore"&gt;Ability Score&lt;/LSTag&gt; by 1.
 
 You also learn the &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibility&lt;/LSTag&gt; spell and one 1st-level spell of your choice. The 1st-level spell must be from the Illusion or Necromancy school of magic. Your  &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Modifier&lt;/LSTag&gt; is the ability increased by this feat.</content>
-	<content contentuid="ecb90f47ea794594b8d2deeeeeeeeeeeeeeee" version="1">Shadow Touched: Intelligence</content>
-	<content contentuid="06d7fd92ea144aa6aff2deeeeeeeeeeeeeeee" version="1">Shadow Touched: Wisdom</content>
+	<content contentuid="ecb90f47ea794594b8d2deeeeeeeeeeeeeeee" version="1">Shadow Touched: Int</content>
+	<content contentuid="06d7fd92ea144aa6aff2deeeeeeeeeeeeeeee" version="1">Shadow Touched: Wis</content>
 	<content contentuid="fb9faddd99314a8fa271deeeeeeeeeeeeeeee" version="1">Skill Expert</content>
 	<content contentuid="eafd844a2e9a41eeb2a7deeeeeeeeeeeeeeee" version="1">Increase one &lt;LSTag Tooltip="AbilityScore"&gt;Ability Score&lt;/LSTag&gt; by 1, to a maximum of 20.
 

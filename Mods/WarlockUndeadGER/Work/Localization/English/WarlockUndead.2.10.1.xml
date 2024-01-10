@@ -18,6 +18,10 @@
 	<content contentuid="hc51a6d84g3c86g42c4gb924gbae192ffb51b" version="1">Your patron is a sentient Nightshade from the Plane of Shadow, master of death and shadows with extensive power over darkness.</content>
 	<content contentuid="h46cae778g1fb2g4086ga128g3cbf0895db9f" version="1">Patron: Greater Mummy</content>
 	<content contentuid="hc38fca19gb8b6g4d0ega1a7g293f7f6a5eb7" version="1">Your patron, once a powerful and cunning high lord, was reanimated to serve as an undead guardian and now wields fearful ancient magic.</content>
+	<content contentuid="hd02c27e8ge183g43acgb312g72d0f07bf77f" version="1">Patron: Gravetouched Ghoul</content>
+	<content contentuid="ha837b783gd2edg41b3g81deg80da09c1fcc6" version="1">Your patron was once a brutal chief Inquisitor for a notable cult. Transformed upon death and blessed by the King of the Ghouls himself, he now hunts sentient beings in an endless hunger to consume flesh.</content>
+	<content contentuid="h5035adcfg5515g45cfgb265gf0d594b3fa89" version="1">Patron: Death Knight</content>
+	<content contentuid="h2302036eg9d4cg4e59g82a0gab434228eedf" version="1">Placeholder</content>
 	<content contentuid="hfe52b5b2g9d7dg475cg9be4ge4f8f61e0f11" version="1">Form of Dread</content>
 	<content contentuid="hde3ffb8ag9a04g48b5ga383g840f9498efed" version="1">Form of Dread Uses</content>
 	<content contentuid="h3ae01de6g94bfg4b7agb931g1501bb9b5ef3" version="2">You can transform using &lt;LSTag Type="Spell" Tooltip="Shout_FormOfDread"&gt;Form of Dread&lt;/LSTag&gt; a number of times equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. You regain all expended uses when you finish a long rest.</content>
@@ -32,10 +36,12 @@
 	<content contentuid="hccd18e18ge132g4fe9g9f38gafcb4dd055a7" version="1">Form of Dread: Specter</content>
 	<content contentuid="hd052c378g2ccag47b5ga267gea64f5f9bb7e" version="1">Form of Dread: Nightwalker</content>
 	<content contentuid="h4412eba4g8a5ag4f31g95cdg1377a6c77592" version="1">Form of Dread: Greater Mummy</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82a" version="1">Form of Dread: Gravetouched Ghoul</content>
+	<content contentuid="h046e5c8bg333ag4294gb4f5g46216bd2c802" version="1">Form of Dread: Death Knight</content>
 	<content contentuid="h905a0ef1ge0f2g493ag9408g511444fa3ec6" version="1">Manifest an aspect of your patron's dreadful power.</content>
 	<content contentuid="h69ff16dbgf9fag4afdg95d4gef75889ea8e6" version="1">You gain [1] and are immune to &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;. Once during each of your turns, when you hit a creature with an attack, you force it to make a Wisdom saving throw, and if the saving throw fails, the target is frightened of you until the end of your next turn.</content>
 	<content contentuid="h169ad0d6g1f42g45e3g8112gac67730284e2" version="1">Your patron's dreadful powers permeate your entire being, altering your appearance and emanating around you. Your life forces are vivified and you feel fearless.</content>
-	<content contentuid="haacf5878g8cb3g43d3g9776g434b6a4c9693" version="1">Immune to the Frightened condition.</content>
+	<content contentuid="haacf5878g8cb3g43d3g9776g434b6a4c9693" version="1">Immune to the Frightened condition</content>
 	<content contentuid="h19d616aag35e8g4fa4ga59dg7847a72609e0" version="1">You can't be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;.</content>
 	<content contentuid="h29e87a3fga7d9g42c0gbaf2g3a44f196ec85" version="1">Eldritch Blast: Torment</content>
 	<content contentuid="h99e4e6abg0492g4bb1g9ac6g6c45d97d2b8e" version="2">Affected entity is inflicted with a horrible torment</content>
@@ -70,6 +76,10 @@
 	<content contentuid="h0d7f353fg90d1g474ag8871g61c7b18e2312" version="1">Proficiency Bonus +3</content>
 	<content contentuid="h045e350dgcf0fg4474gabf6gfec383beaaaf" version="1">Levels 9-12</content>
 	<content contentuid="h4a524f8bge902g46bbga01ag17ae362af23e" version="1">Proficiency Bonus +4</content>
+	<content contentuid="he7ddb2aeg8da2g4b24gb77fgb6b0fe19f04b" version="1">Levels 13-16</content>
+	<content contentuid="h34df0d47gd3b1g4f26gada0g407946fd1d4e" version="1">Proficiency Bonus +5</content>
+	<content contentuid="h4e9839d4g805cg4d14g87ddg378933b29dd6" version="1">Levels 17-20</content>
+	<content contentuid="h7c8e2921g3cbdg416fga85dg1f95ee19ac97" version="1">Proficiency Bonus +6</content>
 	<content contentuid="hdf090126g87a4g45cdgacb4g3b01c016ca83" version="1">Padded Armour</content>
 	<content contentuid="h3387091eg37eeg47b8g9cfdg42a11de3efba" version="1">A standard gambeson of quilted cloth. Good for catching blows, but almost unbearably sweaty.</content>
 	<content contentuid="hc4623646g3b59g4299g9042g65fd3e64a4e3" version="1">Mystic Arcanum</content>
@@ -84,4 +94,15 @@
 	<content contentuid="h6050c533gb416g4409g9deeg9fcb67a3b1b2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The condition ends if casting a spell that requires concentration.</content>
 	<content contentuid="h989ff0f8g5201g49bcgb175g08f7012d6c1c" version="1">End Spirit Projection</content>
 	<content contentuid="h0d48cfe8g4bf8g4c19g89c6gf1670e643a42" version="1">Bind your spirit to your physical form, breaking the projection and becoming whole once again.</content>
+
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82f" version="1">Form of Dread: Test 1</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82g" version="1">Form of Dread: Test 2</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82h" version="1">Form of Dread: Test 3</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82i" version="1">Form of Dread: Test 4</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82j" version="1">Form of Dread: Test 5</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82k" version="1">Form of Dread: Test 6</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82l" version="1">Form of Dread: Test 7</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82m" version="1">Form of Dread: Test 8</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82n" version="1">Form of Dread: Test 9</content>
+	<content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82o" version="1">Form of Dread: Test 10</content>
 </contentList>

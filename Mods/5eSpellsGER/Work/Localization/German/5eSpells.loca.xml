@@ -173,6 +173,8 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="abf114e9-dd05-45b2-a885-ea46d775a3f3" version="1">Zaubermonster</content>
   <content contentuid="c172dc976b8543158fe16b56c40a3143" version="1">Kühlende Hand</content>
   <content contentuid="29effb43-1002-4013-a4b6-62027354890b" version="1">Wähle eine Feuerfläche und erweitere deren Radius oder lösche die Flammen eines Objekts oder einer Feuerfläche.</content>
+  <content contentuid="h8691c6b0g97e8g4f4bg81e1gbd89f8d0f9d2" version="1">Wähle deinen aktuellen Standort aus, zu dem du zurückkehren möchtest, indem du den &lt;LSTag Type="Spell" Tooltip="Shout_Teleport"&gt;Teleportation&lt;/LSTag&gt;szauber verwendest.</content>
+  <content contentuid="h05552759ge4e2g4d0dgae0age8099852d5a7" version="1">Du hast einen Ort gewählt, an den du dich teleportieren möchtest.</content>
   <content contentuid="cb796812372c4ad4944804a521e83b7c" version="1">Von Blut, Schmutz und Schweiß gereinigt.</content>
   <content contentuid="bb7018d4037d4ac78eeb2f04df5c0e90" version="1">Erwachsenwerden</content>
   <content contentuid="bcf0265f-33f4-484e-9cdb-95b21a1f68e1" version="1">Mit der &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; kommunizieren</content>
@@ -336,6 +338,8 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="b8738fde-57e2-465d-a28b-2a22b406e22b" version="1">Weiter Schritt</content>
   <content contentuid="h9f00ff64ge055g4a55gbfb2g755cf0dfb838" version="1">Tod vortäuschen: Abweisen</content>
   <content contentuid="215750fa-e2c8-4c14-9bd9-fa6e4b782fbd" version="1">Füllt einen [1]-Würfel mit feyischer und drakonischer Magie und erzeugt zufällige magische Effekte, wenn der Zauber gewirkt wird und zu Beginn eurer Spielzüge.</content>
+  <content contentuid="h590c45c5g3010g481eg9c88g007c06861ac3" version="1">Finger des Todes</content>
+  <content contentuid="h065ad578g1c86g43b1gb388gcacf2396fc5f" version="1">Finger des Todes: Zombies</content>
   <content contentuid="ebdfc939-adab-4a60-ba50-8416f01e7ef2" version="1">Schieße ein Stück Munition aus einer Fernkampfwaffe in die Luft und wähle einen Punkt in Reichweite. Hunderte von Duplikaten der Munition fallen in einer Salve von oben herab und verschwinden dann, wobei sie Kreaturen [1] Schaden zufügen.</content>
   <content contentuid="23c7aa11-9985-40d1-818e-8ea2c5354a4b" version="1">Feuerelementar</content>
   <content contentuid="479f1f01-5f15-49da-ae4b-b33e602fa241" version="1">Fünf Kreaturen in dem Gebiet erhalten [1] und haben &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Weisheit &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;. Wenn eine betroffene Kreatur von einem Angriff getroffen wird, hat sie &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei ihrem nächsten &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; im Kampf.</content>
@@ -436,6 +440,10 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
 Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die gewählte Kreatur durchgeführt wird, kann sie alternativ einen Malus von -[1] auf den Wurf erheben.</content>
   <content contentuid="02e1a6d1-6197-4ef6-9450-25fd93a8201a" version="1">Erfülle einen Gegenstand mit magischer Dunkelheit, die Kreaturen innerhalb von [1] um ihn herum stark verdunkelt und &lt;LSTag Type="Status" Tooltip="BLINDNESS"&gt;blendet&lt;/LSTag&gt;.</content>
   <content contentuid="3c1beecf-6508-4c72-a3e3-be452d67e412" version="1">Feuer sofort löschen oder Gegenstand entzünden.</content>
+  <content contentuid="h1a8a1d88g0b17g4737g8c49g453d961cdcec" version="1">Transportiere sofort ein einzelnes Objekt in [1] deine Nähe.</content>
+  <content contentuid="h8d1774f8ge507g4307gabcdg516c40b7164b" version="1">Transportiere dich selbst und verbündete Kreaturen oder ein einzelnes Objekt in Reichweite sofort zu einem Ziel, das du sehen kannst oder das du zuvor markiert hast, um dorthin zurückzukehren.</content>
+  <content contentuid="h5b8f98e8g0130g470cg8efeg2456861b8bd4" version="1">Bewege dich und verbündete Kreaturen sofort an ein Ziel, das du sehen kannst.</content>
+  <content contentuid="haabe52b6g882eg401egb209g4f529d343e8f" version="1">Transportiere dich und verbündete Kreaturen sofort zu einem Ziel, das du zuvor markiert hast, um dorthin zurückzukehren.</content>
   <content contentuid="fc72d020-6231-4618-8635-06defbc06c9f" version="1">Festung des Intellekts</content>
   <content contentuid="84cef26e-3cc6-4dd0-a2c2-234b7cfdc390" version="1">Beschwört in einem Gebiet sowohl Tod als auch Leben, wodurch feindliche Kreaturen verdorren.</content>
   <content contentuid="6485b8a7-2721-459a-9802-5325ee091396" version="1">Kinetische Reise</content>
@@ -498,6 +506,7 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="b1f7f4417bde414abb41166a29152ba4" version="1">Bereit, auf eine Kreatur katapultiert zu werden.</content>
   <content contentuid="db65ca99-df3d-4492-9daa-28bf7861dcef" version="1">Fingerfertigkeit</content>
   <content contentuid="e1e8930c-4213-47f3-b049-7acba8410ad8" version="1">Ursprüngliche Wildheit</content>
+  <content contentuid="hcfc74665g60c1g4e7agb2bdg05c5ba3634d9" version="1">Leistungs-Bonus</content>
   <content contentuid="6d76a90090394014a192bf0b4423f001" version="1">Anfällig dafür, in einen unbesetzten Raum teleportiert zu werden.</content>
   <content contentuid="4aeb0d58-d625-4ef4-a7f4-5a62fc732861" version="1">Psychische Energie explodiert in einem Gebiet und bewirkt möglicherweise, dass Kreaturen [1] von ihren &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfen&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfen&lt;/LSTag&gt; und &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfen&lt;/LSTag&gt; abziehen, um die Konzentration aufrechtzuerhalten.</content>
   <content contentuid="e72eab18-4df7-422e-bfad-a27fc0a89633" version="1">Schlage psychisch auf [1] Kreatur(en) ein, um sie möglicherweise daran zu hindern, Reaktionen anzunehmen, und schränke sie durch Bewegung, eine Aktion oder eine Bonusaktion ein.</content>
@@ -505,6 +514,7 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="e0e96970-9600-4f41-9892-0c8d9e66526a" version="1">Pulswelle: Ziehen</content>
   <content contentuid="00a06207-0232-4090-8a2d-497e7b5afcc6" version="1">Pulswelle: Drücken</content>
   <content contentuid="a3741b86a7ca436d86ed8a2d0c67ad67" version="2">Schlage einen Gegner mit der Kraft eines Erdrutschs nieder.</content>
+  <content contentuid="h60b4cdacg257ag4b1fg94d8g5fd668a597a7" version="1">Erhebe eine humanoide Kreatur, die durch den Zauber &lt;LSTag Type="Spell" Tooltip="Target_FingerOfDeath"&gt;Finger des Todes&lt;/LSTag&gt; getötet wurde, als Zombie.</content>
   <content contentuid="b05618ab-1c48-4a17-a4e2-497d90f44228" version="1">Tote beschwören</content>
   <content contentuid="a8d49accb42a48d79049692f9712070f" version="1">Von den Toten auferweckt, erhält er einen Malus von -[1] auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt; und &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="8f6c1e00e54e4992a287099d9ec96d06" version="1">Fernkampfangriffe mit der betroffenen Waffe verursachen zusätzlich [1].</content>
@@ -515,6 +525,8 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="83631e9a-5ba1-4788-82cb-6406bd38a293" version="1">Greife in den Geist einer Kreatur ein und verlieren so die Fähigkeit, Freund und Feind zu unterscheiden.</content>
   <content contentuid="8323595f-6775-40bc-b147-063e1200a24b" version="1">Erhalten Sie &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; zurück.</content>
   <content contentuid="d9039419-9c56-41ab-98e6-7b3d7457abf1" version="1">Erhalte &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; zurück.</content>
+  <content contentuid="h4da15ee9gcb84g45f7gb813g93ae30e51369" version="1">Erhält [1] pro Spielzug zurück.</content>
+  <content contentuid="hfeb7855fgd59bg42c0gbfabg03d7c7b1b25e" version="1">Erneuern</content>
   <content contentuid="9a028fa4-6333-4581-a675-f08e2186546b" version="1">Entferne eine Schlammoberfläche.</content>
   <content contentuid="7cd27bde3f7c4fe8bd59be5b29b5143d" version="1">Entfernt die Säure, die das Ziel bedeckt.</content>
   <content contentuid="3a1b6e454fac4cdfa3303b64c35e33f3" version="1">Ersetze den Zauber oder entferne ihn aus der Hotbar.</content>
@@ -530,6 +542,7 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="eaeed94dc8384fd294df27282718a336" version="1">Ergreife die Luft und zwinge sie, eine Kreatur möglicherweise bis zu [1] von dir wegzudrücken.</content>
   <content contentuid="85322456b80b4bd5b1813ee6d0168fc7" version="1">Die Luft ergreifen und sie zwingen, ein Gewicht von bis zu 5 Pfund [2] wegzuschieben.</content>
   <content contentuid="878a9700-fe05-4a2a-aa2f-9f7e44fa7794" version="1">Sende negative Energie auf eine Kreatur und verursache [1], wenn es sich nicht um einen Untoten handelt. Durch diesen Schaden getötete Ziele erheben sich zu Beginn Ihres nächsten Zuges als Zombie und werden feindselig gegenüber allen Kreaturen. Wenn das Ziel ein Untoter ist, erhält es stattdessen [2].</content>
+  <content contentuid="ha577f4bbge55eg4282gbe25gc59a636670b3" version="1">Schicke negative Energie durch eine Kreatur. Ein Humanoider, der durch diesen Zauber getötet wird, kann als Zombie auferstehen und dauerhaft unter deinem Kommando stehen.</content>
   <content contentuid="8df9a52b-1702-4bcb-aaf4-ee2f66c9cea3" version="1">Schicke einen Meteor in ein Gebiet.</content>
   <content contentuid="23632ada-db01-480c-bbee-5194974bc667" version="1">Schicke einen oder zwei Meteore in ein Gebiet.</content>
   <content contentuid="0043fb1a-035a-47f3-9ba2-9d15dc2a1ac4" version="1">Schicke zwei Meteore in Richtung desselben Gebiets oder verschiedener Gebiete.</content>
@@ -571,6 +584,7 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="a354a061-e594-4604-9204-4ba58b16d318" version="1">Schlingenfalle</content>
   <content contentuid="00837fb5-e6dd-414c-ad00-a275aedb9c5c" version="1">Schneeballsturm</content>
   <content contentuid="81c4fbae-fce7-4f36-a494-6055379ffee8" version="1">Die Zauberreichweite erhöht sich um [1] pro Stufe.</content>
+  <content contentuid="h4fe6b57fg2c2dg43dbg913dg03d49d0bebab" version="1">Modifikator für Zauberfähigkeiten</content>
   <content contentuid="97096d9d739147489f5d817606c47429" version="1">Der Geist hat &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Erschreckte&lt;/LSTag&gt; Kreaturen.</content>
   <content contentuid="23dd88c7-8782-42c0-b724-4a402ab2665b" version="1">Geistiges Leichentuch</content>
   <content contentuid="3e36d300-9c21-4249-b403-1c7a0109bb57" version="1">Geistiges Leichentuch: Kalt</content>
@@ -585,6 +599,9 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="3121b9e3-a94e-44e3-be6f-259946ba70ce" version="1">Stähle deine Entschlossenheit gegen den Effekt des Zornigen Schlags.</content>
   <content contentuid="9b0579a5-8a2d-4127-ac47-0cd8582e0027" version="1">Trifft ein Ziel mit einer Nahkampfwaffe, sodass das Feuer von eurem Ziel überspringt und einen zweiten Gegner in der Nähe im Umkreis von [1] trifft, was [2] verursacht.</content>
   <content contentuid="aa20553d-362b-4ff6-b5d9-5c70e4e37e59" version="1">Trifft ein Ziel mit einer Nahkampfwaffe und umgibt es mit einer dröhnenden Energie, die explodiert und [1] verursacht, wenn sie sich bereitwillig bewegt.</content>
+  <content contentuid="h7bdb8874g008cg4b04gae06gf214073ccf7c" version="6">Triff einen Feind mit einem Blitz. Fünf weitere Bolzen springen aus dem Ziel und elektrisieren bis zu fünf weitere Gegner im Inneren [1].</content>
+  <content contentuid="hdbd72d41gde74g476dgab90gd7d4013a6d7e" version="6">Triff einen Feind mit einem Blitz. Vier weitere Bolzen springen aus dem Ziel und elektrisieren bis zu vier weitere Gegner in [1].</content>
+  <content contentuid="hb18bb3adg3fb1g4bbega531gb99ccdb8a98a" version="6">Triff einen Feind mit einem Blitz. Sechs weitere Bolzen springen aus dem Ziel und elektrisieren bis zu sechs andere Gegner im Inneren [1].</content>
   <content contentuid="0cbf370b-c09a-4482-9611-5f87e2de456d" version="1">Starker Wind bläst dich in einem [1]-Radius, während er Wolken auflöst und Flammen auf Objekten löscht.
 Andere Kreaturen innerhalb des Windes befinden sich in &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN" &gt;Schwierigem Gelände&lt;/LSTag&gt;.
 Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag&gt; bei Fernkampfangriffen, die durch den Wind gehen.</content>
@@ -635,10 +652,14 @@ Kreaturen haben außerdem &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag
   <content contentuid="5a6e089bbceb4efdba28b65f473ebc54" version="1">Ziele erleiden weiterhin den halben Schaden und erleiden keine anderen Effekte.</content>
   <content contentuid="7f4617b3a6934167964f71def74aab54" version="1">Telepathisch mit dem Zaubernden verbunden und hat &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen Kreaturen im Umkreis von [1].
 Die Kreatur und der Zauberer haben &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; und &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;, die sich gegenseitig einschließen würden.</content>
+  <content contentuid="hebef4bd1g75d6g47b1ga039gcde444c86636" version="1">Teleportieren</content>
   <content contentuid="9d031748-20cf-44f8-8f2d-fe5a46d5c486" version="1">Teleportiere eine Kreatur, um die du den Raum auf magische Weise verdreht hast, in einen unbesetzten Raum.</content>
   <content contentuid="b3d9e8f4-5a5b-4ac4-b444-982b19e1a2d1" version="1">Teleportiere dich zu einem Ziel deines Stahlwindschlags.</content>
   <content contentuid="5b0785b3-b52b-405c-adcf-4fa362b1a310" version="1">Teleportiere dich in einen leeren Raum, den du sehen kannst. Als Bonusaktion kannst du dich in deinen Zügen erneut teleportieren.</content>
   <content contentuid="e46ef781-4e75-4f64-8042-c5b3a7f5d5bd" version="1">Teleportieren dich zu einem unbesetzten Feld und verursache einen donnernden Knall innerhalb von [1] des Feldes, das du verlassen hast.</content>
+  <content contentuid="hc773820bg473fg4dd3g9d83gb0ab5790203e" version="1">Teleportieren: Kreaturen</content>
+  <content contentuid="hb973c1b3gb0aeg49fbgb01dgb1792dfc4bbc" version="1">Teleport: Ziel</content>
+  <content contentuid="h19de1495g6c78g40c0g91c7g2d58fecbf4e3" version="1">Teleportieren: Objekt</content>
   <content contentuid="fc2b0a7e-5ea3-44d2-9031-389f9dafaaa7" version="1">Temporaler Anschluss</content>
   <content contentuid="b5f4248a-3098-4d6d-a44f-e760ef7c0e31" version="1">Temporaler Anschluss</content>
   <content contentuid="682e2d22b1a542488028dc7555553aae" version="1">Temporärer Verbündeter des Zauberers.</content>
@@ -664,6 +685,7 @@ Deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt
   <content contentuid="971bb1b1e9cb4592b12b368057ae539c" version="1">Der Geist schreit, möglicherweise &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrecken&lt;/LSTag&gt;Kreaturen.</content>
   <content contentuid="fa118a5a-cabe-45e3-9aa6-1df58d6834b4" version="1">Zu den Oberflächen gehören Wasser, elektrifiziertes Wasser, elektrifiziertes Blut, Schlamm, Gift und Fett.</content>
   <content contentuid="c758d016-dc05-45cd-8cbd-c3b273593032" version="1">Das Ziel muss die gewählte Fertigkeit beherrschen und darf nicht bereits von einem Effekt profitieren, der seinen &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeitsbonus&lt;/LSTag&gt; verdoppelt.</content>
+  <content contentuid="hb45211cfg5fc3g4988gb113g4d07ca47a88e" version="1">Die abgetrennten Körperteile des Ziels, falls vorhanden, werden ebenfalls wiederhergestellt.</content>
   <content contentuid="66c0ac2e056a4a04b668b23b6b221606" version="1">Dieser Angriff verursacht einen zusätzlichen Schaden in Höhe des Zauberslots, der zur Erschaffung des Elementars verwendet wurde.</content>
   <content contentuid="43c787dd-bf8b-4042-b2d2-947ea6e966d8" version="1">Dieser Bogen schießt einen Blitz ab.</content>
   <content contentuid="4ca7c3de83ce4f899772656eb42e9053" version="1">Dies ist deine Ressource für die Heilung von Kreaturen durch den &lt;LSTag Type="Spell" Tooltip="Target_HealingSpirit_Heal" &gt;Heilender Geist&lt;/LSTag&gt;-Zauber.</content>
@@ -679,6 +701,7 @@ Deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt
   <content contentuid="hda07c851g92a9g41f9gb750g4f8aa7e21a39" version="1">Berühre einen Behälter mit Wasser im Inventar einer Kreatur und verwandle ihn in &lt;LSTag Type="Status" Tooltip="BLESS_WATER"&gt;Heiliges Wasser&lt;/LSTag&gt;.</content>
   <content contentuid="b47bd9f3-f7a9-4011-83a9-b46d9a894179" version="1">Berühre eine Kreatur, die gestorben ist. Diese Kreatur wird mit [1] wieder zum Leben erweckt.</content>
   <content contentuid="876058c1a7e34d569a16a8dd0dbf4f0d" version="1">Berühre eine Kreatur, um sie vor Wahrsagungsmagie zu verbergen und so zu verhindern, dass Wahrsagungszauber auf sie zielen und von magischen Wahrsagungssensoren wahrgenommen werden.</content>
+  <content contentuid="h3c16c38bg3e76g4f4egb696g7494ad91d656" version="1">Berühre eine Kreatur, um ihre natürliche Heilfähigkeit zu stimulieren und zu Beginn ihrer Züge [1] und [2] wiederherzustellen.</content>
   <content contentuid="6f1aeb88-1e7a-43b5-a0be-0512f2ec3b70" version="1">Berühre eine Kreatur, wodurch sie vergiftet wird und am Ende ihrer Züge konstitutionsrettende Würfe ausführt.</content>
   <content contentuid="hdeffb722g37d8g4599gb829gd000b1684677" version="1">Berühre eine Kreatur und gewähre ihr einen Bonus von +[1] auf &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
   <content contentuid="h82d99f51g657fg442fgbe41g3f57c243ad4a" version="1">Berühre eine Kreatur und gewähre ihr einen Bonus von +[1] auf &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt;.</content>

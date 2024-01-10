@@ -17,12 +17,23 @@
   <content contentuid="hfe52b5b2g9d7dg475cg9be4ge4f8f61e0f11" version="1">Form des Schreckens</content>
   <content contentuid="hde3ffb8ag9a04g48b5ga383g840f9498efed" version="1">Form des Schreckens Verwendung</content>
   <content contentuid="h5ae0966dg5a6ag4f1bg94bfgf004064e03fb" version="1">Form des Schreckens: Erzlich</content>
+  <content contentuid="h046e5c8bg333ag4294gb4f5g46216bd2c802" version="1">Gestalt des Schreckens: Todesritter</content>
   <content contentuid="h50c83b09g8767g4b70g9b1cg6c2ea6acde1b" version="1">Form des Schreckens: Uralte Untote</content>
   <content contentuid="hef81fddeg4d46g4a3agae32gb707c0797b99" version="1">Form des Schreckens: Ressource Angst</content>
   <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82a" version="1">Form des Schreckens: Grabberührter Ghoul</content>
   <content contentuid="h4412eba4g8a5ag4f31g95cdg1377a6c77592" version="1">Form des Schreckens: Große Mumie</content>
   <content contentuid="hd052c378g2ccag47b5ga267gea64f5f9bb7e" version="1">Form des Schreckens: Nachtwandler</content>
   <content contentuid="hccd18e18ge132g4fe9g9f38gafcb4dd055a7" version="1">Form des Schreckens: Gespenst</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82f" version="1">Form des Schreckens: Test 1</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82o" version="1">Form des Schreckens: Test 10</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82g" version="1">Form des Schreckens: Test 2</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82h" version="1">Form des Schreckens: Test 3</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82i" version="1">Form des Schreckens: Test 4</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82j" version="1">Form des Schreckens: Test 5</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82k" version="1">Form des Schreckens: Test 6</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82l" version="1">Form des Schreckens: Test 7</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82m" version="1">Form des Schreckens: Test 8</content>
+  <content contentuid="hc4da8afagfaa3g457dg818agfd1fc066e82n" version="1">Form des Schreckens: Test 9</content>
   <content contentuid="h3a1d44d4gc95fg4c9cg81a7gc0e862b1b124" version="1">Form des Schreckens: Vampirlord</content>
   <content contentuid="hc55dd849gb5ffg4de0g8f6dg9bf47fc9d4b6" version="1">Erschrecken</content>
   <content contentuid="hf7346b89g0b04g4daagac54g79c07a69021d" version="1">Berührtes Grab: Atemlos</content>
@@ -35,6 +46,8 @@
   <content contentuid="hfdd33446ge468g4f3bg9d81gbaa9061df8f0" version="1">Erhöht die &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; einer Kreatur um [1] und verdoppelt ihre Tragfähigkeit.</content>
   <content contentuid="h26a5f328g0102g4498gb5f3g0f9ca73a241f" version="1">Beschwöre den Geist einer großen, quasi-realen, pferdeähnlichen Kreatur, die mit einem Sattel, Gebiss und Zaumzeug ausgestattet ist. Du oder eine Kreatur deiner Wahl werden für die Dauer des Zaubers oder bis du Schaden nimmst vom Geist des Pferdes durchdrungen.</content>
   <content contentuid="h5f24554cgd225g4163g8692g901d9f15f006" version="1">Level 1-4</content>
+  <content contentuid="he7ddb2aeg8da2g4b24gb77fgb6b0fe19f04b" version="1">Stufen 13-16</content>
+  <content contentuid="h4e9839d4g805cg4d14g87ddg378933b29dd6" version="1">Stufen 17-20</content>
   <content contentuid="h0eabfd3cg636fg4730g8f13g22a5a0e92c28" version="1">Level 5-8</content>
   <content contentuid="h045e350dgcf0fg4474gabf6gfec383beaaaf" version="1">Level 9-12</content>
   <content contentuid="h905a0ef1ge0f2g493ag9408g511444fa3ec6" version="1">Machen Sie einen Aspekt der schrecklichen Macht Ihres Gönners sichtbar.</content>
@@ -48,6 +61,7 @@
   <content contentuid="h3711ba99g49b4g43f3g9c4cg82ffcc67d03f" version="1">Zwinge die Kreatur zu einem Weisheitswurf, und wenn dieser misslingt, hat das Ziel bis zum Ende deines nächsten Zuges Angst vor dir.</content>
   <content contentuid="hdf090126g87a4g45cdgacb4g3b01c016ca83" version="1">Gepolsterte Rüstung</content>
   <content contentuid="h04480a48g9d73g4ed7g9b1cga71c5a0e41bb" version="1">Gönner: Erzlich</content>
+  <content contentuid="h5035adcfg5515g45cfgb265gf0d594b3fa89" version="1">Patron: Todesritter</content>
   <content contentuid="h9d934614g4b6fg4566g9ed4g9f0bdba7321f" version="1">Gönner: Uralte Untote</content>
   <content contentuid="hd02c27e8ge183g43acgb312g72d0f07bf77f" version="1">Schirmherr: Grabberührter Ghoul</content>
   <content contentuid="h46cae778g1fb2g4086ga128g3cbf0895db9f" version="1">Gönner: Große Mumie</content>
@@ -56,9 +70,12 @@
   <content contentuid="h4c0b7fbegc219g4d8cg93e5g5664ba04d6ac" version="1">Gönner: Vampirlord</content>
   <content contentuid="hf29fe240g3346g4c62ga223ga0e25f10ceed" version="1">Phantomross</content>
   <content contentuid="h7f7c6e1cg5d86g4644gb492g7a486a7a7479" version="1">Phantomross</content>
+  <content contentuid="h2302036eg9d4cg4e59g82a0gab434228eedf" version="1">Platzhalter</content>
   <content contentuid="h289ecb12ga71fg4614g8449gcb66b38a498a" version="1">Übungsbonus +2</content>
   <content contentuid="h0d7f353fg90d1g474ag8871g61c7b18e2312" version="1">Übungsbonus +3</content>
   <content contentuid="h4a524f8bge902g46bbga01ag17ae362af23e" version="1">Übungsonus +4</content>
+  <content contentuid="h34df0d47gd3b1g4f26gada0g407946fd1d4e" version="1">Fertigkeitsbonus +5</content>
+  <content contentuid="h7c8e2921g3cbdg416fga85dg1f95ee19ac97" version="1">Fertigkeitsbonus +6</content>
   <content contentuid="h9501cd1ag9d52g4932gb306gb1435cabcedf" version="1">Wählen Sie einen Gönner aus</content>
   <content contentuid="h5c6a0f9eg253bg4fbbg8c6eg4f9b9c9f9aa5" version="1">Wähle einen deiner Level-7-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;LSTag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>
   <content contentuid="h6fa11281g8898g423bgb6cag8c14c9c96056" version="1">Wähle einen deiner Level-8-Zauber aus. Einmal pro &lt;LSTag Tooltip="Long Rest"&gt;Lange Rast&lt;/LSTag&gt; kannst du diesen Zauber wirken, ohne einen &lt;LSTag Tooltip="Spell Slot"&gt;Zauberplatz&lt;/LSTag&gt; zu verbrauchen.</content>

@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f610" version="1">Expert Assassin</content>
+    <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f610" version="1">Expert Assassin</content>
 	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f611" version="1">You know the skills every good assassin has picked up. Your repertoire includes &lt;LSTag Type="Spell" Tooltip="Shout_InfiltrationExpertise"&gt;Infiltration Expertise&lt;/LSTag&gt;.</content>
 	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f612" version="1">Master Thief</content>
 	<content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f613" version="1">You've mastered all the skills a thief can learn. Your repertoire includes &lt;LSTag Type="Spell" Tooltip="Shout_SupremeSneak"&gt;Supreme Sneak&lt;/LSTag&gt;.</content>
@@ -206,4 +205,26 @@
 	<content contentuid="h51892719g943cg4d78gb97dgc0543ef69f14" version="1">A being from outside your reality has promised to take you under its wing and bestow a piece of its knowledge upon you. Gain expertise in two skills.</content>
 	<content contentuid="h9915107dg066ag4e05ga548g15d469fa5536" version="1">Untamed</content>
 	<content contentuid="h9915107dg066ag4e05ga548g15d469fa5537" version="1">The wild influence of magic may have transformed you, yet, you are a barbarian at heart. Your repertoire includes &lt;LSTag Type="Spell" Tooltip="Shout_MagicAwareness"&gt;Magic Awareness&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_BolsteringMagic_Boost"&gt;Bolstering Magic&lt;/LSTag&gt;.</content>
+	<content contentuid="h40e487a4g2413g4095gbc4bg3362587acde5" version="1">Smite Unlocker</content>
+	<content contentuid="h40e487a4g2413g4095gbc4bg3362587acde6" version="1">Unlock Smites</content>
+	<content contentuid="haa1a165fg3101g4275g8733g52bbe3d6a588" version="1">Professor</content>
+	<content contentuid="haa1a165fg3101g4275g8733g52bbe3d6a589" version="1">You have enough knowledge and experience to teach others.</content>
+	<content contentuid="h028bc42eg1851g445cg8210g9be980f9a906" version="4">Each time you take a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, the intensity of your &lt;LSTag Type="Passive" Tooltip="ArcaneWard"&gt;Arcane Ward&lt;/LSTag&gt; increases by an amount equal to your level.</content>
+	<content contentuid="h028bc42eg1851g445cg8210g9be980f9a907" version="1">Each time you cast an Abjuration spell, the intensity of the ward increases by the amount of the spell's Level.&lt;br&gt;&lt;br&gt;Each time you take damage, the ward blocks an amount of damage equal to its intensity, and its intensity decreases by [1].&lt;br&gt;&lt;br&gt;After each &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, the ward's intensity resets, and becomes the same as your level.</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f86e0" version="1">Warded Man</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f86e1" version="1">The blood of a mage runs through your veins but you care little for slinging spells, a good defense keeps you alive to fight another day, the ward is the way.</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f86e2" version="1">Three-eyed Crow's Descendant</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f86e3" version="1">Your ancestry bears the blessings of the Three-eyed Crow, you have insights into things that would otherwise be unknown to those without your gifts. Your repertoire includes &lt;LSTag Type="Spell" Tooltip="Shout_Darkvision_ThirdEye"&gt;Third Eye: Darvision&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_SeeInvisibility_ThirdEye"&gt;Third Eye: See Invisibility&lt;/LSTag&gt;.</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f86e4" version="1">Beguiling Mage</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f86e5" version="1">You come from a long line of wizards, however, you are only interested in bending the wills of others to best serve yourself. Your repertoire includes &lt;LSTag Type="Spell" Tooltip="Target_HypnoticGaze"&gt;Hypnotic Gaze&lt;/LSTag&gt;.</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f86e6" version="1">Evoker</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f86e7" version="1">Your family history is deeply entwined with the School of Abjuration, your friends are all Abjuration Wizards, making the obvious choice, you became an Evoker.</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f86e8" version="1">Party Magician</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f86e9" version="1">When you grew up, you wanted to be a great illusionist, you fell short, however, you are enough to entertain children at parties. Your repertoire includes &lt;LSTag Type="Spell" Tooltip="Shout_SeeInvisibility_TrainedEye"&gt;See Invisibility&lt;/LSTag&gt;.</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f8610" version="1">Alchemist</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f8611" version="1">You were always fascinated with transmutation, you craved power and immortality...but you settled for being the local alchemist.</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f8612" version="1">Cult Leader</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f8613" version="1">Your father made the Kool-Aid that let the last flock ascend to a higher realm, you will raise the next flock and mix the Kool-Aid yourself. You will bring them untold glory and salvation, as is your mission. Fortunately, your bloodline carries the power to reflect damage, which lets you deceive the naive into believing you are the chosen one.</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f8614" version="1">Cult Leader</content>
+	<content contentuid="h5886099ege97fg404ag8339g270d299f8615" version="1">Tap into the power of your bloodline to reflect 20% of damage back to the attacker.</content>
 </contentList>

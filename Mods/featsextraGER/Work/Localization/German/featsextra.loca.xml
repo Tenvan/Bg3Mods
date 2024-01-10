@@ -4,7 +4,19 @@
   <content contentuid="hg89c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Die Ausrüstung eines magischen Giftmischers enthält die Phiolen, Chemikalien und andere Ausrüstung, die für die Herstellung von Giften erforderlich sind, die nekrotischen Schaden anrichten</content>
   <content contentuid="hg87c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Ein Giftmischer-Set enthält die Fläschchen, Chemikalien und andere Geräte, die für die Herstellung von Giften erforderlich sind</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3643" version="1">Ein Giftmischer-Set enthält die Fläschchen, Chemikalien und andere Geräte, die für die Herstellung von Giften erforderlich sind</content>
+  <content contentuid="lz1086871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Absorbiert Elementarschaden einmal pro &lt;LSTag Tooltip="Lange Pause"&gt;Lange Pause&lt;/LSTag&gt;. Erleidet die Hälfte Schaden durch den nächsten Elementarangriff, der auf Euch abzielt, und fügt bei Eurem nächsten Angriff zusätzlich [1] dieses Elementtyps zu.</content>
   <content contentuid="hg72c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Vorteil Rettungswurf Gift</content>
+  <content contentuid="lz1066871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Magieschmied-Initiator</content>
+  <content contentuid="lz1186871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Im Rahmen eines &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; können Sie spezielle Speisen kochen, sofern Sie Zutaten und Kochutensilien zur Hand haben. Du kannst genug von dieser Nahrung für eine Anzahl von Kreaturen zubereiten, die 4 + deinem &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; entspricht. Am Ende des &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; erhält jede Kreatur, die das Futter frisst und einen oder mehrere Trefferwürfel ausgibt, um Trefferpunkte zurückzugewinnen, einen zusätzlichen Trefferpunkt.</content>
+  <content contentuid="lz1336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Großzügiges Glück</content>
+  <content contentuid="lz1306871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Großzügiges Glück genutzt</content>
+  <content contentuid="lz1286871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Großzügiges Glück: AttackRoll</content>
+  <content contentuid="lz1326871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Großzügiges Glück: Rettender Wurf</content>
+  <content contentuid="lz1156871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Chefkoch</content>
+  <content contentuid="lz1236871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Vom Küchenchef zubereitete Spezialkost</content>
+  <content contentuid="lz1256871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Vom Küchenchef zubereitete besondere Leckereien</content>
+  <content contentuid="lz1176871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Spezielles Essen kochen</content>
+  <content contentuid="lz1196871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Kochen Sie besondere Leckereien</content>
   <content contentuid="hc10571e2g30e8g4c86gb988ga9a234b4c0b5" version="1">Ausweichen</content>
   <content contentuid="hg94c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Ausweich-Aktion</content>
   <content contentuid="hb93172abga0feg4f07g9995g95eb0d815054" version="1">Ausweichaktion - Zwergenstärke |Erfordert Kampf|</content>
@@ -20,6 +32,7 @@
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7747" version="1">Elfengenauigkeit: Intelligenz</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7749" version="1">Elfengenauigkeit: Weisheit</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7766" version="1">Jedermanns Freund </content>
+  <content contentuid="lz1096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Abklingen</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3637" version="1">Feuer-Aura</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7762" version="1">Flammen des Phlegethos</content>
   <content contentuid="hg75c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Flammen des Phlegethos: Charisma</content>
@@ -30,38 +43,10 @@
 • Erhöhe einen Fähigkeitswert deiner Wahl um 1 auf maximal 20.
 • Du erlangst Kenntnisse in einer Fertigkeit deiner Wahl.
 • Wähle eine Fertigkeit aus, in der du über Kenntnisse verfügst. Du gewinnst Fachwissen mit dieser Fähigkeit, was bedeutet, dass dein Fähigkeitsbonus für jeden Fähigkeitswurf, den du damit machst, verdoppelt wird. Die Fähigkeit, die du wählst, muss eine sein, die nicht bereits von einer Funktion wie Expertise profitiert, die deinen Fähigkeitsbonus verdoppelt.</content>
-  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7767" version="1">Voraussetzung: Halb Elf. Du entwickelst deine magnetische Persönlichkeit, um dir den Weg durch die Welt zu erleichtern. Du erhältst die folgenden Vorteile:
-• Erhöhe deine Charisma-Punktzahl um 1, bis zu einem Maximum von 20.
-• Du erlangst Kenntnisse in den Fähigkeiten Täuschung und Überredung. Wenn du bereits eine der beiden Fertigkeiten beherrschst, wird dein Fähigkeitsbonus für jeden Wurf, den du mit dieser Fertigkeit machst, verdoppelt [Du erhältst Fertigkeit und einen Bonus von +2 auf den Wurf].</content>
-  <content contentuid="hb7cdfa17g2c06g4149g958dg0a886658a3b9" version="1">Voraussetzung: Zwerg. Du hast das Blut von Zwergenhelden durch deine Adern fließen. Du erhältst die folgenden Vorteile:
-• Erhöhe deinen Konstitutionswert um 1 bis maximal 20.
-• Immer wenn du die Ausweichaktion im Kampf durchführst, kannst du einen Trefferwürfel ausgeben, um dich selbst zu heilen. Wirf den Würfel, füge deinen Konstitutionsmodifikator hinzu und gewinne eine Anzahl von Trefferpunkten zurück, die der Gesamtsumme entspricht (mindestens 1).</content>
-  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7754" version="1">Voraussetzung: Tiefling. In dir fließt teuflisches Blut, das eine Widerstandsfähigkeit freisetzt, die der einiger Teufel ähnelt. Du erhälst folgende Vorteile:
-• Erhöhe deinen Konstitutionswert um 1, bis zu einem Maximum von 20.
-• Du bist widerstandsfähig gegen Kälte- und Giftschäden.
-• Du hast den Vorteil, Würfe vor Vergiftung zu retten.</content>
-  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7744" version="1">Die Genauigkeit der Elfen ist legendär, besonders die der Elfenbogenschützen und Zauberkundigen.
-Du hast ein unheimliches Ziel mit Angriffen, die auf Präzision und nicht auf rohe Gewalt setzen.
-
-Du erhältst die folgenden Vorteile:
-• Erhöhe deine Punktzahl für Geschicklichkeit, Intelligenz, Weisheit oder Charisma um 1 bis maximal 20.
-• Immer wenn du bei einem Angriffswurf mit Geschick, Intelligenz, Weisheit oder Charisma einen Vorteil hast, kannst du einen der Würfel einmal neu würfeln.</content>
-  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7763" version="1">Erhöhe deinen &lt;LSTag Tooltip="Intelligenz"&gt;Intelligenz&lt;/LSTag&gt; oder &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; Wert um 1, bis zu einem Maximum von 20.
-
-Wenn du Feuer-&lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfen&lt;/LSTag&gt; für einen von dir gewirkten Zauber würfelst, kannst du den Würfelwurf für Feuerschaden wiederholen, musst aber den neuen Wurf verwenden.
-
-Immer wenn du einen Zauber wirkst, der Feuerschaden verursacht, kannst du dich in eine &lt;LSTag Type="Passive" Tooltip="Fire_Aura"&gt;Aura des Feuers&lt;/LSTag&gt; hüllen.</content>
   <content contentuid="hg99e268ag49b0g48cbgaf37g76cec2369e9e" version="1">Du hast eine schnelle Auffassungsgabe für Details in deiner Umgebung und erhältst die folgenden Vorteile:
 Erhöhe deinen Intelligenz- oder Weisheitswert um 1, bis zu einem Maximum von 20.
 Wenn du den Mund eines Wesens sehen kannst, während es eine Sprache spricht, die du verstehst, kannst du das Gesagte interpretieren, indem du von den Lippen abliest.
 Du erhältst einen Bonus von +5 auf deine passiven Werte für Weisheit (Wahrnehmung) und Intelligenz (Nachforschung).</content>
-  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7765" version="1">Voraussetzung: Zwerg oder eine kleine Rasse. Du bist ungewöhnlich wendig für deine Rasse. Du erhälst die folgenden Vorteile:
-• Erhöht euren Stärke- oder Geschicklichkeitswert um 1 bis zu einem Maximum von 20.
-• Erhöhen deine Gehgeschwindigkeit um 5 Fuß.
-• Du erwirbst Kenntnisse in der Fähigkeit Akrobatik oder Leichtathletik (nach deiner Wahl).
-• Du hast einen Vorteil bei jedem Wurf auf Stärke (Athletik) oder Geschicklichkeit (Akrobatik), den du machst, um dem Griff zu entkommen.</content>
-  <content contentuid="5fea8060c9b54efda13e38216ce76655" version="1">Du manifestierst Schuppen und Krallen, die an deine drakonischen Vorfahren erinnern. Du erhältst die folgenden Vorteile: Erhöhe deine Punktzahl für Stärke, Konstitution oder Charisma um 1, bis zu einem Maximum von 20.
-Während du keine Rüstung trägst, kannst du deine AC als 13 + deinen Geschicklichkeitsmodifikator berechnen. Du kannst einen Schild benutzen und trotzdem diesen Vorteil erhalten. Du kannst einziehbare Krallen aus den Fingerspitzen wachsen lassen. Das Aus- oder Einfahren der Klauen erfordert keine Maßnahmen. Die Krallen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Wenn du mit ihnen triffst, verursachst du Hiebschaden in Höhe von 1W4 + deinem Stärkemodifikator</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7753" version="1">Höllische Konstitution</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7770" version="1">Glückspunkte</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7768" version="1">Glücksfall </content>
@@ -71,15 +56,88 @@ Während du keine Rüstung trägst, kannst du deine AC als 13 + deinen Geschickl
   <content contentuid="hg61c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Magisches Vergiftungsset. Kombinieren Sie sie mit Gegenständen, um Gifte und andere Gegenstände herzustellen. Magisches Vergiftungsset  + Grundgift = Magisches Nachtelf Attentäter Gift (Nekrotischer Schaden); Magisches Vergiftungsset + Heiltrank = Grundgift (2), Magisches Vergiftungsset + Grössere Heilung = Grundgift (4)</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3638" version="1">Nahkampfangreifer erleiden 1W4 Feuerschaden</content>
   <content contentuid="hg99d268ag49b0g48cbgaf37g76cec2369e9e" version="1">Observer</content>
+  <content contentuid="lz1266871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Nach dem Verzehr erhält der Charakter einen &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency-Bonus&lt;/LSTag&gt; in &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporären Trefferpunkten&lt;/LSTag&gt;.</content>
+  <content contentuid="lz1226871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Einmal pro &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; kann man Nahrung beschwören, die bis zu einer langen Rast anhält. Nach dem Verzehr erhält der Charakter einen &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency-Bonus&lt;/LSTag&gt; in &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporären Trefferpunkten&lt;/LSTag&gt;.</content>
+  <content contentuid="lz1216871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Einmal pro &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; kannst du Nahrung beschwören, die bis zu einer langen Pause anhält. Wenn der Charakter verbraucht wird und eine kurze Pause einlegt, erhält er 1W8 zusätzliche Trefferpunkte zurück.</content>
+  <content contentuid="lz1026871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Orkischer Zorn</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7776" version="1">Vergifter</content>
   <content contentuid="hg5548970g49d4g4d9agb7bfg50ce6a8c581f" version="1">Vergiftungsset für Attentäter</content>
   <content contentuid="hg4236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Vergiftungsset für Attentäter</content>
   <content contentuid="hg34c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Vergiftungsset. Kombiniere es mit Gegenständen, um Gifte und andere Gegenstände herzustellen. Vergiftungsset + Grundgift = Wyverngift; Vergiftungsset + Wyverngift = Erschlaffungsgift; Vergiftungsset + Heiltrank = Grundgift (2), + Größere Heilung = Grundgift (4)</content>
+  <content contentuid="hg69c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Du kannst versuchen, dich zu verstecken, wenn du nur &lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;Leicht verdeckt&lt;/LSTag&gt; bist.
+
+Wenn du vor einer Kreatur verborgen bist und sie mit einem &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Fernwaffenangriff&lt;/LSTag&gt; verfehlst, verrät dein Angriff deine Position nicht.
+
+Schummriges Licht führt nicht zu &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LsTag&gt; bei Wahrnehmungs-&lt;LSTag Tooltip="AbilityCheck"&gt;Überprüfungen&lt;/LSTag&gt; mit Sicht.</content>
+  <content contentuid="hb7cdfa17g2c06g4149g958dg0a886658a3b9" version="1">Voraussetzung: Zwerg. Du hast das Blut von Zwergenhelden durch deine Adern fließen. Du erhältst die folgenden Vorteile:
+• Erhöhe deinen Konstitutionswert um 1 bis maximal 20.
+• Immer wenn du die Ausweichaktion im Kampf durchführst, kannst du einen Trefferwürfel ausgeben, um dich selbst zu heilen. Wirf den Würfel, füge deinen Konstitutionsmodifikator hinzu und gewinne eine Anzahl von Trefferpunkten zurück, die der Gesamtsumme entspricht (mindestens 1).</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7765" version="1">Voraussetzung: Zwerg oder eine kleine Rasse. Du bist ungewöhnlich wendig für deine Rasse. Du erhälst die folgenden Vorteile:
+• Erhöht euren Stärke- oder Geschicklichkeitswert um 1 bis zu einem Maximum von 20.
+• Erhöhen deine Gehgeschwindigkeit um 5 Fuß.
+• Du erwirbst Kenntnisse in der Fähigkeit Akrobatik oder Leichtathletik (nach deiner Wahl).
+• Du hast einen Vorteil bei jedem Wurf auf Stärke (Athletik) oder Geschicklichkeit (Akrobatik), den du machst, um dem Griff zu entkommen.</content>
+  <content contentuid="5fea8060-c9b5-4efd-a13e-38216ce76657" version="1">Du lernst die Magie der Urwälder kennen, die von deinem Volk verehrt und beschützt werden. Du lernst eine Druiden-Zaubertrick deiner Wahl. Du lernst auch die Zaubersprüche Seeräuber und Pass ohne Spur, die du jeweils einmal wirken kannst, ohne einen Zauberspielplatz auszugeben. Du erhältst die Fähigkeit, diese beiden Zaubersprüche auf diese Weise zu wirken, wenn du eine &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendet hast. Weisheit ist deine Zauberfähigkeit für alle drei Zaubersprüche.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7744" version="1">Die Genauigkeit der Elfen ist legendär, besonders die der Elfenbogenschützen und Zauberkundigen.
+Du hast ein unheimliches Ziel mit Angriffen, die auf Präzision und nicht auf rohe Gewalt setzen.
+
+Du erhältst die folgenden Vorteile:
+• Erhöhe deine Punktzahl für Geschicklichkeit, Intelligenz, Weisheit oder Charisma um 1 bis maximal 20.
+• Immer wenn du bei einem Angriffswurf mit Geschick, Intelligenz, Weisheit oder Charisma einen Vorteil hast, kannst du einen der Würfel einmal neu würfeln.</content>
+  <content contentuid="lz1106871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Voraussetzung: Gnom
+
+Dein Volk ist klug und hat ein Händchen für Illusionsmagie. Du hast einen magischen Trick erlernt, um zu verschwinden, wenn du Schaden erleidest. Du erhältst die folgenden Vorteile:
+
+Erhöhe deinen Geschicklichkeits- oder Intelligenzwert um 1, bis zu einem Maximum von 20.
+Unmittelbar nachdem du Schaden erlitten hast, kannst du einen &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; einsetzen, um auf magische Weise &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;unsichtbar&lt;/LSTag&gt; zu werden, und zwar bis zum Ende deines nächsten Zuges oder bis du angreifst, Schaden zufügst oder jemanden zu einem Rettungswurf zwingst. Sobald du diese Fähigkeit benutzt hast, kannst du sie erst wieder einsetzen, wenn du eine &lt;LSTag Tooltip="ShortRest"&gt;Kurze Rast&lt;/LSTag&gt; oder &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendet hast.</content>
+  <content contentuid="lz1146871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Voraussetzung: Gnom (Tiefer Gnom)
+
+Du hast die angeborene Fähigkeit der Zauberei von deinen Vorfahren geerbt. Diese Fähigkeit erlaubt es dir, &lt;LSTag Type="Spell" Tooltip="Target_Nondetection"&gt;Nondetection&lt;/LSTag&gt; nach Belieben auf dich selbst zu wirken, ohne dass du eine materielle Komponente benötigst.
+
+Du kannst auch jeden der folgenden Zauber einmal mit dieser Fähigkeit wirken: &lt;LSTag Type="Spell" Tooltip="Target_Blindness"&gt;Blindheit&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Blur"&gt;Blur&lt;/LSTag&gt;, und &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt;. Du erlangst die Fähigkeit, diese Zauber zu wirken, wieder, wenn du eine &lt;LSTag Tooltip="Lange Rast"&gt;Lange Rast&lt;/LSTag&gt; beendest. &lt;LSTag Tooltip="Intelligenz"&gt;Intelligenz&lt;/LSTag&gt; ist dein &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modifikator&lt;/LSTag&gt; für diese Zaubersprüche</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7767" version="1">Voraussetzung: Halb Elf. Du entwickelst deine magnetische Persönlichkeit, um dir den Weg durch die Welt zu erleichtern. Du erhältst die folgenden Vorteile:
+• Erhöhe deine Charisma-Punktzahl um 1, bis zu einem Maximum von 20.
+• Du erlangst Kenntnisse in den Fähigkeiten Täuschung und Überredung. Wenn du bereits eine der beiden Fertigkeiten beherrschst, wird dein Fähigkeitsbonus für jeden Wurf, den du mit dieser Fertigkeit machst, verdoppelt [Du erhältst Fertigkeit und einen Bonus von +2 auf den Wurf].</content>
+  <content contentuid="lz1036871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Prerequisite: Half-orc
+
+Your fury burns tirelessly. You gain the following benefits:
+
+Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; score by 1, up to a maximum of 20.
+
+When you hit with a &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;Melee Weapon Attack&lt;/LSTag&gt; or &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Ranged Weapon Attack&lt;/LSTag&gt; you can roll one of the weapon’s damage dice an additional time and add it as extra damage of the weapon’s damage type. Once you use this ability, you can’t use it again until you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.
+Immediately after you use your &lt;LSTag Type="Passive" Tooltip="RelentlessEndurance"&gt;Relentless Endurance&lt;/LSTag&gt;, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to make one weapon attack.</content>
+  <content contentuid="lz1296871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Voraussetzung: Halbling
+
+Dein Volk hat außergewöhnliches Glück, das du erlernt hast, um deinen Gefährten auf mystische Weise zu helfen, wenn du sie schwanken siehst. Ihr wisst nicht genau, wie ihr das macht, ihr mögt es einfach, und es passiert. Sicherlich ein Zeichen für die Gunst des Schicksals!
+
+Wenn ein Verbündeter, den du in einem Umkreis von 30 Fuß sehen kannst, bei einem &lt;LSTag Tooltip="Angriffswurf"&gt;Angriffswurf&lt;/LSTag&gt;, einer &lt;LSTag Tooltip="Fähigkeitsprüfung"&gt;Fähigkeitsprüfung&lt;/LSTag&gt; oder einem &lt;LSTag Tooltip="Rettungswurf"&gt;Rettungswurf&lt;/LSTag&gt; eine 1 auf dem Würfel wirft, kannst du deine Reaktion nutzen, um den Verbündeten den Würfel neu werfen zu lassen. Der Verbündete muss den neuen Wurf verwenden.
+Wenn du diese Fähigkeit einsetzt, kannst du deine Rasseneigenschaft Glück nicht vor dem Ende deines nächsten Zuges einsetzen.</content>
+  <content contentuid="lz1016871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Voraussetzung: Halfling
+Fortune favors you when someone tries to strike you. You gain the following benefits:
+
+Increase your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; score by 1, to a maximum of 20.
+
+When a creature you can see hits you with an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to force that creature to reroll. Once you use this ability, you can 't use it again until you roll initiative at the start of combat or until you finish a short or long rest.</content>
+  <content contentuid="hg65c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Voraussetzung ist: Zaubern oder Paktmagie. Durch das Studium okkulter Überlieferungen hast du eine urzeitliche Macht in dir freigesetzt: Du erlernst eine eldritische Beschwörungsoption deiner Wahl aus der Klasse der Hexenmeister. Wenn die Beschwörung eine Voraussetzung hat, kannst du diese Beschwörung nur wählen, wenn du ein Hexenmeister bist und nur, wenn du die Voraussetzung erfüllst. Immer wenn du eine Stufe aufsteigst, kannst du die Beschwörung durch eine andere aus der Hexenmeisterklasse ersetzen.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7754" version="1">Voraussetzung: Tiefling. In dir fließt teuflisches Blut, das eine Widerstandsfähigkeit freisetzt, die der einiger Teufel ähnelt. Du erhälst folgende Vorteile:
+• Erhöhe deinen Konstitutionswert um 1, bis zu einem Maximum von 20.
+• Du bist widerstandsfähig gegen Kälte- und Giftschäden.
+• Du hast den Vorteil, Würfe vor Vergiftung zu retten.</content>
+  <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7763" version="1">Erhöhe deinen &lt;LSTag Tooltip="Intelligenz"&gt;Intelligenz&lt;/LSTag&gt; oder &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; Wert um 1, bis zu einem Maximum von 20.
+
+Wenn du Feuer-&lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfen&lt;/LSTag&gt; für einen von dir gewirkten Zauber würfelst, kannst du den Würfelwurf für Feuerschaden wiederholen, musst aber den neuen Wurf verwenden.
+
+Immer wenn du einen Zauber wirkst, der Feuerschaden verursacht, kannst du dich in eine &lt;LSTag Type="Passive" Tooltip="Fire_Aura"&gt;Aura des Feuers&lt;/LSTag&gt; hüllen.</content>
+  <content contentuid="5fea8060c9b54efda13e38216ce76655" version="1">Du manifestierst Schuppen und Krallen, die an deine drakonischen Vorfahren erinnern. Du erhältst die folgenden Vorteile: Erhöhe deine Punktzahl für Stärke, Konstitution oder Charisma um 1, bis zu einem Maximum von 20.
+Während du keine Rüstung trägst, kannst du deine AC als 13 + deinen Geschicklichkeitsmodifikator berechnen. Du kannst einen Schild benutzen und trotzdem diesen Vorteil erhalten. Du kannst einziehbare Krallen aus den Fingerspitzen wachsen lassen. Das Aus- oder Einfahren der Klauen erfordert keine Maßnahmen. Die Krallen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Wenn du mit ihnen triffst, verursachst du Hiebschaden in Höhe von 1W4 + deinem Stärkemodifikator</content>
+  <content contentuid="lz1116871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bemerkenswerte Erholung </content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7757" version="1">Resistenz Kälte</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7755" version="1">Resistenz Gift</content>
+  <content contentuid="lz1006871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Zweite Chance</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3640" version="1">Skill-Experte</content>
   <content contentuid="hg68c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Schleicher</content>
   <content contentuid="hg80c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Schleicher</content>
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3644" version="1">Schleicher</content>
   <content contentuid="hg84c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Schleicher-Talent: Ausblenden</content>
   <content contentuid="hg82c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Schleicher-Talent: Fernkampf</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7764" version="1">Kniebeugen Wendigkeit</content>
@@ -90,22 +148,36 @@ Während du keine Rüstung trägst, kannst du deine AC als 13 + deinen Geschickl
   <content contentuid="hg88c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Beschwören Sie das Kit des magischen Giftmischers</content>
   <content contentuid="hg86c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Vergiftungsset beschwören</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3642" version="1">Vergiftungsset beschwören</content>
+  <content contentuid="lz1136871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Svirfneblin Magie</content>
+  <content contentuid="lz1166871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Time and effort spent mastering the culinary arts has paid off. You gain the following benefits:
+
+Increase your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; or &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; score by 1, to a maximum of 20.
+You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with cook’s utensils if you don’t already have it.
+As part of a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, you can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. At the end of the &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
+With one hour of work or when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, you can cook a number of treats equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. These special treats last 8 hours after being made. A creature can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to eat one of those treats to gain &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
   <content contentuid="hg95c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Bis zum Beginn deines nächsten Zuges hat jeder &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; gegen dich &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;, wenn du den Angreifer sehen kannst, und du machst Geschicklichkeitswürfe &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7771" version="1">Bis zu deinem nächsten Zug hast du Vorteile bei &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfen&lt;/LSTag&gt;, Fähigkeitswürfen oder Rettungswürfen. Deine Feinde haben einen Nachteil bei ihren Angriffswürfen gegen dich. Du erhältst deine ausgegebenen Glückspunkte zurück, wenn du eine &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; eingelegt hast.</content>
+  <content contentuid="lz1276871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Verwenden Sie diese Version von &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt; und dann wird die Vollversion des Zaubers freigeschaltet.</content>
   <content contentuid="hg57c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Waffen, die mit  Nachtelf Attentäter Gift überzogen sind, verursachen für einen Zeitraum von einer Minute zusätzlichen 1W6 Giftschaden.</content>
   <content contentuid="hg60c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Waffen, die mit magischem Nachtelf Attentäter Gift  beschichtet sind, verursachen über einen Zeitraum von einer Minute 1W6 zusätzlichen Schaden durch NEKROTISCHES Gift.</content>
+  <content contentuid="lz1246871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Wenn der Charakter verbraucht wird und eine kurze Pause einlegt, erhält er 1W8 zusätzliche Trefferpunkte zurück.</content>
   <content contentuid="hg83c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Schleicher-Talent: Wenn du dich vor einer Kreatur verbirgst und sie mit einem Fernkampfangriff verfehlst, verrät der Angriff deine Position nicht |Wenn du mit einem Fernkampfangriff daneben schießt, wirst du versuchen, dich zu verstecken|</content>
+  <content contentuid="lz1046871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Wenn du mit einem &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;Nahkampfwaffenangriff triffst&lt;/LSTag&gt;, verursache du zusätzlich [1]</content>
+  <content contentuid="lz1056871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Wenn du mit einem &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Fernkampfwaffenangriff triffst, verursachst du&lt;/LSTag&gt; zusätzlich [1]</content>
   <content contentuid="hb93172abga0feg4f07g9995g95eb0d815055" version="1">Wenn du die Ausweichaktion ausführst, erhältst du auch den Klassentrefferwürfel + den Konstitutionsmodifikator zurück.</content>
+  <content contentuid="lz1316871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Wenn du diese Fähigkeit einsetzt, kannst du deine Volkseigenschaft "Glück" nicht vor dem Ende deines nächsten Zuges einsetzen</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3639" version="1">Immer wenn du bei einem &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; mit Geschick, Intelligenz, Weisheit oder Charisma einen Vorteil hast, kannst du einen der Würfel einmal neu würfeln.</content>
   <content contentuid="h5da4df8dg24e0g4373g8530g3ab91cc7abb5" version="1">Wenn du keine Rüstung trägst, kannst du deine &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt; als 13 + deinen &lt;LSTag Tooltip="Dexterity" &gt;Geschicklichkeitsmodifikator&lt;/LSTag&gt; berechnen.</content>
+  <content contentuid="lz1206871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Mit einer Stunde Arbeit oder wenn du eine &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendest, kannst du eine Anzahl von Leckereien zubereiten, die deinem &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; entspricht. Diese besonderen Leckereien halten 8 Stunden nach ihrer Herstellung. Eine Kreatur kann eine &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonusaktion&lt;/LSTag&gt; benutzen, um eine dieser Leckereien zu essen, um &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporäre Trefferpunkte&lt;/LSTag&gt; in Höhe deines &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; zu erhalten.</content>
   <content contentuid="5fea8060-c9b5-4efd-a13e-38216ce76656" version="1">Magie der Waldelfen</content>
   <content contentuid="5fea8060c9b54efda13e38216ce76659" version="1">Du kannst einziehbare Krallen aus den Fingerspitzen wachsen lassen. Das Aus- oder Einfahren der Klauen erfordert keine Maßnahmen. Die Krallen sind natürliche Waffen, mit denen du unbewaffnete Schläge ausführen kannst. Wenn du mit ihnen triffst, verursachst du einen Hiebschaden in Höhe von 1W4 + deinem Stärke-Modifikator anstelle des normalen Knüppelschadens für einen unbewaffneten Schlag</content>
-  <content contentuid="hg81c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Du kannst versuchen, dich zu verstecken, wenn du nur &lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;Leicht verdeckt&lt;/LSTag&gt; bist.
+  <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3645" version="1">Du kannst versuchen, dich zu verstecken, wenn du nur &lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;Leicht verdeckt&lt;/LSTag&gt; bist.
 
 Wenn du vor einer Kreatur verborgen bist und sie mit einem &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Fernwaffenangriff&lt;/LSTag&gt; verfehlst, verrät dein Angriff deine Position nicht.
 
-Schummriges Licht führt nicht zu &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LsTag&gt; bei Wahrnehmungs-&lt;LSTag Tooltip="AbilityCheck"&gt;Überprüfungen&lt;/LSTag&gt; mit Sicht.</content>
-  <content contentuid="hg69c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Du kannst versuchen, dich zu verstecken, wenn du nur &lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;Leicht verdeckt&lt;/LSTag&gt; bist.
+Schummriges Licht verursacht keinen &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LsTag&gt; auf Wahrnehmungs-&lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;, die mit Sicht gemacht werden.
+Umsetzung: Wenn du einen Fernkampfangriff verpasst, versuchst du, dich zu verstecken. Du hast einen Vorteil bei Wahrnehmungs- und Verstohlenheitstests, wenn du verdeckt bist. Wenn du den Kampf mit einem Angriff beginnst, hast du alle deine Aktionen, wenn der Kampf beginnt.</content>
+  <content contentuid="hg81c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Du kannst versuchen, dich zu verstecken, wenn du nur &lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;Leicht verdeckt&lt;/LSTag&gt; bist.
 
 Wenn du vor einer Kreatur verborgen bist und sie mit einem &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Fernwaffenangriff&lt;/LSTag&gt; verfehlst, verrät dein Angriff deine Position nicht.
 
@@ -131,8 +203,11 @@ Du hast 3 Glückspunkte. Immer wenn du einen &lt;LSTag Tooltip="AttackRoll"&gt;A
   <content contentuid="hg73c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Du hast einen Vorteil, wenn du Würfe gegen Vergiftung sparst</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7758" version="1">Du hast Resistenz gegen Kälteschaden</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7756" version="1">Ihr habt Resistenz gegen Giftschaden</content>
-  <content contentuid="5fea8060-c9b5-4efd-a13e-38216ce76657" version="1">Du lernst die Magie der Urwälder kennen, die von deinem Volk verehrt und beschützt werden. Du lernst eine Druiden-Zaubertrick deiner Wahl. Du lernst auch die Zaubersprüche Seeräuber und Pass ohne Spur, die du jeweils einmal wirken kannst, ohne einen Zauberspielplatz auszugeben. Du erhältst die Fähigkeit, diese beiden Zaubersprüche auf diese Weise zu wirken, wenn du eine &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendet hast. Weisheit ist deine Zauberfähigkeit für alle drei Zaubersprüche.</content>
-  <content contentuid="hg65c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Voraussetzung ist: Zaubern oder Paktmagie. Durch das Studium okkulter Überlieferungen hast du eine urzeitliche Macht in dir freigesetzt: Du erlernst eine eldritische Beschwörungsoption deiner Wahl aus der Klasse der Hexenmeister. Wenn die Beschwörung eine Voraussetzung hat, kannst du diese Beschwörung nur wählen, wenn du ein Hexenmeister bist und nur, wenn du die Voraussetzung erfüllst. Immer wenn du eine Stufe aufsteigst, kannst du die Beschwörung durch eine andere aus der Hexenmeisterklasse ersetzen.</content>
+  <content contentuid="lz1076871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Du hast etwas von dem Erfindungsreichtum eines Artificers erlernt:
+
+Du erlernst einen Cantrip deiner Wahl aus der Zauberliste des Artificers und du erlernst einen Zauber der 1. Stufe deiner Wahl aus dieser Liste. Er benutzt deine &lt;LSTag Tooltip="Intelligenz"&gt;Intelligenz&lt;/LSTag&gt; als &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modifikator&lt;/LSTag&gt;.
+Du kannst den Zauber des 1. Grades dieser Fähigkeit ohne &lt;LSTag Tooltip="SpellSlot"&gt;Zauberslot&lt;/LSTag&gt; wirken, und du musst eine &lt;LSTag Tooltip="Lange Rast"&gt;Lange Rast&lt;/LSTag&gt; beenden, bevor du ihn erneut auf diese Weise wirken kannst. Du kannst den Zauber auch mit einem beliebigen &lt;LSTag Tooltip="SpellSlot"&gt;Zauberplatz&lt;/LSTag&gt; wirken, den du besitzt.
+Du erlangst &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; mit einer Art von Handwerkszeug deiner Wahl, und du kannst diese Art von Werkzeug als Zauberfokus für jeden Zauber verwenden, den du wirkst und der &lt;LSTag Tooltip="Intelligence"&gt;Intelligenz&lt;/LSTag&gt; als Zauberfähigkeit verwendet.</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7752" version="1">Dein &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt;-Wert wird um 1 erhöht, bis zu einem Maximum von 20. Immer wenn du einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LsTag&gt; bei einem &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; hast, kannst du einen der Würfel neu werfen.</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7746" version="1">Dein &lt;LSTag Tooltip="Geschicklichkeit"&gt;Geschicklichkeitswert&lt;/LSTag&gt; wird um 1 erhöht, bis zu einem Maximum von 20. Immer wenn du einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LsTag&gt; bei einem &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Dexterity"&gt;Geschicklichkeit&lt;/LSTag&gt; hast, kannst du einen der Würfel neu werfen.</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3636" version="1">Dein &lt;LSTag Tooltip="Geschicklichkeit"&gt;Geschicklichkeitswert&lt;/LSTag&gt; wird um 1 erhöht, bis zu einem Maximum von 20. Immer wenn du einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LsTag&gt; bei einem &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Dexterity"&gt;Geschicklichkeit&lt;/LSTag&gt; hast, kannst du einen der Würfel neu werfen.</content>
@@ -142,4 +217,9 @@ Du hast 3 Glückspunkte. Immer wenn du einen &lt;LSTag Tooltip="AttackRoll"&gt;A
 Wenn du einen Schadenswurf machst, ignorierst du die Resistenz gegen Giftschaden.
 Du kannst eine Waffe als &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonusaktion&lt;/LSTag&gt; mit Gift überziehen, anstatt als Aktion.
 Du erhälst Fertigkeit im Umgang mit dem Giftmischer-Kit, falls ihr es noch nicht habt.</content>
+  <content contentuid="lz1126871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Dein Körper hat die Fähigkeit, sich schnell von schweren Verletzungen zu erholen, und ist ungewöhnlich empfänglich für Heilmagie. Du erhältst die folgenden Vorteile:
+
+Erhöhe deinen &lt;LSTag Tooltip="Konstitution"&gt;Konstitutionswert&lt;/LSTag&gt; um 1, bis zu einem Maximum von 20.
+Wenn du erfolgreich stabilisiert wirst, während du stirbst, erhältst du &lt;LSTag Tooltip="HitPoints"&gt;Schlagpunkte&lt;/LSTag&gt; in Höhe deines &lt;LSTag Tooltip="Constitution" &gt;Konstitution&lt;/LSTag&gt;-Modifikators zurück (mindestens 1).
+Immer wenn du &lt;LSTag Tooltip="Trefferpunkte"&gt;Trefferpunkte&lt;/LSTag&gt; durch einen Zauber, Trank oder ein Klassenmerkmal (aber nicht durch diese Heldentat) wiedererlangst, erhältst du zusätzliche Trefferpunkte in Höhe deines &lt;LSTag Tooltip="Konstitution"&gt;Konstitutionsmodifikators&lt;/LSTag&gt; (mindestens 1).</content>
 </contentList>
