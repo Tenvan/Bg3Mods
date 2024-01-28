@@ -17,12 +17,17 @@
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f126" version="1">Bhaal-Anbeter</content>
   <content contentuid="ha2de215ag9e6dg434bgb83bgfbeca6f2fea9" version="1">Knüppel-Widerstand</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f102" version="1">Kleriker</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c81b0" version="1">Hero-Klischee</content>
   <content contentuid="h540af4c1g40f3g4aafga889gc7dc9b2b27c0" version="1">Kältebeständigkeit</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f640" version="1">Kompetenter Hexer</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f658" version="1">Zauberer</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f128" version="1">Corellon Larethian Verehrer</content>
   <content contentuid="h5886099ege97fg404ag8339g270d299f8612" version="1">Sektenführer</content>
   <content contentuid="h5886099ege97fg404ag8339g270d299f8614" version="1">Sektenführer</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c8110" version="1">Dunkler Pirscher</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c8112" version="1">Dunkler Pirscher</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c81b4" version="1">Todes-Läufer</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c8198" version="1">Todes-Läufer</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f620" version="1">Wahnhaft</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f656" version="1">Nachkomme der Drachen</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f104" version="1">Druide</content>
@@ -49,9 +54,13 @@ Nach jeder &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt; wird die In
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f136" version="1">Helm-Anbeter</content>
   <content contentuid="h51892719g943cg4d78gb97dgc0543ef69f13" version="1">Hermaeus Moras Auserwählter</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f689" version="1">Wie viele Leben du gelebt hast, wie viel du erlebt hast, weißt nur du.</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c81b5" version="1">Wenn du dir etwas zutraust, dann ist es, am Leben zu bleiben ... indem du wegläufst, und du warst schon immer der Schnellste. Erhöhe deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um 5.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f138" version="1">Ilmater-Verehrer</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f654" version="1">Ungeduldiger Mönch</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c81b9" version="1">Erhöht die maximalen &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; um 20 %.</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c8199" version="1">Erhöhe deine &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt;  um 5.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f646" version="1">Aufschlussreicher Hexer</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c81b1" version="1">Just when you 're about to be defeated, you rise up again. temporarily.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f140" version="1">Kelemvor-Anbeter</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f142" version="1">Laduguer Anbeter</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f144" version="1">Lathaner-Anbeter</content>
@@ -72,10 +81,13 @@ Nach jeder &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt; wird die In
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f632" version="1">Unerfahrener Ranger</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f643" version="1">Gelegentlich erhascht ihr einen Blick in die Zukunft und prognostiziert die Handlungen eures Gegners. Zu Ihrem Repertoire gehören &lt;LSTag Type="Spell" Tooltip="Shout_Darkvision_ThirdEye"&gt;Drittes Auge: Nachtsicht&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_SeeInvisibility_ThirdEye"&gt;Drittes Auge: Siehe Unsichtbarkeit&lt;/LSTag&gt;.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f156" version="1">Oghma-Verehrer</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c81b3" version="1">Einmal pro kurze Rast, wenn du unter 30% &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; bist und Schaden erleidest, erhältst du 12 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporäre Trefferpunkte&lt;/LSTag&gt;.</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c8113" version="1">Einmal pro Runde, wenn du einen Feind tötest, rufst du deine Blutlinie an und hüllst dich in Dunkelheit, um &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Unsichtbar&lt;/LSTag&gt; für [1] Runden zu werden.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f648" version="1">Diener der äußeren Götter</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f110" version="1">Beschützer</content>
   <content contentuid="h5886099ege97fg404ag8339g270d299f86e8" version="1">Party-Magier</content>
   <content contentuid="had89d1eag5c35g4407ga0a4g79d5db76b810" version="1">Durchdringende Resistenz</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c81b2" version="1">Handlungs Rüstung</content>
   <content contentuid="h8fcb85f1g0743g450cga895gd9052d57754e" version="1">Gift-Resistenz</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f696" version="1">Pragmatisch</content>
   <content contentuid="haa1a165fg3101g4275g8733g52bbe3d6a588" version="1">Professor</content>
@@ -103,6 +115,8 @@ Nach jeder &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt; wird die In
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f674" version="1">Schwertsänger</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f664" version="1">Verdorben</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f162" version="1">Talos-Anbeter</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c81b6" version="1">Tank</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c81b8" version="1">Tank</content>
   <content contentuid="h5886099ege97fg404ag8339g270d299f8615" version="1">Nutzt die Kraft Eurer Blutlinie, um 20 % des Schadens an den Angreifer zurückzugeben.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f164" version="1">Tempus-Anbeter</content>
   <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb5" version="1">Die Klinge selbst</content>
@@ -113,6 +127,7 @@ Nach jeder &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt; wird die In
   <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb9" version="1">Der Speer selbst</content>
   <content contentuid="h9915107dg066ag4e05ga548g15d469fa5537" version="1">Der wilde Einfluss der Magie mag dich verwandelt haben, doch im Herzen bist du ein Barbar. Dein Repertoire umfasst &lt;LSTag Type="Spell" Tooltip="Shout_MagicAwareness" &gt;Magische Bewusstheit&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_BolsteringMagic_Boost" &gt;Polsternde Magie&lt;/LSTag&gt;.</content>
   <content contentuid="haaa08dfbg7f2ag4b4fg9e97g12cb97f6b966" version="1">Die Welt mag dich für einen Schurken halten, aber tief im Inneren weißt du, dass du keiner bist. Zu deinem Repertoire gehören &lt;LSTag Type="Spell" Tooltip="Shout_Hide_BonusAction"&gt;Listige Aktion: Verstecken&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Dash_CunningAction"&gt;Listige Aktion: Hechten&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Shout_Disengage_CunningAction"&gt;Listige Aktion: Lösen&lt;/LSTag&gt;.</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c8111" version="1">Es gibt schreckliche Dinge in der Dunkelheit, sie leben, um zu jagen, zu töten und unsichtbar zu bleiben, bis sie wieder zuschlagen. Deine Blutlinie ist voll von ihnen, du bist einer von ihnen.</content>
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f663" version="1">Es gibt eine gewisse Ruhe, die dich während eines Sturms überströmt, als ob es dich zu Hause willkommen heißt.</content>
   <content contentuid="h5886099ege97fg404ag8339g270d299f86e2" version="1">Nachfahre der dreiäugigen Krähe</content>
   <content contentuid="hdb5df10cgac54g4617gb202gbada95d36912" version="1">Donner-Resistenz</content>
@@ -225,6 +240,8 @@ Nach jeder &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt; wird die In
   <content contentuid="h26e2fb52g5afeg461fgb998ge2ef6015f665" version="1">Deine Blutlinie ist eine, die von feigen Energien besudelt wurde. Du kannst deine &lt;LSTag Type="Spell" Tooltip="Shout_FeyPresence_Container"&gt;&lt;/LSTag&gt; Feenpräsenz nach Belieben ausstrahlen.</content>
   <content contentuid="h5886099ege97fg404ag8339g270d299f86e7" version="1">Deine Familiengeschichte ist eng mit der Schule der Abschwörung verflochten, deine Freunde sind alle Abschwörungszauberer, und du hast die offensichtliche Wahl getroffen, du bist ein Beschwörer geworden.</content>
   <content contentuid="h5886099ege97fg404ag8339g270d299f8613" version="1">Dein Vater hat das Kool-Aid gemacht, das die letzte Herde in ein höheres Reich aufsteigen lässt, du wirst die nächste Herde aufziehen und das Kool-Aid selbst mischen. Ihr werdet ihnen unsägliche Herrlichkeit und Erlösung bringen, wie es eure Mission ist. Glücklicherweise besitzt deine Blutlinie die Macht, Schaden zu reflektieren, wodurch du die Naiven täuschen kannst, damit sie glauben, dass du der Auserwählte bist.</content>
+  <content contentuid="h3efa8683gfc62g4c8eg85a2g5f8f644c81b7" version="1">Deine Aufgabe in der Gruppe war es schon immer, die Aufmerksamkeit von Feinden auf dich zu ziehen, Schläge einzustecken und zu verhindern, dass andere angegriffen werden. Du wurdest oft als Fleischschild hinter deinem Rücken bezeichnet.
+Erhöht die maximalen &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; um 20 %.</content>
   <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb6" version="1">Eure Beherrschung der Klinge erlaubt es euch, den Widerstand gegen Hiebschaden zu ignorieren.</content>
   <content contentuid="h51892719g943cg4d78gb97dgc0543ef69f10" version="1">Deine Beherrschung des Speers überträgt sich auf alle Waffen, wobei durchdringender Widerstand ignoriert wird.</content>
   <content contentuid="h51892719g943cg4d78gb97dgc0543ef69fb8" version="1">Deine Macht ist unübertroffen, deine Angriffe ignorieren die Resistenz gegen Knüppelschaden.</content>

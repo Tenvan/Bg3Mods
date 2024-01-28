@@ -1,4 +1,141 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
   <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="kt1626871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen diese Kreatur werden mit &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bis zum Beginn deines nächsten Zuges gemacht</content>
+  <content contentuid="kt1826871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LsTag&gt; bei allen &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfen&lt;/LSTag&gt;.</content>
+  <content contentuid="kt1356871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Alle Kreaturen (einschließlich dir selbst) im Umkreis von [1] um dich erhalten &lt;LSTag Tooltip="TemporäreHitPunkte"&gt;Temporäre Trefferpunkte&lt;/LSTag&gt; in Höhe deiner aktuellen Stufe plus deinen &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. Du kannst erst nach einer kurzen oder &lt;LSTag Tooltip="LongRest"&gt;Langen Rast&lt;/LSTag&gt; wieder inspirieren.</content>
+  <content contentuid="kt1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Als &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonusaktion&lt;/LSTag&gt; kannst du eine einfache oder kriegerische Waffe berühren und sie mit einer der folgenden Schadensarten infundieren: Säure, Kälte, Feuer, Blitz oder Gift. In der nächsten Minute fügt die Waffe bei einem Treffer zusätzlich 1d4 Schaden des gewählten Typs zu.
+
+Nachdem du diese Bonusaktion eingesetzt hast, kannst du sie erst wieder nach einer langen Rast einsetzen.</content>
+  <content contentuid="kt1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Als Aktion kannst du eine andere Kreatur &lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;heilen&lt;/LSTag&gt;. Diese Kreatur kann auf diese Weise keine Trefferpunkte mehr zurückgewinnen, bis sie einen &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendet hat.</content>
+  <content contentuid="cae0f47c0f5c49f68e91deeeeeeeeeeeeeeee" version="1">Als Aktion kannst du eine andere Kreatur &lt;LSTag Type="Spell" Tooltip="Target_Healer_Heal"&gt;heilen&lt;/LSTag&gt;. Diese Kreatur kann auf diese Weise keine Trefferpunkte mehr zurückgewinnen, bis sie eine &lt;LSTag Tooltip="ShortRest"&gt;Kurze Rast&lt;/LSTag&gt; beendet hat.</content>
+  <content contentuid="kt1786871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Kann erst wieder verwendet werden, wenn Sie eine &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendet haben</content>
+  <content contentuid="kt1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion</content>
+  <content contentuid="kt1366871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion</content>
+  <content contentuid="kt1386871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Säure)</content>
+  <content contentuid="kt1516871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Säure)</content>
+  <content contentuid="kt1396871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (kalt)</content>
+  <content contentuid="kt1536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (kalt)</content>
+  <content contentuid="kt1406871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Feuer)</content>
+  <content contentuid="kt1556871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Feuer)</content>
+  <content contentuid="kt1416871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Blitz)</content>
+  <content contentuid="kt1576871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Blitz)</content>
+  <content contentuid="kt1426871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Gift)</content>
+  <content contentuid="kt1596871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chromatische Infusion (Gift)</content>
+  <content contentuid="kt1616871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Zerkleinert</content>
+  <content contentuid="067327b8eee9416199efdeeeeeeeeeeeeeeee" version="1">Brecher</content>
+  <content contentuid="kt1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Brecher: Kritisch</content>
+  <content contentuid="kt1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Brecher: Verschieben</content>
+  <content contentuid="kt1836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Brecher: Ziel verschieben</content>
+  <content contentuid="kt1666871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Jede Kreatur erhält 5 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporäre Trefferpunkte&lt;/LSTag&gt;.</content>
+  <content contentuid="71c9b858606f459e8c9bdeeeeeeeeeeeeeeee" version="1">Unheimlicher Adept</content>
+  <content contentuid="kt1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Fey berührt</content>
+  <content contentuid="43c1b148bf6b46e7bc32deeeeeeeeeeeeeeee" version="1">Fee berührt: Charisma</content>
+  <content contentuid="4a1673a9b4bd410b9a36deeeeeeeeeeeeeeee" version="1">Fee berührt: Intelligenz</content>
+  <content contentuid="c40263500d4a45dc8a2bdeeeeeeeeeeeeeeee" version="1">Fey gerührt: Wis</content>
+  <content contentuid="7db5288aa5f342c088cbdeeeeeeeeeeeeeeee" version="1">Kämpfender Initiator</content>
+  <content contentuid="kt1546871g90b2g4f18gab29g0a0a8f3fbdce" version="1">In der nächsten Minute verursacht diese Waffe einen zusätzlichen [1] Schaden, wenn sie trifft.</content>
+  <content contentuid="kt1566871g90b2g4f18gab29g0a0a8f3fbdce" version="1">In der nächsten Minute verursacht diese Waffe einen zusätzlichen [1] Schaden, wenn sie trifft.</content>
+  <content contentuid="kt1586871g90b2g4f18gab29g0a0a8f3fbdce" version="1">In der nächsten Minute verursacht diese Waffe einen zusätzlichen [1] Schaden, wenn sie trifft.</content>
+  <content contentuid="kt1606871g90b2g4f18gab29g0a0a8f3fbdce" version="1">In der nächsten Minute verursacht diese Waffe einen zusätzlichen [1] Schaden, wenn sie trifft.</content>
+  <content contentuid="kt1526871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Für die nächste Minute verursacht diese Waffe einen zusätzlichen [1], wenn sie trifft.</content>
+  <content contentuid="ab474144fa5245d39112deeeeeeeeeeeeeeee" version="1">Geschenk des chromatischen Drachen</content>
+  <content contentuid="6f1f46a7df5a42e38bb4deeeeeeeeeeeeeeee" version="1">Heiler</content>
+  <content contentuid="kt1636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Heiler</content>
+  <content contentuid="kt1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Heiler: Kümmert euch um Wunden</content>
+  <content contentuid="kt1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Heiler: Kümmert euch um Wunden</content>
+  <content contentuid="eafd844a2e9a41eeb2a7deeeeeeeeeeeeeeee" version="1">Erhöhe einen &lt;LSTag Tooltip="AbilityScore" &gt;Fähigkeitswert&lt;/LSTag&gt; um 1, bis zu einem Maximum von 20.
+
+Du erhältst eine &lt;LSTag Tooltip="Proficiency" &gt;Fertigkeit&lt;/LSTag&gt; in einer Eigenschaft deiner Wahl und eine &lt;LSTag Tooltip="Expertise" &gt;Erfahrung&lt;/LSTag&gt; in einer Eigenschaft deiner Wahl.</content>
+  <content contentuid="kt1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Erhöht den gewählten &lt;LSTag Tooltip="AbilityScore" &gt;Fähigkeitswert&lt;/LSTag&gt; um 1. Du kannst &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic" &gt;Magierhand&lt;/LSTag&gt; ohne verbale oder somantische Komponenten wirken. Du kannst auch &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;Schieben&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;Ziehen&lt;/LSTag&gt; einer Kreatur telekinetisch wirken, wobei der gewählte Fähigkeitswert als Zauber DC verwendet wird.</content>
+  <content contentuid="kt1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Erhöht den gewählten &lt;LSTag Tooltip="AbilityScore" &gt;Fähigkeitswert&lt;/LSTag&gt; um 1. Du kannst &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic" &gt;Magierhand&lt;/LSTag&gt; ohne verbale oder somantische Komponenten wirken. Du kannst auch &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;Schieben&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;Ziehen&lt;/LSTag&gt; einer Kreatur telekinetisch wirken, wobei der gewählte Fähigkeitswert als Zauber DC verwendet wird.</content>
+  <content contentuid="kt1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Erhöht den gewählten &lt;LSTag Tooltip="AbilityScore" &gt;Fähigkeitswert&lt;/LSTag&gt; um 1. Du kannst &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic" &gt;Magierhand&lt;/LSTag&gt; ohne verbale oder somantische Komponenten wirken. Du kannst auch &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;Schieben&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;Ziehen&lt;/LSTag&gt; einer Kreatur telekinetisch wirken, wobei der gewählte Fähigkeitswert als Zauber DC verwendet wird.</content>
+  <content contentuid="111cf2a199684222be14deeeeeeeeeeeeeeee" version="1">Erhöhe deine &lt;LSTag Tooltip=" Strength"&gt;Stärke&lt;/LSTag&gt; oder &lt;LSTag Tooltip="Constitution"&gt;Konstitution&lt;/LSTag&gt; um 1, bis zu einem Maximum von 20. Einmal pro Runde, wenn du eine Kreatur mit einem Nahkampfangriff triffst, der Knüppelschaden verursacht, bewegst du sie 2m von dir weg, vorausgesetzt, das Ziel ist nicht mehr als eine Größe größer als du.
+
+Wenn du einen &lt;LSTag Tooltip="CriticalHit"&gt;Kritischen Treffer&lt;/LSTag&gt; mit einem Nahkampfangriff erzielst, der einer Kreatur Knüppelschaden zufügt, werden &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen diese Kreatur bis zum Beginn deines nächsten Zuges mit &lt;LSTag Tooltip="Advantage" &gt;Vorteil&lt;/LSTag&gt; durchgeführt.</content>
+  <content contentuid="c96404926f204f97869fdeeeeeeeeeeeeeeee" version="1">Erhöhe deine &lt;LSTag Tooltip=" Strength"&gt;Stärke&lt;/LSTag&gt; oder &lt;LSTag Tooltip="Dexterity"&gt;Geschicklichkeit&lt;/LSTag&gt; um 1, bis zu einem Maximum von 20. Wenn du einmal pro Runde eine Kreatur mit einem Nahkampfangriff triffst, der Hiebschaden verursacht, reduzierst du die &lt;LSTag Tooltip="MovementSpeed"&gt;Geschwindigkeit&lt;/LSTag&gt; des Ziels bis zum Beginn deiner nächsten Runde um 10 Fuß.
+
+Wenn du außerdem mit einem Nahkampfangriff, der einer Kreatur Hiebschaden zufügt, einen &lt;LSTag Tooltip=" CriticalHit"&gt;Kritischen Treffer&lt;/LSTag&gt; erzielst, hat das Ziel bei allen Angriffswürfen &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LsTag&gt;.</content>
+  <content contentuid="kt1656871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspirierte</content>
+  <content contentuid="ffe76208b5f14fac83c5deeeeeeeeeeeeeeee" version="1">Inspirierende Führungspersönlichkeit</content>
+  <content contentuid="kt1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspirierende Führungspersönlichkeit</content>
+  <content contentuid="kt1346871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inspirierende Führungspersönlichkeit</content>
+  <content contentuid="e0f4007618ac4548ba91deeeeeeeeeeeeeeee" version="1">Metamagischer Adept</content>
+  <content contentuid="kt1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Metamagischer Adept</content>
+  <content contentuid="kt1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Bewegung reduziert um [3]</content>
+  <content contentuid="kt1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Einmal pro Spielzug, wenn du eine Kreatur mit einem Nahkampfangriff triffst, der Knüppelschaden verursacht, bewegst du sie von dir weg, vorausgesetzt, das Ziel ist nicht mehr als eine Nummer größer als du.</content>
+  <content contentuid="kt1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Einmal pro Spielzug, wenn du eine Kreatur mit einem Nahkampfangriff triffst, der Schnittschaden verursacht, reduzierst du die &lt;LSTag Tooltip="MovementSpeed"&gt;Geschwindigkeit&lt;/LSTag&gt; des gewählten Ziels bis zum Beginn deines nächsten Zuges um 3m.</content>
+  <content contentuid="kt1846871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Einmal pro Spielzug, wenn du eine Kreatur mit einem Angriff triffst, der Knüppelschaden verursacht, kannst du sie 5 Fuß auf ein freies Feld bewegen, vorausgesetzt, das Ziel ist nicht mehr als eine Nummer größer als du |Groß oder kleiner|.</content>
+  <content contentuid="182ca10953964f4aa71edeeeeeeeeeeeeeeee" version="1">Voraussetzung: Fertigkeit im Umgang mit einer Kampfwaffe
+	
+Du erlernst einen Kampfstil deiner Wahl aus der Klasse der Kämpfer. Wenn du bereits einen Stil hast, muss der gewählte Stil ein anderer sein.</content>
+  <content contentuid="6ab66eb3364442bea764deeeeeeeeeeeeeeee" version="1">Voraussetzung: Zaubern oder Merkmal Paktmagie
+	
+Du erlernst zwei metamagische Optionen deiner Wahl aus der Klasse des Zauberers. Du kannst nur eine Metamagie-Option auf einen Zauber anwenden, wenn du ihn wirkst, es sei denn, die Option sagt etwas anderes. Du erhältst außerdem 2 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint" &gt;Zauberpunkte&lt;/LSTag&gt;, die du für Metamagie ausgeben kannst. Du erhältst alle ausgegebenen Zauberpunkte zurück, wenn du eine &lt;LSTag Tooltip=" LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendest.</content>
+  <content contentuid="kt1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktiver Widerstand</content>
+  <content contentuid="kt1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktiver Widerstand</content>
+  <content contentuid="kt1676871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktive Resistenz (Säure)</content>
+  <content contentuid="kt1696871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktionswiderstand (Kälte)</content>
+  <content contentuid="kt1716871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktivwiderstand (Feuer)</content>
+  <content contentuid="kt1736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktionswiderstand (Blitz)</content>
+  <content contentuid="kt1756871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktive Resistenz (Gift)</content>
+  <content contentuid="kt1776871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Reaktiver Widerstand nicht mehr verwendet</content>
+  <content contentuid="c2ec5b7dbdf84782b9e3deeeeeeeeeeeeeeee" version="1">Belastbar</content>
+  <content contentuid="kt1686871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistent gegen Säure für einen Schadensfall.</content>
+  <content contentuid="kt1706871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistent gegen Kälte für einen Schadensfall.</content>
+  <content contentuid="kt1726871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistent gegen Feuer für einen Schadensfall.</content>
+  <content contentuid="kt1746871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistent gegen Blitzschlag für einen Schaden.</content>
+  <content contentuid="kt1766871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resistent gegen Gift für einen Schadensfall.</content>
+  <content contentuid="kt1186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Schatten berührt</content>
+  <content contentuid="3d8e0883bf6447b0b43edeeeeeeeeeeeeeeee" version="1">Berührter Schatten: Cha</content>
+  <content contentuid="ecb90f47ea794594b8d2deeeeeeeeeeeeeeee" version="1">Berührter Schatten: Int</content>
+  <content contentuid="06d7fd92ea144aa6aff2deeeeeeeeeeeeeeee" version="1">Berührter Schatten: Wis</content>
+  <content contentuid="fb9faddd99314a8fa271deeeeeeeeeeeeeeee" version="1">Skill-Experte</content>
+  <content contentuid="73f4c0a36dea4bed87d1deeeeeeeeeeeeeeee" version="1">Haumesser</content>
+  <content contentuid="kt1246871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Kritischer Treffer</content>
+  <content contentuid="kt1816871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Nachteil</content>
+  <content contentuid="kt1226871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Geschwindigkeit reduzieren</content>
+  <content contentuid="kt1796871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slasher: Reduzierte Geschwindigkeit</content>
+  <content contentuid="3033276959c341e59d57deeeeeeeeeeeeeeee" version="1">Wenn du dich mit okkulten Überlieferungen beschäftigst, hast du unheimliche Kräfte in dir selbst freigesetzt: Du erlernst eine unheimliche Beschwörungsoption deiner Wahl von der Hexenmeister-Klasse. Wenn Sie bereits über einen Aufruf verfügen, muss der von Ihnen gewählte Aufruf anders sein.</content>
+  <content contentuid="68e2e4d0a7604becbe56deeeeeeeeeeeeeeee" version="1">Telekinetik</content>
+  <content contentuid="kt1456871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetische Magierhand</content>
+  <content contentuid="kt1496871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetische Anziehungskraft</content>
+  <content contentuid="kt1476871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetischer Schub</content>
+  <content contentuid="kt1306871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetik: Charisma</content>
+  <content contentuid="kt1266871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetik: Intelligenz</content>
+  <content contentuid="kt1286871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Telekinetik: Weisheit</content>
+  <content contentuid="kt1646871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Diese Kreatur kann erst wieder Trefferpunkte durch das Talent Heiler erhalten, wenn sie einen &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendet hat.</content>
+  <content contentuid="kt1136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Schaltet den &lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;Inspirierender Zauber&lt;/LSTag&gt; frei, der allen befreundeten Kreaturen (einschließlich dir selbst) im Umkreis von 9 m 5 &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporäre Trefferpunkte&lt;/LSTag&gt; gibt.</content>
+  <content contentuid="kt1056871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Wenn du mit einem Nahkampfangriff, der einer Kreatur Hiebschaden zufügt, einen &lt;LSTag Tooltip="CriticalHit"&gt;kritischen Treffer&lt;/LSTag&gt; erzielst, werden &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen diese Kreatur bis zum Beginn deines nächsten Zuges mit &lt;LSTag Tooltip="Advantage" &gt;Vorteil&lt;/LSTag&gt; durchgeführt.</content>
+  <content contentuid="kt1256871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Wenn du einen &lt;LSTag Tooltip="CriticalHit"&gt;Kritischer Treffer&lt;/LSTag&gt; mit einem Nahkampfangriff erzielst, der einer Kreatur Schnittschaden zufügt, verwundest du sie schwer. Bis zum Beginn deines nächsten Zuges hat das Ziel &lt;LSTag Tooltip="Disadvantage"&gt;Nachteil&lt;/LSTag&gt; auf alle Angriffswürfe.</content>
+  <content contentuid="kt1176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Wenn du Säure-, Kälte-, Feuer-, Blitz- oder Giftschaden erleidest, kannst du deine &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaktion&lt;/LSTag&gt; benutzen, um dir &lt;LSTag Tooltip="Resistant"&gt;Widerstand&lt;/LSTag&gt; gegen diese Art von Schaden zu verleihen. Du kannst diese Reaktion so oft einsetzen, wie es deinem &lt;LSTag Tooltip="ProficiencyBonus" &gt;Fähigkeitsbonus&lt;/LSTag&gt; entspricht, und du erhältst alle verbrauchten Einsätze zurück, wenn du eine &lt;LSTag Tooltip=" LongRest" &gt;Lange Rast&lt;/LSTag&gt; beendest.</content>
+  <content contentuid="kt1336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Wenn du Säure-, Kälte-, Feuer-, Blitz- oder Giftschaden erleidest, kannst du deine &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaktion&lt;/LSTag&gt; benutzen, um dir &lt;LSTag Tooltip="Resistant"&gt;Widerstand&lt;/LSTag&gt; gegen diese Art von Schaden zu verleihen. Du kannst diese Reaktion so oft einsetzen, wie es deinem &lt;LSTag Tooltip="ProficiencyBonus" &gt;Fähigkeitsbonus&lt;/LSTag&gt; entspricht, und du erhältst alle verbrauchten Einsätze zurück, wenn du eine &lt;LSTag Tooltip=" LongRest" &gt;Lange Rast&lt;/LSTag&gt; beendest.</content>
+  <content contentuid="df6e220690be428c8c9fdeeeeeeeeeeeeeeee" version="1">Du kannst 10 Minuten damit verbringen, deine Gefährten zu  &lt;LSTag Type="Spell" Tooltip="Target_InspiringLeader"&gt;inspirieren&lt;/LSTag&gt; und sie in ihrer Entschlossenheit zum Kampf zu bestärken.</content>
+  <content contentuid="kt1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Du kannst dich um die Wunden einer Kreatur kümmern. Sie stellen [1] wieder her. Diese Kreatur kann auf diese Weise keine Trefferpunkte mehr zurückgewinnen, bis sie eine &lt;LSTag Tooltip="ShortRest"&gt;Kurze Rast&lt;/LSTag&gt; beendet hat.</content>
+  <content contentuid="h057718b6gb4e1g4e69g8ee4gc02ff95b825a" version="1">Du kannst eine einfache oder martialische Waffe berühren und sie mit Säure durchtränken. In der nächsten Minute verursacht die Waffe einen zusätzlichen [1], wenn sie trifft.</content>
+  <content contentuid="h4c7b04beg361bg4f77ga7b5gf16d77993b8f" version="1">Du kannst eine einfache oder martialische Waffe berühren und sie mit Kälte durchtränken. In der nächsten Minute verursacht die Waffe einen zusätzlichen [1], wenn sie trifft.</content>
+  <content contentuid="hba7a5ba3g8282g4d7bg87b2g7d88945dc789" version="1">Du kannst eine einfache oder kriegerische Waffe berühren und sie mit Feuer durchdringen. In der nächsten Minute verursacht die Waffe einen zusätzlichen [1], wenn sie trifft.</content>
+  <content contentuid="h96792cedg4f3eg4e40gba9fg55b2db0a829c" version="1">Du kannst eine einfache oder kriegerische Waffe berühren und sie mit Blitzen durchdringen. In der nächsten Minute verursacht die Waffe einen zusätzlichen [1], wenn sie trifft.</content>
+  <content contentuid="kt1376871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Du kannst eine einfache oder kriegerische Waffe berühren und sie mit einer der folgenden Schadensarten durchtränken: Säure, Kälte, Feuer, Blitz oder Gift. In der nächsten Minute verursacht die Waffe einen zusätzlichen [1] des gewählten Typs, wenn sie trifft.</content>
+  <content contentuid="hd5609c5eg4b78g4389gb373gd7219022e6b2" version="1">Du kannst eine einfache oder kriegerische Waffe berühren und sie mit Gift durchtränken. In der nächsten Minute verursacht die Waffe einen zusätzlichen [1], wenn sie trifft.</content>
+  <content contentuid="kt1156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Du erhältst 2 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Zaubereipunkte&lt;/LSTag&gt;, die du für Metamagie ausgeben kannst. Du erhältst alle verbrauchten Hexereipunkte zurück, wenn du einen &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendest.</content>
+  <content contentuid="kt1466871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Du lernst den &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic"&gt;Magierhand&lt;/LSTag&gt; Zaubertrick. Du kannst ihn ohne verbale oder somatische Komponenten verwenden.</content>
+  <content contentuid="3e1ca57071e9485783d6deeeeeeeeeeeeeeee" version="1">Du lernst, Dinge mit deinem Geist zu bewegen. Erhöhe den &lt;LSTag Tooltip="AbilityScore" &gt;Fähigkeitswert&lt;/LSTag&gt; um 1, bis zu einem Maximum von 20.
+
+Du kannst &lt;LSTag Type="Spell" Tooltip="Target_MageHand_Telekinetic" &gt;Magier Hand&lt;/LSTag&gt; ohne verbale oder somantische Komponenten wirken. Du kannst auch &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Push"&gt;Schieben&lt;/LSTag&gt; und &lt;LSTag Type="Spell" Tooltip="Target_Shove_Telekinetic_Pull"&gt;Ziehen&lt;/LSTag&gt; einer Kreatur telekinetisch wirken, wobei der gewählte Fähigkeitswert als &lt;LSTag Tooltip="DifficultyClass"&gt;Zauber DC&lt;/LSTag&gt; verwendet wird.</content>
+  <content contentuid="kt1506871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Du versuchst, eine Kreatur, die du in [1] sehen kannst, telekinetisch von dir zu stoßen. Sie müssen mit einem Strength &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; erfolgreich sein oder  werden [2] zu dir gezogen.</content>
+  <content contentuid="kt1486871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Du versuchst, eine Kreatur, die du in [1] sehen kannst, telekinetisch von dir zu stoßen. Sie müssen mit einem Stärke &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswurf&lt;/LSTag&gt; erfolgreichsein oder werden [2] von dir weggeschoben.</content>
+  <content contentuid="d7213c671ff64e589ba7deeeeeeeeeeeeeeee" version="1">Ihr habt einen Teil der Macht der chromatischen Drachen manifestiert, die Euch die folgenden Vorteile gewähren:</content>
+  <content contentuid="36634b055190488cae71deeeeeeeeeeeeeeee" version="1">Der Kontakt mit der Magie des Feenreichs hat dich verändert und deinen &lt;LSTag Tooltip="AbilityScore" &gt;Fähigkeitswert&lt;/LSTag&gt; um 1 erhöht.
+
+Du erlernst außerdem den Zauberspruch &lt;LSTag Type="Spell" Tooltip="Target_MistyStep_FeyTouched"&gt;Fey Step&lt;/LSTag&gt; und einen Zauberspruch der ersten Stufe deiner Wahl. Der Zauber der 1. Stufe muss aus der Schule der Wahrsagerei oder der Verzauberung sein. Dein &lt;LSTag Tooltip="SpellcastingAbilityModifier" &gt;Zaubermodifikator&lt;/LSTag&gt; ist die Fähigkeit, die durch diese Heldentat erhöht wird.</content>
+  <content contentuid="kt1076871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Eure Auseinandersetzung mit der Magie der Feywild hat Euch verändert und Euren &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt;-Wert um 1 erhöht.</content>
+  <content contentuid="kt1086871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Eure Auseinandersetzung mit der Magie der Feywild hat Euch verändert und Euren &lt;LSTag Tooltip="Intelligenz"&gt;Intelligenz&lt;/LSTag&gt;-Wert um 1 erhöht.</content>
+  <content contentuid="kt1096871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Eure Auseinandersetzung mit der Magie der Feywildnis hat Euch verändert und Euren &lt;LSTag Tooltip="Wisdom"&gt;Weisheit&lt;/LSTag&gt;-Wert um 1 erhöht.</content>
+  <content contentuid="kt1196871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Euer Kontakt mit der Magie des Schattenfells hat euch verändert und euren &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt;-Wert um 1 erhöht.</content>
+  <content contentuid="kt1206871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Eure Auseinandersetzung mit der Magie des Schattenfells hat euch verändert und euren &lt;LSTag Tooltip="Intelligenz"&gt;Intelligenz&lt;/LSTag&gt;-Wert um 1 erhöht.</content>
+  <content contentuid="kt1216871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Euer Kontakt mit der Magie von Shadowfell hat euch verändert und eure &lt;LSTag Tooltip="Wisdom"&gt;Weisheit&lt;/LSTag&gt; um 1 erhöht.</content>
+  <content contentuid="70d4ea406d9f4969a62fdeeeeeeeeeeeeeeee" version="1">Der Kontakt mit der Magie des Schattenreichs hat dich verändert und deinen gewählten &lt;LSTag Tooltip="AbilityScore"&gt;Fähigkeitswert&lt;/LSTag&gt; um 1 erhöht.
+
+Du erlernst außerdem den Zauber &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Unsichtbarkeit&lt;/LSTag&gt; und einen Zauber der 1.Stufe deiner Wahl. Der Zauber der 1. Stufe muss aus der Schule der Illusions- oder Nekromantiemagie sein. Dein &lt;LSTag Tooltip="SpellcastingAbilityModifier" &gt;Zaubermodifikator&lt;/LSTag&gt; ist die Fähigkeit, die durch diese Heldentat erhöht wird.</content>
 </contentList>

@@ -83,8 +83,6 @@ No more need for extra use of the ConverterApp.
 [url=https://www.nexusmods.com/baldursgate3/mods/3318]WoWDeathKnightClassGER[/url]
 [/b]
 
-Sourcecodes for translated mods can you find here: [url=https://github.com/Tenvan/Bg3Mods]Bg3Mods[/url]
-
 [color=#00ff00][size=3][b]Credits to Norbyte excelent LSLib[/b][/size][/color]: [url=https://github.com/Norbyte/lslib]https://github.com/Norbyte/lslib[/url]
 thx
 

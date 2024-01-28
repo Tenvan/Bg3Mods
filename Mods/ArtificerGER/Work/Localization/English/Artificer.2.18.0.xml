@@ -9,15 +9,21 @@
 	<content contentuid="h577777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck</content>
 	<content contentuid="h677777777777777777777777777777777777" version="1">Debug: Passive EnhancedDefenseCheck L10</content>
 	<content contentuid="h877777777777777777777777777777777777" version="1">Debug: Passive Aura of Artificer - Passive (Technical) - Self</content>
+
 	<content contentuid="777a55579g9844g4302g89e0ga6279822397b" version="1">Sturdy Armour</content>
+
 	<content contentuid="heecbcd55ged1dg4a44gaf30g3614ba7c5788" version="1">Worker Armour</content>
 	<content contentuid="h463018ecgbd05g4002g9584gcfc750efe37a" version="1">A sturdy set of armour that's good for fighting and for building stuff.</content>
+
 	<content contentuid="66523fb3deaa14de1766304e0911fbc49ae66" version="1">Artificer</content>
 	<content contentuid="77523fb3deaa14de1766304e0911fbc49ae77" version="1">Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects.  They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.  You can find everything you need to play one of these inventors in the next few sections.</content>
+
 	<content contentuid="12344fb3deaa14de1766304e0911fbc49ae66" version="1">Sleight of Hand Expertise</content>
 	<content contentuid="12345fb3deaa14de1766304e0911fbc49ae66" version="1">You gain Proficiency and Expertise in Sleight of Hand checks.</content>
+
 	<content contentuid="77877fb3deaa14de1766304e0911fbc49ae66" version="1">Rounded Up Spellcaster Level</content>
 	<content contentuid="77899fb3deaa14de1766304e0911fbc49ae66" version="1">Levels in Artificer will give extra Spell Slots compared to other half-casters when multiclassing.</content>
+
 	<content contentuid="34523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist</content>
 	<content contentuid="35523fb3deaa14de1766304e0911fbc49ae33" version="1">Alchemist Spells</content>
 	<content contentuid="35523773deaa14de1766304e0911fbc49ae33" version="1">You always have certain spells prepared after you reach particular levels in this class.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
@@ -57,10 +63,12 @@
 	<content contentuid="h8f96469eg7359g4588gbaefg3f444b9d6895" version="1">You've learned to magically produce Experimental Elixirs. These have a random effect and lasts until a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
 	<content contentuid="h8b5a15a5g7e3dg43afg9bb4g017394ad88aa" version="1">Restorative Reagent Charges</content>
 	<content contentuid="ha703390agfa66g4267gbb32g9185b1ad2410" version="1">You can cast Lesser Restoration without expending a Spell Slot and without preparing the spell a number of times equal to your Intelligence Modifier (minimum of once)</content>
+
 	<content contentuid="36523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer</content>
 	<content contentuid="37523fb3deaa14de1766304e0911fbc49ae33" version="1">Armorer Spells</content>
 	<content contentuid="37523773deaa14de1766304e0911fbc49ae33" version="1">You always have certain spells prepared after you reach particular levels in this class.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="47523fb3deaa14de1766304e0911fbc49ae44" version="1">An artificer who specializes as an Armorer modifies armor to function almost like a second skin.  The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense.  The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.</content>
+
 	<content contentuid="38523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist</content>
 	<content contentuid="39523fb3deaa14de1766304e0911fbc49ae33" version="1">Artillerist Spells</content>
 	<content contentuid="39523773deaa14de1766304e0911fbc49ae33" version="1">You always have certain spells prepared after you reach particular levels in this class.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
@@ -81,11 +89,13 @@
 	<content contentuid="h776b31c4g0908g4b94g872ag9e61113a5b65" version="1">The cannon's Damage Rolls all increase by 1d8.  You can command the cannon to detonate.  Doing so destroys the cannon and forces each creature in range to make a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
 	<content contentuid="h3250c3cfg334bg448dgad59g079e7e0a2b46" version="1">Self Destruct</content>
 	<content contentuid="he26b31c4g0908g4b94g872ag9e61113a5b65" version="1">Orders the cannon to eject all stored energy into a violent explosion.  Involved creatures must succeed a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; to avoid taking full damage.</content>
+
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith</content>
 	<content contentuid="34623fb3deaa14de1766304e0911fbc49ae33" version="1">Battle Smith Spells</content>
 	<content contentuid="34623773deaa14de1766304e0911fbc49ae33" version="1">You always have certain spells prepared after you reach particular levels in this class.  These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</content>
 	<content contentuid="44523fb3deaa14de1766304e0911fbc49ae44" version="1">Armies require protection, and someone has to put things back together if defenses fail.  A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both materiel and personnel.  To aid in their work, Battle Smiths are accompanied by a Steel Defender, a protective companion of their own creation.  Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a Steel Defender.</content>
 	<content contentuid="772d30149g1349g4008g9807g532569db7932" version="2">This companion's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and damage increase with the &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; of its artificer.</content>
+
 	<content contentuid="888f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Steel Defender</content>
 	<content contentuid="999f820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Your tinkering has borne you a faithful companion, a Steel Defender.  You can summon it freely and give it commands in battle.</content>
 	<content contentuid="77062bb49gc270g4353gb6ebgf4c2248ea879" version="1">Force-Empowered Rend</content>
@@ -102,6 +112,7 @@
 	<content contentuid="666741faag16e8g4399g8efbgc2af8304f248" version="1">Choose one creature or object you can see.  Healing energy flows into the chosen recipient, restoring &lt;LSTag Tooltip="HitPoints"&gt;Hit Points&lt;/LSTag&gt; to it. &lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Expends 1 use of Arcane Jolt.</content>
 	<content contentuid="2222222c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Deflect Attack</content>
 	<content contentuid="3222223aag16e8g4399g8efbgc2af8304f248" version="1">The Steel Defender can impose &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on the attack roll of one nearby creature it can see, provided the attack roll is against a creature other than the Steel Defender and that the target is within [1].</content>
+
 	<content contentuid="1239dd9c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Alchemical Adept</content>
 	<content contentuid="456741faag16e8g4399g8efbgc2af8304f248" version="1">You achieved a profound understanding of how to use and create consumable items useful in combat.  You can expend Salvaged Elements to craft them.</content>
 	<content contentuid="0111119c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Salvage Elements</content>
@@ -114,6 +125,7 @@
 	<content contentuid="h763423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item</content>
 	<content contentuid="hf3234g16e8321g4399g8efbgc2af8304f248" version="1">You've learned to store spells into scrolls.  The magic lasts until a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, and you can create a number of scrolls equal to your Intelligence Modifier.</content>
 	<content contentuid="h863423c1g0a96g40f7g8606gd0e9a5b0d3a4" version="1">Spell-Storing Item Charges</content>
+
 	<content contentuid="88523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots</content>
 	<content contentuid="88623fb3deaa14de1766304e0911fbc49ae88" version="1">Infusions</content>
 	<content contentuid="33523fb3deaa14de1766304e0911fbc49ae88" version="1">Infusion Slots: [3]</content>
@@ -206,6 +218,7 @@
 	<content contentuid="77721bdf5g81ebg495fg864ag4f6686879bcb" version="4">Summon a raven-shaped homunculus that can &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Blind&lt;/LSTag&gt; enemies with its beak.</content>
 	<content contentuid="7775497e1g3067g4b9egb505ge1ee8e3f7aab" version="1">Homunculus Shape: Spider</content>
 	<content contentuid="777f10276g7415g42b3g9b15g056514104f5f" version="3">Summon a spider-shaped homunculus with a poisonous &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;Bite&lt;/LSTag&gt;.</content>
+
 	<content contentuid="h1234564ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replicate Magic Item</content>
 	<content contentuid="h7891014ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Using this infusion, you replicate a particular magic items.  Each item will consume an Infusion Slot and will disappear at &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="h777cc24ega0f9g4f4dgb5d3g46ab59579d4b" version="1">Replica: Circlet of Mind Reading</content>
@@ -215,12 +228,14 @@
 	<content contentuid="hfff13be0g55d1g413dg93b9g2f0b17780151" version="1">Replica: Crypt Lord Ring</content>
 	<content contentuid="hfff60a15geebfg4c4dga6a1g741690720575" version="1">Replica: Amulet of Health</content>
 	<content contentuid="hfff574eagad02g478bga5b9gff638f0f278e" version="1">Replica: Gauntlets of Giant Strength</content>
+
 	<content contentuid="h459b895bg4564g4064g800cge118219eec17" version="1">Infusion: Arcane Propulsion Armor</content>
 	<content contentuid="h61fad7f4g7b21g4f4fgac8fg3223752b38e3" version="1">You learn how to infuse your armor with arcane magic, allowing its wearer move faster and use Force attacks.  Once per turn you can attack using Force blasts and area attacks, and all your weapon attacks deal additional Force damage.</content>
 	<content contentuid="hb87b8cc5g3c9bg4690g8100g8aee4432cf18" version="1">Arcane Propulsion Charge</content>
 	<content contentuid="h11e4951cg210dg4143g9306g1d6c7733a5c1" version="1">You use the propulstion from your armor to deal a devastating attack with your weapon.</content>
 	<content contentuid="h797aa447g66e8g4c92g90f8g084aa97c9e1e" version="1">Arcane Propulsion Blast</content>
 	<content contentuid="hae87f8d1g52e7g4011g9858gdbed01f13c2c" version="1">You can channel magic through both of your gauntlets and emit Force projectiles.</content>
+
 	<content contentuid="he272fe27g5fa7g4b7ag8392g5e7d606c554e" version="1">Arcane Armor</content>
 	<content contentuid="hb788c89dga6c8g40f1gb35cg8ccca36f35b3" version="1">Your metallurgical pursuits have led to you making armor a conduit for your magic.  As an action, you can turn a suit of armor you are wearing into Arcane Armor.</content>
 	<content contentuid="h12038142g6632g489cg9caeg5e2f719edf9b" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Heavy Armour.</content>
@@ -262,6 +277,7 @@
 	<content contentuid="h8222259eg3214g4772g9085gce3dcff90a4d" version="1">Perfected Armor: Infiltrator</content>
 	<content contentuid="h922224bcg3365g4812ga6a5gb0fa92c75165" version="1">Creatures you hit with Lightning Launcher glimmer with magical light and have Disadvantage on attack rolls and take extra damage from your Lightning Launcher.</content>
 	<content contentuid="h922224ccg3365g4812ga6a5gb0fa92c75165" version="1">Creatures you hit with Lightning Launcher glimmer with magical light and have Disadvantage on attack rolls and take extra damage from your Lightning Launcher.  You additionally gain Advantage against them.</content>
+
 	<content contentuid="h7777f09fg3063g4abbg9332gf089e61d313e" version="1">Magic Item Adept</content>
 	<content contentuid="h7778f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +1 bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
 	<content contentuid="h3854f09fg3063g4abbg9332gf089e61d313e" version="1">Magic Item Savant</content>
@@ -270,14 +286,18 @@
 	<content contentuid="h6854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +2 bonus to damage when you attack or cast a spell while holding a magical weapon.</content>
 	<content contentuid="h7854f09fg3063g4abbg9332gf089e61d313e" version="1">Soul of Artifice</content>
 	<content contentuid="h8854f09fg3063g4abbg9332gf089e61d313e" version="1">Gain a +1 bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; if you're holding a magic or infused weapon.  When you posses a replicated magic item, if you're reduced to 0 hit points but not killed out-right, you can use your reaction causing you to drop to 1 hit point instead of 0.</content>
+
 	<content contentuid="hf370db3cg613dg4943gafe8ge316307ce44e" version="1">Chemical Mastery</content>
 	<content contentuid="h9dab0330gd89ag4b76g87d8gfbcfdfcd8c3c" version="1">You have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments.  Once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; you can cast Greater Restoration and Heal without expending a Spell Slot.  You also get resistance to Poison damage and Acid damage, as well as immunity to being poisoned.</content>
 	<content contentuid="h0e497d40g28b2g47c5g8947g915af0c1bfd5" version="1">Perfected Armor MkII</content>
 	<content contentuid="hb53d6847g7d5cg463cg91d9g1d296d25b2c5" version="1">The benefits gained from your Perfected Armor improve further: your Guardian reaction now additionally deals damage, while your Lightning Launcher now deals 1d6 extra damage and gives you advantage against the hit creature.</content>
+
 	<content contentuid="h91e92732g0969g4c2egb478gfdf53e2fd6e4" version="1">Fortified Position</content>
 	<content contentuid="h0258e5e2gbdb4g4005gbb9cg95d489be1871" version="1">You're a master at forming well-defended emplacements using Eldritch Cannon: you can now summon two of them with the same action.</content>
 	<content contentuid="hd44d7d4ag0cefg4e26g9519g1a311c277e91" version="1">Improved Defender</content>
 	<content contentuid="h0bcbee6ag0e91g4054g85f8g86814bbf0198" version="1">Your Arcane Jolt and steel defender become more powerful: the extra damage and the healing of your Arcane Jolt both increase to 4d6; whenever your steel defender uses its Deflect Attack, the attacker takes Force damage.</content>
+
+
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000001" version="1">Armor of Arcane Firearms</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000001" version="1">The first prototype of this armor was created by Jan Jansen around 1369 and became famous for being used during the battles that led to the defeat of the mad wizard Irenicus.  It was later perfected by an inventor from Lantan who won its designs in a dice game.  It entered the market only sixty years later, but it is now considered the standard equipment for any skilled artificer in artillery.</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000001" version="1">Eldritch Cannon MkII</content>
@@ -285,6 +305,7 @@
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000001" version="1">Eldritch Cannon Overdrive</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000001" version="1">Infuse your Small Eldritch Cannon with Lightning magic, granting it a bonus to attacks and new abilities.</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000001" version="1">Infused with Lightning magic, which grants a bonus to attacks and new abilities.</content>
+
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000002" version="1">Armor of the Arcane Tempest</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000002" version="1">This armor is a replica of its namesake made by the Gondian craftsmen present in the Wonderbringer's Temple in Tilverton.  They were made for the craftsmen responsible for defending the city.  In 1372, due to a cataclysm caused by the Shade Enclave, Tilverton disappeared, and with it, these artifacts.  In 1409, a group of adventurers seeking fortune exploring the hole left in place of the city found some pages containing schematics.  Apparently, they were the original designs of the now-lost armors.  No one managed to replicate the originals, and the ones now circulating are the best reproductions.</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000002" version="1">Soundless Metal</content>
@@ -292,6 +313,7 @@
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000002" version="1">Tempestuous Armor</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000002" version="1">When the wearer deals Thunder or Lightning damage it gains a barrier.  Upon receiving a melee attack, the barrier explodes dealing damage.</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000002" version="1">Upon receiving a melee attack, the barrier explodes dealing damage.</content>
+
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000003" version="1">Robes of the Alchemist</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000003" version="1">The nature of this robes can be traced back to the distant Cormanthor.  These garments were used by the alchemists of the Jaerle House, a Vhaerunite Drow house.  Like all equipment created by Drow, it is efficient and practical.  It spread throughout Faerûn when an adventurer managed to steal one from the corpse of a Drow killed during an ambush.  Upon returning to Shadowdale, they commissioned a tanner to make modifications to make it less evil.  The tailor took advantage of the work to create a design and make new ones.  One of these reached an artificer, and the rest is history.</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000003" version="1">Corrosive Armor</content>
@@ -299,6 +321,7 @@
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000003" version="1">Upon receiving a melee attack, the barrier explodes dealing Necrotic damage.</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000003" version="1">Summon Ooze</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000003" version="1">Summons a Ooze to fight at your side dealing Acid attacks.</content>
+
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000005" version="1">Armor of Battle Inventions</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000005" version="1">This armor is the legacy of an adventurer who traveled along the Sword Coast during 1372.  It was designed to be efficient and functional in any situation, equipped with an arcane energy condenser to enhance its Steel Defender's performance.  It is said that the first one was made from scrap pieces acquired from junk dealers.  When the adventurer became famous, they created a more defined prototype of such armor and later shared the knowledge with the priests of Gond to gift it to inventors throughout Faerûn.</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000005" version="1">Charged Arcane Jolt</content>
@@ -306,6 +329,7 @@
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c74000005" version="1">Steel Defender Overdrive</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000005" version="1">Infuse your Steel Defender with Lightning magic, granting Extra Attack, a damage bonus and new abilities.</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000005" version="1">Infused with Lightning magic, which grants Extra Attack, a damage bonus and new abilities.</content>
+
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c70000004" version="1">The Deconstructor</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c71000004" version="1">The years an artificer puts into their work is mostly for creating wonders.  However, sometimes the creation might be a touch too good and needs to be put down quickly in order to save face and insurance premiums.  Too many explosions tend to get the law man involved, so it might be best to put it out of commission before too many eye catch a glimpse...  Also good for clearing obstacles.</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c72000004" version="1">Deconstruction</content>
@@ -314,24 +338,32 @@
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c75000004" version="1">Weapon attacks extra Ligntning damage.</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c76000004" version="1">Draconic Deconstructor</content>
 	<content contentuid="h7d80071bga99bg463ag8d37gcc4c77000004" version="1">It is unclear if The Deconstructor was originally an attempt to replicate this wonder or if day a powerful dragon just decided to bestow their gift on a well made hammer.  It's also possible that this is just the result of a collaboration between talented artisans and clerics.  All we know is that this weapon is as good as its more common version, but carries a very powerful blessing.</content>
+	
 	<content contentuid="h778820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Steel Watcher Schematics</content>
 	<content contentuid="h778920e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Detailed instructions of the inner mechanism of a Steel Watcher. It looks like the initial name of the project was "Gondian Auto-Guard".</content>
 	<content contentuid="h997820e5gfdf7g4cc2g9309gb90acd0d2ff7" version="1">Your tinkering has borne you a faithful companion, a Steel Defender modified thanks to the project of the Gondian Auto-Guard.  This smaller Steel Watcher can be summoned freely by a seasoned Battle Smith.</content>
+
 	<content contentuid="h77770ee8g980fg4327ga0e9g46dd7368310e" version="1">This hammer can be used to upgrade your Worker Armour, but you will need a rare metal.</content>
+
 	<content contentuid="h12310ee8g980fg4327ga0e9g46dd7368310e" version="1">Darkvision Monocle</content>
 	<content contentuid="h12315ee8g980fg4327ga0e9g46dd7368310e" version="1">A strange monocle of Githyanki origin. Makes the wearer able to see even in magical darkness.</content>
+
 	<content contentuid="haeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Flintlock Pistol</content>
 	<content contentuid="hbeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Firearms are becoming more and more widespread in Faerûn as Lantanese priests of Gond the Wondermaker are making and spreading them throughout the Realms. The Lantanese have mastered flintlock weapons-making, and can regularly produce high-quality pistols.</content>
 	<content contentuid="heeeeeee8g980fg4327ga0e9g46dd7368310e" version="1">Firearm</content>
 	<content contentuid="heeeefee8g980fg4327ga0e9g46dd7368310e" version="1">A mechanism that allows to shoot projectiles thanks to power of runepowder.</content>
+
 	<content contentuid="haccceee8g980fg4327ga0e9g46dd7368310e" version="1">Flintlock Musket</content>
 	<content contentuid="hbccceee8g980fg4327ga0e9g46dd7368310e" version="1">Firearms are becoming more and more widespread in Faerûn as Lantanese priests of Gond the Wondermaker are making and spreading them throughout the Realms. The Lantanese have mastered flintlock weapons-making, and can regularly produce high-quality muskets.</content>
+
 	<content contentuid="h000f7c68ge983g4735g979eg25c197ee9962" version="1">Ranged Attack (Firearm)</content>
 	<content contentuid="h001f7c68ge983g4735g979eg25c197ee9962" version="1">Make a ranged attack with your firearm.</content>
 	<content contentuid="h010f7c68ge983g4735g979eg25c197ee9962" version="1">Off-Hand Ranged Attack (Firearm)</content>
 	<content contentuid="h011f7c68ge983g4735g979eg25c197ee9962" version="1">Make a ranged attack with your off-hand firearm.</content>
+
 	<content contentuid="h9cd08861g50cfg4a67gb598gdbe47fbce245" version="1">Firearm</content>
 	<content contentuid="hc5bd4565g187cg49e2ga99eg43b33c5b8142" version="1">Firearms</content>
+
 	<content contentuid="hfffd4565g187cg49e2ga99eg43b33c5b8142" version="1">Gunner</content>
 	<content contentuid="hffff4565g187cg49e2ga99eg43b33c5b8142" version="1">Gunner: Point-Blank</content>
 	<content contentuid="hfffff565g187cg49e2ga99eg43b33c5b8142" version="1">Gunner: Proficiency</content>
@@ -341,4 +373,5 @@
 	<content contentuid="hccddd565g187cg49e2ga99eg43b33c5b8142" version="1">When you make firearm attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
 	<content contentuid="hccddf565g187cg49e2ga99eg43b33c5b8142" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with firearms.</content>
 	<content contentuid="hbbddf565g187cg49e2ga99eg43b33c5b8142" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with firearms.&lt;br&gt;&lt;br&gt;When you make firearm attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+
 </contentList>

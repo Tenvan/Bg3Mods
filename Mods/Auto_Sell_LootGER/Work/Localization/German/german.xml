@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <!-- Translated Texts, ordered by origin text -->
+  <content contentuid="h52f85295ga79bg4101gab57g07012ae166d2" version="1">- Ziehe Artikel per Drag &amp; Drop in die Tasche, um sie der Liste der automatisch verkauften Artikel hinzuzufügen.
+- Öffne die Tasche, um Ihre Liste zu bearbeiten
+- Wenn du im Bearbeitungsmodus einen Artikel aus der Tasche entfernst, wird er aus der Liste entfernt und gespeichert.
+- Die Liste wird gespeichert, sobald du die Tasche schließt.
+- Schlage die Tasche auf dem Boden, um die Konfiguration der Mod zu starten</content>
+  <content contentuid="he671bb1egab4fg4f2bg981egdd0b1e8585af" version="1">Durch die Umarmung der Magie verblasst der Gegenstand spurlos, an seiner Stelle eine goldene Anmut.
+Für Abenteurer in Eile ein Segen, ein Weg zum Reichtum, dem sie nachjagen!</content>
+  <content contentuid="he488aa70g5d71g4c0egaf5cg68ac3804b28d" version="1">Den Mod deaktivieren? Du kannst es später wieder aktivieren, indem du erneut auf die Tasche schlägst.</content>
+  <content contentuid="h5172487eg9d0eg4c06g93e3g5badf1e9401c" version="1">Möchtest du eine speicherspezifische Verkaufsliste für diese Spielstand erstellen?
+Bitte beachte, dass dadurch eine neue, leere Liste generiert wird, die für diesen Spielstand spezifisch ist.</content>
+  <content contentuid="h4a84239ag4dd0g4311gbd5ege1aac8b9cca2" version="1">Möchtest du die Tasche löschen? (um die Mod zu deinstallieren)
+Du bekommst ein neues, wenn du das Spiel lädst.</content>
+  <content contentuid="hfda8e6cag7e53g41e5gb1b5g4892dbc8a8ae" version="1">Möchtest du ausschließlich deine persönliche Verkaufsliste nutzen?
+Wenn du diese Option aktivierst, verwendet die Mod nicht ihre interne Junk-Liste und nur Gegenstände, die du manuell in die Tasche fügst, werden automatisch verkauft.</content>
+  <content contentuid="hd5b72a24g4401g4986gae60g9db54155f4ca" version="1">Möchtse du deine persönliche Verkaufsliste leeren?</content>
+  <content contentuid="hc28d17e2g37b5g4978gb1c6g56d048969ab8" version="1">Den Mod wieder aktivieren?</content>
+  <content contentuid="hbbb9dc98g5791g4c49gab6dg0ee36d9db4c4" version="1">Der wunderbare Sack des Handels</content>
+  <content contentuid="h70fb978cg63cbg44d2ga45eg89bcacb356c8" version="1">Möchtest du den Verkaufsmodus nur für die Tasche aktivieren?
+Wenn du diese Option aktivierst, werden Artikel, die du per Drag &amp; Drop in den Warenkorb ziehst, nicht automatisch zu deiner Verkäuferliste hinzugefügt.</content>
+  <content contentuid="h995d430eg9629g40c8g9470g6f515582195b" version="1">Du bist im Begriff, mit der Konfiguration des Auto-Sell-Mods zu beginnen.
+Bitte drücke nicht die Escape-Taste und überprüfe sorgfältig die verfügbaren Optionen. Drücke "JA", um die Konfiguration zu starten, oder "NEIN", um die Konfiguration abzubrechen.</content>
+  <content contentuid="hbc85062bg1b97g4150g9d31gacac9018d58b" version="1">Du verwendest derzeit eine speicherspezifische persönliche Verkaufsliste.
+Möchtest du wieder die globale persönliche Verkaufsliste verwenden?
+Deine speicherspezifische Liste bleibt erhalten und kann später auf Wunsch wieder aktiviert werden.</content>
+</contentList>

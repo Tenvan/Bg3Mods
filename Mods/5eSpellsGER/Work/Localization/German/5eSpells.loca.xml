@@ -15,7 +15,7 @@
   <content contentuid="80e83c51497a40b8a569f87df021dd72" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistent&lt;/LSTag&gt; gegen Feuerschaden.</content>
   <content contentuid="1f42da9030eb42eda29068a8b4ab0874" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Blitzschaden.</content>
   <content contentuid="e87fe71be4a642768b60845afbd19f10" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistenz&lt;/LSTag&gt; gegen Donnerschaden.</content>
-  <content contentuid="bf3eb0cc-a50b-4391-9dec-ab4f62c14b85" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Eine Kreatur kann nicht gestoßen werden, wenn sie größer als mittelgroß ist.</content>
+  <content contentuid="hbf3eb0ccga50bg4391g9decgab4f62c14b85" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Eine Kreatur kann nicht geschubst werden, wenn sie größer als mittelgroß ist.</content>
   <content contentuid="5dfb4398-fe17-4bdf-ae03-770adcd46dc7" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Eine Kreatur, die diese Zeremonie abschließt, kann nie wieder in den Genuss derselben Zeremonie kommen.</content>
   <content contentuid="dabb276c955d4a21a93e01e5d669a151" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Bereits beschworene Vertraute verschwinden, wenn dieser Zauber verwendet wird.</content>
   <content contentuid="cb461e3d44c24dbfbac33e595fb7fd45" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Kann Kreaturen mit einem &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;-Wert von 2 oder niedriger nicht beeinflussen.</content>
@@ -24,9 +24,11 @@
   <content contentuid="e8c433ca-4e4a-4300-bf97-71c983b3647d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Keine Auswirkung auf Kreaturen, die immun sind gegen &lt;LSTag Type="Status" Tooltip="FRIGHTENED" &gt;Erschrecken&lt;/LSTag&gt;.</content>
   <content contentuid="08c0f5f8-ea94-4e51-8a6b-20cbcd4cb7f1" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Sobald eine Kreatur von diesem Zauber betroffen ist, kann sie ihn erst wieder nutzen, wenn sie eine &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendet hat.</content>
   <content contentuid="85c1fadaf6d4416e808a021b8672a508" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Sobald du sechsmal durch deinen Heilgeist geheilt hast, endet der Zauber.</content>
+  <content contentuid="h62a1dba9g0a67g4164g9c4cg05b43f7e55fd" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Das Objekt darf nicht mehr als 5 Pfund wiegen.</content>
   <content contentuid="bf086fdb5af94a6f958cb72a00ea00d2" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Der Zauber endet, wenn das Ziel die Gesamtzahl der anwendbaren Angriffe mit der betroffenen Fernkampfwaffe ausgeführt hat.</content>
   <content contentuid="h1ca7f387g3a91g4acaga9cbge2f2e1f0d420" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Dieser Zauber erfordert und entfernt 25 Gold, wenn er gewirkt wird.</content>
   <content contentuid="e11938a5-ee9a-4eab-81d3-0d5fab8cefa4" version="1">&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Verzaubere&lt;/LSTag&gt; eine Kreatur, um sie daran zu hindern, dich anzugreifen. Du erhältst &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Charisma &lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt; im Dialog.</content>
+  <content contentuid="hb52d0831g1f55g4356gb606g724245fd2500" version="1">&lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistent&lt;/LSTag&gt; gegen Feuerschäden.</content>
   <content contentuid="2aa81f7a99364085b0be56f039064ee0" version="1">&lt;LSTag Type="Status" Tooltip="RESTRAINED" &gt;Gefesselte&lt;/LSTag&gt; Kreaturen machen Geschicklichkeits-&lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; mit &lt;LSTag Tooltip="Disadvantage" &gt;Nachteil&lt;/LSTag&gt; am Ende ihrer Runde und beenden den Effekt bei einem Erfolg. Eine andere Kreatur kann ihre Aktion nutzen, um den Effekt ebenfalls zu beenden.</content>
   <content contentuid="h041a9202gd475g44a1gb09bg68849ebfcb50" version="1">&lt;LSTag Type="Status" Tooltip="SNEAKING_HEAVILY_OBSCURED"&gt;Gut versteckt&lt;/LSTag&gt; für andere und &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistenz&lt;/LSTag&gt; gegen Strahlungsschaden.</content>
   <content contentuid="669ed387-7951-4ce8-a2f9-740f1b1160d4" version="1">Aus deinen Händen strömt ein kalter Luftstoß, der Kreaturen [1] zufügt.</content>
@@ -73,7 +75,7 @@
   <content contentuid="b3f4c8d4-fe03-438c-915e-fed4c9199e95" version="1">Ashardalons Schritt</content>
   <content contentuid="f259d54d-a112-46bd-ae0b-bde92c717b00" version="1">Versuch dich zu befreien.</content>
   <content contentuid="a7612af9-b987-4c6e-9f0a-41ec0db1fd23" version="1">Erwecke das Gefühl der Sterblichkeit in einer Kreatur und &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;erschrecke&lt;/LSTag&gt; sie.</content>
-  <content contentuid="3e5ca67a-a68f-4730-a093-44ec915c6940" version="1">Bestienbindung</content>
+  <content contentuid="h3e5ca67aga68fg4730ga093g44ec915c6940" version="1">Beast Bond</content>
   <content contentuid="053e5c729a8c43d494fb9c3f6f445f86" version="1">Wird allen Kreaturen gegenüber feindlich gesinnt.</content>
   <content contentuid="37557ffb-6f39-4b20-8392-e37be4c3f23a" version="1">Bevor du getroffen wirst, erhältst du Widerstand gegen Säure-, Kälte-, Feuer-, Blitz- oder Donnerschaden. Der erste Nahkampfangriff in der nächsten Runde verursacht außerdem 1d6 Schaden der auslösenden Schadensart.</content>
   <content contentuid="aef5f671-2755-4e48-984b-a92d0aac419c" version="2">Bestialischer Luftgeist</content>
@@ -83,6 +85,7 @@
   <content contentuid="92f20db33ff34993ac54ec0808802984" version="1">Verbunden mit dem Zaubernden und anderen. Solange sie verbunden sind, haben verbündete Kreaturen einen Vorteil bei Angriffswürfen und Rettungswürfen gegen Angriffe und Zauber, die sie als Ziel einschließen würden.</content>
   <content contentuid="4378eacf0a0543079d1a8861ad2c7ce8" version="1">Lagerfeuer</content>
   <content contentuid="06ccff5b-74f8-4871-a26d-66436d5da6d5" version="1">Dröhnende Klinge</content>
+  <content contentuid="h5c64717fgdf63g456dga956gccc1a47102b5" version="1">Dröhnende Klinge: Schleichangriff</content>
   <content contentuid="f1809237-c064-41af-bc9b-b05822568f61" version="1">Geliehenes Wissen</content>
   <content contentuid="585b16f1-583c-453f-833f-d151ca4204dd" version="1">Geliehenes Wissen: &lt;LSTag Tooltip="Acrobatics"&gt;Akrobatik&lt;/LSTag&gt;</content>
   <content contentuid="64872a78-af26-4e89-9d56-e1e646e0bec8" version="1">Geliehenes Wissen: &lt;LSTag Tooltip="AnimalHandling"&gt;Umgang mit Tieren&lt;/LSTag&gt;</content>
@@ -186,9 +189,10 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="h2fcce29agbb0eg4258g87f7g09be59a37f25" version="1">Ewige Flamme: Blau</content>
   <content contentuid="h8caf9be1g35c3g4052ga404g0f39d723779b" version="1">Ewige Flamme: Abweisen</content>
   <content contentuid="h021d6009gb63ag4336g8a66ge44b22cfb3e3" version="1">Ewige Flamme: Rot</content>
-  <content contentuid="c9a48d42-9567-4fc0-9352-7e7ced0aab62" version="1">Kontrolliere Flammen</content>
+  <content contentuid="hc9a48d42g9567g4fc0g9352g7e7ced0aab62" version="1">Flammen kontrollieren</content>
   <content contentuid="85a05eac-e688-4811-aa65-4f771167fc2d" version="1">Flammen kontrollieren: Erweitern</content>
   <content contentuid="70dd64c3-4570-459d-82b9-2f235d4fb560" version="1">Flammen kontrollieren: Löschen</content>
+  <content contentuid="h70dd64c3g4570g459dg82b9g2f235d4fb560" version="1">Flammen kontrollieren: Widerstand</content>
   <content contentuid="72bc1a0a-f3af-4c59-b163-5421eff7099e" version="1">Erschaffe [1] Meteore, die auf ein Gebiet zufliegen und explodieren können.</content>
   <content contentuid="7aad5759-5124-443f-ac19-971c05890fa2" version="1">Erstelle eine [1] magische Falle auf dem Boden. Sie wird ausgelöst, wenn sich eine kleine oder größere Kreatur in ihre Nähe begibt, wodurch sie möglicherweise &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Anfällig&lt;/LSTag&gt; wird und &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Gefesselt&lt;/LSTag&gt; wird.</content>
   <content contentuid="230e0fdb78354f1f8680dfd69df183b7" version="1">Erschaffe ein Lagerfeuer, das Kreaturen im Feld des Lagerfeuers verbrennt, wenn du diesen Zauber wirkst oder wenn die Kreatur ihren Zug im Feld beginnt oder beendet.</content>
@@ -326,7 +330,7 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="8d68db4e-8a50-4e3b-8972-bb2728ffa300" version="1">Aus deiner &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON"&gt;Heiligen Waffe&lt;/LSTag&gt; strömt ein Strahlenbündel aus, das feindliche Kreaturen &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;blendet&lt;/LSTag&gt; und den Zauber beendet.</content>
   <content contentuid="1ee1b6d8-4e10-4cf0-98e5-a31f612c8475" version="1">Feinde im Überfluss</content>
   <content contentuid="137eff9e-cff5-4c20-86ec-b58b8dba2a00" version="1">Ausbrechende Erde</content>
-  <content contentuid="8e566259-b88e-4f96-a40d-7147712a8413" version="1">Baue eine telepathische Verbindung mit einem befreundeten oder von dir verzauberten Biest auf. Die Bestie erhält &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen Kreaturen im Umkreis von [1] von dir.</content>
+  <content contentuid="h8e566259gb88eg4f96ga40dg7147712a8413" version="1">Stelle eine telepathische Verbindung mit einem freundlichen Tier oder einem von dir bezauberten Tier her. Die Bestie erhält &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswürfe&lt;/LSTag&gt; gegen Kreaturen innerhalb von [1] von dir entfernt.</content>
   <content contentuid="8d4bf441-7f7d-47f1-b160-3a9d2c1b88b2" version="1">Säure kegelförmig ausatmen.</content>
   <content contentuid="a3b78ceb-dd07-4d0c-b597-94a52a3f0819" version="1">Kälte kegelförmig ausatmen.</content>
   <content contentuid="a1b8c976-a52e-4a1b-9d8d-7e175ff8417f" version="1">Feuer kegelförmig ausatmen.</content>
@@ -379,17 +383,20 @@ Du erlangst Fachwissen in &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt; und 
   <content contentuid="9b4b335d48e046e18b54f9e859981792" version="1">Erhält zusätzlich [1] &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; und provoziert keinen &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt;. Kann sich durch den Raum von anderen Kreaturen bewegen.</content>
   <content contentuid="871390cd-53cb-4311-b2fa-e8e9812dfea1" version="1">Geschenk der Schnelligkeit</content>
   <content contentuid="2720371b-9f64-4390-9f1e-d2b5fa261419" version="1">Gewährt [1] Kreatur(en) Widerstand gegen psychischen Schaden sowie einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; auf Intelligenz, Weisheit und Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Rettungswürfe&lt;/LSTag&gt; .</content>
+  <content contentuid="h528367ffg48cfg4f51ga059gaabbecdfe51b" version="1">Gewähre einer Kreatur &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Widerstand&lt;/LSTag&gt; gegen Feuerschaden.</content>
   <content contentuid="15260388-dfe0-44dd-8125-822201172639" version="1">Gewährt verbündeten Kreaturen die Fähigkeit, sich über eine beliebige flüssige Oberfläche zu bewegen, als wäre sie harmloser fester Boden.</content>
   <content contentuid="a7327c66-4713-4ec7-97de-665b84f00577" version="1">Greifende Rebe</content>
   <content contentuid="c3f6b54c-75a3-46f4-85fb-2a95bc09827e" version="1">Die Schwerkraft in einer [1]-Kugel, die auf einem gewählten Punkt zentriert ist, erhöht sich kurzzeitig, was die &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; von Kreaturen in diesem Bereich um die Hälfte reduzieren kann.</content>
   <content contentuid="0b6fce34-1ed8-4e89-b296-65d4a7af72ef" version="1">Schwerkraft-Senkgrube</content>
   <content contentuid="db5c91b4-e7db-4f8b-81a4-bb4a026d88e2" version="1">Grüne Flamme</content>
   <content contentuid="70d336bc-94f6-4bad-a8b8-5944fa9ab350" version="1">Grüne Flammenklinge</content>
+  <content contentuid="h1908ba8cgbd5ag403ag8ecag69f34c6ddd15" version="1">Klinge der grünen Flamme: Schleichangriff</content>
   <content contentuid="dac95e17-7fb6-4ebe-840b-5f92f409431f" version="1">Grüne Flammen springen aus deiner Waffe und treffen einen Gegner in der Nähe.</content>
   <content contentuid="8f0a5826-3cd7-4169-acac-070d5b84a4d4" version="1">Hüter der &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt;</content>
   <content contentuid="d376bb7d-6ee0-416e-a703-3ad4a449c1d6" version="1">Hüter der &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt;: Großer Baum</content>
   <content contentuid="a47b6e44-30db-4a5c-8463-064024b7301b" version="1">Hüter der &lt;LSTag Tooltip="Nature"&gt;Natur&lt;/LSTag&gt;: Urbestie</content>
   <content contentuid="1e59de7f-2f54-4f51-9304-9aabd84e3f15" version="1">Böe</content>
+  <content contentuid="hdadbcfc4g44acg44beg9b01g999bfb636baf" version="1">Böe: Wolken</content>
   <content contentuid="217ec6abd81e41bb83ca552230fba831" version="1">Böe: Kreatur</content>
   <content contentuid="f0805e7ab7c5406bb6710dd519a75e48" version="1">Böe: Objekt</content>
   <content contentuid="befafae4ab3747b6ab913facd82e9cfd" version="1">Hat einen &lt;LSTag Tooltip="Advantage"&gt;Vorteil&lt;/LSTag&gt; bei &lt;LSTag Tooltip="Intimidation"&gt;Einschüchterung&lt;/LSTag&gt;-&lt;LSTag Tooltip="AbilityCheck"&gt;Fertigkeitswürfe&lt;/LSTag&gt;.</content>
@@ -461,10 +468,12 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="21bb5b1d-9dd0-4e17-9495-ec8d72d98e9a" version="1">Schwerkraft vergrößern</content>
   <content contentuid="2e466f4e-9071-466b-9499-d861607cd2ea" version="1">Mache eine beruhigende Geste, die verbündete Kreaturen dazu zwingt, bewusstlos zu werden und die Vorteile einer &lt;LSTag Tooltip="ShortRest"&gt;Kurzen Rast&lt;/LSTag&gt; zu genießen.</content>
   <content contentuid="32d078b9f5b04fd2bf40170eb3bb3d40" version="1">Führe mit der ausgerüsteten Waffe zwei Fernangriffe durch.</content>
-  <content contentuid="6f60d13a-4981-4a9a-8b4b-576d79f30182" version="1">Manipuliere eine Wasseroberfläche und friere sie ein, um sie in eine Eisfläche zu verwandeln, oder schmelze eine Eisfläche, um sie in eine Wasserfläche zu verwandeln.</content>
   <content contentuid="65c0a00ff24d487db8ce408c863fe481" version="1">Manipuliere eine Wasseroberfläche und friere sie zu einer Eisfläche ein.</content>
   <content contentuid="5244d1bec0cb4c69a1ee19af83b4cf28" version="1">Eine Eisfläche manipulieren und zum Schmelzen bringen, um eine Wasserfläche zu erzeugen.</content>
+  <content contentuid="h99d89c81g7507g4a4dgbac4ge68c80d3a84c" version="1">Manipuliere eine Eisoberfläche und schmelze sie, um zu einer Wasseroberfläche zu werden.</content>
   <content contentuid="5ee75e1a-0b41-4726-bca1-eaa10c486de5" version="1">Manipuliere die Erde nach Lust und Laune und erschaffe eine Schlammoberfläche, die zu &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;schwierigem Gelände&lt;/LSTag&gt; wird, oder entferne eine Schlammoberfläche.</content>
+  <content contentuid="hc102651cge12cg40dcg86begccbabc37cb6d" version="1">Manipuliere Wasser, um eine verbündete Kreatur zu durchnässen.</content>
+  <content contentuid="h6f60d13ag4981g4a9ag8b4bg576d79f30182" version="1">Manipuliere Wasser, um Wasseroberflächen einzufrieren, Eisflächen zu schmelzen oder eine verbündete Kreatur zu tränken, um &lt;LSTag Type="Status" Tooltip="WET"&gt;Wet zu werden&lt;/LSTag&gt;.</content>
   <content contentuid="88ee6921-7bf4-45c3-85dd-24cd03325d46" version="1">Maximilians irdener Griff</content>
   <content contentuid="662c86db-df97-4c04-8fbf-daa1e4c6e662" version="1">Maximillians irdener Griff: Veränderung</content>
   <content contentuid="24cb4e80-826d-4744-8b69-49b1a6941f3d" version="1">Maximillians irdener Griff: Zerschmettern</content>
@@ -477,8 +486,8 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="f40e5229b0004f3c8dd4adb41b6aa052" version="1">Winzige Meteore: Eins</content>
   <content contentuid="7fb5181c98d04e739e2fb3517f6f0907" version="1">Winzige Meteore: Zwei</content>
   <content contentuid="045a290b-efdc-4cf7-bd25-2ee6b269cb17" version="1">Schimmelerde</content>
-  <content contentuid="a42fcc44-335c-4c84-b536-5be090f6ad90" version="1">Schimmelerde: Zerstören</content>
   <content contentuid="9d7d6dd6-4f80-4e70-8dd7-fd5aa40d3704" version="1">Schimmelerde: Schlamm</content>
+  <content contentuid="a42fcc44-335c-4c84-b536-5be090f6ad90" version="1">Schimmelerde: Zerstören</content>
   <content contentuid="e476eece-1dbd-4d1b-9b04-ad62eebbc829" version="1">Motivationsrede</content>
   <content contentuid="ee2a48ba-1f4a-421b-9991-85800ab9af7c" version="1">Morgendämmerung verschieben</content>
   <content contentuid="8bed9dc5-b98a-4a72-b0b3-f4d0cfadccc0" version="1">Bewege dich wie der Wind und vermeide es, &lt;LSTag Tooltip="OpportunityAttack"&gt;Gelegenheitsangriffe&lt;/LSTag&gt; zu provozieren.</content>
@@ -499,12 +508,12 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="edae0945-9a25-4321-8e15-4b739d8d6ecd" version="1">Bei einem erfolgreichen Rettungswurf erleiden Ziele den halben Schaden.</content>
   <content contentuid="bb24c0776b874a1db4e422875941cd0f" version="1">Sobald diese Aktion verwendet wird, endet der Zauber &lt;LSTag Type="Spell" Tooltip="Target_HolyWeapon"&gt;Heilige Waffe&lt;/LSTag&gt;.</content>
   <content contentuid="e16d1e7413de4eb9b453b2f0e61260da" version="1">Bei anderen Kreaturen innerhalb von [1] um den Geist wird die &lt;LSTag Tooltip="MovementSpeed"&gt;Bewegungsgeschwindigkeit&lt;/LSTag&gt; um [2] verringert.</content>
-  <content contentuid="e8442688-04f1-4751-a863-fe05abc86b89" version="1">Führe kleinere magische Tricks aus, um Fackeln anzuzünden oder auszulöschen und Umgebungsgelände oder Kreaturen zu reinigen.</content>
+  <content contentuid="he8442688g04f1g4751ga863gfe05abc86b89" version="1">Führe kleine magische Tricks aus, die das Feuer einiger Gegenstände und Waffen entzünden oder löschen und Bodenoberflächen oder Kreaturen reinigen.</content>
   <content contentuid="hb7fd9240g3f07g4bcagabc9g45aa63fe3b35" version="1">Führe eine von mehreren religiösen Zeremonien durch: Segnung des Wassers, Erwachsen werden oder Einweihung.</content>
   <content contentuid="3b97bc728e6a4c969e6bc01f974ef478" version="1">Verursache möglicherweise [1] und stoße die Kreatur zurück [2] oder füge bei einem erfolgreichen Rettungswurf halben Schaden und kein Zurückstoßen zu.</content>
   <content contentuid="35c4540d-7cfe-4a84-82f3-a5582eed0e86" version="1">Bereite dich darauf vor, eine Kreatur möglicherweise zu einem anderen Zeitpunkt verschwinden zu lassen, wenn sie versucht, einen Angriff auszuführen oder einen Zauber zu wirken.</content>
   <content contentuid="b1f7f4417bde414abb41166a29152ba4" version="1">Bereit, auf eine Kreatur katapultiert zu werden.</content>
-  <content contentuid="db65ca99-df3d-4492-9daa-28bf7861dcef" version="1">Fingerfertigkeit</content>
+  <content contentuid="hdb65ca99gdf3dg4492g9daag28bf7861dcef" version="1">Taschenspielerkunst</content>
   <content contentuid="e1e8930c-4213-47f3-b049-7acba8410ad8" version="1">Ursprüngliche Wildheit</content>
   <content contentuid="hcfc74665g60c1g4e7agb2bdg05c5ba3634d9" version="1">Leistungs-Bonus</content>
   <content contentuid="6d76a90090394014a192bf0b4423f001" version="1">Anfällig dafür, in einen unbesetzten Raum teleportiert zu werden.</content>
@@ -538,7 +547,8 @@ Wenn ein &lt;LSTag Tooltip="AttackRoll" &gt;Angriffswurf&lt;/LSTag&gt; gegen die
   <content contentuid="a6f894cc-4c0e-4b9e-ad70-4e7cd6643df9" version="1">Opfere einen Teil deines Lebens, um die Verletzungen einer anderen Kreatur zu heilen, wodurch du [1] erleidest und die Zielkreatur &lt;LSTag Tooltip="HitPoints"&gt;Trefferpunkte&lt;/LSTag&gt; zurückerhält, die dem Doppelten des Schadens entsprechen, den du erleidest.</content>
   <content contentuid="0bdfb2cf-6072-4699-8454-2492bac4e400" version="1">Entzieht einer Kreatur die Lebenspunkte, was dazu führen kann, dass sie &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Anfällig&lt;/LSTag&gt; wird.</content>
   <content contentuid="5aa87de0-6bd2-4e40-a279-f100ae3dab60" version="1">Auslaugender Stich</content>
-  <content contentuid="c5526a6d-376d-4c65-8036-7b07ccdd38b5" version="1">Greift in die Luft und zwingt sie, eine Kreatur bis zu [1] oder einen Gegenstand bis zu 5 Pfund [2] von sich wegzustoßen.</content>
+  <content contentuid="hbb364860gc5e7g4d6fg8782g12bb7fd13e27" version="1">Ergreifen Sie Luft und klären Sie Wolken in einem [1]-Bereich.</content>
+  <content contentuid="hc5526a6dg376dg4c65g8036g7b07ccdd38b5" version="1">Ergreife Luft und zwinge sie, möglicherweise eine Kreatur bis zu [1] von dir wegzuschieben, ein Objekt [2] von dir wegzuschieben oder Wolken in einem [3] Bereich zu beseitigen.</content>
   <content contentuid="eaeed94dc8384fd294df27282718a336" version="1">Ergreife die Luft und zwinge sie, eine Kreatur möglicherweise bis zu [1] von dir wegzudrücken.</content>
   <content contentuid="85322456b80b4bd5b1813ee6d0168fc7" version="1">Die Luft ergreifen und sie zwingen, ein Gewicht von bis zu 5 Pfund [2] wegzuschieben.</content>
   <content contentuid="878a9700-fe05-4a2a-aa2f-9f7e44fa7794" version="1">Sende negative Energie auf eine Kreatur und verursache [1], wenn es sich nicht um einen Untoten handelt. Durch diesen Schaden getötete Ziele erheben sich zu Beginn Ihres nächsten Zuges als Zombie und werden feindselig gegenüber allen Kreaturen. Wenn das Ziel ein Untoter ist, erhält es stattdessen [2].</content>
@@ -553,9 +563,11 @@ Du kannst dich ganz auf eine Kreatur konzentrieren, die die Fähigkeit besitzt, 
   <content contentuid="h8b7abf49ge54bg4bd0gaa58g616d8d40cbd1" version="1">Schicke einen oder zwei Meteore in ein Gebiet.</content>
   <content contentuid="8253b1e7954b4fe98922e7b8bb3182c1" version="1">Schatten &lt;LSTag Tooltip="Stealth"&gt;Heimlichkeit&lt;/LSTag&gt;</content>
   <content contentuid="8f7b58a4-61b1-4912-a569-c7bdb80bf73b" version="1">Schattenbrut</content>
-  <content contentuid="cff835ec-0101-485a-b7e5-d3aa6b69de11" version="1">Wasser formen</content>
+  <content contentuid="hcff835ecg0101g485agb7e5gd3aa6b69de11" version="1">Wasser formen</content>
+  <content contentuid="h84c618eegaf80g4487g92e8gbf15c00832bd" version="1">Wasser formen: Drench</content>
   <content contentuid="779794ccc2494711a793023a752a70ba" version="1">Wasser formen: einfrieren</content>
   <content contentuid="630af4d3d7374b1ebf31771db43a732c" version="1">Wasser formen: Auftauen</content>
+  <content contentuid="h3aab77a8g5455g4968g9341gef97386d1798" version="1">Wasser formen: Auftauen</content>
   <content contentuid="bade8726-7366-4a88-8d13-65e0ba89ca4d" version="1">Der Splitter explodiert immer noch.</content>
   <content contentuid="7814f0a4-8073-4930-99bc-b94e799759b2" version="1">Fertigkeit Verbesserung</content>
   <content contentuid="431eb559-07b7-472a-b071-db1f58c80cbe" version="1">Fertigkeit Verbesserung: &lt;LSTag Tooltip="Acrobatics"&gt;Akrobatik&lt;/LSTag&gt;</content>
