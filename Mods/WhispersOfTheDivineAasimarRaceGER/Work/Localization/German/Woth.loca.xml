@@ -7,6 +7,9 @@
   <content contentuid="h6bbb9fe2g905cg4ef2ga543g1b6cbae1696d" version="1">&lt;LSTag Tooltip="Resistant"&gt;Beständig gegen&lt;/LSTag&gt; Strahlenschäden.</content>
   <content contentuid="hbed6bfddg8353g4199gb7e1g02cd8f65c7df" version="1">Eine stärkere Verbindung zu deinen Ahnenbindungen hat es dir ermöglicht, deine Flügel nach Belieben zu manifestieren.</content>
   <content contentuid="haf93d995g7905g4663g9f14g1b95579af9f2" version="1">Aasimar</content>
+  <content contentuid="h01f119a1g7a48g4e48ga58fg469555cbe690" version="1">Aasimar erwache aus vielen verschiedenen Lebensbereichen, wähle die Ursprünge, die am besten auf deinen Charakter zutreffen.</content>
+  <content contentuid="hc5c99132g9689g4c2cg96dfg637821a92343" version="1">Aasimar Herkunft</content>
+  <content contentuid="h7ee602ddgb883g4a7fg83bag292b41a23ea9" version="1">Asmodeus Tiefling</content>
   <content contentuid="h56721999gf8ffg41e7g87c1g4f8e5c5b577b" version="1">Am Ende jedes Zuges müssen andere Kreaturen im Umkreis von 10 Metern um dich, die dich sehen können, jeweils einen &lt;LSTag Tooltip="SavingThrow"&gt;Charisma-Rettungswurf&lt;/LSTag&gt; machen oder bis zum Ende deines nächsten Zuges &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Angst vor&lt;/LSTag&gt; dir haben.</content>
   <content contentuid="haf344699gf5efg436dg804dg5e5d45868813" version="1">Am Ende jeder Runde müssen andere Kreaturen im Umkreis von 10 Metern von dir, die dich sehen können, jeweils einen &lt;LSTag Tooltip="SavingThrow"&gt;Konstitutionsrettungswurf&lt;/LSTag&gt; durchführen oder zwei Runden lang Flaggelants Wunde erhalten.</content>
   <content contentuid="h68e765e7gc069g42cega77cg394a0ee9569f" version="1">Am Ende deines Zuges nimmst du und jede gegnerische Kreatur im Umkreis von 10 Metern [1]. Sie werfen auch helles Licht in einem Radius von 10 Metern.</content>
@@ -17,6 +20,7 @@
   <content contentuid="h18f631efgdfeeg4683gac99g72a7dff7e657" version="1">Darkvision (Dunkelsicht)</content>
   <content contentuid="h7965fc46g770bg420cg9dbeg3a3e1b7c240d" version="3">Tagelöhnerin Cressa</content>
   <content contentuid="h37b630dag3cc7g481fgbbeeg67d7f5770b36" version="1">Verursache zusätzlich [1] auf Angriffe oder Zauber, aber du nimmst die Hälfte von [1] selbst, wenn du diese Funktion verwendest. Wenn dieser Effekt nachlässt, stelle [2] Gesundheit wieder her.</content>
+  <content contentuid="h3dfe725dgbf73g4339gb3d6g1d1eb47db36d" version="1">Tiefer Gnom</content>
   <content contentuid="h3b50a476g26b0g46ffgb876g239463c0367a" version="1">Als Nachkommen der Himmlischen der Oberen Ebenen sind die Aasimars eine seltene Spezies, die in ganz Faerûn oft als messianische Figuren angesehen wird. Angesichts der hohen Erwartungen der Gesellschaft und der göttlichen Einmischung in ihre Gedanken und Gefühle müssen Aasimars oft um die Kontrolle über ihr eigenes Leben kämpfen.</content>
   <content contentuid="h52d7266cg2c25g4c08g9104geb6f29877847" version="1">Die Geißel Aasimars, die von Kreuzzugsengeln abstammen, erben einen brennenden Hass auf die Mächte des Bösen und sind bestrebt, sie zu vernichten, wo immer sie zu finden sind. Sie können ihre engelhafte Blutlinie anzapfen, um ihre Feinde in heiligem Feuer zu verbrennen.</content>
   <content contentuid="h784431d2g3a49g4f43g81a2g1333eb183a8e" version="1">Von gefallenen Engeln abstammend oder selbst gefallen, haben gefallene Aasimars ihre Verbindungen zum Göttlichen beschädigt und verspüren Impulse, das Gute ebenso zu zerstören wie zu schützen. Ihre göttlichen Fähigkeiten werden in etwas Dunkleres verwandelt.</content>
@@ -27,6 +31,8 @@
   <content contentuid="h47a58ca7g9275g44c1gb283gdf9eae9b042f" version="1">Göttliche Krone - Vorbote</content>
   <content contentuid="hb27968f0g364ag4a4fgaadag253a32f2e24d" version="1">Göttliche Krone - Beschützer</content>
   <content contentuid="hd243e29ege7f1g4a9eg99a6g991730d99377" version="1">Göttliche Krone - Geißel</content>
+  <content contentuid="h47031152g6076g4d29g9257g4826547b5f07" version="1">Nacht-Halbelf</content>
+  <content contentuid="hfe0541f5gb8b1g4c31gab47g14d37ba44b53" version="1">Duergar</content>
   <content contentuid="h42b96546g51ffg453bg9930g4692f957113b" version="1">Umarmung der Gefallenen</content>
   <content contentuid="h112918e9g580fg4ea8g8aecg172048c86aa0" version="1">Umarmung der gefallenen Aura</content>
   <content contentuid="h4fd6225ag5000g4085g8b18gd366a3343ec6" version="1">Exanimate's Apex - Gefallen von Dissidia</content>
@@ -45,9 +51,13 @@
   <content contentuid="h5e334490g76cag4206ga9aage6f926169526" version="1">Flagellants Schwäche</content>
   <content contentuid="h94806a6bgd3e9g45a1gaa29ga6425178049f" version="1">Flagellants Wunden</content>
   <content contentuid="h2ee15314gb35eg4225g9c97g243ec5d0b3cc" version="1">FLAGGELANT: DEBUGGEN</content>
+  <content contentuid="h49470d31g1f4ag4191gbc6agb506816ff4a0" version="1">Waldzwerg</content>
   <content contentuid="hcfd55c57g688dg43bdg8f72gfb20137f1c3b" version="1">Zorn der Geißel</content>
   <content contentuid="h491254c1ge5c9g47adgab07gf3af7a8c4067" version="1">Aura des Zorns der Geißel</content>
+  <content contentuid="h31fbe248g3266g45f6g93aag4343ba85619a" version="1">Githyanki</content>
   <content contentuid="hff7d712eg7428g47eeg9e96gd46aaacb513a" version="1">Bereitet den Erwachsenen Albträume...</content>
+  <content contentuid="h6a42bf08g3015g4f2bg8e2eg17349a87bf67" version="1">Goldzwerg</content>
+  <content contentuid="h9f52298cg422dg42f8gba1aga6e7998ee2d8" version="1">Halb-Ork</content>
   <content contentuid="hbc2c7eb3g8231g4acfga0dfgc41c6479a222" version="1">Vorbote Aasimar</content>
   <content contentuid="h49e0c12bgcb29g4e08gba71gbf22575b44db" version="1">Vorboten-Risse 01</content>
   <content contentuid="h31cfed91g510ag437fg9c46ge47790078953" version="1">Vorboten-Risse 02</content>
@@ -64,11 +74,16 @@
   <content contentuid="h398c4381gf9a4g4669g9298g86941fa5a3e8" version="1">Erbe - Vorbote</content>
   <content contentuid="h0ed0e90eg8f21g43ddga7e4gf0388dadf1c2" version="1">Erbe - Beschützer</content>
   <content contentuid="h2bbb96a6gc8d1g4625g9566gdf83cf99b56b" version="1">Erbe - Geißel</content>
+  <content contentuid="h4ec8cc29gace1g45b9g9fbbg07a6f571d272" version="1">Hochelfen</content>
+  <content contentuid="h66b827f7gfb29g4375gb7edg9febd019cbad" version="1">Hoher Halbelf</content>
+  <content contentuid="hc6c0ff98g22ddg42fega326g916b051f4292" version="1">Mensch</content>
   <content contentuid="h4b81dc11g4843g4382g8c82g3862c4ffc694" version="1">Lathanders Ruhm - Gefallen</content>
   <content contentuid="hdba7799bgb21fg46dbga9c3ga676429ff793" version="1">Lathanders Ruhm - Vorbote</content>
   <content contentuid="h116aac52g5bafg4474g8f35g0bcbbc4eb340" version="1">Lathanders Ruhm - Beschützer</content>
   <content contentuid="h614fcc6dg670ag4442g92bdgcc369e909ff9" version="1">Lathanders Ruhm - Geißel</content>
   <content contentuid="h91c77b28g130fg46d8g806ag05f230b564aa" version="1">Level 10 Flügel: DEBUGGEN</content>
+  <content contentuid="h4de11dd0g6b34g4311g86b7gf2bb0e0781e9" version="1">Leichtfuß-Halbling</content>
+  <content contentuid="h191ca130g29eeg4a88ga485g037351a85e8f" version="1">Lolth-geschworener Nachtelf</content>
   <content contentuid="he0025637gff81g4533gbf11ge84057fcce0d" version="1">Mantel des Beschützers</content>
   <content contentuid="hecf071a6g399dg4a6cgbf4eg422d9bc3473f" version="1">Mantel der Beschützer-Aura</content>
   <content contentuid="h095f9fbeg7213g4ee2ga944g2b25d36b82d7" version="1">Markieren Sie Ladung</content>
@@ -76,12 +91,14 @@
   <content contentuid="h6316b9a1ga8c3g46e0gb652g1b21eefb8015" version="1">Zeichen des Vorboten</content>
   <content contentuid="hc63dd4b1g50f6g4064gad21gb2a5c8e0b84e" version="1">Zeichen des Beschützers</content>
   <content contentuid="h989f2ecage565g4e72ga2c5g81e1d3f265dc" version="1">Malzeichen der Geißel</content>
+  <content contentuid="h2365dd3dg200dg455cga7ecgf5ae8a4be255" version="1">Mephistopheles Tiefling</content>
   <content contentuid="hdd002048ge382g467aga7feg473c03ebaa8a" version="1">Nekrotische Resistenz</content>
   <content contentuid="hdd751efdg7b9ag49a7g9ce3g23eba4d17245" version="1">Nekrotische Seele</content>
   <content contentuid="h8dad7039g3b15g46eaga1c9g2e4f822984e4" version="1">Never See - Fallen</content>
   <content contentuid="hfdf2f328gd1e2g4dbfga801g9ea68aeeb741" version="1">Niemals sehen - Vorbote</content>
   <content contentuid="h548e4fcfg99f8g48cdg8b4fg294669e3990c" version="1">Nie sehen - Protector</content>
   <content contentuid="h478c625eg59eeg4467ga0c6gb5d15a95a8b8" version="1">Niemals sehen - Geißel</content>
+  <content contentuid="h9bddd57cg9523g41cfg9e5dga95267e2bc72" version="1">Kein Rennen</content>
   <content contentuid="hd02a1981gf6adg4cd9gaf8dgba586ab1d878" version="1">Einmal pro Spielzug kannst du deine himmlische Kraft herbeirufen, um bei einem erfolgreichen Angriff eine zusätzliche [1] zu verursachen.</content>
   <content contentuid="h6455bc6fgd4b1g4b89g8ab9g2541a7df15f4" version="1">Einmal pro Spielzug kannst du deine himmlische Kraft herbeirufen, um bei einem erfolgreichen Angriff eine zusätzliche [1] zu verursachen.</content>
   <content contentuid="h40b7ecf5g8c44g4839g8725g2765a68414bb" version="1">Einmal pro Spielzug kannst du deine himmlische Kraft herbeirufen, um bei einem erfolgreichen Angriff zusätzlichen Schaden zu verursachen.</content>
@@ -101,6 +118,7 @@
   <content contentuid="h794e5c6fg17d0g4b7eg894dgad4573a18d8a" version="1">Strahlende Seelenladung</content>
   <content contentuid="hcd11fdefg5b27g44a3g99b6g2fde6935890c" version="3">Als Vorbote des reinen Bösen erzogen, widerstand dieser Aasimar der Gehirnwäsche durch eine Gruppe stiller Kultisten. Sie durchstreifte das Land zur Erlösung, die sie schließlich fand, als Mahnwache wiedergeboren wurde und ihre himmlische Stimme wiedererlangte.</content>
   <content contentuid="h443a44b2ge90ag411dg8a55g797715a13836" version="1">Kehre von deiner himmlischen Gestalt zurück.</content>
+  <content contentuid="h29fe4064g8cecg41b9gaa12g1d2204f9489e" version="1">Felszwerg</content>
   <content contentuid="h91a77d44gefbeg4cd4g82b4g4ef0a77fc0f9" version="1">Geißel Aasimar</content>
   <content contentuid="h15662ff8ga9ddg410bg8f01g14dc297f6666" version="1">Geißel-Risse 01</content>
   <content contentuid="hd8c0d07cgb938g469fg85e8ge5db112507fc" version="1">Geißel-Risse 02</content>
@@ -108,7 +126,9 @@
   <content contentuid="h3ec4a2a3g317fg46fegb3d0gd317f9d2162c" version="1">Geißel-Risse 04</content>
   <content contentuid="heeb6f2a9g8cd7g4d6dg825bg34fa1163104a" version="1">Geißel-Risse 05</content>
   <content contentuid="h569caffbg702bg49bfg80a4g8ba95c121625" version="1">Geißelrisse von Engels</content>
+  <content contentuid="h9c3b126fg253fg45f3g8fadg55c373c90062" version="1">Seldarine Nachtelf</content>
   <content contentuid="h9e096080g26fbg47a4ga4a2gdca471643942" version="1">SELF: DEBUGGEN</content>
+  <content contentuid="h30d738b5gd06ag4147g93a7g62b2f79cd2b7" version="1">Schild-Zwerg</content>
   <content contentuid="h096f9074g47bag4578g8473gd26d1cf2b204" version="1">Meridian des Sündenfressers - Gefallen von Dissidia</content>
   <content contentuid="h1fd6410egb326g4e96gae6eg88ab417400ef" version="1">Meridian des Sündenfressers - Vorbote von Dissidia</content>
   <content contentuid="hc6d45875g5285g47e2gb6b4g9b248dd2ab28" version="1">Meridian des Sündenfressers - Beschützer von Dissidia</content>
@@ -117,17 +137,42 @@
   <content contentuid="hf2fd68ecg5b71g4b5agb57ag162cd9b553de" version="1">Sternenlicht - Vorbote</content>
   <content contentuid="h0dcda976gb52fg44d6g80a3gfe41621bdfc6" version="1">Starlight - Beschützer</content>
   <content contentuid="h433b8200g9944g4d1egb127g062bb89ddaae" version="1">Sternenlicht - Geißel</content>
+  <content contentuid="hc3c8bbf6gc4a4g43f0g96a0g817541fe24c0" version="1">Starkherz-Halbling</content>
   <content contentuid="h8cae7f98g879dg4967g9a22ge121f7804c56" version="1">Flug nehmen</content>
   <content contentuid="h2b6ea711g322ag4652g9229g8e4e86cb26fc" version="1">ZIEL: DEBUGGEN</content>
   <content contentuid="h32d42a8fg2f00g4c7eg8f6bgefdf60a2b9fe" version="1">Die Häufigkeit, mit der Sie eine Markierung platzieren können.</content>
   <content contentuid="h117b0532gb0f1g4fefg89c8g931e23013963" version="1">Der glühende Schild...</content>
   <content contentuid="hf969b80bge4a6g48f4gba52gc45f4861a1f7" version="1">Der Sündenfresser verdunkelt deine Tür...</content>
   <content contentuid="hb9cf9239g6903g4805g9078g991396c2a9b6" version="1">Entfessle die Dunkelheit im Inneren. Du erhältst Flug und am Ende jeder Runde müssen andere Kreaturen innerhalb von 10 Metern von dir, die sehen können, dass du erfolgreich bist, einen &lt;LSTag Tooltip="SavingThrow"&gt;Charisma-Rettungswurf&lt;/LSTag&gt; machen oder bis zum Ende deiner nächsten Runde &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Angst vor&lt;/LSTag&gt; dir haben. Füge einem Ziel einmal pro Zug zusätzlich [1] zu, wenn du ihm mit einem Angriff oder einem Zauberspruch Schaden zufügst.</content>
+  <content contentuid="h9b9e92f6gd283g4451ga181gb1c142bc326f" version="1">Wer auch immer du im Leben warst, hast du längst vergessen.</content>
   <content contentuid="hd9e16e71gcc98g40f7g8a5fg7701452ea08d" version="1">FLÜGEL-FÄHIGKEITEN: DEBUGGEN</content>
   <content contentuid="hfbcc0df1g829dg489fga7a1g19e7a45b9521" version="1">Flügel der Gefallenen</content>
   <content contentuid="he7b798c6g8b46g4806g8472gd9b7912f7e6c" version="1">Flügel des Vorboten</content>
   <content contentuid="h5b712fcdg285dg4077g800dg91447da2f552" version="1">Flügel des Beschützers</content>
   <content contentuid="h56d3999fg5af0g49fbgac25g0950ced60a5f" version="1">Flügel der Geißel</content>
+  <content contentuid="h753a983cg709cg43f0g815cg63c03f0e588f" version="1">Wald Elf</content>
+  <content contentuid="h33275fb7gfdb2g4bceg85deg6a1c2f6f4dd3" version="1">Wald Halbelf</content>
+  <content contentuid="h2e6b16a8g8059g4a4egaa45g3cf88ae37f2e" version="1">Du bist ein tiefer Gnom.</content>
+  <content contentuid="h43c9ba38gddcbg4aa4g9c45gcf432fa5ab97" version="1">Ihr seid ein Nacht-Halbelf.</content>
+  <content contentuid="hebebd08ag2915g46feg8e60gc713bb2a5a20" version="1">Du bist ein Duergar.</content>
+  <content contentuid="hdb77487fg8c87g44d5gaed9gc8589800da28" version="1">Du bist ein Waldzwerg.</content>
+  <content contentuid="h81a0b681g7462g4fe6ga71bg3e3511285279" version="1">Du bist ein Githyanki.</content>
+  <content contentuid="h7d207a61g3691g4f1cgbe39gade20706f5eb" version="1">Du bist ein Goldzwerg.</content>
+  <content contentuid="h9679b22dga6edg4058g92d8g866a6528dec2" version="1">Ihr seid ein Halbork.</content>
+  <content contentuid="h36763cafg53c8g4187gb89fgb7b7123ce4ef" version="1">Ihr seid ein Hochelfen.</content>
+  <content contentuid="h86248c82g1cfcg4cccgb43dgfed8b9e57251" version="1">Ihr seid ein Hoher Halbelf.</content>
+  <content contentuid="hc532cd44g9d67g4353g9e00g2a0f365a091a" version="1">Du bist ein Mensch.</content>
+  <content contentuid="ha1939ab7g6f6dg4737gb8c5g1499a80f9a84" version="1">Du bist ein Leichtfuß-Halbling.</content>
+  <content contentuid="h111223f0g2f34g4f8cgb63cg7d494b086afa" version="1">Ihr seid ein Lolth-geschworener Nachtelf.</content>
+  <content contentuid="hb5356683gcce8g4cc2gae98g402ff028bc09" version="1">Du bist ein Mephistopheles Tiefling.</content>
+  <content contentuid="h57b0fee0g9426g42f7ga74fgb82be37fdb10" version="1">Du bist ein Felszwerg.</content>
+  <content contentuid="h35529508g49e7g4d5dgb1e6ga78d328d8d1e" version="1">Ihr seid ein Seldarine Nachtelf.</content>
+  <content contentuid="ha99b4072gdbf4g47bcgb562g6ac197f4b206" version="1">Du bist ein Schildzwerg.</content>
+  <content contentuid="h45317b7ag340fg4cc5g83c3g1e55fbfc7ac6" version="1">Ihr seid ein Starkherz-Halbling.</content>
+  <content contentuid="hce99a233g8b66g440fgbe4dg9af6832fed99" version="1">Du bist ein Waldelf.</content>
+  <content contentuid="hf0e51193gbe5bg437dg856bgbbbaefad5aa5" version="1">Du bist ein Wald Halbelf</content>
+  <content contentuid="hd1149647g2ba7g48f5g83acg0afb2cd2334e" version="1">Du bist ein Zariel Tiefling.</content>
+  <content contentuid="h9ad091baga205g44afgb49dg26aa743f215f" version="1">Du bist ein Asmodeus Tiefling.</content>
   <content contentuid="hf56e0913g958dg4440ga621geb78d06cc2bd" version="1">Du blutest.</content>
   <content contentuid="hb6b05e7cgcdbeg425fg9b85g2ea5e38dce5b" version="1">Du bist durch eine Wache gesegnet, die [3] verringerten Schaden erleidet, wenn du das nächste Mal verletzt wirst.</content>
   <content contentuid="h392e18deg8ee0g422dg980dgca8c21ac5577" version="1">Du wirst durch Angriffe tiefer verletzt.</content>
@@ -145,4 +190,5 @@
   <content contentuid="h4ef10c0fgfb8bg48bfgb7b5g6912cfa35da9" version="1">Sie können [1] nehmen, um sich selbst oder einen Verbündeten zu schützen. Wenn das abgewehrte Ziel unter die Hälfte seiner Gesamtgesundheit gebracht wird, erhält &lt;LSTag Type="Status" Tooltip="TRIPS_MARK_EXANIMATE"&gt;es zwei Runden lang Exanimats Ruhm&lt;/LSTag&gt;.</content>
   <content contentuid="h9ea2caadgf8bag4269ga137gdc14e611491b" version="1">Dein Bedürfnis, andere zu beschützen, manifestiert sich als göttliche Macht. Du erhältst Flug und am Ende jeder Runde gewinnst du und Verbündete innerhalb von 10 Metern um dich herum [2]. Füge einmal pro Spielzug einem gewählten Ziel einen zusätzlichen [1] zu, wenn du mit einem Angriff oder Zauberspruch triffst.</content>
   <content contentuid="hd64be7f7g8461g4eabg8a46g81eefbbfb8e5" version="1">Dein gerechter Zorn kocht über. Du erhältst Flug, wirfst helles Licht in einem Radius von 10 Fuß und am Ende deines Zuges nimmst du und jede gegnerische Kreatur im Umkreis von 10 Metern um dich herum [1]. Einmal pro Spielzug füge einem gewählten Ziel eine zusätzliche [1] zu, wenn du es mit einem Angriff oder einem Zauberspruch triffst.</content>
+  <content contentuid="hc40a07c0g5d38g43a8g8915g80c4376b6c2f" version="1">Zariel Tiefling</content>
 </contentList>

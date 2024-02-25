@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hb4630702gc61eg46fdgb2b8gdefb2fb061b1" version="1">Shadow Blade</content>
+	<content contentuid="hb4630702gc61eg46fdgb2b8gdefb2fb061b2" version="1">You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 2d8 psychic damage on a hit and has the finesse, light, and thrown properties (range 20/60).
+    
+    In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hb4630702gc61eg46fdgb2b8gdefb2fb061b3" version="1">Expertise: Stealth</content>
+	<content contentuid="hb4630702gc61eg46fdgb2b8gdefb2fb061b4" version="1">&lt;LSTag Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; with stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;</content>
+	<content contentuid="hb4630702gc61eg46fdgb2b8gdefb2fb061b5" version="1">Rogue Expertise: pick 2 skills to gain +2 with skill checks</content>
+	<content contentuid="hb4630702gc61eg46fdgb2b8gdefb2fb061b6" version="1">Rogue Expertise: pick 2 skills to gain +2 with skill checks</content>
+	<content contentuid="hg5836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Assassin</content>
+	<content contentuid="hg5936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.</content>
+	<content contentuid="hg6036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Soulknife</content>
+	<content contentuid="hg6136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">A Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work.</content>
+	<content contentuid="hg6236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Phantom</content>
+	<content contentuid="hg6336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts.</content>
+	<content contentuid="hg6436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Blades</content>
+	<content contentuid="hg6536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whenever you take the Attack action, you can &lt;LSTag Type="Spell" Tooltip="Shout_Summon_Psychic_Blades"&gt;manifest a Psychic Blade&lt;/LSTag&gt; from your free hand and make the &lt;LSTag Type="Spell" Tooltip="Target_Psychic_Blades_BonusAttack_Melee"&gt;attack&lt;/LSTag&gt; with that blade. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.</content>
+	<content contentuid="hg6636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Scout</content>
+	<content contentuid="hg6736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter – these are just a few of the roles that Scouts assume as they range the world.</content>
+	<content contentuid="hg6836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Swashbuckler</content>
+	<content contentuid="hg6936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype</content>
+	<content contentuid="hg7036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Inquisitive</content>
+	<content contentuid="hg7136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your sharp eye make you well equipped to expose and end hidden evils</content>
+	<content contentuid="hg7236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Mastermind</content>
+	<content contentuid="hg7336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.</content>
+	<content contentuid="hg7436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Scroll of Choose Your Cantrips</content>
+	<content contentuid="hg7536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Consuming the knowledge within the scroll allows any character to learn different &lt;LSTag Tooltip="Cantrip"&gt;Cantrips&lt;/LSTag&gt;.</content>
+	<content contentuid="hg7636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Steady Aim</content>
+	<content contentuid="hg7736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; on the current turn.</content>
+	<content contentuid="hg7836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Blindsense</content>
+	<content contentuid="hg7936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">If you are able to hear a &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Hidden&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; creature within [1] of you, you are aware of their Location.</content>
+	<content contentuid="hg8036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Slippery Mind</content>
+	<content contentuid="hg8136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="hg8236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Elusive</content>
+	<content contentuid="hg8336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">No &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against you while you aren't &lt;LSTag Type="Status" Tooltip="INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt;.</content>
+	<content contentuid="hg8436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Stroke of Luck</content>
+	<content contentuid="hg8536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">If your attack misses a target within range, you can turn the miss into a hit. Once you use this feature, you can't use it again until you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;</content>
+	<content contentuid="hg8636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Stroke of Luck</content>
+	<content contentuid="hg8736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">If you fail an ability &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;, you can treat the d20 roll as a 20. Once you use this feature, you can't use it again until you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="hg8836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Steady Aim</content>
+	<content contentuid="hg8936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You give yourself &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; on the current turn.</content>
+	<content contentuid="hg9036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Movement Blocked</content>
+	<content contentuid="hg9136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Movement Blocked for one turn</content>
+	<content contentuid="hg9236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Stroke of Luck</content>
+	<content contentuid="hg9336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">If your attack misses a target within range, you can turn the miss into a hit. 
+
+Also, if you fail an ability &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;, you can treat the d20 roll as a 20. Once you use this feature, you can't use it again until you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="hg9436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Steady Aim</content>
+	<content contentuid="hg9536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You give yourself &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; on the current turn.</content>
+	<content contentuid="hg9636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Versatile Trickster</content>
+	<content contentuid="hg9736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You may distract targets with your &lt;LSTag Type="Spell" Tooltip="MageHandLegerdemain"&gt;Mage Hand&lt;/LSTag&gt;. Designate a creature within [1] of the spectral hand created by the spell. Doing so gives you &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on attack rolls against that creature until the end of the turn.</content>
+	<content contentuid="hg9836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Magical Ambush</content>
+	<content contentuid="hg9936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">If you are hidden from a creature when you cast a spell on it, the creature has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on any saving throw it makes against the spell this turn.</content>
+	<content contentuid="hg1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Magical Ambush Target</content>
+	<content contentuid="hg1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">This creature has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on its saving throws.</content>
+	<content contentuid="hg7436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You have summmoned your Mage Hand Legerdemain</content>
+	<content contentuid="hg1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your Mage Hand can pick up items and open locks</content>
+	<content contentuid="hg1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">This item has been targeted by Mage Hand Legerdemain</content>
+	<content contentuid="hg1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">The Arcane Trickster can use a ability to steal it and place it into their inventory</content>
+	<content contentuid="hg1056871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Magic Ambush</content>
+	<content contentuid="hg1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">The Rogue is &lt;LSTag Type="HIDING" Tooltip=""&gt;hidden&lt;/LSTag&gt; from this creature. When the rogue casts a spell on it, the creature has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on any saving throw it makes against the spell this turn</content>
+	<content contentuid="hg1076871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Summon Mage Hand</content>
+	<content contentuid="hg1086871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Picklocks</content>
+	<content contentuid="hg1096871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Use your Mage Hand Legerdemain to pick locks</content>
+	<content contentuid="hg1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Target item for pickup</content>
+	<content contentuid="hg1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your MageHand Legerdemain uses this spell to target an item, then the rogue can pickup the item</content>
+	<content contentuid="hg1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Pickup Item</content>
+	<content contentuid="hg11236871g90b2g4f18gab29g0a0a8f3fbdc" version="1">Once your Mage Hand Legerdemain has targeted an item you can pick it up and add to your inventory</content>
+	<content contentuid="hg1136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Teleport Mage Hand</content>
+	<content contentuid="hg1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Target Help Attack</content>
+	<content contentuid="hg1156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Select an enemy within 5 feet. The next attack against this creature will be at advantage</content>
+	<content contentuid="hg1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Use Magic Device |Not implemented|</content>
+	<content contentuid="hg1176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You ignore all class, race, and level requirements on the use of magic items.</content>
+	<content contentuid="hg1186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Thiefs Reflexes</content>
+	<content contentuid="hg1196871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content>
+	<content contentuid="hg1206871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Imposter</content>
+	<content contentuid="hg1216871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on any Deception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; you make to avoid detection.</content>
+	<content contentuid="hg1226871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Death Strike</content>
+	<content contentuid="hg1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you attack and hit a creature that is &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;, it must make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On a failed save, double the damage of your attack against the creature.</content>
+	<content contentuid="hg1246871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Death Strike</content>
+	<content contentuid="hg1256871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Target a creature that is &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;. It must make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On a failed save, double the damage of your attack against the creature.</content>
+	<content contentuid="hg1266871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Fancy Footwork</content>
+	<content contentuid="hg1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">During your turn, if you make a melee attack against a creature, moving away won't provoke an &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attack&lt;/LSTag&gt;.</content>
+	<content contentuid="hg1286871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Rakish Audacity: Initiative</content>
+	<content contentuid="hg1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can give yourself a bonus to your initiative rolls equal to your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;</content>
+	<content contentuid="hg1306871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Rakish Audacity</content>
+	<content contentuid="hg1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You don't need &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the attack roll to use your &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.</content>
+	<content contentuid="hg1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Panache</content>
+	<content contentuid="hg1336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your charming air grants you a certain &lt;LSTag Type="Spell" Tooltip="Target_Panache"&gt;Panache&lt;/LSTag&gt;.</content>
+	<content contentuid="hh5548970g49d4g4d9agb7bfg50ce6a8c581f" version="1">Elegant Maneuver</content>
+	<content contentuid="hh5636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; on your turn to gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next Acrobatics or Athletics &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; you make during the same turn.</content>
+	<content contentuid="hh57c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Elegant Maneuver</content>
+	<content contentuid="hh5836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; on your turn to gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next Acrobatics or Athletics &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; you make during the same turn.</content>
+	<content contentuid="hh5936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Master Duelist</content>
+	<content contentuid="hh6036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">If you miss with an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you can roll it again with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Once you do so, you can't use this feature again until you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="hh6136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Fancy Footwork: Rogue</content>
+	<content contentuid="hh6236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">&lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to attack of opportunity</content>
+	<content contentuid="hh6336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Panache</content>
+	<content contentuid="hh6436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">This creature is &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;, and has disadvantage on on rolls against the beguiling rogue who charmed it.</content>
+	<content contentuid="hh6536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Elegant Maneuver</content>
+	<content contentuid="hh6636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">This creature has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Acrobatics and Athletics &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="hh6736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Panache (Hostile))</content>
+	<content contentuid="hh6836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Make a Persuasion &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; contested by a creature's Insight check. The creature must be able to hear you, and the two of you must share a language. If you succeed on the check, it has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on attack rolls against targets other than you and can't make &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; against targets other than you.</content>
+	<content contentuid="h0979425bgfff9g4314g9bd9g4ecd5abaebec" version="1">This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than [1].</content>
+	<content contentuid="hh6936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Panache (Friendly)</content>
+	<content contentuid="hh7036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Make a Persuasion &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; contested by a creature's Insight check. The creature must be able to hear you, and the two of you must share a language. If you succeed on the check, it is &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; by you for 1 minute. While charmed, it regards you as a friendly acquaintance.</content>
+	<content contentuid="hh7136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Elegant Maneuver</content>
+	<content contentuid="hh7236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next Acrobatics and Athletics &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; you make this turn.</content>
+	<content contentuid="hh7336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Blades</content>
+	<content contentuid="hh7436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whenever you take the Attack action, you can &lt;LSTag Type="Spell" Tooltip="Shout_Summon_Psychic_Blades"&gt;manifest a Psychic Blade&lt;/LSTag&gt; from your free hand and make the &lt;LSTag Type="Spell" Tooltip="Target_Psychic_Blades_BonusAttack_Melee"&gt;attack&lt;/LSTag&gt; with that blade. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.</content>
+	<content contentuid="hh7536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Throw Psychic Blades</content>
+	<content contentuid="hh7636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psi-Bolstered Knack</content>
+	<content contentuid="hh7736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You may expend a &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt; to add its result to skill and ability checks for the duration of the spell.</content>
+	<content contentuid="hh7836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psi-Bolstered Knack</content>
+	<content contentuid="hh7936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You may expend a &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt; to add its result to skill and ability checks for the duration of the spell.</content>
+	<content contentuid="hh8036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psi-Bolstered Knack</content>
+	<content contentuid="hh8136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You may expend a &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt; to add its result to skill and ability checks for the duration of the spell.</content>
+	<content contentuid="hh8236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Whispers</content>
+	<content contentuid="hh8336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Choose one or more creatures you can see, up to a number of creatures equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, and then roll one &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt;. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. The first time you use this power after each long rest, you don't expend the Psionic Energy die. All other times you use the power, you expend the die.</content>
+	<content contentuid="hh8436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Blades Bonus Attack</content>
+	<content contentuid="hh8536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">After you  &lt;LSTag Type="Spell" Tooltip="Target_Psychic_Blades_BonusAttack_Melee"&gt;attack&lt;/LSTag&gt; with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it.</content>
+	<content contentuid="hh8636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Soul Blades</content>
+	<content contentuid="hh8736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You gain the &lt;LSTag Type="Spell" Tooltip="Projectile_SoulBlades_Teleport"&gt;Soul Blades&lt;/LSTag&gt; feature.</content>
+	<content contentuid="hh8836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">SoulBlades: Homing Strike</content>
+	<content contentuid="hh8936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You gain the &lt;LSTag Type="Spell" Tooltip="Interupt_HomingStrike"&gt;Homing Strike&lt;/LSTag&gt; feature.</content>
+	<content contentuid="hh9036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">HomingStrike</content>
+	<content contentuid="hh9136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">If you make an attack roll with your Psychic Blades and miss the target, you can roll one &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt; and add the number rolled to the attack roll. If this causes the attack to hit, you expend the Psionic Energy die.</content>
+	<content contentuid="hh9236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Veil</content>
+	<content contentuid="hh9336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can magically become &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;, along with anything you are wearing or carrying, for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature, or you force a creature to make a saving throw.</content>
+	<content contentuid="h705a0dfagd0d7g4793ga372g800c85af5154" version="1">Once you use this feature, you can't do so again until your next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, unless you expend a &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt; to use this feature again.</content>
+	<content contentuid="hh9436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Rend Mind</content>
+	<content contentuid="hh9536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you use your Psychic Blades to deal &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; damage to a creature, you can force that target to make a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. If the save fails, the target is &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stunned&lt;/LSTag&gt; for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</content>
+	<content contentuid="hh9536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Once you use this feature, you can't do so again until your next &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, unless you expend a &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt;  to use it again.</content>
+	<content contentuid="hh9636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Rend Mind: Active</content>
+	<content contentuid="hh9736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you use your Psychic Blades to deal &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; damage to a creature, you can force that target to make a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. If the save fails, the target is &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stunned&lt;/LSTag&gt; for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</content>
+	<content contentuid="hh9836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Blades</content>
+	<content contentuid="hh9936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Summon Psychic Blades</content>
+	<content contentuid="hh1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Blade Bonus Attack</content>
+	<content contentuid="hh1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Blades Bonus Attack</content>
+	<content contentuid="hh7436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psi-Bolstered Knack</content>
+	<content contentuid="hh1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Add  PsionicEnergy Die for skill &lt;LSTag Tooltip="SkillChecks"&gt;Checks&lt;/LSTag&gt; for the next minute.</content>
+	<content contentuid="hh1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">SoulBlades HomingStrike</content>
+	<content contentuid="hh1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">If you make an attack roll with your Psychic Blades and miss the target, you can roll one &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt; and add the number rolled to the attack roll. If this causes the attack to hit, you expend the Psionic Energy die.</content>
+	<content contentuid="hh1056871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Rend Mind</content>
+	<content contentuid="hh1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you use your Psychic Blades to deal &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; damage to a creature, you can force that target to make a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. If the save fails, the target is &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stunned&lt;/LSTag&gt; for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</content>
+	<content contentuid="hh1076871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Rend Mind: Target</content>
+	<content contentuid="hh1086871g90b2g4f18gab29g0a0a8f3fbdce" version="1">The Soulknife can use &lt;LSTag Type="Spell" Tooltip="Target_Rend_Mind_PsionicsDie"&gt;Rend Mind&lt;/LSTag&gt; against this target</content>
+	<content contentuid="hh1096871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Invisibility Veil</content>
+	<content contentuid="hh1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Throw Psychic Blades |Using Dexterity|</content>
+	<content contentuid="hh1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Throw Psychic Blades doing [1].</content>
+	<content contentuid="hh1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Blades Bonus Attack</content>
+	<content contentuid="hh7436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Make a bonus attack with your Psychic Blades for [1].</content>
+	<content contentuid="hh1136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Throw Psychic Blades Bonus Attack |Using Dexterity|</content>
+	<content contentuid="hh1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Throw Psychic Blades Bonus Attack doing 1d6+dex modifier in dmg, then disappear</content>
+	<content contentuid="hh1156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Summon Psychic Blades</content>
+	<content contentuid="hh1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Summon Psychic Blades. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range. On a hit, it deals psychic damage equal to [1] plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.</content>
+	<content contentuid="hh1176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Teleportation</content>
+	<content contentuid="hh1186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You manifest one of your Psychic Blades, expend one &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt; and roll it, and throw the blade at an unoccupied space you can see, up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.</content>
+	<content contentuid="hh1196871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psionic Energy Recovery</content>
+	<content contentuid="hh1206871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You regain one expended &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt;.</content>
+	<content contentuid="hh1216871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psi-Bolstered Knack</content>
+	<content contentuid="hh1226871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You may expend a &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt; to add its result to skill and ability checks for the duration of the spell.</content>
+	<content contentuid="hh1236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psychic Veil</content>
+	<content contentuid="hh1246871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can magically become &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;, along with anything you are wearing or carrying, for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature, or you force a creature to make a saving throw.</content>
+	<content contentuid="hh1256871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Dismiss Psychic Veil</content>
+	<content contentuid="hh1266871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Rend Mind</content>
+	<content contentuid="hh1276871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you use your Psychic Blades to deal &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; damage to a creature, you can force that target to make a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. If the save fails, the target is &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stunned&lt;/LSTag&gt; for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</content>
+	<content contentuid="hh1286871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead</content>
+	<content contentuid="hh1296871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Echoes of those who have died cling to you. Whenever you finish a short or long rest, you can choose one skill or tool proficiency that you lack and gain it, as a ghostly presence shares its knowledge with you. You lose this proficiency when you use this feature to choose a different proficiency that you lack."
+data "Boosts</content>
+	<content contentuid="hh1306871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Wails of the Grave</content>
+	<content contentuid="hh1316871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Immediately after you deal your &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; damage to a creature on your turn, you can target a second creature that you can see within [1] of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes necrotic damage equal to the roll total.</content>
+	<content contentuid="hh1326871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Tokens of the Departed</content>
+	<content contentuid="hh1336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">As a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; when a creature you can see dies within [1] of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. You can have a maximum number of soul trinkets equal to your proficiency bonus.
+
+While a soul trinket is on your person, you have advantage on death saving throws and Constitution saving throws.
+When you deal Sneak Attack damage on your turn, you can destroy one of your soul trinkets that's on your person and then immediately use Wails from the Grave, without expending a use of that feature.
+As an action, you can destroy one of your soul trinkets. When you do so, you can ask the spirit associated with the trinket one question.</content>
+	<content contentuid="hh1346871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Ear for Deceit</content>
+	<content contentuid="hh1356871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whenever you make an Insight &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to determine whether a creature is lying, treat a roll of 7 or lower on the d20 as an 8.</content>
+	<content contentuid="hh1366871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Eye for Detail</content>
+	<content contentuid="hh1376871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can make a Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to spot a hidden creature or object or an Investigation check to uncover or decipher clues.</content>
+	<content contentuid="hh1386871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Insightful Fighting</content>
+	<content contentuid="hh1396871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can make an Insight &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; against a creature you can see that isn’t &lt;LSTag Type="Status" Tooltip="INCAPACITATED_DND"&gt;Incapacitated&lt;/LSTag&gt;. If you succeed, you can use your &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; against that target even if you don't have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the attack roll, but not if you have disadvantage on it.</content>
+	<content contentuid="hh1406871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Steady Eye</content>
+	<content contentuid="hh1416871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on any Perception or &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; check if you move no more than half your speed on the same turn.</content>
+	<content contentuid="hh1426871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Unerring Eye</content>
+	<content contentuid="hh1436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You may sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within [1] of you, provided you aren't &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; or deafened. You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature.</content>
+	<content contentuid="hh1446871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Insightful Fighting: Target</content>
+	<content contentuid="hh1456871g90b2g4f18gab29g0a0a8f3fbdce" version="1">An Inquisitive Rogue can use a &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; against you even if they don't have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the attack roll, but not if they have disadvantage on it.</content>
+	<content contentuid="hh1466871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Insightful Fighting: Rogue</content>
+	<content contentuid="hh1476871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can use your &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; against that target even if you don't have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the attack roll, but not if you have disadvantage on it.</content>
+	<content contentuid="hh1486871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Insightful Fighting</content>
+	<content contentuid="hh1496871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can make an Insight &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; against a creature you can see that isn’t &lt;LSTag Type="Status" Tooltip="INCAPACITATED_DND"&gt;Incapacitated&lt;/LSTag&gt;. If you succeed, you can use your &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; against that target even if you don't have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the attack roll, but not if you have disadvantage on it.</content>
+	<content contentuid="hh1506871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Non rogue Create Tokens</content>
+	<content contentuid="hh1516871g90b2g4f18gab29g0a0a8f3fbdce" version="1">If another character kills you gain a token</content>
+	<content contentuid="hh1526871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Token: Advantage in Constitution SavingThrows</content>
+	<content contentuid="hh1536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Token in inventory: advantage on constitutional saving throws</content>
+	<content contentuid="hh1546871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Token: Advantage on Death SavingThrows</content>
+	<content contentuid="hh1556871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Advantage on death saving throws</content>
+	<content contentuid="hh1566871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Destroy token</content>
+	<content contentuid="hh1576871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Ghost Walk</content>
+	<content contentuid="hh1586871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You assume a spectral form. While in this form, you have a flying speed of [1], you can hover, and attack rolls have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; against you. You can also move through creatures and objects as if they were difficult terrain, but you take [2] if you end your turn inside a creature or an object.</content>
+	<content contentuid="hh1596871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Death Knell</content>
+	<content contentuid="hh1606871g90b2g4f18gab29g0a0a8f3fbdce" version="1">At 17th level, your association with death has become so close that you gain the following benefits: When you use your Wails from the Grave, you can now deal the necrotic damage to both the first and the second creature. At the end of a long rest, a soul trinket appears in your hand if you don't have any soul trinkets, as the spirits of the dead are drawn to you.</content>
+	<content contentuid="hh1616871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Acrobatics</content>
+	<content contentuid="hh1626871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: AnimalHandling</content>
+	<content contentuid="hh1646871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1656871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Arcana</content>
+	<content contentuid="hh1666871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1676871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Athletics</content>
+	<content contentuid="hh1686871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1696871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Deception</content>
+	<content contentuid="hh1706871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1716871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: History</content>
+	<content contentuid="hh1726871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Insight</content>
+	<content contentuid="hh1746871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1756871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Intimidation</content>
+	<content contentuid="hh1766871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1776871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Investigation</content>
+	<content contentuid="hh1786871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1796871g90b2g4f18gab29g0a0a8f3fbdce" version="1">"Whispers of the Dead: Medicine</content>
+	<content contentuid="hh1806871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1816871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Nature</content>
+	<content contentuid="hh1826871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Perception</content>
+	<content contentuid="hh1846871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: gain this ability until you perform a full rest</content>
+	<content contentuid="hh1856871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Performance</content>
+	<content contentuid="hh1866871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Persuasion</content>
+	<content contentuid="hh1876871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Religion</content>
+	<content contentuid="hh1886871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: SleightOfHand</content>
+	<content contentuid="hh1896871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Stealth</content>
+	<content contentuid="hh1906871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Survival</content>
+	<content contentuid="hh1916871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Tokens of the Departed</content>
+	<content contentuid="hh1926871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Tokens of the Departed</content>
+	<content contentuid="hh1936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Token in Inventory</content>
+	<content contentuid="hh1946871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Aura that the token spreads</content>
+	<content contentuid="hh1956871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Token: advantage on death saves</content>
+	<content contentuid="hh1966871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Ghost Walk</content>
+	<content contentuid="hh1976871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You assume a spectral form. While in this form, you have a flying speed of [1], you can hover, and attack rolls have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; against you. You can also move through creatures and objects as if they were difficult terrain, but you take [2] if you end your turn inside a creature or an object.</content>
+	<content contentuid="hh1986871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Wails of the Grave: Free Attack</content>
+	<content contentuid="hh1996871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Immediately after you deal your &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; damage to a creature on your turn, you can target a second creature that you can see within [1] of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes necrotic damage equal to the roll total, as wails of the dead sound around them for a moment.</content>
+	<content contentuid="hh2006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Use this against the original target.</content>
+	<content contentuid="hh2016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead</content>
+	<content contentuid="hh2026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Echoes of those who have died cling to you. Whenever you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, you can choose one skill or tool &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; that you lack and gain it, as a ghostly presence shares its knowledge with you.</content>
+	<content contentuid="hh2036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Echoes of those who have died cling to you. Whenever you finish a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, you can choose one skill or tool &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; that you lack and gain it, as a ghostly presence shares its knowledge with you.</content>
+	<content contentuid="hh2046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Acrobatics</content>
+	<content contentuid="hh20506871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Animal Handling</content>
+	<content contentuid="hh2066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Arcana</content>
+	<content contentuid="hh2076871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Athletics</content>
+	<content contentuid="hh2086871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Deception</content>
+	<content contentuid="hh2096871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: History</content>
+	<content contentuid="hh2106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Insight</content>
+	<content contentuid="hh2116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Intimidation</content>
+	<content contentuid="hh2126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Investigation</content>
+	<content contentuid="hh2136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Medicine</content>
+	<content contentuid="hh2146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Nature</content>
+	<content contentuid="hh2156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Perception</content>
+	<content contentuid="hh2166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Performance</content>
+	<content contentuid="hh2176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Persuasion</content>
+	<content contentuid="hh2186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Religion</content>
+	<content contentuid="hh2196871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Sleight of Hand</content>
+	<content contentuid="hh2206871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Stealth</content>
+	<content contentuid="hh2216871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers of the Dead: Survival</content>
+	<content contentuid="hh2226871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Replenish Wails</content>
+	<content contentuid="hh2236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">A free action to add one use of &lt;LSTag Type="ActionResource" Tooltip="WailsFromTheGrave"&gt;Wails from the Grave&lt;/LSTag&gt;</content>
+	<content contentuid="hh2246871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Speak With Soul</content>
+	<content contentuid="hi5548970g49d4g4d9agb7bfg50ce6a8c581f" version="1">Gain benefits of the &lt;LSTag Type="Spell" Tooltip="Shout_SpeakWithDead"&gt;Speak with Dead&lt;/LSTag&gt; spell.</content>
+	<content contentuid="hi5636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Ghost Walk</content>
+	<content contentuid="hi57c268ag49b0g48cbgaf37g76cec2369e9e" version="1">You assume a spectral form. While in this form, you have a flying speed of [1], you can hover, and attack rolls have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; against you. You can also move through creatures and objects as if they were difficult terrain, but you take [2] if you end your turn inside a creature or an object.</content>
+	<content contentuid="hi5836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Dismiss Ghost Walk</content>
+	<content contentuid="hi5936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Use Ghost Walk to move around the battlefield</content>
+	<content contentuid="hi6036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Skirmisher</content>
+	<content contentuid="hi6136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You may use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to move up to half your speed when an enemy ends its turn within [1] of you. This movement doesn’t provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+	<content contentuid="hi6236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Survivalist</content>
+	<content contentuid="hi6336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You gain proficiency in the Nature and Survival &lt;LSTag Tooltip="Skill"&gt;Skills&lt;/LSTag&gt; if you don't already have it. Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is doubled for any ability &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; you make that uses either of those proficiencies.</content>
+	<content contentuid="hi6436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Superior Mobility</content>
+	<content contentuid="hi6536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">At 9th level, your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases by [1] feet.</content>
+	<content contentuid="hi6636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Ambush Master</content>
+	<content contentuid="hi6736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on initiative rolls. In addition, you and others have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; when striking the first creature you hit during the first round of combat.</content>
+	<content contentuid="hi6836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Sudden Strike</content>
+	<content contentuid="hi6936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When you make an attack on your turn, you can make one additional attack as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;. This attack can benefit from your &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.</content>
+	<content contentuid="hi7036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Sneak Attack Sudden Strike</content>
+	<content contentuid="hi7136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Skirmisher</content>
+	<content contentuid="hi7236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You may use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to move up to half your speed when an enemy ends its turn within [1] of you. This movement doesn’t provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+	<content contentuid="hi7336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Ambush Master: Target</content>
+	<content contentuid="hi7436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Scout Sudden Strike</content>
+	<content contentuid="hi7536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Scout Sudden Strike: attack</content>
+	<content contentuid="hi7636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Master of Intrigue</content>
+	<content contentuid="hi7736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You  understand the intricacies of a good disguise, and know &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt;.</content>
+	<content contentuid="hi7836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Master of Tactics</content>
+	<content contentuid="hi7936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can use the &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Help&lt;/LSTag&gt; action as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt;. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within [1] of you, rather than 2[] of you, if the target can see or hear you.</content>
+	<content contentuid="hi8036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Insightful Manipulator</content>
+	<content contentuid="hi8136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in Insight.</content>
+	<content contentuid="hi8236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Misdirection</content>
+	<content contentuid="hi8336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">When a hostile creature attacks you with a Melee Attack, it has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on its &lt;LSTag Tooltip="AttackRolls"&gt;Attack Rolls&lt;/LSTag&gt; for two turns or until it makes an attack.</content>
+	<content contentuid="hi8436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Soul of Deceit</content>
+	<content contentuid="hi8536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in Deception.</content>
+	<content contentuid="hi8636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Help Ability Check</content>
+	<content contentuid="hi8736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Any ally is helping you giving you &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your ability &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;</content>
+	<content contentuid="hi8836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Help Attack</content>
+	<content contentuid="hi8936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">The next attack made againt this creature will have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;</content>
+	<content contentuid="hi9036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Misdirection</content>
+	<content contentuid="hi9136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Chosen to be the target of the &lt;LSTag Type="Spell" Tooltip="Target_Mastermind_Misdirection"&gt;Misdirection&lt;/LSTag&gt; feature.</content>
+	<content contentuid="hi9236871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Soul of Deceit</content>
+	<content contentuid="hi9336871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You have &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to characters reading your thoughts and being &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;</content>
+	<content contentuid="hi9436871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Mastermind Help</content>
+	<content contentuid="hi9536871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Target Help Ability</content>
+	<content contentuid="hi9636871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Help an ally by giving them &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on ability &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; for 6 seconds</content>
+	<content contentuid="hi9736871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Target Help Attack</content>
+	<content contentuid="hi9836871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Select an enemy within [1]. The next attack against this creature will be at &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;</content>
+	<content contentuid="hi9936871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Choose a creature that would be attacked by a hostile creature after their melee attack against you misses.</content>
+	<content contentuid="hi1006871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Wails from the Grave</content>
+	<content contentuid="hi1016871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psionic Energy</content>
+	<content contentuid="hi1026871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Psionic Energy Recovery</content>
+	<content contentuid="hi1036871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Whispers Of The Dead</content>
+	<content contentuid="hi1046871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Distract Enemy</content>
+	<content contentuid="hi1056871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Your Mage Hand can distract an enemy so the next attack by your ally has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hi1066871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Requires a token in your inventory to use this ability</content>
+	<content contentuid="hi1076871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Eye for Weakness</content>
+	<content contentuid="hi1086871g90b2g4f18gab29g0a0a8f3fbdce" version="1">While your Insightful Fighting feature is applied to a creature, your &lt;LSTag Type="Spell" Tooltip="Target_SneakAttack"&gt;Sneak Attack&lt;/LSTag&gt; damage against that creature increases by [1].</content>
+	<content contentuid="hi1096871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Misdirected Target</content>
+	<content contentuid="hi1106871g90b2g4f18gab29g0a0a8f3fbdce" version="1">This character has been misdirected by a Mastermind Rogue and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on rolls for two turns or until it makes an attack.</content>
+	<content contentuid="hi1116871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Token of the Departed.</content>
+	<content contentuid="hi1126871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You can use soul trinkets in the following ways:
+While a soul trinket is on your person, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on death saving throws and Constitution saving throws, for your vitality is enhanced by the life essence within the object.
+You can consume a Token and either add a Wails of The Grave resource or Use &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;Speak with Dead&lt;/LSTag&gt;.</content>
+	<content contentuid="hi1136871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Wails from The Grave - Use against original target.</content>
+	<content contentuid="hi1146871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Summon Tokens of the Departed</content>
+	<content contentuid="hi1156871g90b2g4f18gab29g0a0a8f3fbdce" version="1">You have been near when an enemy has died. You can summon a token. This power lasts until a long rest or until a &lt;LSTag Type="Spell" Tooltip="Shout_SummonTokens"&gt;Token&lt;/LSTag&gt;. is summoned.</content>
+	<content contentuid="hi1166871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Tokens of the Departed</content>
+	<content contentuid="hi1176871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Resource required to summon &lt;LSTag Type="Spell" Tooltip="Shout_SummonTokens"&gt;Tokens of the Departed&lt;/LSTag&gt;.</content>
+	<content contentuid="hi1186871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Homing Strikes</content>
+	<content contentuid="hi1196871g90b2g4f18gab29g0a0a8f3fbdce" version="1">If you make an attack roll with your &lt;LSTag Type="Spell" Tooltip="Projectile_Psychic_Blades"&gt;Psychic Blades&lt;/LSTag&gt; and miss the target, you can roll one &lt;LSTag Type="ActionResource" Tooltip="PsionicEnergy"&gt;Psionic Energy Die&lt;/LSTag&gt; and add the number rolled to the attack roll. If this causes the attack to hit, you expend the Psionic Energy die.</content>
+	<content contentuid="hi1206871g90b2g4f18gab29g0a0a8f3fbdce" version="1">Starting at 3rd level, you can use the Help action as a bonus action. Additionally, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than 5 feet of you, if the target can see or hear you.</content>
+</contentList>

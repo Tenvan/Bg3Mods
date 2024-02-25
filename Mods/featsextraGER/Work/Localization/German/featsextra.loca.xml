@@ -1,14 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
   <!-- Translated Texts, ordered by origin text -->
-  <content contentuid="lz1386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
-  <content contentuid="lz1396871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
-  <content contentuid="lz1406871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
-  <content contentuid="lz1416871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
-  <content contentuid="lz1426871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
-  <content contentuid="lz1436871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
-  <content contentuid="lz1446871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
-  <content contentuid="lz1456871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
   <content contentuid="lz1466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
   <content contentuid="lz1476871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
   <content contentuid="lz1486871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
@@ -93,6 +85,7 @@
   <content contentuid="lz1086871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Absorbiert Elementarschaden einmal pro &lt;LSTag Tooltip="LongRest"&gt;Lange Pause&lt;/LSTag&gt;. Erleidet die Hälfte Schaden durch den nächsten Elementarangriff, der auf Euch abzielt, und fügt bei Eurem nächsten Angriff zusätzlich [1] dieses Elementtyps zu.</content>
   <content contentuid="hg72c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Vorteil Rettungswurf Gift</content>
   <content contentuid="lz1066871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Magieschmied-Initiator</content>
+  <content contentuid="lz1456871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Als freies Action-Ende "Bewölkte Flucht"</content>
   <content contentuid="lz1186871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Im Rahmen einer &lt;LSTag Tooltip="ShortRest"&gt;Kurzen Rast&lt;/LSTag&gt; kannst du spezielle Speisen kochen, sofern du Zutaten und Kochutensilien zur Hand hast. Du kannst genug von dieser Nahrung für eine Anzahl von Kreaturen zubereiten, die 4 + deinem &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeits Bonus&lt;/LSTag&gt; entspricht. Am Ende der &lt;LSTag Tooltip="ShortRest"&gt;Langen Rast&lt;/LSTag&gt; erhält jede Kreatur, die das Futter frisst und einen oder mehrere Trefferwürfel ausgibt, um Trefferpunkte zurückzugewinnen, einen zusätzlichen Trefferpunkt.</content>
   <content contentuid="lz1336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Großzügiges Glück</content>
   <content contentuid="lz1306871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Großzügiges Glück genutzt</content>
@@ -101,6 +94,7 @@
   <content contentuid="lz1156871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Chefkoch</content>
   <content contentuid="lz1236871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Vom Küchenchef zubereitete Spezialkost</content>
   <content contentuid="lz1256871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Vom Küchenchef zubereitete besondere Leckereien</content>
+  <content contentuid="lz1416871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bewölkte Flucht</content>
   <content contentuid="lz1176871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Spezielles Essen kochen</content>
   <content contentuid="lz1196871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Kochen Sie besondere Leckereien</content>
   <content contentuid="lz1376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Armbrust-Experte</content>
@@ -118,6 +112,7 @@
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3635" version="1">Elfengenauigkeit: Geschicklichkeit</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7747" version="1">Elfengenauigkeit: Intelligenz</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7749" version="1">Elfengenauigkeit: Weisheit</content>
+  <content contentuid="lz1446871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bewölkte Flucht beenden</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7766" version="1">Jedermanns Freund </content>
   <content contentuid="lz1096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Abklingen</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3637" version="1">Feuer-Aura</content>
@@ -125,6 +120,7 @@
   <content contentuid="hg75c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Flammen des Phlegethos: Charisma</content>
   <content contentuid="hg74c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Flammen des Phlegethos: Intelligenz</content>
   <content contentuid="hc10671e2g30e8g4c86gb988ga9a234b4c0b5" version="1">Konzentriere dich darauf, dich zu verteidigen und eingehende Angriffe zu vermeiden. Angriffe gegen dich werden bis zum Beginn deines nächsten Zuges mit Nachteil ausgeführt.</content>
+  <content contentuid="lz1396871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">List des Wolkenriesen</content>
   <content contentuid="lz1346871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Kanonier</content>
   <content contentuid="hg85c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Bei schwachem Licht hat man einen Vorteil bei Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;checks&lt;/LSTag&gt;.</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3641" version="1">Erhöhe einen &lt;LSTag Tooltip="AbilityScore"&gt;Fähigkeitswert&lt;/LSTag&gt; deiner Wahl um 1, bis zu einem Maximum von 20. Du erlangst die Beherrschung einer &lt;LSTag Tooltip="Proficiency"&gt;Fertigkeit&lt;/LSTag&gt; deiner Wahl.
@@ -232,6 +228,7 @@ Immer wenn du einen Zauber wirkst, der Feuerschaden verursacht, kannst du dich i
 
 Aus deinen Fingerspitzen können einziehbare Krallen wachsen. Die Klauen sind natürliche Waffen, mit denen du &lt;LSTag Type="Spell" Tooltip="Target_DragonHide_Melee"&gt;unbewaffnete Schläge&lt;/LSTag&gt; ausführen kannst.</content>
   <content contentuid="lz1116871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bemerkenswerte Erholung </content>
+  <content contentuid="lz1386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Vergifter-Kits entfernen</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7757" version="1">Resistenz Kälte</content>
   <content contentuid="hff81d1fdg0b49g4e93gb796g9f68623b7755" version="1">Resistenz Gift</content>
   <content contentuid="lz1006871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Zweite Chance</content>
@@ -239,8 +236,16 @@ Aus deinen Fingerspitzen können einziehbare Krallen wachsen. Die Klauen sind na
   <content contentuid="hg68c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Schleicher</content>
   <content contentuid="hg80c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Schleicher</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3644" version="1">Schleicher</content>
-  <content contentuid="hg84c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Schleicher-Talent: Ausblenden</content>
+  <content contentuid="hg84c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Schleicher-Talent: Verstecken</content>
   <content contentuid="hg82c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Schleicher-Talent: Fernkampf</content>
+  <content contentuid="lz1406871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Quelle: Bigby Presents - Ruhm der Giganten
+
+Vorraussetzung: 4. Stufe, Fähigkeit "Schlag der Giganten" (Wolkenschlag)
+
+Du hast die verwirrende Magie der Wolkenriesen manifestiert, die dir die folgenden Vorteile gewährt:
+
+Fähigkeitswertsteigerung. Erhöhe deine &lt;LSTag Tooltip=" Strength"&gt;Stärke&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Konstitution&lt;/LSTag&gt; oder &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; Punkte um 1, bis zu einem Maximum von 20.
+Bewölktes Entkommen. Wenn dich eine Kreatur, die du sehen kannst, mit einem &lt;LSTag Tooltip="AttackRoll"&gt;Angriffswurf&lt;/LSTag&gt; trifft, kannst du deine &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaktion&lt;/LSTag&gt; einsetzen, um dir Widerstand gegen den Schaden dieses Angriffs zu verleihen. Dann teleportierst du dich in einen unbesetzten Raum, den du im Umkreis von 30 Fuß um dich herum sehen kannst. Du kannst diese &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaktion&lt;/LSTag&gt; so oft einsetzen, wie es deinem Fertigkeitsbonus entspricht, und du erhältst alle verbrauchten Einsätze zurück, wenn du eine &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendet hast.</content>
   <content contentuid="lz1356871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Quelle: Tasha's Cauldron of Everything
 
 Du hast eine schnelle Hand und ein scharfes Auge im Umgang mit Schusswaffen, was dir die folgenden Vorteile verschafft:
@@ -269,6 +274,7 @@ Mit einer Stunde Arbeit oder wenn du eine &lt;LSTag Tooltip="LongRest" &gt;Lange
   <content contentuid="lz1276871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Verwenden Sie diese Version von &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt; und dann wird die Vollversion des Zaubers freigeschaltet.</content>
   <content contentuid="hg57c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Waffen, die mit  Nachtelf Attentäter Gift überzogen sind, verursachen für einen Zeitraum von einer Minute zusätzlichen 1W6 Giftschaden.</content>
   <content contentuid="hg60c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Waffen, die mit magischem Nachtelf Attentäter Gift  beschichtet sind, verursachen über einen Zeitraum von einer Minute 1W6 zusätzlichen Schaden durch NEKROTISCHES Gift.</content>
+  <content contentuid="lz1436871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Wenn eine Kreatur, die du sehen kannst, dich mit einem Angriffswurf trifft, kannst du deine Reaktion nutzen, um dir selbst Widerstand gegen den Schaden dieses Angriffs zu geben. Dann teleportierst du dich zu einem unbewohnten Raum, den du innerhalb von 30 Fuß von dir sehen kannst.</content>
   <content contentuid="lz1246871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Wenn der Charakter verbraucht wird und eine kurze Pause einlegt, erhält er 1W8 zusätzliche Trefferpunkte zurück.</content>
   <content contentuid="hg83c268ag49b0g48cbgaf37g76cec2369e9e" version="1">Wenn du vor einer Kreatur versteckt bist und sie mit einem &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Fernkampfwaffenangriff verfehlst&lt;/LSTag&gt;, verrät dein Angriff deine Position nicht.</content>
   <content contentuid="lz1046871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Wenn du mit einem &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;Nahkampfwaffenangriff triffst&lt;/LSTag&gt;, verursache du zusätzlich [1]</content>
@@ -280,6 +286,7 @@ Mit einer Stunde Arbeit oder wenn du eine &lt;LSTag Tooltip="LongRest" &gt;Lange
   <content contentuid="lz1206871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Mit einer Stunde Arbeit oder wenn du eine &lt;LSTag Tooltip="LongRest"&gt;Lange Rast&lt;/LSTag&gt; beendest, kannst du eine Anzahl von Leckereien zubereiten, die deinem &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeit Bonus&lt;/LSTag&gt; entspricht. Diese besonderen Leckereien halten 8 Stunden nach ihrer Herstellung. Eine Kreatur kann eine &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonusaktion&lt;/LSTag&gt; benutzen, um eine dieser Leckereien zu essen, um &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporäre Trefferpunkte&lt;/LSTag&gt; in Höhe deines &lt;LSTag Tooltip="ProficiencyBonus"&gt;Fertigkeits Bonus&lt;/LSTag&gt; zu erhalten.</content>
   <content contentuid="5fea8060-c9b5-4efd-a13e-38216ce76656" version="1">Magie der Waldelfen</content>
   <content contentuid="5fea8060c9b54efda13e38216ce76659" version="1">Du kannst dir einziehbare Krallen aus den Fingerspitzen wachsen lassen. Die Klauen sind natürliche Waffen, mit denen du &lt;LSTag Type="Spell" Tooltip="Target_DragonHide_Melee"&gt;Unbewaffnete Schläge&lt;/LSTag&gt; ausführen kannst.</content>
+  <content contentuid="lz1426871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Du kannst dich zu einem unbewohnten Raum teleportieren, den du im Umkreis von 10 Metern sehen kannst.</content>
   <content contentuid="h3d607cc2g0131g477cgbd6bg89eb004a3645" version="1">Du kannst versuchen, dich zu verstecken, wenn du nur &lt;LSTag Type="Status" Tooltip="SNEAKING_LIGHTLY_OBSCURED"&gt;Leicht verdeckt&lt;/LSTag&gt; bist.
 
 Wenn du vor einer Kreatur verborgen bist und sie mit einem &lt;LSTag Tooltip="RangedWeaponAttack"&gt;Fernwaffenangriff&lt;/LSTag&gt; verfehlst, verrät dein Angriff deine Position nicht.

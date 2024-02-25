@@ -228,4 +228,107 @@ When you use this ability, you can't use your Lucky racial trait before the end 
   <content contentuid="lz1316871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">When you use this ability, you can't use your Lucky racial trait before the end of your next turn</content>
   <content contentuid="lz1326871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bountiful Luck: SavingThrow</content>
   <content contentuid="lz1336871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Bountiful Luck</content>
-</contentList>
+ <content contentuid="lz1346871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Gunner</content>
+ <content contentuid="lz1356871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Source: Tasha's Cauldron of Everything
+
+You have a quick hand and keen eye when employing firearms, granting you the following benefits:
+Increase your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; score by 1, to a maximum of 20.
+You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with firearms.
+You ignore the loading property of firearms.
+Being within 5 feet of a hostile creature doesn't impose &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on your ranged &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1366871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Toggle on to remove &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; from making a ranged spell attack whilst in melee combat |Toggle on to use &lt;LSTag Tooltip="MeleeSpellAttack"&gt;Melee Spell Attack&lt;/LSTag&gt; roll instead of &lt;LSTag Tooltip="RangedSpellAttack"&gt;Ranged Spell Attack&lt;/LSTag&gt; roll | </content>
+ <content contentuid="lz1376871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Crossbow Expert</content>
+ <content contentuid="lz1386871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Remove Poisoner Kits</content>
+ <content contentuid="lz1396871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Guile of the Cloud Giant</content>
+ <content contentuid="lz1406871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Source: Bigby Presents - Glory of the Giants
+
+Prerequisite: 4th Level, Strike of the Giants (Cloud Strike) Feat
+
+You’ve manifested the confounding magic emblematic of cloud giants, granting you the following benefits:
+
+Ability Score Increase. Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;, or &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; score by 1, to a maximum of 20.
+Cloudy Escape. When a creature you can see hits you with an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to give yourself resistance to that attack’s damage. You then teleport to an unoccupied space that you can see within 30 feet of yourself. You can use this &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+ <content contentuid="lz1416871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">Cloudy Escape</content>
+ <content contentuid="lz1426871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">You can teleport to an unoccupied space that you can see within 10 metres.</content>
+ <content contentuid="lz1436871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">When a creature you can see hits you with an attack roll you can use your reaction to give yourself resistance to that attack’s damage. You then teleport to an unoccupied space that you can see within 30 feet of yourself.</content>
+ <content contentuid="lz1446871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">End Cloudy Escape</content>
+ <content contentuid="lz1456871g90b2g4f18gab29g0a0a8f3fbdcf" version="1">As a free action end Cloudy Escape</content>
+ <content contentuid="lz1466871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1476871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1486871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1496871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1506871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1516871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1526871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1536871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1546871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1556871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1566871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1576871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1586871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1596871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1606871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1616871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1626871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1636871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1646871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1656871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1666871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1676871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1686871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1696871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1706871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1716871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1726871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1736871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1746871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1756871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1766871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1776871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1786871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1796871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1806871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1816871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1826871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1836871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1846871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1856871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1866871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1876871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1886871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1896871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1906871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1916871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1926871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1936871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1946871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1956871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1966871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1976871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1986871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz1996871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2006871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2016871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2026871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2036871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2046871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz20506871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2066871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2076871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2086871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2096871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2106871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2116871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2126871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2136871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2146871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2156871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2166871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2176871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2186871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2196871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2206871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2216871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2236871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ <content contentuid="lz2246871g90b2g4f18gab29g0a0a8f3fbdcf" version="1"></content>
+ </contentList>
